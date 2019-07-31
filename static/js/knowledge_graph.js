@@ -72,7 +72,7 @@ d3.json("/static/json/" + filename, function(error, graph) {
             return d.count;
         })
         .attr("fill", function(d) {
-            return color(d.count);
+            return color(Math.round(d.count));
         })
         .call(d3.drag()
             .on("start", dragstarted)
@@ -161,7 +161,15 @@ function zoomed() {
 
 function addNodeCounts(graph, dict) {
     //Add count of each node
+    if(graph.links.length > 1000){
+      normalize_size = Math.ceil(graph.links.length/1000)
+    }
+    else{
+      normalize_size = 1
+    }
+
     for (var i = 0; i < graph.links.length; i++) {
+
         //console.log(graph.links[i].target)
         target = graph.links[i].target
         source = graph.links[i].source
@@ -176,12 +184,12 @@ function addNodeCounts(graph, dict) {
             dict[source] = 1
         }
     }
-    console.log(dict)
+    console.log(normalize_size)
 
     for (var i = 0; i < graph.nodes.length; i++) {
         node = graph.nodes[i].id
         if (node in dict) {
-            graph.nodes[i]["count"] = dict[node] + 2
+            graph.nodes[i]["count"] = dict[node]/normalize_size + 2
         } else {
             graph.nodes[i]["count"] = 2
         }

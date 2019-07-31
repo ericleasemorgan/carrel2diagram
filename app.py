@@ -48,12 +48,14 @@ CORS(app, resources={r'/ping': {'origins': '*'}})
 
 @app.route('/',methods = ['POST', 'GET'])
 def home():
+    #return render_template('layouts/home.html')
     if request.method == 'POST':
-        result = request.form
+        result = request.form['jsonlist']
         print(result)
-        return render_template('pages/placeholder.home.html', json_name = 'graph3.json')
+        json_name = result + ".json"
+        return render_template('pages/placeholder.home.html', json_name = json_name)
 
-    return render_template('pages/placeholder.home.html', json_name = 'graph6.json')
+    return render_template('pages/placeholder.home.html', json_name = 'homer.json')
 
 
 @app.route('/about')
