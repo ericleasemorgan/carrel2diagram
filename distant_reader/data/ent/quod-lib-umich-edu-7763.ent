@@ -1,0 +1,372 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-7763	1	1	Method	PERSON
+quod-lib-umich-edu-7763	1	2	Improving Library Information Literacy Teaching	ORG
+quod-lib-umich-edu-7763	1	3	Data Skip	PERSON
+quod-lib-umich-edu-7763	1	4	Skip	PERSON
+quod-lib-umich-edu-7763	1	5	Skip	PERSON
+quod-lib-umich-edu-7763	1	6	Journal of Library User Experience	ORG
+quod-lib-umich-edu-7763	1	7	Library User	PERSON
+quod-lib-umich-edu-7763	1	8	Michigan Publishing	ORG
+quod-lib-umich-edu-7763	2	1	Quick	ORG
+quod-lib-umich-edu-7763	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-7763	3	1	2	CARDINAL
+quod-lib-umich-edu-7763	3	2	Improving Library Information Literacy Teaching	ORG
+quod-lib-umich-edu-7763	3	3	Catherine Baird	PERSON
+quod-lib-umich-edu-7763	3	4	Tiffany Soares	ORG
+quod-lib-umich-edu-7763	3	5	UNIVERSITY Skip	ORG
+quod-lib-umich-edu-7763	3	6	DOI	ORG
+quod-lib-umich-edu-7763	3	7	1	CARDINAL
+quod-lib-umich-edu-7763	3	8	2018	DATE
+quod-lib-umich-edu-7763	3	9	DOI	ORG
+quod-lib-umich-edu-7763	3	10	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-7763	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-7763	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-7763	6	1	Reddit Mendeley	PERSON
+quod-lib-umich-edu-7763	6	2	Weave	PERSON
+quod-lib-umich-edu-7763	7	1	NC	GPE
+quod-lib-umich-edu-7763	9	1	users’	ORG
+quod-lib-umich-edu-7763	11	1	IRB	ORG
+quod-lib-umich-edu-7763	13	1	one	CARDINAL
+quod-lib-umich-edu-7763	13	2	this month’s	DATE
+quod-lib-umich-edu-7763	17	1	two	CARDINAL
+quod-lib-umich-edu-7763	19	1	two	CARDINAL
+quod-lib-umich-edu-7763	26	1	one	CARDINAL
+quod-lib-umich-edu-7763	27	1	Montclair State University	ORG
+quod-lib-umich-edu-7763	27	2	each month	DATE
+quod-lib-umich-edu-7763	30	1	one	CARDINAL
+quod-lib-umich-edu-7763	31	1	hours	TIME
+quod-lib-umich-edu-7763	35	1	Montclair State University	ORG
+quod-lib-umich-edu-7763	37	1	Literature Review User	ORG
+quod-lib-umich-edu-7763	39	1	The Association of College and Research Libraries	ORG
+quod-lib-umich-edu-7763	39	2	2015	DATE
+quod-lib-umich-edu-7763	40	1	students’	CARDINAL
+quod-lib-umich-edu-7763	40	2	Holman	GPE
+quod-lib-umich-edu-7763	40	3	2011	DATE
+quod-lib-umich-edu-7763	40	4	Porter	PERSON
+quod-lib-umich-edu-7763	40	5	2011	DATE
+quod-lib-umich-edu-7763	40	6	Bloom & Deyrup	ORG
+quod-lib-umich-edu-7763	40	7	2015	DATE
+quod-lib-umich-edu-7763	40	8	Valentine & West	ORG
+quod-lib-umich-edu-7763	40	9	2016	DATE
+quod-lib-umich-edu-7763	40	10	Finder, Dent, & Lym	ORG
+quod-lib-umich-edu-7763	40	11	2006	DATE
+quod-lib-umich-edu-7763	40	12	Dalal	PERSON
+quod-lib-umich-edu-7763	40	13	Kimura & Hofmann	ORG
+quod-lib-umich-edu-7763	40	14	2015	DATE
+quod-lib-umich-edu-7763	43	1	Lee	PERSON
+quod-lib-umich-edu-7763	43	2	2008	DATE
+quod-lib-umich-edu-7763	43	3	Head & Eisenberg	ORG
+quod-lib-umich-edu-7763	43	4	2009	DATE
+quod-lib-umich-edu-7763	43	5	Duke & Asher	ORG
+quod-lib-umich-edu-7763	43	6	2012	DATE
+quod-lib-umich-edu-7763	43	7	Thomas, Tewell, & Wilson	ORG
+quod-lib-umich-edu-7763	43	8	2017	DATE
+quod-lib-umich-edu-7763	43	9	Finder	PERSON
+quod-lib-umich-edu-7763	43	10	& Lym	PRODUCT
+quod-lib-umich-edu-7763	43	11	2006	DATE
+quod-lib-umich-edu-7763	45	1	Janyk	ORG
+quod-lib-umich-edu-7763	45	2	2014	DATE
+quod-lib-umich-edu-7763	45	3	Google	ORG
+quod-lib-umich-edu-7763	47	1	Janyk	ORG
+quod-lib-umich-edu-7763	48	1	Graves & Ruppel	ORG
+quod-lib-umich-edu-7763	48	2	2007	DATE
+quod-lib-umich-edu-7763	49	1	2002	DATE
+quod-lib-umich-edu-7763	49	2	Vassiliadis & Stimatz	ORG
+quod-lib-umich-edu-7763	50	1	Bury & Oud	ORG
+quod-lib-umich-edu-7763	50	2	2005	DATE
+quod-lib-umich-edu-7763	50	3	Bowles-Terry	ORG
+quod-lib-umich-edu-7763	50	4	Hensley & Hinchliffe	ORG
+quod-lib-umich-edu-7763	50	5	2010	DATE
+quod-lib-umich-edu-7763	50	6	Lindsay	PERSON
+quod-lib-umich-edu-7763	50	7	Cummings	ORG
+quod-lib-umich-edu-7763	50	8	Johnson & Scales	ORG
+quod-lib-umich-edu-7763	50	9	2006	DATE
+quod-lib-umich-edu-7763	51	1	Novotny & Cahoy	ORG
+quod-lib-umich-edu-7763	51	2	2006	DATE
+quod-lib-umich-edu-7763	51	3	Castonguay	ORG
+quod-lib-umich-edu-7763	51	4	2008	DATE
+quod-lib-umich-edu-7763	51	5	Lee & Snajdr	PERSON
+quod-lib-umich-edu-7763	51	6	2015	DATE
+quod-lib-umich-edu-7763	54	1	Turner	ORG
+quod-lib-umich-edu-7763	54	2	2011	DATE
+quod-lib-umich-edu-7763	54	3	Valentine & West’s	ORG
+quod-lib-umich-edu-7763	54	4	2016	DATE
+quod-lib-umich-edu-7763	55	1	Turner	ORG
+quod-lib-umich-edu-7763	57	1	Valentine & West	ORG
+quod-lib-umich-edu-7763	57	2	2016	DATE
+quod-lib-umich-edu-7763	57	3	192	CARDINAL
+quod-lib-umich-edu-7763	60	1	UX	ORG
+quod-lib-umich-edu-7763	65	1	an Institutional Review Board	ORG
+quod-lib-umich-edu-7763	65	2	IRB	ORG
+quod-lib-umich-edu-7763	65	3	22 months	DATE
+quod-lib-umich-edu-7763	65	4	between March 2015	DATE
+quod-lib-umich-edu-7763	65	5	December 2016	DATE
+quod-lib-umich-edu-7763	65	6	IRB	ORG
+quod-lib-umich-edu-7763	67	1	IRB	ORG
+quod-lib-umich-edu-7763	68	1	IRB	ORG
+quod-lib-umich-edu-7763	70	1	IRB	ORG
+quod-lib-umich-edu-7763	71	1	Data Collection	ORG
+quod-lib-umich-edu-7763	71	2	three	CARDINAL
+quod-lib-umich-edu-7763	72	1	six	CARDINAL
+quod-lib-umich-edu-7763	72	2	Access Services, Reference & Instruction	ORG
+quod-lib-umich-edu-7763	73	1	Half	CARDINAL
+quod-lib-umich-edu-7763	75	1	One	CARDINAL
+quod-lib-umich-edu-7763	76	1	month	DATE
+quod-lib-umich-edu-7763	77	1	month	DATE
+quod-lib-umich-edu-7763	77	2	month	DATE
+quod-lib-umich-edu-7763	79	1	the library hours	TIME
+quod-lib-umich-edu-7763	81	1	users’	ORG
+quod-lib-umich-edu-7763	84	1	33	CARDINAL
+quod-lib-umich-edu-7763	84	2	30 minutes	TIME
+quod-lib-umich-edu-7763	87	1	firsthand	ORDINAL
+quod-lib-umich-edu-7763	89	1	a few seconds	TIME
+quod-lib-umich-edu-7763	90	1	90-120 minutes	TIME
+quod-lib-umich-edu-7763	90	2	30-minute	QUANTITY
+quod-lib-umich-edu-7763	93	1	10-15	CARDINAL
+quod-lib-umich-edu-7763	95	1	Transcript 1, Transcript 2	LAW
+quod-lib-umich-edu-7763	96	1	I1	GPE
+quod-lib-umich-edu-7763	96	2	second	ORDINAL
+quod-lib-umich-edu-7763	96	3	10	MONEY
+quod-lib-umich-edu-7763	96	4	2016	DATE
+quod-lib-umich-edu-7763	107	1	Software	ORG
+quod-lib-umich-edu-7763	109	1	NVivo	PERSON
+quod-lib-umich-edu-7763	110	1	NVivo	PERSON
+quod-lib-umich-edu-7763	112	1	NVivo	PERSON
+quod-lib-umich-edu-7763	113	1	NVivo	PERSON
+quod-lib-umich-edu-7763	114	1	NVivo	PERSON
+quod-lib-umich-edu-7763	115	1	a few hundred dollars	MONEY
+quod-lib-umich-edu-7763	116	1	monthly	DATE
+quod-lib-umich-edu-7763	117	1	Dedoose	PERSON
+quod-lib-umich-edu-7763	118	1	NVivo	PERSON
+quod-lib-umich-edu-7763	122	1	2	CARDINAL
+quod-lib-umich-edu-7763	125	1	the few hours	TIME
+quod-lib-umich-edu-7763	126	1	NVivo	PERSON
+quod-lib-umich-edu-7763	129	1	NVivo Cases	ORG
+quod-lib-umich-edu-7763	129	2	NVivo	PERSON
+quod-lib-umich-edu-7763	129	3	participants’	GPE
+quod-lib-umich-edu-7763	133	1	one	CARDINAL
+quod-lib-umich-edu-7763	134	1	IRB	ORG
+quod-lib-umich-edu-7763	138	1	NVivo	PERSON
+quod-lib-umich-edu-7763	140	1	Themes	ORG
+quod-lib-umich-edu-7763	142	1	first	ORDINAL
+quod-lib-umich-edu-7763	144	1	one	CARDINAL
+quod-lib-umich-edu-7763	145	1	two	CARDINAL
+quod-lib-umich-edu-7763	147	1	two	CARDINAL
+quod-lib-umich-edu-7763	150	1	Time	ORG
+quod-lib-umich-edu-7763	151	1	Time	ORG
+quod-lib-umich-edu-7763	152	1	Time	ORG
+quod-lib-umich-edu-7763	152	2	Time	ORG
+quod-lib-umich-edu-7763	157	1	60–90 minutes	TIME
+quod-lib-umich-edu-7763	158	1	every few years	DATE
+quod-lib-umich-edu-7763	159	1	Descriptive Coding	ORG
+quod-lib-umich-edu-7763	168	1	Sample Participant Codes PtSt115	ORG
+quod-lib-umich-edu-7763	168	2	2015	DATE
+quod-lib-umich-edu-7763	168	3	2015	DATE
+quod-lib-umich-edu-7763	168	4	PtSt3316	ORG
+quod-lib-umich-edu-7763	168	5	2016	DATE
+quod-lib-umich-edu-7763	171	1	Sample Descriptive Website Location Codes	ORG
+quod-lib-umich-edu-7763	171	2	Hours	TIME
+quod-lib-umich-edu-7763	171	3	EDS Search Journals	ORG
+quod-lib-umich-edu-7763	171	4	A-Z Search Research Guides Library Instruction	ORG
+quod-lib-umich-edu-7763	171	5	Archives Descriptive Task Codes	ORG
+quod-lib-umich-edu-7763	171	6	two	CARDINAL
+quod-lib-umich-edu-7763	171	7	Notices	NORP
+quod-lib-umich-edu-7763	172	1	three	CARDINAL
+quod-lib-umich-edu-7763	174	1	2-4	CARDINAL
+quod-lib-umich-edu-7763	174	2	1	CARDINAL
+quod-lib-umich-edu-7763	175	1	“Library Instruction	ORG
+quod-lib-umich-edu-7763	175	2	Parent Code Child Code	LAW
+quod-lib-umich-edu-7763	175	3	Child Code	LAW
+quod-lib-umich-edu-7763	175	4	2nd	ORDINAL
+quod-lib-umich-edu-7763	175	5	3rd	ORDINAL
+quod-lib-umich-edu-7763	176	1	Notices	NORP
+quod-lib-umich-edu-7763	177	1	2	CARDINAL
+quod-lib-umich-edu-7763	179	1	Notices Catalog	ORG
+quod-lib-umich-edu-7763	181	1	Aesthetic	ORG
+quod-lib-umich-edu-7763	181	2	Thematic	NORP
+quod-lib-umich-edu-7763	186	1	two	CARDINAL
+quod-lib-umich-edu-7763	186	2	Research for Learning and Research for Citing	ORG
+quod-lib-umich-edu-7763	188	1	Ryan	PERSON
+quod-lib-umich-edu-7763	188	2	Bernard	PERSON
+quod-lib-umich-edu-7763	188	3	2003	DATE
+quod-lib-umich-edu-7763	189	1	Uncovering Themes Search Mechanics	ORG
+quod-lib-umich-edu-7763	189	2	first	ORDINAL
+quod-lib-umich-edu-7763	189	3	Search Mechanics	ORG
+quod-lib-umich-edu-7763	196	1	NVivo Memo	PERSON
+quod-lib-umich-edu-7763	196	2	NVivo	PERSON
+quod-lib-umich-edu-7763	198	1	Search Mechanics	ORG
+quod-lib-umich-edu-7763	204	1	Search Mechanics	ORG
+quod-lib-umich-edu-7763	204	2	participants’	ORG
+quod-lib-umich-edu-7763	205	1	Research Guides	PERSON
+quod-lib-umich-edu-7763	208	1	one	CARDINAL
+quod-lib-umich-edu-7763	215	1	Flatness	ORG
+quod-lib-umich-edu-7763	215	2	Information Flatness	ORG
+quod-lib-umich-edu-7763	221	1	PDF	ORG
+quod-lib-umich-edu-7763	226	1	2011	DATE
+quod-lib-umich-edu-7763	227	1	Lee	PERSON
+quod-lib-umich-edu-7763	227	2	2008	DATE
+quod-lib-umich-edu-7763	227	3	217	CARDINAL
+quod-lib-umich-edu-7763	227	4	2008	DATE
+quod-lib-umich-edu-7763	227	5	217	CARDINAL
+quod-lib-umich-edu-7763	228	1	2011	DATE
+quod-lib-umich-edu-7763	228	2	Swanson & Green	ORG
+quod-lib-umich-edu-7763	229	1	227	CARDINAL
+quod-lib-umich-edu-7763	232	1	first	ORDINAL
+quod-lib-umich-edu-7763	239	1	Mayer & Anderson	ORG
+quod-lib-umich-edu-7763	239	2	1992	DATE
+quod-lib-umich-edu-7763	266	1	One	CARDINAL
+quod-lib-umich-edu-7763	271	1	fifteen	CARDINAL
+quod-lib-umich-edu-7763	273	1	months’	PERSON
+quod-lib-umich-edu-7763	274	1	each month	DATE
+quod-lib-umich-edu-7763	275	1	15-20	CARDINAL
+quod-lib-umich-edu-7763	277	1	7-10	CARDINAL
+quod-lib-umich-edu-7763	282	1	every few years	DATE
+quod-lib-umich-edu-7763	283	1	NVivo	PERSON
+quod-lib-umich-edu-7763	284	1	Montclair State University	ORG
+quod-lib-umich-edu-7763	284	2	Paul Martinez	PERSON
+quod-lib-umich-edu-7763	284	3	William Vincenti	PERSON
+quod-lib-umich-edu-7763	284	4	Darren Sweeper	ORG
+quod-lib-umich-edu-7763	284	5	Denise O’Shea	PERSON
+quod-lib-umich-edu-7763	284	6	Siobhan McCarthy References Association of College and Research Libraries	ORG
+quod-lib-umich-edu-7763	285	1	2015	DATE
+quod-lib-umich-edu-7763	287	1	Bloom	PERSON
+quod-lib-umich-edu-7763	287	2	B., & Deyrup	ORG
+quod-lib-umich-edu-7763	287	3	M. M.	PERSON
+quod-lib-umich-edu-7763	287	4	2015	DATE
+quod-lib-umich-edu-7763	288	1	SHU	ORG
+quod-lib-umich-edu-7763	288	2	Student	ORG
+quod-lib-umich-edu-7763	290	1	Bowles-Terry	ORG
+quod-lib-umich-edu-7763	290	2	Hensley	ORG
+quod-lib-umich-edu-7763	290	3	M. K.	PERSON
+quod-lib-umich-edu-7763	290	4	& Hinchliffe	PERSON
+quod-lib-umich-edu-7763	290	5	L.J.	ORG
+quod-lib-umich-edu-7763	291	1	2010	DATE
+quod-lib-umich-edu-7763	293	1	4(1	CARDINAL
+quod-lib-umich-edu-7763	294	1	S., & Oud	ORG
+quod-lib-umich-edu-7763	295	1	2005	DATE
+quod-lib-umich-edu-7763	297	1	Reference Services Review	ORG
+quod-lib-umich-edu-7763	297	2	54–65	CARDINAL
+quod-lib-umich-edu-7763	298	1	Castonguay	ORG
+quod-lib-umich-edu-7763	298	2	Remi	PERSON
+quod-lib-umich-edu-7763	299	1	2008	DATE
+quod-lib-umich-edu-7763	300	1	Journal of Web Librarianship 2(2–3	ORG
+quod-lib-umich-edu-7763	300	2	10.1080/19322900802190753	CARDINAL
+quod-lib-umich-edu-7763	300	3	Dalal	PERSON
+quod-lib-umich-edu-7763	300	4	H. A.	PERSON
+quod-lib-umich-edu-7763	300	5	Kimura	PERSON
+quod-lib-umich-edu-7763	300	6	A. K.	PERSON
+quod-lib-umich-edu-7763	300	7	Hofmann	PERSON
+quod-lib-umich-edu-7763	300	8	M. A.	PERSON
+quod-lib-umich-edu-7763	301	1	2015	DATE
+quod-lib-umich-edu-7763	303	1	Portland	GPE
+quod-lib-umich-edu-7763	304	1	L. M.	PERSON
+quod-lib-umich-edu-7763	304	2	& Asher	PERSON
+quod-lib-umich-edu-7763	304	3	A. D. (	PERSON
+quod-lib-umich-edu-7763	304	4	2012	DATE
+quod-lib-umich-edu-7763	306	1	Chicago	GPE
+quod-lib-umich-edu-7763	306	2	American Library Association	ORG
+quod-lib-umich-edu-7763	307	1	V. F.,	PERSON
+quod-lib-umich-edu-7763	307	2	B.	PERSON
+quod-lib-umich-edu-7763	308	1	2006	DATE
+quod-lib-umich-edu-7763	310	1	The Electronic Library 24(6	ORG
+quod-lib-umich-edu-7763	310	2	804–819	CARDINAL
+quod-lib-umich-edu-7763	311	1	Graves, S., & Ruppel, M. (2007	ORG
+quod-lib-umich-edu-7763	313	1	Quarterly	DATE
+quod-lib-umich-edu-7763	313	2	11(4	DATE
+quod-lib-umich-edu-7763	313	3	99–116	CARDINAL
+quod-lib-umich-edu-7763	314	1	A. J.	PERSON
+quod-lib-umich-edu-7763	314	2	& Eisenberg	ORG
+quod-lib-umich-edu-7763	314	3	M. B.	PERSON
+quod-lib-umich-edu-7763	315	1	2009	DATE
+quod-lib-umich-edu-7763	318	1	Project Information Literacy	ORG
+quod-lib-umich-edu-7763	318	2	Seattle	GPE
+quod-lib-umich-edu-7763	318	3	WA	ORG
+quod-lib-umich-edu-7763	318	4	2009	DATE
+quod-lib-umich-edu-7763	318	5	Holman	PERSON
+quod-lib-umich-edu-7763	318	6	2011	DATE
+quod-lib-umich-edu-7763	319	1	students’	PERSON
+quod-lib-umich-edu-7763	320	1	19–27	CARDINAL
+quod-lib-umich-edu-7763	321	1	Janyk	ORG
+quod-lib-umich-edu-7763	321	2	R.	NORP
+quod-lib-umich-edu-7763	321	3	2014	DATE
+quod-lib-umich-edu-7763	323	1	27(3	CARDINAL
+quod-lib-umich-edu-7763	325	1	http://doi.org/10.1629/2048-7754.166 Lee, H.	PERSON
+quod-lib-umich-edu-7763	325	2	2008	DATE
+quod-lib-umich-edu-7763	327	1	The Journal of Academic Librarianship 34(3	ORG
+quod-lib-umich-edu-7763	327	2	211	CARDINAL
+quod-lib-umich-edu-7763	328	1	Lee	PERSON
+quod-lib-umich-edu-7763	328	2	Y. Y.	PERSON
+quod-lib-umich-edu-7763	328	3	E.	PERSON
+quod-lib-umich-edu-7763	328	4	2015	DATE
+quod-lib-umich-edu-7763	329	1	students’	PERSON
+quod-lib-umich-edu-7763	330	1	https://scholarworks.iupui.edu/handle/1805/7291 Lindsay	PERSON
+quod-lib-umich-edu-7763	330	2	E. B.	PERSON
+quod-lib-umich-edu-7763	330	3	Cummings	GPE
+quod-lib-umich-edu-7763	330	4	L.	PERSON
+quod-lib-umich-edu-7763	330	5	Johnson	PERSON
+quod-lib-umich-edu-7763	330	6	C. M.,	PERSON
+quod-lib-umich-edu-7763	330	7	& Scales	FAC
+quod-lib-umich-edu-7763	330	8	B. J.	PERSON
+quod-lib-umich-edu-7763	331	1	2006	DATE
+quod-lib-umich-edu-7763	334	1	College & Research Libraries 67(5	ORG
+quod-lib-umich-edu-7763	336	1	R. E.	PERSON
+quod-lib-umich-edu-7763	336	2	& Anderson	PERSON
+quod-lib-umich-edu-7763	336	3	R. B.	PERSON
+quod-lib-umich-edu-7763	337	1	1992	DATE
+quod-lib-umich-edu-7763	339	1	4	CARDINAL
+quod-lib-umich-edu-7763	339	2	444–452	CARDINAL
+quod-lib-umich-edu-7763	340	1	Novotny	PERSON
+quod-lib-umich-edu-7763	340	2	E., & Cahoy, E. S. (2006	ORG
+quod-lib-umich-edu-7763	343	1	Academy	ORG
+quod-lib-umich-edu-7763	343	2	6(2	ORG
+quod-lib-umich-edu-7763	343	3	155–167	CARDINAL
+quod-lib-umich-edu-7763	345	1	2011	DATE
+quod-lib-umich-edu-7763	347	1	Journal of Web Librarianship	ORG
+quod-lib-umich-edu-7763	347	2	267–285	CARDINAL
+quod-lib-umich-edu-7763	348	1	Ryan	PERSON
+quod-lib-umich-edu-7763	348	2	G. W.	PERSON
+quod-lib-umich-edu-7763	348	3	& Bernard	PERSON
+quod-lib-umich-edu-7763	348	4	H. R.	PERSON
+quod-lib-umich-edu-7763	348	5	2003	DATE
+quod-lib-umich-edu-7763	351	1	85–109	CARDINAL
+quod-lib-umich-edu-7763	352	1	T. A.,	ORG
+quod-lib-umich-edu-7763	352	2	& Green	ORG
+quod-lib-umich-edu-7763	352	3	J.	PERSON
+quod-lib-umich-edu-7763	353	1	2011	DATE
+quod-lib-umich-edu-7763	355	1	The Journal of Academic Librarianship 37(3	ORG
+quod-lib-umich-edu-7763	355	2	222–229	CARDINAL
+quod-lib-umich-edu-7763	356	1	Thomas, S.,	PERSON
+quod-lib-umich-edu-7763	356	2	Tewell	GPE
+quod-lib-umich-edu-7763	356	3	E., & Willson	ORG
+quod-lib-umich-edu-7763	356	4	G.	PERSON
+quod-lib-umich-edu-7763	356	5	2017	DATE
+quod-lib-umich-edu-7763	358	1	The Journal of Academic Librarianship 43(3	ORG
+quod-lib-umich-edu-7763	359	1	Turner	PERSON
+quod-lib-umich-edu-7763	359	2	N. B.	PERSON
+quod-lib-umich-edu-7763	360	1	2011	DATE
+quod-lib-umich-edu-7763	362	1	Journal of Web Librarianship	ORG
+quod-lib-umich-edu-7763	363	1	Valentine	PERSON
+quod-lib-umich-edu-7763	363	2	B., & West	ORG
+quod-lib-umich-edu-7763	363	3	B.	GPE
+quod-lib-umich-edu-7763	364	1	2016	DATE
+quod-lib-umich-edu-7763	365	1	Primo	PERSON
+quod-lib-umich-edu-7763	366	1	Journal of Web Librarianship 10(3	ORG
+quod-lib-umich-edu-7763	366	2	176–196	DATE
+quod-lib-umich-edu-7763	367	1	Vassiliadis	GPE
+quod-lib-umich-edu-7763	367	2	K. & Stimatz	ORG
+quod-lib-umich-edu-7763	367	3	L.R.	GPE
+quod-lib-umich-edu-7763	368	1	2002	DATE
+quod-lib-umich-edu-7763	370	1	Reference Services Review	ORG
+quod-lib-umich-edu-7763	371	1	ATLAS.ti	ORG
+quod-lib-umich-edu-7763	371	2	MAXQDA	ORG
+quod-lib-umich-edu-7763	371	3	Miner	PERSON
+quod-lib-umich-edu-7763	371	4	HyperRESEARCH	PERSON
+quod-lib-umich-edu-7763	372	1	Software	ORG
+quod-lib-umich-edu-7763	372	2	Qualitative Research	ORG
+quod-lib-umich-edu-7763	372	3	2014	DATE
+quod-lib-umich-edu-7763	372	4	Lewins	PERSON
+quod-lib-umich-edu-7763	373	1	Hosted	ORG
+quod-lib-umich-edu-7763	373	2	Michigan Publishing	ORG
+quod-lib-umich-edu-7763	373	3	the University of Michigan Library	ORG
+quod-lib-umich-edu-7763	374	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-7763	374	2	Twitter Email RSS	ORG

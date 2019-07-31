@@ -1,0 +1,128 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-3815	1	1	Physically Present Patrons	ORG
+quod-lib-umich-edu-3815	1	2	Skip	PERSON
+quod-lib-umich-edu-3815	1	3	Skip	PERSON
+quod-lib-umich-edu-3815	1	4	Journal of Library User Experience	ORG
+quod-lib-umich-edu-3815	1	5	Library User	PERSON
+quod-lib-umich-edu-3815	1	6	Michigan Publishing	ORG
+quod-lib-umich-edu-3815	2	1	Quick	ORG
+quod-lib-umich-edu-3815	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-3815	3	1	2	CARDINAL
+quod-lib-umich-edu-3815	3	2	Submit	ORG
+quod-lib-umich-edu-3815	3	3	Physically Present Patrons	ORG
+quod-lib-umich-edu-3815	3	4	DOI	ORG
+quod-lib-umich-edu-3815	3	5	1	CARDINAL
+quod-lib-umich-edu-3815	3	6	DOI	ORG
+quod-lib-umich-edu-3815	3	7	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-3815	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-3815	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-3815	8	1	first	ORDINAL
+quod-lib-umich-edu-3815	9	1	only as	CARDINAL
+quod-lib-umich-edu-3815	9	2	one	CARDINAL
+quod-lib-umich-edu-3815	14	1	QR	ORG
+quod-lib-umich-edu-3815	17	1	Bluetooth	GPE
+quod-lib-umich-edu-3815	18	1	4.0	CARDINAL
+quod-lib-umich-edu-3815	18	2	Bluetooth	GPE
+quod-lib-umich-edu-3815	19	1	Bluetooth	GPE
+quod-lib-umich-edu-3815	19	2	2010	DATE
+quod-lib-umich-edu-3815	19	3	the Bluetooth Special Interest Group	ORG
+quod-lib-umich-edu-3815	19	4	4.0	CARDINAL
+quod-lib-umich-edu-3815	20	1	Bluetooth	GPE
+quod-lib-umich-edu-3815	22	1	Bluetooth	GPE
+quod-lib-umich-edu-3815	22	2	Bluetooth Low Energy	ORG
+quod-lib-umich-edu-3815	22	3	BLE	ORG
+quod-lib-umich-edu-3815	23	1	Beacons Beacons	PERSON
+quod-lib-umich-edu-3815	24	1	second	ORDINAL
+quod-lib-umich-edu-3815	25	1	31	CARDINAL
+quod-lib-umich-edu-3815	26	1	BLE	ORG
+quod-lib-umich-edu-3815	27	1	Apple	ORG
+quod-lib-umich-edu-3815	27	2	BLE	ORG
+quod-lib-umich-edu-3815	27	3	2011	DATE
+quod-lib-umich-edu-3815	27	4	first	ORDINAL
+quod-lib-umich-edu-3815	27	5	4.0	CARDINAL
+quod-lib-umich-edu-3815	27	6	Android	ORG
+quod-lib-umich-edu-3815	27	7	BLE	ORG
+quod-lib-umich-edu-3815	27	8	2013	DATE
+quod-lib-umich-edu-3815	28	1	the year	DATE
+quod-lib-umich-edu-3815	28	2	Apple	ORG
+quod-lib-umich-edu-3815	28	3	iBeacon	ORG
+quod-lib-umich-edu-3815	29	1	iBeacon	ORG
+quod-lib-umich-edu-3815	30	1	Bluetooth	GPE
+quod-lib-umich-edu-3815	31	1	iBeacon	ORG
+quod-lib-umich-edu-3815	31	2	UUID	ORG
+quod-lib-umich-edu-3815	31	3	a “Minor”	LAW
+quod-lib-umich-edu-3815	32	1	Bluetooth	GPE
+quod-lib-umich-edu-3815	32	2	3A66FECC69CA43EA9DD12774795F6ACD 1 9	TIME
+quod-lib-umich-edu-3815	32	3	32	CARDINAL
+quod-lib-umich-edu-3815	32	4	UUID	ORG
+quod-lib-umich-edu-3815	33	1	two	CARDINAL
+quod-lib-umich-edu-3815	33	2	iBeacon	ORG
+quod-lib-umich-edu-3815	35	1	Karolinska Institutet University Library	ORG
+quod-lib-umich-edu-3815	35	2	1	CARDINAL
+quod-lib-umich-edu-3815	35	3	9	CARDINAL
+quod-lib-umich-edu-3815	35	4	third	ORDINAL
+quod-lib-umich-edu-3815	36	1	iBeacon	ORG
+quod-lib-umich-edu-3815	37	1	1	CARDINAL
+quod-lib-umich-edu-3815	38	1	UUID	ORG
+quod-lib-umich-edu-3815	38	2	iOS	PERSON
+quod-lib-umich-edu-3815	38	3	one	CARDINAL
+quod-lib-umich-edu-3815	38	4	Bluetooth	GPE
+quod-lib-umich-edu-3815	41	1	day	DATE
+quod-lib-umich-edu-3815	43	1	2	CARDINAL
+quod-lib-umich-edu-3815	44	1	iBeacon	ORG
+quod-lib-umich-edu-3815	45	1	iBeacon	ORG
+quod-lib-umich-edu-3815	48	1	3	CARDINAL
+quod-lib-umich-edu-3815	50	1	iBeacon	ORG
+quod-lib-umich-edu-3815	53	1	Google	ORG
+quod-lib-umich-edu-3815	53	2	UX	ORG
+quod-lib-umich-edu-3815	53	3	Scott Jenson—	PERSON
+quod-lib-umich-edu-3815	53	4	the Physical Web	ORG
+quod-lib-umich-edu-3815	58	1	Bluetooth Low Energy	ORG
+quod-lib-umich-edu-3815	63	1	4	CARDINAL
+quod-lib-umich-edu-3815	63	2	Karolinska Institutet University Library	ORG
+quod-lib-umich-edu-3815	66	1	UriBeacon	WORK_OF_ART
+quod-lib-umich-edu-3815	66	2	GitHub	ORG
+quod-lib-umich-edu-3815	68	1	BLE	ORG
+quod-lib-umich-edu-3815	68	2	31	CARDINAL
+quod-lib-umich-edu-3815	68	3	UriBeacon	GPE
+quod-lib-umich-edu-3815	68	4	18	CARDINAL
+quod-lib-umich-edu-3815	68	5	BLE	ORG
+quod-lib-umich-edu-3815	69	1	ASCII	GPE
+quod-lib-umich-edu-3815	69	2	http://	PERSON
+quod-lib-umich-edu-3815	70	1	18	CARDINAL
+quod-lib-umich-edu-3815	70	2	50 percent	PERCENT
+quod-lib-umich-edu-3815	70	3	http://	FAC
+quod-lib-umich-edu-3815	70	4	.org	ORG
+quod-lib-umich-edu-3815	70	5	UriBeacon	ORG
+quod-lib-umich-edu-3815	71	1	BLE	ORG
+quod-lib-umich-edu-3815	71	2	0x02	CARDINAL
+quod-lib-umich-edu-3815	71	3	http://	PRODUCT
+quod-lib-umich-edu-3815	71	4	October 2014	DATE
+quod-lib-umich-edu-3815	71	5	today	DATE
+quod-lib-umich-edu-3815	75	1	Android	ORG
+quod-lib-umich-edu-3815	78	1	QR	ORG
+quod-lib-umich-edu-3815	80	1	QR	ORG
+quod-lib-umich-edu-3815	80	2	Asia	LOC
+quod-lib-umich-edu-3815	81	1	QR	ORG
+quod-lib-umich-edu-3815	81	2	QR	ORG
+quod-lib-umich-edu-3815	82	1	QR	ORG
+quod-lib-umich-edu-3815	83	1	QR	ORG
+quod-lib-umich-edu-3815	84	1	dozens	CARDINAL
+quod-lib-umich-edu-3815	88	1	Bluetooth Low Energy	ORG
+quod-lib-umich-edu-3815	89	1	Apple	ORG
+quod-lib-umich-edu-3815	89	2	iOS	PERSON
+quod-lib-umich-edu-3815	89	3	Android	ORG
+quod-lib-umich-edu-3815	91	1	iBeacon	ORG
+quod-lib-umich-edu-3815	91	2	BLE	ORG
+quod-lib-umich-edu-3815	94	1	BLE	ORG
+quod-lib-umich-edu-3815	94	2	iBeacon	ORG
+quod-lib-umich-edu-3815	94	3	UX	ORG
+quod-lib-umich-edu-3815	97	1	Physical Web	ORG
+quod-lib-umich-edu-3815	98	1	the coming years	DATE
+quod-lib-umich-edu-3815	99	1	November 2014	DATE
+quod-lib-umich-edu-3815	99	2	Samsung	ORG
+quod-lib-umich-edu-3815	99	3	Hosted	ORG
+quod-lib-umich-edu-3815	99	4	Michigan Publishing	ORG
+quod-lib-umich-edu-3815	99	5	the University of Michigan Library	ORG
+quod-lib-umich-edu-3815	100	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-3815	100	2	Twitter Email RSS	ORG

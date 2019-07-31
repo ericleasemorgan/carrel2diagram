@@ -1,0 +1,297 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Ethnographish”: The State of the Ethnography in Libraries
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+“Ethnographish”: The State of the Ethnography in Libraries 
+
+
+
+
+Donna Lanclos 
+
+J. Murrey Atkins Library, UNC Charlotte 
+
+Andrew D. Asher
+
+Indiana University Libraries
+
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 5, 2016
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.503
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethnography has recently experienced a series of visible moments in libraries, library practice, and library schools. While interest in ethnographically-oriented studies began to increase in libraries by the late 1990s (e.g., Mellon, 1990; Fidel, 1993; Bradley & Sutton, 1993; and Julien & Duggan, 2000), this visibility largely begins with a series of successful and influential studies of libraries in the mid-2000s: the University of Rochester’s Undergraduate Research Project, which began in 2004 under the guidance of Nancy Fried Foster (Foster & Gibbons, 2007; Foster 2013), and drew particularly on user-centered and participatory design research techniques to understand how library spaces are used, how students engage with technology, and how undergraduates go about their academic work; the 2008–2009 Library Study at Fresno State (Delcore et al., 2009), which focused on the practices and experience of student life and students’ approaches to assignments; the 2008–2010 Ethnographic Research in Illinois Academic Libraries project which studied undergraduates’ research processes at five Illinois universities based on firsthand accounts of how students obtained, evaluated, and managed information for their assignments (Duke & Asher, 2012); and the 2009–2011 Undergraduate Scholarly Habits Ethnography Project which explored the information and communication technology use of undergraduates at six colleges at the City University of New York (Smale & Regalado, 2014). In the wake of these studies, library ethnography projects conducted by a variety of library practitioners increased dramatically (see Khoo, Rozaklis, & Hall, 2012 for a recent literature review), and most recently the potential of ethnography and other qualitative approaches to library policy has been the focus of the UXLibs conference and community (Priestner & Borg, 2016). 
+
+As professional anthropologists, we have each been engaged in full-time work as library ethnographers at our respective institutions, at UNC Charlotte since 2009 (Lanclos), and at Indiana University since 2013 (Asher). What is striking to us within these positions is the lack of concurrent support that this visible moment of ethnography in libraries has had in the form of full-time employment for ethnographers or embedded ethnography expertise in teams across the library staff, particularly, in contrast with increasing numbers of assessment and user experience oriented positions (see Triumph & Beile, 2015; Passonneau & Erickson, 2014). In this article, we explore some of the reasons why we think libraries are stuck in a relatively unfinished ethnographic moment, one more accurately characterized as “ethnographish.” Ethnography can serve as an effective antidote for the problematic reliance in higher education (including libraries) on analytics and quantitative measures of effectiveness. We offer ethnography as a way not only to engage with users, but also to tell the story of that engagement as a form of evidence of success.
+
+We want to explore briefly what the barriers might be to more widespread and deeply practiced adoption of ethnographic approaches, and suggest reasons why it is important to persist in trying to expand their reach. In particular, we argue that constructing long-term views of student behavior, gained via ethnography, is good and necessary practice for effective, engaged, and innovative libraries, and indeed education generally. Remaining at a stage that is primarily concerned with short-term data collection and utilizing pre-packaged “off-the-shelf” methods, or that alludes to ethnographic methods without fully engaging with or trusting them, does not allow for the transformative moment made possible via fully engaged ethnography, wherein libraries can actually be thought about and experienced differently, not just rearranged.
+
+Ethnographic vs. Ethnographish
+
+We define ethnography as “the art and science of describing a group or culture” (see Fetterman, 1998, p. 1). Ethnography “is a collection of qualitative methods that focus on the close observation of social practices and interactions” that “deeply [examine] the context in which activities occur” (Asher & Miller, 2011, p. 3). Ethnographic research “involves the interpretation of the meanings, metaphors, and symbols of the social world” (Asher & Miller, 2011, p. 2), and its data is typically composed of unstructured observations, texts, images, or audio and video materials, as well as physical artifacts, which the researcher uses to create an interpretive understanding of social and cultural processes. In this way, ethnographic methods are excellent for elucidating rich descriptions of people’s experiences, as well as for answering “why” and “how” questions about social and cultural processes and practices. While there are many approaches to conducting ethnography, almost all ethnographers agree that it involves detailed study and long-term engagement with a research site (typically at least a year or more), which provides a basis for analytical and interpretive authority for deriving theories and conclusions (Stocking 1992, pp. 55–59).[1]
+
+The work in libraries that has been labeled ethnographic often drifts from this tradition into what we describe as ethnographish. This work is distinct from ethnography in a few ways, but often these projects are short-term and narrowly contextualized, whereas ethnography projects have open-ended timelines and aim to understand the full context of the subjects’ lives. Moreover, ethnography projects do not always produce definitive outcomes. Short-term projects done in libraries and isolated from other contexts can borrow ethnographic methods and still not be ethnography. 
+
+This distinction is important, because some of the potential of ethnography is not achievable if we only do ethnographish work. Few librarians are able to devote a year or more to a single study. Ethnographish projects can also focus on the methodology as a means of gathering more data, but without necessarily taking on the larger perspective on insight and meaning that is inherent in particular to anthropological approaches to ethnography. 
+
+Ethnographish projects in libraries often repeat or closely replicate those done at other locations. This is a failure to leverage anthropological perspectives around ethnology, that is, recognizing that the comparative approach can reveal patterns of common practice as well as unique situations. The importance of ethnology emerges, as does ethnography, from the field of anthropology, rooted in the conviction that comparative work, not just deeply descriptive work, is crucial to building understanding. Both ethnology and ethnography are necessary for effective analysis—how can we know that a problem is unique, if we have never tried to see where else this might occur or how else it might look? How can we talk about gender constructs, for example, if we only observe and describe them in one culture? How can we talk about student work if we only observe it in our university? How would we reimagine libraries and librarianship in the absence of comparative data?
+
+The critical comparative approach that anthropologists call “ethnology” helps not just to triangulate, sorting the unique from the widespread and the structural from the individual, but can also help libraries realize they are not alone, that there are solutions and suggestions to be gathered from the experiences of other institutions. For example, the Ethnographic Research in Illinois Academic Libraries Project was explicitly designed with the ethnological intention of comparing students’ academic experiences across five universities (Asher, Miller, & Green, 2012). Project Information Literacy, while not an ethnographic project per se, engages from a North American context in a comparative analysis of life-long learning practices, starting with the student experience. Ethnography plus ethnology yields networked and collective data such that insights can be then be considered, critiqued, added to, refined, and acted upon by a larger group. The resource crunch that means many small libraries don’t have the staff to dedicate to full-time ethnographers doesn’t mean that they cannot, from a policy perspective, draw on ethnographic insights to inform change. It does mean that they have to be capable, via a comparative perspective, of recognizing the potential of those insights to be valid whether it was done with their particular student body or not.
+
+Ethnographish projects have yielded real insights into student and faculty behavior. They have led to policy discussions around the configuration of library space and the deployment of digital tools and places (such as institutional repositories and websites). They have in many cases led to better libraries. What they have not led to is widespread dedication of full-time staff hours to ethnographic data collection and analysis, or an overall decrease in reliance on quantitative methods of data collection. They have not led to a different way of seeing (Wolcott, 1999), one generated by ethnography as a theoretical perspective, more than a cluster of methods.
+
+Seeing Like a Library, Seeing like a University
+
+Full-time ethnographers don’t really exist in libraries. Even those of us with training as ethnographers do not devote all of our working time to ethnography—anthropologists in industry rarely do, either. Full-time ethnography would be totally dedicated to exploratory fieldwork, grounded analysis, attention to emerging themes, and far less programmed around problems and how to fix them. This would be a massive amount of time and energy devoted to open-ended processes that are not a great fit for the ways libraries (and many other institutions) currently operate. In this sense, we have not really achieved ethnography in libraries yet.
+
+
+
+Ethnographic practices in libraries have never been given the time or resources to be ethnography in the long-term sense. Generally, ethnographic work in libraries is represented by short-term projects done by outside contractors. While this approach can seed methods, unless the work is taken up by staff whose primary (or at least, secondary) responsibility it is to follow through and continue, the work is unlikely to achieve the long-term, deeply observed insight that is possible with ethnography. This should not be seen, however, as an indictment of ethnographic approaches, but rather about the limitations of using such an approach to try to learn new things and revise previous impressions when the project team is only active for three, four, or six months at a time. How can long-term insight be gained if the work is not tied to a larger, more broad institutional agenda, not just carved out of the work of individuals with a particular affinity for the work independent of their job description?
+
+So while it is clear that libraries are providing a series of limited scope ethnographic projects and results that are certainly better than nothing, we appear stuck in this ethnographish moment and unable to move fully into embracing open-ended ethnography. Some answers to why this is the case might be found in the structure of libraries, and additionally in the priorities of libraries, particularly around problem solving and assessment. When libraries have ethnography or UX teams they tend to be asked to focus on short-term projects, and can also be reluctant to share their results outside of their organization (Preater, 2016). Short-term projects also tend to have finite and concrete goals—for example, they can result in a tutorial, or a completed article reporting on the results of the project, for example. Building an understanding of users through long-term ethnography research yields a different, less swift and containable kind of payoff that can be difficult to argue for among cash-strapped, results-oriented libraries and library directors. The perception that ethnography is not just time-consuming, but difficult to do can be a barrier to adoption. UX work has more examples of low-investment high-yield projects (e.g., Duke Libraries’ approach to UX). This may be part of the reason for the appeal of UX qualitative work, and why full-time people are being hired to do UX work in libraries. UX is often focused more on applied problem solving than ethnography.
+
+We frequently hear from librarians in response to the question, “Why aren’t libraries doing more ethnography?” variants of “We don't have the training to do that kind of work.” Such a response reflects a gap in library school research methods training, and also ignores that collaboration with people who do have this training is a legitimate way forward. The fact is that people get training in these methods by doing the work—ethnographers often say the only way to learn ethnography is by doing ethnography and this is reflected in methods courses in anthropology graduate schools that are practice-focused rather than finely structured methods training. When people who work in libraries stop working in isolation, and don’t pin all of their preparation on their professional credentialing experiences, more can get done.
+
+Another response to questions about the lack of long-term projects is: “We don’t have the full- time staff for this kind of work.” This is the “no time for that” argument that actually reflects that this kind of work isn’t a priority, not necessarily that there’s no time or staff for it.
+
+Libraries, like the rest of higher education, rely more and more on the kind of student data provided by learning management and enrollment systems. Big Student Data, the vendor-offered promises of learning analytics (including predictive analytics), and increasingly market-centered language around higher education are rising in an environment where legislative bodies, suspicious of the work of education and higher education in particular, are asking for metrics of particular kinds of success and value. But such quantifications tell us very little about the lived experience of being a student, or a researcher, or an instructor, who participates in the academic processes of a university. If our systems can’t respond to what our users are actually trying to do, or the realities of their day-to-day lives, it matters little how much “better” we make them if the underlying disconnects are not identified and addressed.
+
+A great deal of time and effort in library assessment is devoted to attempting to measure things that at least appear to be readily quantifiable. Libraries routinely track and report figures for collection holdings, circulation, reference and instructional transactions, gate counts, electronic usage (measured by downloads, page views, etc.), and expenditures. These proxies for engagement tell us very little about actual user behavior and experience. For example, a circulation or usage number tells us almost nothing about why a resource is needed, how it’s used, and what its impact is on a student or researchers’ work. Similarly there is a heavy reliance on quantitative methods (such as surveys done by outside companies) to measure things like satisfaction (such as LibQual), behaviors (such as ITHAKA), or skills (such as SAILS). This can be either because libraries don’t have resources to do their own locally-sourced assessment or because libraries’ comfort with these methods and procedures appear to make the complex organization of a library more rational, even though they reveal very little about the meanings of their findings or why they occur, and can even obfuscate understanding real day-to-day practices. Nevertheless, the overarching perception around assessment in libraries is that quantitative work gives effective (occasionally easy) benchmarks, and is generally a way to measure success and satisfaction.
+
+Libraries and Risk 
+
+Libraries are notoriously risk averse. This default conservative approach is made worse by anxiety and defensiveness around the role of libraries and pressures to demonstrate value. Within this larger context, where the value of libraries is already under question, open-ended, exploratory ethnographic work can feel risky. Engaging in ethnography when it’s not well understood isn’t something many libraries feel they can do given the wider context of anxiety and defensiveness around the role of libraries.
+
+Much of the explanatory power of ethnography is devised from empirically building evidence over time. This often entails long-term projects, or projects that don’t have a hard stop at all. Interpretations can be revised, updated, changed, as more information is gathered, more context becomes clear, and larger patterns of behavior are revealed to illuminate some of the specific things visible in library spaces. Ethnographic approaches build a body of evidence gradually over time, enabling questions to be addressed that often were unknown when the research was begun, and the exploratory nature of ethnography often means that its benefits are sometimes realized years in the future once a critical mass of observations can be synthesized. Embarking on research with unknown outcomes is understandably uncomfortable, but it is incumbent on leadership to work to provide the space for risks to be taken, or, even better, for exploration and not-knowing to no longer be framed as risky but as constructive and necessary, because the yield from ethnography-generated insights can be great. We would argue that it is, in fact, higher risk to forgo these types of insights.
+
+Ethnography doesn’t offer the possibility of giving a way to measure a library’s value directly, but it does give a way whereby the library can enact and engage with its own values (Drabinski & Walter, 2016), and those of higher education. Undertaking this approach reveals connections, meaning, and patterns, and can become an integrated part of how the library becomes and remains valuable because it has insight into student and faculty behavior that does not exist elsewhere on campus.
+
+What if an ethnographic approach fails? We would suggest that anything interpretive is risky, in the sense that interpretations can be wrong. Moreover, we should also ask this question of any method, including quantitative methods, which routinely “fail” by providing non-actionable or non-significant results. In the case of quantitative work, the failure tends to be hidden by the “success” involved in producing a number of measurement (however meaningless). But when data is collected where there aren’t resources to change, time and energy are wasted.
+
+It might also be useful to ask: what does “failure” mean in this context? Is the goal to simply have something measurable to report? Or to generate information that allows discussion of meanings, motivations, and yes, values?
+
+We are arguing, therefore, for ethnography as praxis, as a transformative practice emerging from particular theoretical perspectives that value emergent insights over simply identification and fixing problems. Providing a space for ethnography in libraries has profound implications for the nature of libraries, for definitions of work and practice, for imagining the connections that libraries have within their larger contexts, for holistic considerations of student and faculty experiences, actions, and priorities. Examples of this approach to ethnography outside of academic or activist anthropology can be found in the practices of the community of anthropologists organizing themselves within EPIC (Ethnography Praxis in Industry Conference). Moving beyond ethnographish into ethnography requires shifting thought away from it as a method, and towards a mindset. This is once again Harry Wolcott’s definition of ethnography, as a way of seeing (1999).
+
+Practices for Libraries and Ethnography
+
+What would we two anthropologists like to see?
+
+We are calling here for more collective action on the part of libraries, rather than the fragmented landscape we see now. How can we make the transition from finite problem-solving ethnographish and UX projects to open-ended ethnography that allows for acquiring an intuition based on the grounded experience of extended research? This is not just about the notion of cumulative expertise, but of using the evidence you collect to inform, change, and transform library policy and practice. Can we get libraries to pay for that expertise? How does that job description become part of the larger work of the library? Should we in fact be advocating that some of the new hires that libraries get to do be social scientists devoted full time to exploratory ethnography?
+
+It’s more likely that your library isn’t going to hire a full-time ethnographer, or indeed be able to hire anyone new at all. So perhaps what we should advocate for would be making increasingly visible not just the kind of workflows that are involved in ethnographic practices, but the very broad potential of them rooted in the long-term amorphous processes of ethnography, to go beyond finite problem-solving. 
+
+How do we build a collective and collaborative ethnographic praxis that doesn’t duplicate work unnecessarily? What would get us unstuck from this ethnographish moment into one that contains more ethnography?
+
+We would like here to encourage a series of actions. Firstly, alongside the short-term problem identifying and fixing, leave space for long-term, less directed, more broadly-based contextual investigations that can yield a holistic picture of context into which the more specific projects can be situated. Generate a space for true ethnography, for long-term, ongoing, exploratory work. 
+
+Second, learn the lesson of ethnology, embrace a comparative approach. More and mindful attention to the long-term work being done by other institutions, and backing away from “special snowflake” assumptions, can allow libraries without full-time ethnographers on staff (that is, almost all of them) to still benefit from the insights of this work in their own contexts. This in turn requires cultivating a trust in qualitative methods, so that they don’t have to be replicated at your institution, and so that they are perceived as actionable. 
+
+Our third recommendation is collaboration. Work in partnership with colleagues (at your institution or elsewhere) who do have this experience and training in ethnography. Partnering with colleagues in other academic departments, using student research projects as a way to expand the methodological and theoretical approaches to library spaces, policies, and librarianship, can make this wider range of perspectives possible even if this expertise is not currently within your library. In addition, conferences such as UXLibs weave together a community of practice around ethnography, exposing newcomers to the approach as well as allowing more seasoned practitioners to share what does and doesn’t work, and to collect their insights together. This open, transparent practice, and focus on collaboration is a useful model to turn to and to proliferate. 
+
+Finally, we would point to the crucial role of leadership, not just top-down, but from the middle of library organizations outward (Bryant 2016), to provide and protect a space for the insights gained via ethnography to be valued as much as if not more than quantitatively-gathered data. Encouraging engagement with conferences and networks that showcase, encourage, and dive deeper into ethnography and ethnographic approaches, as well as facilitating and supporting wide-ranging conversations about practice and potential across institutions, at all levels, have to be central strategies to making ethnography fundamental to libraries and their ways of seeing.
+
+Ethnography should not be engaged in simply as a method that gives us more buckets of data to be sorted, visualized, and put into a report. Ethnography should be core to the business of the library. As praxis, practice informed by theory and ideology, it has the potential to transform libraries, librarianship, and indeed higher education.
+
+References
+
+	Asher, A. D., & Miller, S. (2011). So you want to do anthropology in your library? Or, a practical guide to ethnographic research in academic libraries. Retrieved from http://www.erialproject.org/publications/toolkit/
+
+	Asher, A. D., Miller, S., & Green, D. (2012). Ethnographic research in Illinois academic libraries: The ERIAL project. In L. M. Duke & A. Asher, (Eds.), College libraries and student culture: What we now know (pp. 1–14). Chicago: American Library Association. 
+	Bradley, J., and Sutton, B. (1993). Reframing the paradigm debate. The Library Quarterly,63(4), 405–410.  
+	Bryant, P. (2016). From the middle out: making pedagogical change happen in a complex, messy world [Web log post]. Retrieved from http://peterbryant.smegradio.com/?p=600
+
+	Delcore, H., Mullooly, J., Scroggins, M., Arnold, K., Franco, E., & Gaspar, J. (2009). The library study at Fresno State. Retrieved from http://fresnostate.edu/socialsciences/anthropology/documents/ipa/TheLibraryStudy(DelcoreMulloolyScroggins).pdf
+
+	Drabinski, E., & Walter, S. (2016). Asking questions that matter [editorial]. College and Research Libraries, 77(3), 264–268.
+	Duke, L. M., & Asher, A. D. (Eds.). (2012). College libraries and student culture: What we now know. Chicago: American Library Association.
+	Fetterman, D. M. (1998). Ethnography: Step-by-step. Thousand Oaks, CA: SAGE Publications.
+	Fidel, R. (1993). Qualitative methods in information retrieval research. Library and Information Science Research, 15(3), 219–247.
+	Foster, N. F. (2013). Studying students: A second look. Chicago: American Library Association.
+	Foster, N.F., & Gibbons, S. (Eds.). (2007). Studying students: The undergraduate research project at the University of Rochester. Chicago: Association of College and Research Libraries. http://hdl.handle.net/1802/7520
+
+	Julien, H., & Duggan, L. (2000). A longitudinal analysis of the information needs and uses literature. Library & Information Science Research,22(3), 291–309. http://doi.org/10.1016/S0740-8188(99)00057-2
+
+	Khoo, M., Rozaklis, L., & Hall, C. (2012). A survey of the use of ethnographic methods in the study of libraries and library users. Library & Information Science Research,34(2), 82–91.
+	 Mellon, C. A. (1990). Naturalistic inquiry for library science: Methods and applications for research, evaluation, and teaching. New York: Greenwood Press.
+	Passonneau, S., & Erickson, S. (2014). Core competencies for assessment in libraries: A review and analysis of job postings. Library Leadership & Management,28(4), 1-19. https://journals.tdl.org/llm/index.php/llm/article/view/7080
+
+	Preater, A. (2016). Why don’t libraries share the results of UX Work? [Web log post]. Retrieved from https://www.preater.com/2016/06/11/why-dont-libraries-share-the-results-of-ux-work
+
+	Priestner, A., & Borg, M. (Eds.). (2016). User experience in libraries: Applying ethnography and human-centered design. New York: Routledge.
+	Smale, M. A., & Regalado, M. (2014). Commuter students using technology. EDUCAUSE Review Online. Retrieved from http://www.educause.edu/ero/article/commuter-students-using-technology
+
+	Stocking, G. W. (1992). The ethnographer’s magic and other essays in the history of anthropology. Madison: University of Wisconsin Press.
+	Triumph, T., & Beile, P. (2015). The trending academic library job market: An analysis of library position announcements from 2011 with comparisons to 1996 and 1988. College & Research Libraries,76(6), 716–39. http://doi.org/10.5860/crl.76.6.716
+
+	Wolcott, H. F. (1999). Ethnography: A way of seeing. Walnut Creek, CA: Altamira Press.
+
+
+Notes
+
+
+
+	 For a detailed historical account of the development of ethnographic conventions and the fieldwork tradition in anthropology see Stocking, 1992, pp. 1–59.
+
+
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

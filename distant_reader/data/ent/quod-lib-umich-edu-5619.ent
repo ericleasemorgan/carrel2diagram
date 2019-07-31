@@ -1,0 +1,366 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-5619	1	1	Anticipatory Design	ORG
+quod-lib-umich-edu-5619	1	2	Query Analysis	PERSON
+quod-lib-umich-edu-5619	1	3	Machine Cues Skip	ORG
+quod-lib-umich-edu-5619	1	4	Skip	PERSON
+quod-lib-umich-edu-5619	1	5	Skip	PERSON
+quod-lib-umich-edu-5619	1	6	Journal of Library User Experience	ORG
+quod-lib-umich-edu-5619	1	7	Library User	PERSON
+quod-lib-umich-edu-5619	1	8	Michigan Publishing	ORG
+quod-lib-umich-edu-5619	2	1	Quick	ORG
+quod-lib-umich-edu-5619	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-5619	3	1	2	CARDINAL
+quod-lib-umich-edu-5619	3	2	Submit to Weave Anticipatory Design	ORG
+quod-lib-umich-edu-5619	3	3	Query Analysis	PERSON
+quod-lib-umich-edu-5619	3	4	Machine Cues Jason A. Clark MONTANA STATE UNIVERSITY	ORG
+quod-lib-umich-edu-5619	3	5	DOI	ORG
+quod-lib-umich-edu-5619	3	6	1	CARDINAL
+quod-lib-umich-edu-5619	3	7	DOI	ORG
+quod-lib-umich-edu-5619	3	8	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-5619	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-5619	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-5619	6	1	Reddit Mendeley	PERSON
+quod-lib-umich-edu-5619	6	2	Weave	PERSON
+quod-lib-umich-edu-5619	13	1	–Vanessa Fox	PERSON
+quod-lib-umich-edu-5619	13	2	Google Search Console	ORG
+quod-lib-umich-edu-5619	13	3	Fox	ORG
+quod-lib-umich-edu-5619	13	4	2012	DATE
+quod-lib-umich-edu-5619	13	5	Larry Page	PERSON
+quod-lib-umich-edu-5619	13	6	Sergey Brin	ORG
+quod-lib-umich-edu-5619	13	7	1999	DATE
+quod-lib-umich-edu-5619	16	1	the twenty-first century	DATE
+quod-lib-umich-edu-5619	20	1	“Yellowstone National Park”	ORG
+quod-lib-umich-edu-5619	22	1	the past few decades	DATE
+quod-lib-umich-edu-5619	24	1	1	CARDINAL
+quod-lib-umich-edu-5619	24	2	Speech	ORG
+quod-lib-umich-edu-5619	27	1	iPhone	ORG
+quod-lib-umich-edu-5619	28	1	2	CARDINAL
+quod-lib-umich-edu-5619	28	2	Google	ORG
+quod-lib-umich-edu-5619	29	1	Search	ORG
+quod-lib-umich-edu-5619	30	1	Search	ORG
+quod-lib-umich-edu-5619	33	1	1	CARDINAL
+quod-lib-umich-edu-5619	34	1	2	CARDINAL
+quod-lib-umich-edu-5619	35	1	Wikipedia	GPE
+quod-lib-umich-edu-5619	37	1	2010	DATE
+quod-lib-umich-edu-5619	37	2	93 percent	PERCENT
+quod-lib-umich-edu-5619	37	3	Wikipedia	PERSON
+quod-lib-umich-edu-5619	37	4	88 percent	PERCENT
+quod-lib-umich-edu-5619	38	1	Wikipedia	PERSON
+quod-lib-umich-edu-5619	38	2	frequency—75 percent	PERCENT
+quod-lib-umich-edu-5619	38	3	daily	DATE
+quod-lib-umich-edu-5619	38	4	20 percent	PERCENT
+quod-lib-umich-edu-5619	38	5	Wikipedia	PERSON
+quod-lib-umich-edu-5619	39	1	OCLC	ORG
+quod-lib-umich-edu-5619	39	2	2011	DATE
+quod-lib-umich-edu-5619	39	3	52)[3	CARDINAL
+quod-lib-umich-edu-5619	39	4	Ithaka S+R	PERSON
+quod-lib-umich-edu-5619	39	5	Roger Schonfeld	PERSON
+quod-lib-umich-edu-5619	39	6	2015	DATE
+quod-lib-umich-edu-5619	39	7	Google Scholar	PERSON
+quod-lib-umich-edu-5619	40	1	2015	DATE
+quod-lib-umich-edu-5619	42	1	Khodabandelou	GPE
+quod-lib-umich-edu-5619	42	2	Hug, Deneckere	GPE
+quod-lib-umich-edu-5619	42	3	Salinesi	PERSON
+quod-lib-umich-edu-5619	42	4	2013	DATE
+quod-lib-umich-edu-5619	43	1	Intention	GPE
+quod-lib-umich-edu-5619	44	1	4	CARDINAL
+quod-lib-umich-edu-5619	45	1	First	ORDINAL
+quod-lib-umich-edu-5619	46	1	Second	ORDINAL
+quod-lib-umich-edu-5619	48	1	Literature Review	ORG
+quod-lib-umich-edu-5619	48	2	first	ORDINAL
+quod-lib-umich-edu-5619	52	1	Aaron Shapiro	PERSON
+quod-lib-umich-edu-5619	52	2	2015	DATE
+quod-lib-umich-edu-5619	52	3	one	CARDINAL
+quod-lib-umich-edu-5619	54	1	Shapiro	ORG
+quod-lib-umich-edu-5619	54	2	2015	DATE
+quod-lib-umich-edu-5619	55	1	Shapiro	ORG
+quod-lib-umich-edu-5619	56	1	Loet Leydesdorff	PERSON
+quod-lib-umich-edu-5619	56	2	2004	DATE
+quod-lib-umich-edu-5619	57	1	Leydesdorff	WORK_OF_ART
+quod-lib-umich-edu-5619	57	2	Robert Rosen	PERSON
+quod-lib-umich-edu-5619	57	3	Anticipatory Systems	ORG
+quod-lib-umich-edu-5619	57	4	1985	DATE
+quod-lib-umich-edu-5619	57	5	8)	CARDINAL
+quod-lib-umich-edu-5619	61	1	Dubois	GPE
+quod-lib-umich-edu-5619	61	2	1998	DATE
+quod-lib-umich-edu-5619	61	3	Jansen	PERSON
+quod-lib-umich-edu-5619	61	4	al	PERSON
+quod-lib-umich-edu-5619	61	5	2008	DATE
+quod-lib-umich-edu-5619	61	6	Kruschwitz	PERSON
+quod-lib-umich-edu-5619	61	7	al	ORG
+quod-lib-umich-edu-5619	61	8	2013	DATE
+quod-lib-umich-edu-5619	61	9	Zamenopoulos & Alexiou	ORG
+quod-lib-umich-edu-5619	61	10	2007	DATE
+quod-lib-umich-edu-5619	62	1	Busch	ORG
+quod-lib-umich-edu-5619	62	2	2015	DATE
+quod-lib-umich-edu-5619	62	3	Sene	PERSON
+quod-lib-umich-edu-5619	62	4	2013	DATE
+quod-lib-umich-edu-5619	63	1	Maria Andersen	PERSON
+quod-lib-umich-edu-5619	63	2	2014	DATE
+quod-lib-umich-edu-5619	65	1	Michael Zimmer	PERSON
+quod-lib-umich-edu-5619	65	2	Search	ORG
+quod-lib-umich-edu-5619	65	3	2.0-based	CARDINAL
+quod-lib-umich-edu-5619	66	1	Search	ORG
+quod-lib-umich-edu-5619	66	2	Search	ORG
+quod-lib-umich-edu-5619	66	3	users’	ORG
+quod-lib-umich-edu-5619	66	4	Zimmer	GPE
+quod-lib-umich-edu-5619	66	5	2008	DATE
+quod-lib-umich-edu-5619	67	1	Shapiro	ORG
+quod-lib-umich-edu-5619	67	2	Anne Quito	PERSON
+quod-lib-umich-edu-5619	67	3	2015	DATE
+quod-lib-umich-edu-5619	69	1	Michael Schofield	PERSON
+quod-lib-umich-edu-5619	69	2	2015	DATE
+quod-lib-umich-edu-5619	69	3	Zimmer	GPE
+quod-lib-umich-edu-5619	69	4	2008	DATE
+quod-lib-umich-edu-5619	70	1	Anticipatory Design Using	ORG
+quod-lib-umich-edu-5619	70	2	Query Analysis	PERSON
+quod-lib-umich-edu-5619	70	3	Machine Cues	PRODUCT
+quod-lib-umich-edu-5619	70	4	Google	ORG
+quod-lib-umich-edu-5619	70	5	John Battelle	PERSON
+quod-lib-umich-edu-5619	70	6	2006	DATE
+quod-lib-umich-edu-5619	71	1	Battelle	ORG
+quod-lib-umich-edu-5619	71	2	Google	ORG
+quod-lib-umich-edu-5619	72	1	Battelle	ORG
+quod-lib-umich-edu-5619	74	1	the Code4Lib Journal	ORG
+quod-lib-umich-edu-5619	74	2	Clark	PERSON
+quod-lib-umich-edu-5619	74	3	2008	DATE
+quod-lib-umich-edu-5619	78	1	the day of the week	DATE
+quod-lib-umich-edu-5619	78	2	the day and hours	TIME
+quod-lib-umich-edu-5619	78	3	the day	DATE
+quod-lib-umich-edu-5619	80	1	UX	ORG
+quod-lib-umich-edu-5619	81	1	the Literal String Words	ORG
+quod-lib-umich-edu-5619	82	1	1	CARDINAL
+quod-lib-umich-edu-5619	83	1	five	CARDINAL
+quod-lib-umich-edu-5619	83	2	One	CARDINAL
+quod-lib-umich-edu-5619	85	1	5	CARDINAL
+quod-lib-umich-edu-5619	86	1	FAQ	ORG
+quod-lib-umich-edu-5619	88	1	6	CARDINAL
+quod-lib-umich-edu-5619	90	1	3	CARDINAL
+quod-lib-umich-edu-5619	91	1	3	CARDINAL
+quod-lib-umich-edu-5619	93	1	2	CARDINAL
+quod-lib-umich-edu-5619	93	2	two	CARDINAL
+quod-lib-umich-edu-5619	95	1	Machine	ORG
+quod-lib-umich-edu-5619	97	1	One	CARDINAL
+quod-lib-umich-edu-5619	97	2	first	ORDINAL
+quod-lib-umich-edu-5619	97	3	HTTP	ORG
+quod-lib-umich-edu-5619	98	1	4	CARDINAL
+quod-lib-umich-edu-5619	98	2	HTTP	ORG
+quod-lib-umich-edu-5619	99	1	7	CARDINAL
+quod-lib-umich-edu-5619	99	2	4	CARDINAL
+quod-lib-umich-edu-5619	100	1	HTTP	ORG
+quod-lib-umich-edu-5619	101	1	HTTP	ORG
+quod-lib-umich-edu-5619	102	1	HTTP	NORP
+quod-lib-umich-edu-5619	103	1	Language Previous	PRODUCT
+quod-lib-umich-edu-5619	103	2	HTTP	ORG
+quod-lib-umich-edu-5619	103	3	Desktop Mac OS	ORG
+quod-lib-umich-edu-5619	103	4	Google Chrome	PRODUCT
+quod-lib-umich-edu-5619	103	5	English	LANGUAGE
+quod-lib-umich-edu-5619	103	6	Google One	PRODUCT
+quod-lib-umich-edu-5619	104	1	Headers	NORP
+quod-lib-umich-edu-5619	104	2	JavaScript	PRODUCT
+quod-lib-umich-edu-5619	105	1	Platform	ORG
+quod-lib-umich-edu-5619	105	2	Time	ORG
+quod-lib-umich-edu-5619	106	1	5	CARDINAL
+quod-lib-umich-edu-5619	107	1	HTTP	ORG
+quod-lib-umich-edu-5619	108	1	hours or library hours	TIME
+quod-lib-umich-edu-5619	108	2	that day	DATE
+quod-lib-umich-edu-5619	109	1	8 a.m. or 2 p.m.	TIME
+quod-lib-umich-edu-5619	114	1	seasonal	DATE
+quod-lib-umich-edu-5619	116	1	summer	DATE
+quod-lib-umich-edu-5619	119	1	3	CARDINAL
+quod-lib-umich-edu-5619	122	1	9	CARDINAL
+quod-lib-umich-edu-5619	123	1	6	CARDINAL
+quod-lib-umich-edu-5619	124	1	6	CARDINAL
+quod-lib-umich-edu-5619	125	1	JSONLint	CARDINAL
+quod-lib-umich-edu-5619	125	2	Telize API	PRODUCT
+quod-lib-umich-edu-5619	126	1	9	CARDINAL
+quod-lib-umich-edu-5619	126	2	2	CARDINAL
+quod-lib-umich-edu-5619	126	3	3	CARDINAL
+quod-lib-umich-edu-5619	127	1	Somewhere, USA	GPE
+quod-lib-umich-edu-5619	128	1	Applying Anticipatory Design	ORG
+quod-lib-umich-edu-5619	128	2	Search	ORG
+quod-lib-umich-edu-5619	129	1	prototype[11	ORG
+quod-lib-umich-edu-5619	135	1	first	ORDINAL
+quod-lib-umich-edu-5619	137	1	7	CARDINAL
+quod-lib-umich-edu-5619	138	1	7	CARDINAL
+quod-lib-umich-edu-5619	142	1	8	CARDINAL
+quod-lib-umich-edu-5619	144	1	an additional refinement	TIME
+quod-lib-umich-edu-5619	145	1	8	CARDINAL
+quod-lib-umich-edu-5619	146	1	30	CARDINAL
+quod-lib-umich-edu-5619	147	1	11	CARDINAL
+quod-lib-umich-edu-5619	147	2	30	CARDINAL
+quod-lib-umich-edu-5619	149	1	30	CARDINAL
+quod-lib-umich-edu-5619	152	1	9	CARDINAL
+quod-lib-umich-edu-5619	153	1	9	CARDINAL
+quod-lib-umich-edu-5619	156	1	FAQ	ORG
+quod-lib-umich-edu-5619	157	1	10	CARDINAL
+quod-lib-umich-edu-5619	158	1	10	CARDINAL
+quod-lib-umich-edu-5619	161	1	11	CARDINAL
+quod-lib-umich-edu-5619	162	1	11	CARDINAL
+quod-lib-umich-edu-5619	166	1	hours	TIME
+quod-lib-umich-edu-5619	166	2	later tonight	TIME
+quod-lib-umich-edu-5619	174	1	Andersen	GPE
+quod-lib-umich-edu-5619	174	2	2015	DATE
+quod-lib-umich-edu-5619	174	3	Busch	ORG
+quod-lib-umich-edu-5619	174	4	2015	DATE
+quod-lib-umich-edu-5619	174	5	Sene	PERSON
+quod-lib-umich-edu-5619	174	6	2013)—or	CARDINAL
+quod-lib-umich-edu-5619	174	7	Quito	GPE
+quod-lib-umich-edu-5619	174	8	2015	DATE
+quod-lib-umich-edu-5619	177	1	12	CARDINAL
+quod-lib-umich-edu-5619	179	1	UX	ORG
+quod-lib-umich-edu-5619	180	1	First	ORDINAL
+quod-lib-umich-edu-5619	182	1	Second	ORDINAL
+quod-lib-umich-edu-5619	185	1	Conclusion Search	PERSON
+quod-lib-umich-edu-5619	186	1	UX	ORG
+quod-lib-umich-edu-5619	191	1	“Am I Unique	ORG
+quod-lib-umich-edu-5619	194	1	References Andersen	ORG
+quod-lib-umich-edu-5619	194	2	M. H.	PERSON
+quod-lib-umich-edu-5619	194	3	2014	DATE
+quod-lib-umich-edu-5619	196	1	http://busynessgirl.com/the-invasive-valley-of-personalizatio/ Anthony	PERSON
+quod-lib-umich-edu-5619	196	2	T.	PERSON
+quod-lib-umich-edu-5619	196	3	2013	DATE
+quod-lib-umich-edu-5619	199	1	2006	DATE
+quod-lib-umich-edu-5619	200	1	Google	ORG
+quod-lib-umich-edu-5619	201	1	New York	GPE
+quod-lib-umich-edu-5619	202	1	Busch, L. (	ORG
+quod-lib-umich-edu-5619	202	2	2015	DATE
+quod-lib-umich-edu-5619	204	1	Clark	PERSON
+quod-lib-umich-edu-5619	204	2	J.	PERSON
+quod-lib-umich-edu-5619	206	1	2008	DATE
+quod-lib-umich-edu-5619	208	1	Code4Lib Journal	ORG
+quod-lib-umich-edu-5619	208	2	3	CARDINAL
+quod-lib-umich-edu-5619	209	1	http://journal.code4lib.org/articles/78 Dubois	PERSON
+quod-lib-umich-edu-5619	209	2	D. M. (	PERSON
+quod-lib-umich-edu-5619	209	3	1998	DATE
+quod-lib-umich-edu-5619	211	1	437	CARDINAL
+quod-lib-umich-edu-5619	211	2	3–30	CARDINAL
+quod-lib-umich-edu-5619	212	1	Fox	ORG
+quod-lib-umich-edu-5619	212	2	V.	PERSON
+quod-lib-umich-edu-5619	212	3	2012	DATE
+quod-lib-umich-edu-5619	213	1	SEO	ORG
+quod-lib-umich-edu-5619	214	1	http://www.oreilly.com/pub/e/2179 Jansen	PERSON
+quod-lib-umich-edu-5619	214	2	B. J.	PERSON
+quod-lib-umich-edu-5619	214	3	Booth	GPE
+quod-lib-umich-edu-5619	214	4	D. L., & Spink	PERSON
+quod-lib-umich-edu-5619	214	5	A.	PERSON
+quod-lib-umich-edu-5619	215	1	2008	DATE
+quod-lib-umich-edu-5619	217	1	Information Processing & Management	ORG
+quod-lib-umich-edu-5619	217	2	44(3	DATE
+quod-lib-umich-edu-5619	218	1	https://www.researchgate.net/profile/Jim_Jansen/publication/222824696_Determining_the_ Informational_Navigational_and_Transactional_Intent_of_Web_Queries/links/02e7e51f8ad2a3e54c000000.pdf Khodabandelou	ORG
+quod-lib-umich-edu-5619	218	2	G.	PERSON
+quod-lib-umich-edu-5619	218	3	Hug	PERSON
+quod-lib-umich-edu-5619	218	4	C., Deneckere	GPE
+quod-lib-umich-edu-5619	218	5	R.	NORP
+quod-lib-umich-edu-5619	218	6	& Salinesi	ORG
+quod-lib-umich-edu-5619	218	7	C. (	PERSON
+quod-lib-umich-edu-5619	218	8	2013	DATE
+quod-lib-umich-edu-5619	220	1	R. Weiringa	PERSON
+quod-lib-umich-edu-5619	220	2	S. Nurcan	PERSON
+quod-lib-umich-edu-5619	220	3	C. Rolland	PERSON
+quod-lib-umich-edu-5619	220	4	Eds	PERSON
+quod-lib-umich-edu-5619	221	1	Seventh	ORDINAL
+quod-lib-umich-edu-5619	221	2	International Conference on Research Challenges in Information Science	EVENT
+quod-lib-umich-edu-5619	223	1	Paris	GPE
+quod-lib-umich-edu-5619	224	1	Kruschwitz	ORG
+quod-lib-umich-edu-5619	224	2	U.	ORG
+quod-lib-umich-edu-5619	224	3	Lungley	PERSON
+quod-lib-umich-edu-5619	224	4	D.	NORP
+quod-lib-umich-edu-5619	224	5	Albakour	GPE
+quod-lib-umich-edu-5619	224	6	M. D.	NORP
+quod-lib-umich-edu-5619	224	7	& Song	PERSON
+quod-lib-umich-edu-5619	224	8	D.	NORP
+quod-lib-umich-edu-5619	224	9	2013	DATE
+quod-lib-umich-edu-5619	226	1	the American Society for Information Science and Technology	ORG
+quod-lib-umich-edu-5619	226	2	64(10	PERSON
+quod-lib-umich-edu-5619	226	3	1975–1994	CARDINAL
+quod-lib-umich-edu-5619	227	1	Leydesdorff	PRODUCT
+quod-lib-umich-edu-5619	227	2	L.	PERSON
+quod-lib-umich-edu-5619	227	3	2004	DATE
+quod-lib-umich-edu-5619	229	1	Luhmann Simulated–Computer Simulations	ORG
+quod-lib-umich-edu-5619	229	2	the Theory of Social Systems	ORG
+quod-lib-umich-edu-5619	230	1	OCLC	ORG
+quod-lib-umich-edu-5619	231	1	2011	DATE
+quod-lib-umich-edu-5619	232	1	2010	DATE
+quod-lib-umich-edu-5619	233	1	Page	PERSON
+quod-lib-umich-edu-5619	233	2	L.	NORP
+quod-lib-umich-edu-5619	233	3	Brin, S.	ORG
+quod-lib-umich-edu-5619	233	4	Motwani	PERSON
+quod-lib-umich-edu-5619	233	5	R.	NORP
+quod-lib-umich-edu-5619	233	6	& Winograd	ORG
+quod-lib-umich-edu-5619	233	7	1999	DATE
+quod-lib-umich-edu-5619	234	1	PageRank	ORG
+quod-lib-umich-edu-5619	235	1	Stanford InfoLab	ORG
+quod-lib-umich-edu-5619	235	2	Quito	GPE
+quod-lib-umich-edu-5619	235	3	A.	GPE
+quod-lib-umich-edu-5619	236	1	2015	DATE
+quod-lib-umich-edu-5619	238	1	http://qz.com/429929/the-next-design-trend-is-one-that-eliminates-all-choices/ Rosen	PERSON
+quod-lib-umich-edu-5619	238	2	R.	NORP
+quod-lib-umich-edu-5619	238	3	1985	DATE
+quod-lib-umich-edu-5619	241	1	Schofield	ORG
+quod-lib-umich-edu-5619	241	2	M. (	GPE
+quod-lib-umich-edu-5619	241	3	2015	DATE
+quod-lib-umich-edu-5619	243	1	http://libux.co/best-library-web-design-eliminate-choice/ Schonfeld	PERSON
+quod-lib-umich-edu-5619	243	2	R. C.	PERSON
+quod-lib-umich-edu-5619	243	3	2015	DATE
+quod-lib-umich-edu-5619	245	1	http://sr.ithaka.org?p=241038 Sene	PERSON
+quod-lib-umich-edu-5619	245	2	2013	DATE
+quod-lib-umich-edu-5619	246	1	Context First’	ORG
+quod-lib-umich-edu-5619	247	1	http://www.creativebloq.com/web-design/beyond-responsive-design-discover-context-driven-design-8134226 Shapiro	PERSON
+quod-lib-umich-edu-5619	247	2	A.	PERSON
+quod-lib-umich-edu-5619	248	1	2015	DATE
+quod-lib-umich-edu-5619	251	1	http://www.fastcodesign.com/3045039/the-next-big-thing-in-design-fewer-choices Zamenopoulos	PERSON
+quod-lib-umich-edu-5619	251	2	T., & Alexiou	ORG
+quod-lib-umich-edu-5619	251	3	K. (2007	GPE
+quod-lib-umich-edu-5619	253	1	28(4	DATE
+quod-lib-umich-edu-5619	254	1	http://www.ida.liu.se/divisions/hcs/ixs/material/DesResMeth09/Theory/anticipation.pdf Zimmer	PERSON
+quod-lib-umich-edu-5619	254	2	2008	DATE
+quod-lib-umich-edu-5619	255	1	Search	ORG
+quod-lib-umich-edu-5619	256	1	First	ORDINAL
+quod-lib-umich-edu-5619	256	2	Monday	DATE
+quod-lib-umich-edu-5619	256	3	13(3	GPE
+quod-lib-umich-edu-5619	257	1	1	CARDINAL
+quod-lib-umich-edu-5619	257	2	hundred	CARDINAL
+quod-lib-umich-edu-5619	257	3	one	CARDINAL
+quod-lib-umich-edu-5619	257	4	three	CARDINAL
+quod-lib-umich-edu-5619	257	5	Appendix 2:	PRODUCT
+quod-lib-umich-edu-5619	257	6	qToken	MONEY
+quod-lib-umich-edu-5619	257	7	cueWords	MONEY
+quod-lib-umich-edu-5619	257	8	Current Conditions	LAW
+quod-lib-umich-edu-5619	257	9	  	DATE
+quod-lib-umich-edu-5619	257	10	query.lower	DATE
+quod-lib-umich-edu-5619	257	11	Current Conditions	ORG
+quod-lib-umich-edu-5619	257	12	3	CARDINAL
+quod-lib-umich-edu-5619	257	13	cueUserAgentWords	MONEY
+quod-lib-umich-edu-5619	257	14	Mozilla/5.0 (Macintosh	GPE
+quod-lib-umich-edu-5619	257	15	Intel	ORG
+quod-lib-umich-edu-5619	257	16	KHTML	PERSON
+quod-lib-umich-edu-5619	257	17	Gecko	PERSON
+quod-lib-umich-edu-5619	257	18	  	DATE
+quod-lib-umich-edu-5619	257	19	cueUserAgentWords	MONEY
+quod-lib-umich-edu-5619	258	1	Tom Anthony’s	PERSON
+quod-lib-umich-edu-5619	259	1	2011	DATE
+quod-lib-umich-edu-5619	259	2	https://www.lib.montana.edu/~jason/files/geolocate/.	ORG
+quod-lib-umich-edu-5619	260	1	OCLC	ORG
+quod-lib-umich-edu-5619	261	1	Khodabandelou	GPE
+quod-lib-umich-edu-5619	262	1	Intention Mining	ORG
+quod-lib-umich-edu-5619	262	2	actors’	ORG
+quod-lib-umich-edu-5619	262	3	actors’	ORG
+quod-lib-umich-edu-5619	262	4	2013	DATE
+quod-lib-umich-edu-5619	262	5	1	CARDINAL
+quod-lib-umich-edu-5619	264	1	NLTK	ORG
+quod-lib-umich-edu-5619	264	2	one	CARDINAL
+quod-lib-umich-edu-5619	264	3	http://www.nltk.org/.	ORG
+quod-lib-umich-edu-5619	266	1	HTTP	ORG
+quod-lib-umich-edu-5619	268	1	HTTP	ORG
+quod-lib-umich-edu-5619	268	2	http://en.wikipedia.org/wiki/List_of_HTTP_header_fields	ORG
+quod-lib-umich-edu-5619	269	1	Telize	GPE
+quod-lib-umich-edu-5619	269	2	http://www.telize.com/	GPE
+quod-lib-umich-edu-5619	269	3	JSON API	PERSON
+quod-lib-umich-edu-5619	270	1	HTML5	PERSON
+quod-lib-umich-edu-5619	272	1	Privacy	WORK_OF_ART
+quod-lib-umich-edu-5619	273	1	Hosted	ORG
+quod-lib-umich-edu-5619	273	2	Michigan Publishing	ORG
+quod-lib-umich-edu-5619	273	3	the University of Michigan Library	ORG
+quod-lib-umich-edu-5619	274	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-5619	274	2	Twitter Email RSS	ORG

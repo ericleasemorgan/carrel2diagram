@@ -1,0 +1,943 @@
+{
+    "nodes": [
+        {
+            "id": "",
+            "group": 1
+        },
+        {
+            "id": "hades",
+            "group": 1
+        },
+        {
+            "id": "eupeithes",
+            "group": 1
+        },
+        {
+            "id": "peleus",
+            "group": 1
+        },
+        {
+            "id": "apollo",
+            "group": 1
+        },
+        {
+            "id": "antinous",
+            "group": 1
+        },
+        {
+            "id": "argive",
+            "group": 1
+        },
+        {
+            "id": "telemachus",
+            "group": 1
+        },
+        {
+            "id": "ulysses",
+            "group": 1
+        },
+        {
+            "id": "rumour",
+            "group": 1
+        },
+        {
+            "id": "sir",
+            "group": 1
+        },
+        {
+            "id": "medon",
+            "group": 1
+        },
+        {
+            "id": "laertes",
+            "group": 1
+        },
+        {
+            "id": "Mount",
+            "group": 1
+        },
+        {
+            "id": "heaven",
+            "group": 1
+        },
+        {
+            "id": "penelope",
+            "group": 1
+        },
+        {
+            "id": "cyllene",
+            "group": 1
+        },
+        {
+            "id": "ghosts",
+            "group": 1
+        },
+        {
+            "id": "hellespont",
+            "group": 1
+        },
+        {
+            "id": "amphimedon",
+            "group": 1
+        },
+        {
+            "id": "happy",
+            "group": 1
+        },
+        {
+            "id": "oceanus",
+            "group": 1
+        },
+        {
+            "id": "ithaca",
+            "group": 1
+        },
+        {
+            "id": "alybas",
+            "group": 1
+        },
+        {
+            "id": "antilochus",
+            "group": 1
+        },
+        {
+            "id": "minerva",
+            "group": 1
+        },
+        {
+            "id": "tyndareus",
+            "group": 1
+        },
+        {
+            "id": "troy",
+            "group": 1
+        },
+        {
+            "id": "menelaus",
+            "group": 1
+        },
+        {
+            "id": "achilles",
+            "group": 1
+        },
+        {
+            "id": "icarius",
+            "group": 1
+        },
+        {
+            "id": "father",
+            "group": 1
+        },
+        {
+            "id": "mastor",
+            "group": 1
+        },
+        {
+            "id": "polypemon",
+            "group": 1
+        },
+        {
+            "id": "house",
+            "group": 1
+        },
+        {
+            "id": "agamemnon",
+            "group": 1
+        },
+        {
+            "id": "neptune",
+            "group": 1
+        },
+        {
+            "id": "argos",
+            "group": 1
+        },
+        {
+            "id": "eperitus",
+            "group": 1
+        },
+        {
+            "id": "vulcan",
+            "group": 1
+        },
+        {
+            "id": "sicania",
+            "group": 1
+        },
+        {
+            "id": "elis",
+            "group": 1
+        },
+        {
+            "id": "philoetius",
+            "group": 1
+        },
+        {
+            "id": "thither",
+            "group": 1
+        },
+        {
+            "id": "aegisthus",
+            "group": 1
+        },
+        {
+            "id": "eumaeus",
+            "group": 1
+        },
+        {
+            "id": "parnassus",
+            "group": 1
+        },
+        {
+            "id": "leucas",
+            "group": 1
+        },
+        {
+            "id": "patroclus",
+            "group": 1
+        },
+        {
+            "id": "saturn",
+            "group": 1
+        },
+        {
+            "id": "thetis",
+            "group": 1
+        },
+        {
+            "id": "phemius",
+            "group": 1
+        },
+        {
+            "id": "mentor",
+            "group": 1
+        },
+        {
+            "id": "atreus",
+            "group": 1
+        },
+        {
+            "id": "ajax",
+            "group": 1
+        },
+        {
+            "id": "jove",
+            "group": 1
+        },
+        {
+            "id": "son",
+            "group": 1
+        },
+        {
+            "id": "dolius",
+            "group": 1
+        },
+        {
+            "id": "autolycus",
+            "group": 1
+        },
+        {
+            "id": "pylos",
+            "group": 1
+        },
+        {
+            "id": "suitors",
+            "group": 1
+        },
+        {
+            "id": "mercury",
+            "group": 1
+        },
+        {
+            "id": "nestor",
+            "group": 1
+        },
+        {
+            "id": "arceisius",
+            "group": 1
+        },
+        {
+            "id": "apheidas",
+            "group": 1
+        },
+        {
+            "id": "sicel",
+            "group": 1
+        },
+        {
+            "id": "meantime",
+            "group": 1
+        },
+        {
+            "id": "olympus",
+            "group": 1
+        },
+        {
+            "id": "nericum",
+            "group": 1
+        },
+        {
+            "id": "attack",
+            "group": 1
+        },
+        {
+            "id": "concludes",
+            "group": 1
+        },
+        {
+            "id": "bacchus",
+            "group": 1
+        },
+        {
+            "id": "melaneus",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "hades",
+            "target": "ulysses",
+            "value": 1.0
+        },
+        {
+            "source": "hades",
+            "target": "ghosts",
+            "value": 1.0
+        },
+        {
+            "source": "hades",
+            "target": "ithaca",
+            "value": 1.0
+        },
+        {
+            "source": "hades",
+            "target": "minerva",
+            "value": 1.0
+        },
+        {
+            "source": "hades",
+            "target": "house",
+            "value": 1.0
+        },
+        {
+            "source": "hades",
+            "target": "suitors",
+            "value": 1.0
+        },
+        {
+            "source": "hades",
+            "target": "attack",
+            "value": 1.0
+        },
+        {
+            "source": "hades",
+            "target": "concludes",
+            "value": 1.0
+        },
+        {
+            "source": "peleus",
+            "target": "antilochus",
+            "value": 2.0
+        },
+        {
+            "source": "peleus",
+            "target": "troy",
+            "value": 1.0
+        },
+        {
+            "source": "peleus",
+            "target": "achilles",
+            "value": 1.0
+        },
+        {
+            "source": "peleus",
+            "target": "agamemnon",
+            "value": 2.0
+        },
+        {
+            "source": "peleus",
+            "target": "argos",
+            "value": 1.0
+        },
+        {
+            "source": "peleus",
+            "target": "patroclus",
+            "value": 2.0
+        },
+        {
+            "source": "peleus",
+            "target": "ajax",
+            "value": 2.0
+        },
+        {
+            "source": "apollo",
+            "target": "minerva",
+            "value": 1.0
+        },
+        {
+            "source": "apollo",
+            "target": "father",
+            "value": 1.0
+        },
+        {
+            "source": "apollo",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "apollo",
+            "target": "nericum",
+            "value": 1.0
+        },
+        {
+            "source": "telemachus",
+            "target": "ulysses",
+            "value": 1.0
+        },
+        {
+            "source": "telemachus",
+            "target": "philoetius",
+            "value": 1.0
+        },
+        {
+            "source": "telemachus",
+            "target": "eumaeus",
+            "value": 1.0
+        },
+        {
+            "source": "telemachus",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "ulysses",
+            "target": "ghosts",
+            "value": 1.0
+        },
+        {
+            "source": "ulysses",
+            "target": "ithaca",
+            "value": 2.0
+        },
+        {
+            "source": "ulysses",
+            "target": "minerva",
+            "value": 1.0
+        },
+        {
+            "source": "ulysses",
+            "target": "house",
+            "value": 2.0
+        },
+        {
+            "source": "ulysses",
+            "target": "dolius",
+            "value": 1.0
+        },
+        {
+            "source": "ulysses",
+            "target": "suitors",
+            "value": 1.0
+        },
+        {
+            "source": "ulysses",
+            "target": "attack",
+            "value": 2.0
+        },
+        {
+            "source": "ulysses",
+            "target": "concludes",
+            "value": 1.0
+        },
+        {
+            "source": "sir",
+            "target": "heaven",
+            "value": 1.0
+        },
+        {
+            "source": "medon",
+            "target": "ithaca",
+            "value": 1.0
+        },
+        {
+            "source": "medon",
+            "target": "phemius",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "penelope",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "happy",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "ithaca",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "minerva",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "icarius",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "agamemnon",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "saturn",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "dolius",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "arceisius",
+            "value": 1.0
+        },
+        {
+            "source": "laertes",
+            "target": "sicel",
+            "value": 2.0
+        },
+        {
+            "source": "heaven",
+            "target": "eperitus",
+            "value": 1.0
+        },
+        {
+            "source": "heaven",
+            "target": "sicania",
+            "value": 1.0
+        },
+        {
+            "source": "penelope",
+            "target": "happy",
+            "value": 1.0
+        },
+        {
+            "source": "penelope",
+            "target": "icarius",
+            "value": 1.0
+        },
+        {
+            "source": "penelope",
+            "target": "agamemnon",
+            "value": 1.0
+        },
+        {
+            "source": "cyllene",
+            "target": "mercury",
+            "value": 1.0
+        },
+        {
+            "source": "ghosts",
+            "target": "ithaca",
+            "value": 1.0
+        },
+        {
+            "source": "ghosts",
+            "target": "minerva",
+            "value": 1.0
+        },
+        {
+            "source": "ghosts",
+            "target": "house",
+            "value": 1.0
+        },
+        {
+            "source": "ghosts",
+            "target": "suitors",
+            "value": 1.0
+        },
+        {
+            "source": "ghosts",
+            "target": "attack",
+            "value": 1.0
+        },
+        {
+            "source": "ghosts",
+            "target": "concludes",
+            "value": 1.0
+        },
+        {
+            "source": "amphimedon",
+            "target": "ithaca",
+            "value": 1.0
+        },
+        {
+            "source": "amphimedon",
+            "target": "agamemnon",
+            "value": 2.0
+        },
+        {
+            "source": "amphimedon",
+            "target": "atreus",
+            "value": 1.0
+        },
+        {
+            "source": "amphimedon",
+            "target": "melaneus",
+            "value": 1.0
+        },
+        {
+            "source": "happy",
+            "target": "icarius",
+            "value": 1.0
+        },
+        {
+            "source": "happy",
+            "target": "agamemnon",
+            "value": 1.0
+        },
+        {
+            "source": "oceanus",
+            "target": "leucas",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "minerva",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "mastor",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "house",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "agamemnon",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "suitors",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "arceisius",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "attack",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "concludes",
+            "value": 1.0
+        },
+        {
+            "source": "ithaca",
+            "target": "melaneus",
+            "value": 1.0
+        },
+        {
+            "source": "antilochus",
+            "target": "achilles",
+            "value": 1.0
+        },
+        {
+            "source": "antilochus",
+            "target": "vulcan",
+            "value": 1.0
+        },
+        {
+            "source": "antilochus",
+            "target": "patroclus",
+            "value": 3.0
+        },
+        {
+            "source": "antilochus",
+            "target": "ajax",
+            "value": 1.0
+        },
+        {
+            "source": "antilochus",
+            "target": "bacchus",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "father",
+            "value": 2.0
+        },
+        {
+            "source": "minerva",
+            "target": "house",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "saturn",
+            "value": 2.0
+        },
+        {
+            "source": "minerva",
+            "target": "mentor",
+            "value": 2.0
+        },
+        {
+            "source": "minerva",
+            "target": "jove",
+            "value": 3.0
+        },
+        {
+            "source": "minerva",
+            "target": "son",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "suitors",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "meantime",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "olympus",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "nericum",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "attack",
+            "value": 1.0
+        },
+        {
+            "source": "minerva",
+            "target": "concludes",
+            "value": 1.0
+        },
+        {
+            "source": "troy",
+            "target": "menelaus",
+            "value": 1.0
+        },
+        {
+            "source": "troy",
+            "target": "agamemnon",
+            "value": 1.0
+        },
+        {
+            "source": "troy",
+            "target": "argos",
+            "value": 1.0
+        },
+        {
+            "source": "troy",
+            "target": "atreus",
+            "value": 1.0
+        },
+        {
+            "source": "troy",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "troy",
+            "target": "son",
+            "value": 1.0
+        },
+        {
+            "source": "achilles",
+            "target": "patroclus",
+            "value": 1.0
+        },
+        {
+            "source": "achilles",
+            "target": "ajax",
+            "value": 1.0
+        },
+        {
+            "source": "icarius",
+            "target": "agamemnon",
+            "value": 1.0
+        },
+        {
+            "source": "father",
+            "target": "saturn",
+            "value": 1.0
+        },
+        {
+            "source": "father",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "father",
+            "target": "nericum",
+            "value": 1.0
+        },
+        {
+            "source": "polypemon",
+            "target": "apheidas",
+            "value": 1.0
+        },
+        {
+            "source": "house",
+            "target": "suitors",
+            "value": 1.0
+        },
+        {
+            "source": "house",
+            "target": "attack",
+            "value": 1.0
+        },
+        {
+            "source": "house",
+            "target": "concludes",
+            "value": 1.0
+        },
+        {
+            "source": "agamemnon",
+            "target": "argos",
+            "value": 1.0
+        },
+        {
+            "source": "agamemnon",
+            "target": "atreus",
+            "value": 1.0
+        },
+        {
+            "source": "agamemnon",
+            "target": "melaneus",
+            "value": 1.0
+        },
+        {
+            "source": "eperitus",
+            "target": "sicania",
+            "value": 1.0
+        },
+        {
+            "source": "vulcan",
+            "target": "patroclus",
+            "value": 1.0
+        },
+        {
+            "source": "vulcan",
+            "target": "bacchus",
+            "value": 1.0
+        },
+        {
+            "source": "elis",
+            "target": "pylos",
+            "value": 1.0
+        },
+        {
+            "source": "philoetius",
+            "target": "eumaeus",
+            "value": 2.0
+        },
+        {
+            "source": "thither",
+            "target": "pylos",
+            "value": 1.0
+        },
+        {
+            "source": "aegisthus",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "patroclus",
+            "target": "ajax",
+            "value": 1.0
+        },
+        {
+            "source": "patroclus",
+            "target": "bacchus",
+            "value": 1.0
+        },
+        {
+            "source": "saturn",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "mentor",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "atreus",
+            "target": "jove",
+            "value": 1.0
+        },
+        {
+            "source": "atreus",
+            "target": "son",
+            "value": 1.0
+        },
+        {
+            "source": "jove",
+            "target": "son",
+            "value": 1.0
+        },
+        {
+            "source": "jove",
+            "target": "olympus",
+            "value": 1.0
+        },
+        {
+            "source": "jove",
+            "target": "nericum",
+            "value": 1.0
+        },
+        {
+            "source": "dolius",
+            "target": "sicel",
+            "value": 1.0
+        },
+        {
+            "source": "suitors",
+            "target": "attack",
+            "value": 1.0
+        },
+        {
+            "source": "suitors",
+            "target": "concludes",
+            "value": 1.0
+        },
+        {
+            "source": "attack",
+            "target": "concludes",
+            "value": 1.0
+        }
+    ]
+}

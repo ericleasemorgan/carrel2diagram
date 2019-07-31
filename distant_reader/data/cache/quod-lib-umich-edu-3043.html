@@ -1,0 +1,665 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01+RDFa 1.1//EN" "http://www.w3.org/MarkUp/DTD/html401-rdfa11-1.dtd">
+<html xmlns:ns_1="xmlns" ns_1:dc="http://purl.org/dc/elements/1.1/" class="" lang="en">
+<head profile="http://purl.org/NET/erdf/profile">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="canonical" href="http://dx.doi.org/10.3998/weave.12535642.0001.401">
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://quod.lib.umich.edu/w/weave/longfeed.xml">
+<title>Speed Matters: Performance Enhancements for Library Websites</title>
+
+          <!--[if ! lte IE 6]><!-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/m/mpubs/styles/jquery-ui.css">
+          <!--<![endif]-->
+        
+          <!--[if ! lte IE 6]><!-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/m/mpubs/styles/mpubs.css">
+          <!--<![endif]-->
+        
+          <!--[if ! lte IE 6]><!-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/m/mpubserials/styles/mpubs.css">
+          <!--<![endif]-->
+        
+          <!--[if ! lte IE 6]><!-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/m/mpubs/styles/static.css">
+          <!--<![endif]-->
+        
+          <!--[if ! lte IE 6]><!-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/m/mpubs/styles/footer.css">
+          <!--<![endif]-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/m/mpubs/styles/print.css" media="print">
+
+          <!--[if ! lte IE 6]><!-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/m/mpubs/styles/custom.css">
+          <!--<![endif]-->
+        
+          <!--[if ! lte IE 6]><!-->
+        <link rel="stylesheet" type="text/css" href="https://quod.lib.umich.edu/w/weave/styles/custom.css">
+          <!--<![endif]-->
+        
+      <!--[if ! lte IE 6]><!-->
+    
+      <!--<![endif]-->
+    <!--[if lte IE 6]>
+      <link rel="stylesheet" href="/m/mpubserials/styles/external/universal-ie6.1.1.css" media="screen, projection">
+      <link rel="stylesheet" href="/m/mpubserials/styles/ie6.css" media="screen, projection">
+    <![endif]-->
+    <script type="text/javascript" src="https://quod.lib.umich.edu/m/mpubs/js/jquery.js"></script>
+    <script type="text/javascript" src="https://quod.lib.umich.edu/m/mpubs/js/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://quod.lib.umich.edu/m/mpubs/js/library.js"></script>
+    <meta name="DC.title" content="Speed Matters: Performance Enhancements for Library Websites">
+    <meta name="citation_title" content="Speed Matters: Performance Enhancements for Library Websites">
+    <meta name="DC.creator" content="Young, Scott W. H.">
+    <meta name="citation_author" content="Young, Scott W. H.">
+    <meta name="DC.date" content="2016">
+    <meta name="DC.issued" content="2016">
+    <meta name="citation_publication_date" content="2016">
+    <meta name="citation_online_date" content="2016">
+    <meta name="DC.date" content="2016-03">
+    <meta name="DC.relation.ispartof" content="Weave: Journal of Library User Experience">
+    <meta name="citation_journal_title" content="Weave: Journal of Library User Experience">
+    <meta name="citation_issn" content="2333-3316">
+    <meta name="DC.citation.volume" content="1">
+    <meta name="citation_volume" content="1">
+    <meta name="DC.citation.issue" content="4">
+    <meta name="citation_issue" content="4">
+    <meta name="DC.identifier" content="10.3998/weave.12535642.0001.401">
+    <meta name="citation_doi" content="10.3998/weave.12535642.0001.401">
+    <meta name="DC.publisher" content="Michigan Publishing, University of Michigan Library">
+    <meta name="citation_publisher" content="Michigan Publishing, University of Michigan Library">
+<link href="https://fonts.googleapis.com/css?family=Julius+Sans+One" rel="stylesheet" type="text/css">
+<link href="https://quod.lib.umich.edu/w/weave/styles/12535642.0001.401.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="https://quod.lib.umich.edu/w/weave/js/library.js"></script>
+</head>
+<body class="encodedText">
+<div id="skipnav"><ul>
+<li><a href="quod-lib-umich-edu-3043.html#articlebody">Skip to main content</a></li>
+<li><a href="quod-lib-umich-edu-3043.html#q1">Skip to quick search</a></li>
+<li><a href="quod-lib-umich-edu-3043.html#globalnav">Skip to global navigation</a></li>
+</ul></div>
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fquod.umdl.umich.edu&amp;rft.title=Weave%3A+Journal+of+Library+User+Experience&amp;rft.jtitle=Weave%3A+Journal+of+Library+User+Experience&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Speed+Matters%3A+Performance+Enhancements+for+Library+Websites&amp;rft.au=Young,+Scott+W.+H.&amp;rft.date=2016&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2027%2Fspo.12535642.0001.401&amp;rft_id=info%3Adoi%2Fhttp%3A%2F%2Fdx.doi.org%2F10.3998%2Fweave.12535642.0001.401&amp;rft.volume=1&amp;rft.issue=4&amp;rft.issn=2333-3316"></span><div class="masthead-wrapper">
+<div id="masthead">
+<a name="top"></a><div id="logo">
+<h1><a href="http://weaveux.org" target="_top"><img src="https://quod.lib.umich.edu/w/weave/graphics/logo.png" alt="Weave Journal of Library User Experience" title="Weave" width="200"><span class="journal-subtitle">Journal of Library User Experience</span></a></h1>
+<p>Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.</p>
+</div>
+<div id="quicksearchwrapper"><form method="get" action="https://quod.lib.umich.edu/w/weave" id="simplesearch">
+<input type="hidden" name="type" value="simple"><input type="hidden" name="rgn" value="full text"><label for="quicksearch" class="hide">Quick search:</label><input type="text" name="q1" id="q1" title="quick search" placeholder="quick search"><input type="submit" value="Search"><div id="quicksearchtext"></div>
+</form></div>
+</div>
+<div id="globalactions"><div id="main_nav"><ul role="navigation">
+<li><a href="http://weaveux.org" target="_top">Current Issue: Vol. 2, Issue 1</a></li>
+<li><a href="https://quod.lib.umich.edu/w/weave/12535642.*" target="_top">Archive</a></li>
+<li><a href="https://quod.lib.umich.edu/w/weave/download-epub" target="_top">Download EPUBs</a></li>
+<li><a href="http://weaveux.org/submit" target="_top">Submit to Weave</a></li>
+</ul></div></div>
+</div>
+<div id="wrapper">
+<div class="maincontent"><div id="article"><div id="articlebody" name="articlebody">
+<!--false--><div class="content-top">
+<div id="header">
+<h1 class="title" property="dc:title">Speed Matters: Performance Enhancements for Library Websites<br>
+</h1>
+<div class="authors" property="dc:creator" content="Young, Scott W. H.">
+<div class="author">Scott W. H. Young</div>
+<div class="author-notes">MONTANA STATE UNIVERSITY</div>
+</div>
+<a href="quod-lib-umich-edu-3043.html#end-of-header" class="hide">Skip other details (including permanent urls, DOI, citation information)</a><div class="periodical">
+<a href="https://quod.lib.umich.edu/w/weave/12535642.0001?rgn=main;view=fulltext">Volume 1</a>, <a href="https://quod.lib.umich.edu/w/weave/12535642.0001.4*?rgn=main;view=fulltext">Issue 4</a>, <span property="dc:date">2016</span>
+</div>
+<div id="doi">
+<span class="metalabel">DOI</span>: <a href="http://dx.doi.org/10.3998/weave.12535642.0001.401">http://dx.doi.org/10.3998/weave.12535642.0001.401</a>
+</div>
+<div id="licenseinfo">
+<a xmlns:str="http://exslt.org/strings" rel="license" id="licenseicon" target="_blank" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png"></a>  <a id="licenselink"></a><div xmlns:str="http://exslt.org/strings" id="licensehover" class="displayNone"><span>Creative Commons 3.0 Attribution License</span></div>
+</div>
+<div id="licensetext" title="Permissions">
+<p><span id="licensetextlabel"><span class="metalabel">Permissions</span>: </span>This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.</p>
+<p>For more information, read Michigan Publishing's <a href="http://wiki.publishing.umich.edu/Access_and_Usage_Policy" target="_blank">access and usage policy</a>.</p>
+</div>
+</div>
+<a name="end-of-header"></a><div id="extras" class="popout">
+<ul class="extras">
+<li class="print"><a class="btn" title="Print article" href="javascript:window.print()">Print</a></li>
+<li class="share">
+<span class="btn">Share+</span><ul class="social">
+<li><a href="http://twitter.com/intent/tweet?text=Speed%20Matters:%20Performance%20Enhancements%20for%20Library%20Websites&amp;url=http://dx.doi.org/10.3998/weave.12535642.0001.401" title="Share on Twitter">Twitter
+            	</a></li>
+<li><a href="http://www.facebook.com/sharer.php?u=http://dx.doi.org/10.3998/weave.12535642.0001.401&amp;t=Speed%20Matters:%20Performance%20Enhancements%20for%20Library%20Websites" title="Share on Facebook">Facebook
+            	</a></li>
+<li><a href="http://www.reddit.com/submit?url=http://dx.doi.org/10.3998/weave.12535642.0001.401" title="Submit to Reddit">Reddit
+            	</a></li>
+<li><a href="http://www.mendeley.com/import/?url=http://dx.doi.org/10.3998/weave.12535642.0001.401" title="Save to Mendeley">Mendeley
+            	</a></li>
+</ul>
+</li>
+</ul>
+<div class="altmetric-embed" data-badge-type="1" data-badge-popover="bottom" data-hide-no-mentions="true" data-doi="10.3998/weave.12535642.0001.401"></div>
+</div>
+<span id="header-clear"></span>
+</div>
+<div>
+<p class="prelim">This paper was refereed by Weave's peer reviewers.</p>
+<a name="2"></a><h2>Abstract</h2>
+<p class="prelim">
+For a user, speed matters. A quick-loading web page facilitates a positive and pleasant user experience. In this article, I discuss the performance of 129 library websites, and detail a practical plan for addressing common performance issues.
+</p>
+<a name="3"></a><h2>Introduction and Context</h2>
+<div class="q1-epig">
+<div class="line">“Save the time of the reader.” </div>
+<div class="line">                             —Ranganathan</div>
+</div>
+<p>To the user, speed matters. The principle of “saving the time of the reader” was codified in 1931 as one of S. R. Ranganathan’s “Five Laws of Library Science.” Ranganathan’s defense of the user’s time finds new expression today through the web, where a fast library website can save the user’s time.  In this paper, I discuss the web performance of 129 library websites, and detail a step-by-step performance enhancement plan that I implemented successfully for my library’s website.</p>
+<p>The technical performance of the web has been a subject of study in the field of human-computer interaction and other computer science subfields for some time. The phrase “end-to-end” was one of the earliest terms of inquiry for web performance studies, used to describe the network process of routing information packets across the web (Bolot, 1993; Krishnamurthy &amp; Wills, 2000). A landmark study arrived in 1997, when Paxson investigated the nature of slow network connections and their impact on the end user. In examining network connections between different web servers across the country over two study periods—once in 1994 and again in 1995—Paxson found that the likelihood of a user encountering slow page load time more than doubled year-to-year, concluding that different sites encounter very different network routing characteristics that can affect the user’s experience with a web page (1997, p. 614). Paxson’s study demonstrated two fundamental and related aspects of web performance: networked systems such as the World Wide Web are increasingly complex and will consequently over time tend to become slower. </p>
+<p>Barford and Crovella described the situation in 1999 simply: “One of the most vexing questions facing researchers interested in the World Wide Web is why users often experience long delays in document retrieval…The question that motivates our work is a basic one: why is the web so slow?” (1999, p. 27).  Others at the time pointed a wry finger at the web, remarking that WWW is often associated with “World Wide Waiting.” (Charzinski, 2001, p. 37). Though not operating strictly within the context of user experience (UX), these early studies recognized that perceived slowness could affect the user’s satisfaction with a website. In a 2002 study of website usability, design, and performance, Palmer proposed that speed could serve as a success metric for websites, noting that the performance factors of a website are “relatively simple to measure...and have a significant linkage with site success” (2002, p. 164). Palmer’s suggestion can be readily applied to today’s UX environment, with web performance emerging as a key measure of the user’s experience. Stated directly, if your website is slow, your users’ experience will suffer.  </p>
+<p>More recent publications have reiterated the essential importance of speed. Hogan, in an excellent new book from O’Reilly,<span class="ptr" id="N1-ptr1"><a href="quod-lib-umich-edu-3043.html#N1">[1]</a></span> asserts that speed affects experience, especially in the context of the web, where “page load time and how fast your site feels is a large part of this user experience and should be weighed equally with the aesthetics of your site” (2014, p. 1). Hogan’s book echoes Paxson and others whose earlier research illustrated the growing complexity of the web and its resulting impact on performance: </p>
+<p></p>
+<div class="q1-block">
+<p>Collectively we are designing sites with increasingly rich content: lots of dynamic elements, larger JavaScript files, beautiful animations, complex graphics, and more. You may focus on optimizing design and layout, but those can come at the expense of page speed (Hogan, 2014, p. 8).</p>
+</div>
+<p>As web content continues to grow in size and complexity, three key measures can reveal basic performance impact: page weight, page requests, and page structure. </p>
+<ul class="bulleted">
+<li>
+<span class="rend-b">Page weight</span>—The combined file size of all the resources used to build a page, including markup, styles, scripts, images, and fonts. </li>
+<li>
+<span class="rend-b">Page requests</span>—The total number of resource files used to build a page. When a user loads a web page, the web browser requests various resources from a web server, and each request is transferred via HTTP to the browser, which then incrementally assembles the page content for the user. </li>
+<li>
+<span class="rend-b">Page structure</span>—The markup configuration that defines the sequence of steps used by the browser to assemble page resources, also known as the critical rendering path.<span class="ptr" id="N2-ptr1"><a href="quod-lib-umich-edu-3043.html#N2">[2]</a></span>
+</li>
+</ul>
+<p>Trend analysis of data from the <span class="ref"><a href="http:///httparchive.org/trends.php" target="_blank">HTTP Archive</a></span> shows that the average page weight for the World Wide Web has grown from 705 kB in 2010 to 2,194 kB in 2015, an increase of 211 percent. The average number of page requests has also increased 33 percent over that same time period, from 74 to 99. In general terms, the web is getting bigger and—without performance optimization—will likely get slower. </p>
+<p>To counterbalance the growing complexity of the web, we—web developers, web designers, librarians, user experience designers—must prioritize performance in our workflows by continually evaluating and optimizing for speed. This optimization work can be categorized into three primary areas: front-end optimization (focusing on web browser enhancements), back-end optimization (focusing on web server enhancements), and network optimization (focusing on network connection speeds). General best practices and techniques for web performance optimization across these three areas have been well documented, such as Steve Souder’s “<span class="ref"><a href="http://stevesouders.com/hpws/rules.php" target="_blank">14 Rules for Faster-Loading Web Sites</a></span>.” Entire websites, in fact, have been created strictly for web performance education—and with clever names too, like “<span class="ref"><a href="http://browserdiet.com" target="_blank">browserdiet.com</a></span>.” One of the best performance walk-throughs I’ve found is a presentation from Ilya Grigorik, a member of Google’s Make the Web Fast team, whose “<span class="ref"><a href="https://www.igvita.com/slides/2012/webperf-crash-course.pdf" target="_blank">Crash Course on Web Performance</a></span>” provides a clear and extensive overview of factors affecting web speed today. As an employee of Google, Grigorik articulates a crucial aspect of web performance in this overview: “Treat performance as a business metric, not a technical one” (Grigorik, 2012). With this statement, Grigorik appeals to a broad and inclusive vision of web performance, where the details of page load times are not the sole domain of web developers, but are instead relevant throughout an organization. The “business metric” is, in essence, the basic measure of success for any organization. For user-focused libraries, key measures of success include user satisfaction and frequency of use. A fast website benefits online users by saving time, ultimately creating satisfying experiences that lead to return visits. Brad Frost expresses this nicely: “Performance is about respect. Respect your users’ time and they will be more likely to walk away with a positive experience. Good performance is good design” (Frost, 2013). Hogan reiterates this point in calling for an organization-wide culture of performance, “The largest hurdle to creating and maintaining stellar site performance is the culture of your organization” (2014, p. 135).</p>
+<p>By creating cultures of performance and prioritizing speed, many organizations have affirmed the value of speed to the user. Twitter, for example, published a blog post recognizing that “to connect you to information in real time, it’s important for Twitter to be fast” (Twitter, 2012). In 2009, Google Research shared an experiment showing that a reduced-speed search results page had a measurable impact on the number of searches conducted (Brutlag, 2009). This theme has remained constant for Google, whose Chrome team reasserted in 2015, “Speed is one of the founding principles of Chrome. As the web evolves and sites take advantage of increasing capabilities, Chrome’s performance becomes even more important” (Schoen, 2015). Google Search also counts site speed as a signal in determining link placement in the search engine results page, noting, “Faster sites create happy users and we've seen in our internal studies that when a site responds slowly, visitors spend less time there” (Sighal &amp; Cutts, 2010). By recognizing the importance of speed, Mozilla generated a 15.4 percent increase in download conversions by improving the performance of its landing page by 2.2 seconds (Cutler, 2010). The user experience of web performance can produce other real-world effects, as with the Obama 2012 campaign fundraising website, which generated a 14 percent increase in donation conversions after launching with a 60 percent speed improvement over its previous iteration (Rush, 2012). A panoply of other public and private organizations have also prioritized web performance, including National Public Radio, GQ, Microsoft, and the New York Times (Cooper &amp; Bachorik, 2015; Moses, 2015; Web Performance Inc., 2010; Konigsburg, 2013). In service to their users and their bottom lines, these companies have achieved and documented a faster web, in effect providing answers to the researchers of the 1990s who asked, “Why is the web so slow?”</p>
+<p>As for library websites, web performance has not yet been treated at length in the library literature. In reviewing past publications, I found that performance is inconsistently applied as a principle of user-centered design or as a measure of user experience. In establishing a checklist of user-centered design principles for library websites, Raward includes a few items relating to speed, such as “Home page displays within 10 seconds with a 33.6 modem?” and “Is each page size under 70k?” (2001, p. 134). While these performance standards are now outdated, Raward effectively positions the principle of speed within a broader and more enduring context of user-centered design. Subsequent work, however, has not maintained a focus on performance best practices. In a study of the usability and design of nearly 1,500 public and academic library websites, researchers adapted a number of previous studies—including Raward’s checklist—in evaluating dozens of design criteria, but chose not to include any aspect of performance in their evaluation (Chow, 2014). In a similar analysis of Indiana public library websites, researchers evaluated over 100 different design elements, but performance was likewise not included (Thorpe &amp; Lukes, 2015). </p>
+<p>Where performance has been included, the topic typically appears briefly or indirectly within discussions of website usability and design. In a study of the factors affecting university library website design, Kim found that a majority of user survey respondents agreed that a library website is successful when “it lets me finish my project more quickly.” (2011, p. 99). The scope of Kim’s study, however, does not allow for an exploration into the details of this important performance-related finding. In a study of mobile website usability, Pendell and Bowman identify five primary problems encountered by users in mobile environments, including “unusually long page loading time” (2012, p. 54). But a discussion of exactly how to address long page loading time is beyond the scope of their work. In another study investigating the mobile user experience, Seeholzer and Salem found that users “were not very concerned with sites that were unformatted for mobile devices, as long as the sites loaded quickly” (2011, p. 19). Methods for developing quick-loading websites also fall out of the scope of their study. And Brown and Yunkin, in examining the history of website design at the University of Nevada – Las Vegas Libraries, report that the homepage was once described as “graphics-heavy and slow to load” (2014, p. 25). While recognizing specific issues such as slow page load, Brown and Yunkin ultimately offer only broad recommendations for library website design, such as “keep the user in mind.” </p>
+<p>So in keeping the user in mind, and with many other industries and disciplines examining and writing about the specifics of web performance, I wondered—how well do library websites perform? How widely are industry performance standards implemented in library websites? How can libraries prioritize and address performance issues? With this paper, I want to return to Ranganathan’s law by asking and answering the question: Do library websites save the time of the user? </p>
+<a name="4"></a><h2>Developing a Library Web Performance Enhancement Plan</h2>
+<p>The central research question of this project revolved around the performance of library websites, and I aimed ultimately to create a practical “Web Performance Enhancement Plan” that would be applicable for library websites and beneficial to library website users. In the course of my research, I found that most library websites fall below performance standards. I also found that there are clear and identifiable steps for addressing shortfalls that libraries can follow to improve the performance of their websites.</p>
+<p>In order to evaluate the speed of library websites and to develop a relevant performance enhancement plan, I examined the performance of 129 library websites during the period of February–September 2015. Institutions were selected from the member list of the <span class="ref"><a href="http://www.diglib.org/about/" target="_blank">Digital Library Federation</a></span>, a community of web and digital practitioners whose membership includes a range of small, medium, and large academic libraries from across North America. In working from the membership list, I aimed to create a representative sample of library websites for performance evaluation. For each library website, I evaluated the performance of the homepage, as an example of a primary starting point and landing page for users, and the “about” page, as an example of a common secondary page. </p>
+<div class="textindentlevelx">
+<a name="4.1"></a><h3><span class="rend-i">Performance Diagnostic Tools</span></h3>
+<p>Performance testing was conducted using two leading diagnostic tools, Yahoo’s <span class="ref"><a href="http://yslow.org/" target="_blank">YSlow</a></span> and Google’s <span class="ref"><a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">PageSpeed Insights</a></span>. These tools perform an automated evaluation of a given web page’s URL, measuring the performance of each web page against a set of rules and producing a score for each rule. PageSpeed Insights evaluates ten different performance rules, with three possible scores for each rule: passed rules, consider fixing, should fix.<span class="ptr" id="N3-ptr1"><a href="quod-lib-umich-edu-3043.html#N3">[3]</a></span> Google’s documentation further explains these terms: “passed rules” indicates that no significant issues were found for a given rule; “consider fixing” indicates that a rule should be addressed if it wouldn’t involve a lot of work; and “should fix” indicates that addressing a given rule would have a measurable impact on page performance. YSlow tests twenty-three different performance rules, with six possible scores for each: A, B, C, D, E, F.<span class="ptr" id="N4-ptr1"><a href="quod-lib-umich-edu-3043.html#N4">[4]</a></span> Each tool then produces a single overall numerical score—based out of one hundred—generated from the aggregate scores across all rules.  During the evaluation process, I also recorded other key metrics: HTTP requests, page weight, and image weight.<span class="ptr" id="N5-ptr1"><a href="quod-lib-umich-edu-3043.html#N5">[5]</a></span> </p>
+<div class="q1-block">
+<p>Google PageSpeed Insights—Performance Rules</p>
+<ul class="bulleted">
+<li>Leverage browser caching</li>
+<li>Eliminate render-blocking JavaScript and CSS</li>
+<li>Enable compression</li>
+<li>Optimize images</li>
+<li>Minify CSS</li>
+<li>Minify JavaScript</li>
+<li>Minify HTML</li>
+<li>Avoid landing page redirects</li>
+<li>Prioritize visible content</li>
+<li>Reduce server response time</li>
+</ul>
+<p>Yahoo YSlow—Performance Rules </p>
+<ul class="bulleted">
+<li>Make fewer HTTP requests</li>
+<li>Use a content delivery network (CDN)</li>
+<li>Avoid empty <span class="rend-code">src</span> or <span class="rend-code">href</span>
+</li>
+<li>Add expires headers</li>
+<li>Compress components with gzip</li>
+<li>Put CSS at top</li>
+<li>Put JavaScript at bottom</li>
+<li>Avoid CSS expressions</li>
+<li>Make JavaScript and CSS external</li>
+<li>Reduce DNS lookups</li>
+<li>Minify JavaScript and CSS</li>
+<li>Avoid URL redirects</li>
+<li>Remove duplicate JavaScript and CSS</li>
+<li>Configure entity tags (ETags)</li>
+<li>Make AJAX cacheable</li>
+<li>Use GET for AJAX requests</li>
+<li>Reduce the number of DOM elements</li>
+<li>Avoid HTTP 404 error</li>
+<li>Reduce cookie size</li>
+<li>Use cookie-free domains</li>
+<li>Avoid <span class="rend-code">AlphaImageLoader</span> filter</li>
+<li>Do not scale images in HTML</li>
+<li>Make favicon small and cacheable</li>
+</ul>
+</div>
+<div class="textindentlevelx">
+<a name="4.1.1"></a><h4><span class="rend-i">Library Web Performance—Homepage</span></h4>
+<p>A histogram of overall scores for library homepages from PageSpeed Insights (fig. 1) and YSlow (fig. 2) shows the distribution of scores produced from each tool. The median PageSpeed Insights score was 65, and the median YSlow score was 73.  These diagnostic tests revealed that library website homepages can indeed be improved. PageSpeed Insights documentation states that a score of 85 or above indicates that the page is performing well, and while YSlow has not published score guidelines, a higher score is generally considered to be better. Two key measures further demonstrate the current state of library website homepage performance: page weight (fig. 3) and HTTP requests (fig. 4).  The median page weight for library homepages was 967 kB, and the median number of HTTP requests was 48. Since various pages may be more or less complex in design, there is no exact performance benchmark for page weight and HTTP requests. This analysis intends to convey the relative states of library websites included in the performance dataset.</p>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000001-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000001.png" alt="Figure 1. Histogram of PageSpeed Insight scores for library website homepages (n=129)." title="Figure 1. Histogram of PageSpeed Insight scores for library website homepages (n=129)." class="thumbfigure"></a><div class="head">Figure 1. Histogram of PageSpeed Insight scores for library website homepages (n=129).</div>
+</div>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000002-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000002.png" alt="Figure 2. Histogram of YSlow scores for library website homepage scores (n=129)." title="Figure 2. Histogram of YSlow scores for library website homepage scores (n=129)." class="thumbfigure"></a><div class="head">Figure 2. Histogram of YSlow scores for library website homepage scores (n=129).</div>
+</div>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000003-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000003.png" alt="Figure 3. Histogram of page weight for library website homepages (n=129)." title="Figure 3. Histogram of page weight for library website homepages (n=129)." class="thumbfigure"></a><div class="head">Figure 3. Histogram of page weight for library website homepages (n=129).</div>
+</div>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000004-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000004.png" alt="Figure 4. Histogram of HTTP requests for library website homepages (n=129)" title="Figure 4. Histogram of HTTP requests for library website homepages (n=129)" class="thumbfigure"></a><div class="head">Figure 4. Histogram of HTTP requests for library website homepages (n=129)</div>
+</div>
+</div>
+<div class="textindentlevelx">
+<a name="4.1.2"></a><h4><span class="rend-i">Library Web Performance—About Page</span></h4>
+<p>Analysis of library website about pages produced similar results. Ten library websites did not feature a discernable about page, and so the dataset for about pages includes 119 library websites. A histogram of scores for library about pages from PageSpeed Insights (fig. 5) and YSlow (fig. 6) shows the distribution of scores produced from each tool. The median PageSpeed Insights score was 72, and the median YSlow score was 75. While moderately improved over the homepages, the diagnostic tools revealed that library website about pages can also be improved. Results for page weight (fig. 7) and HTTP requests (fig. 8) for about pages reveal that they are lighter than homepages and request fewer HTTP resources. The median page weight for library about pages was 601 kB, and the median number of HTTP requests was 35. </p>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000005-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000005.png" alt="Figure 5. Histogram of PageSpeed Insights scores for library website about pages (n=119)." title="Figure 5. Histogram of PageSpeed Insights scores for library website about pages (n=119)." class="thumbfigure"></a><div class="head">Figure 5. Histogram of PageSpeed Insights scores for library website about pages (n=119).</div>
+</div>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000006-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000006.png" alt="Figure 6. Histogram of YSlow scores for library website about pages (n=119)" title="Figure 6. Histogram of YSlow scores for library website about pages (n=119)" class="thumbfigure"></a><div class="head">Figure 6. Histogram of YSlow scores for library website about pages (n=119)</div>
+</div>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000007-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000007.png" alt="Figure 7. Histogram of page weight for library website about pages (n=119)" title="Figure 7. Histogram of page weight for library website about pages (n=119)" class="thumbfigure"></a><div class="head">Figure 7. Histogram of page weight for library website about pages (n=119)</div>
+</div>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000008-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000008.png" alt="Figure 8. Histogram of HTTP requests for library website about pages (n=119)." title="Figure 8. Histogram of HTTP requests for library website about pages (n=119)." class="thumbfigure"></a><div class="head">Figure 8. Histogram of HTTP requests for library website about pages (n=119).</div>
+</div>
+</div>
+</div>
+<div class="textindentlevelx">
+<a name="4.2"></a><h3><span class="rend-i">Performance Rules</span></h3>
+<p>To take a deeper dive into the results, I then looked at the individual performance rules of library website homepages and about pages as scored by both PageSpeed Insights (fig. 9) and YSlow (fig. 10). For the purposes of data analysis, I converted each tool’s rule measurement scores to numerical scores. PageSpeed Insights scores were converted to a 2-point scale, with 2 for “passed rules,” 1 for “consider fixing,” and 0 for “should fix.” YSlow scores were converted to a 5-point scale, with 5 for an A, 4 for a B, 3 for a C, 2 for a D, 1 for an E, and 0 for an F. I aggregated the results for all institutions and generated average mean ratings for each performance rule analyzed by PageSpeed Insights and YSlow. While not directly comparable, these two scales effectively show performance relative to their respective rules and scoring systems.</p>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000009-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000009.png" alt="Figure 9. Distribution of PageSpeed Insights scores by performance rule for library homepages (n=129) and about pages (n=119). Higher score indicates better performance." title="Figure 9. Distribution of PageSpeed Insights scores by performance rule for library homepages (n=129) and about pages (n=119). Higher score indicates better performance." class="thumbfigure"></a><div class="head">Figure 9. Distribution of PageSpeed Insights scores by performance rule for library homepages (n=129) and about pages (n=119). Higher score indicates better performance.</div>
+</div>
+<div class="figure">
+<a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000010-lg.png"><img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.401-00000010.png" alt="Figure 10. Distribution of YSlow scores by performance rule for library homepages (n=129) and about pages (n=119). Higher score indicates better performance." title="Figure 10. Distribution of YSlow scores by performance rule for library homepages (n=129) and about pages (n=119). Higher score indicates better performance." class="thumbfigure"></a><div class="head">Figure 10. Distribution of YSlow scores by performance rule for library homepages (n=129) and about pages (n=119). Higher score indicates better performance.</div>
+</div>
+<p>With its granularity, this process helped identify strengths and weaknesses in the performance of the library websites included in the dataset. Results show that library website homepages and about pages scored widely across a range of performance rules. </p>
+<p>The score distributions also allowed for a further categorization of results that informed the creation of a priority list of performance enhancements—the Library Web Performance Enhancement Plan. I formed three categories of performance rules according to the scores produced by PageSpeed Insights (Table 1) and YSlow (Table 2): High-Scoring, Medium-Scoring, and Low-Scoring. High-scoring rules scored an average between 1.5 and 2 from PageSpeed Insights and between 4 and 5 from YSlow; medium-scoring rules scored an average between 1 and 1.5 from PageSpeed Insights and between 2 and 4 from YSlow; low-scoring rules scored an average between 0 and 1 from PageSpeed Insights and between 0 and 2 from YSlow.</p>
+<div class="HEAD"><strong><em>Table 1. Google PageSpeed Insights, sorted results—library website homepages and about pages.</em></strong></div>
+<table border="1" REND="data-table" BORDER="1" class="xmltable-rend-data-table">
+<tr>
+<th class="xmltd">High-Scoring Rules</th>
+<th class="xmltd">Medium-Scoring Rules</th>
+<th class="xmltd">Low-Scoring Rules</th>
+</tr>
+<tr>
+<td class="xmltd"><ul class="bulleted">
+<li>Avoid landing page redirects</li>
+<li>Prioritize visible content</li>
+<li>Reduce server response time</li>
+</ul></td>
+<td class="xmltd"><ul class="bulleted">
+<li>Minify CSS</li>
+<li>Minify HTML</li>
+<li>Minify JavaScript</li>
+</ul></td>
+<td class="xmltd"><ul class="bulleted">
+<li>Optimize images </li>
+<li>Enable compression </li>
+<li>Leverage browser caching</li>
+<li>Eliminate render-blocking JavaScript and CSS</li>
+</ul></td>
+</tr>
+</table>
+<div class="HEAD"><strong><em>Table 2. Yahoo YSlow, sorted results— library website homepages and about pages.</em></strong></div>
+<table border="1" REND="data-table" BORDER="1" class="xmltable-rend-data-table">
+<tr>
+<th class="xmltd">High-Scoring Rules</th>
+<th class="xmltd">Medium-Scoring Rules</th>
+<th class="xmltd">Low-Scoring Rules</th>
+</tr>
+<tr>
+<td class="xmltd"><ul class="bulleted">
+<li>Avoid empty <span class="rend-code">src</span> or <span class="rend-code">href</span>
+</li>
+<li>Avoid URL redirects </li>
+<li>Make AJAX cacheable </li>
+<li>Remove duplicate JavaScript and CSS </li>
+<li>Use GET for AJAX requests </li>
+<li>Avoid HTTP 404 error </li>
+<li>Reduce cookie size </li>
+<li>Make favicon small and cacheable</li>
+<li>Avoid AlphaImageLoader filter </li>
+<li>Put CSS at top</li>
+<li>Avoid CSS expressions</li>
+<li>Reduce DNS lookups</li>
+<li>Reduce the number of DOM elements </li>
+<li>Do not scale images in HTML</li>
+</ul></td>
+<td class="xmltd"><ul class="bulleted">
+<li>Minify JavaScript and CSS</li>
+<li>Put JavaScript at bottom</li>
+<li>Compress components with gzip</li>
+</ul></td>
+<td class="xmltd"><ul class="bulleted">
+<li>Configure entity tags (ETags)</li>
+<li>Make fewer HTTP requests</li>
+<li>Add expires headers</li>
+<li>Use cookie-free domains</li>
+<li>Use a content delivery network (CDN)</li>
+</ul></td>
+</tr>
+</table>
+<p>From these three categories, I identified the most and least urgent performance issues present in the dataset. I considered rules that scored within the “high scoring” category to be less urgent, and so these rules were not included in the Web Performance Enhancement Plan. I considered rules that scored within the “medium scoring” and “low scoring” categories to be more urgent, and so these rules were included in the Web Performance Enhancement Plan. Fifteen unique rules from PageSpeed Insights and YSlow were categorized as medium or low performing, but many rules are similar, such as PageSpeed Insights’ “Enable compression” and YSlow’s “Compress components with Gzip.” This allowed for about half of the rules to be combined in the Web Performance Enhancement Plan. I considered two particular YSlow rules to be exceptions that were not included in the plan: “Use a content delivery network (CDN)” and “Use cookie-free domains.” These two rule’s low scores and potential urgency are outweighed by other factors. A CDN, a method for delivering web content from geographically distributed web servers—and typically an expensive third-party service—is not likely a justifiable purchase for many libraries who serve mostly local user communities. And while removing cookies from a web property will likely improve performance, it may not be feasible for libraries to follow the steps required to address this issue, such as creating multiple subdomains from which to serve static content. By curating a list of relevant performance rules, I aimed to create a high-impact and achievable Web Performance Enhancement Plan that would be applicable to the widest possible number of libraries. </p>
+<p>And so, armed with the results of my analysis of 129 library websites, I drafted the Library Web Performance Enhancement Plan. </p>
+<div class="q1-block">
+<p><span class="rend-b">Web Performance Enhancement Plan</span></p>
+<ol class="numbered">
+<li>Minify CSS and JavaScript</li>
+<li>Minify HTML </li>
+<li>Optimize images</li>
+<li>Reduce HTTP calls</li>
+<li>Enable compression</li>
+<li>Add expires headers/leverage browser caching</li>
+<li>Eliminate render-blocking JavaScript and CSS in above-the-fold content </li>
+</ol>
+</div>
+</div>
+<a name="5"></a><h2>Implementing a Web Performance Enhancement Plan</h2>
+<p>In order to test the efficacy and impact of the Web Performance Enhancement Plan, I applied it to the library website homepage of my own institution, Montana State University. Before beginning implementation, baseline performance measures of the website were established by following the same evaluation process described above. The results from this initial evaluation were included in the full performance evaluation dataset. At each subsequent step of the plan and at its completion, I remeasured the performance of the website, thereby tracking the impact and progress of the plan (Table 3). I maintained the same visual design and functionality of the homepage during the implementation of the plan so as to isolate each performance step in the evaluation testing.  </p>
+<div class="HEAD"><strong><em>Table 3. Web Performance Enhancement Plan for the MSU Library website homepage, step-by-step progression. Each numbered step indicates a stage in the Web Performance Enhancement Plan. Corresponding rows demonstrate performance gains that resulted following the implementation of each step.</em></strong></div>
+<table border="1" REND="complex-table" BORDER="1" class="xmltable-rend-complex-table">
+<tr>
+<td class="xmltd"></td>
+<th class="xmltd-rend-center">PageSpeed Insights Score</th>
+<th class="xmltd-rend-center">YSlow Score</th>
+<th class="xmltd-rend-center">Page Weight (kB)</th>
+<th class="xmltd-rend-center">HTTP Requests</th>
+</tr>
+<tr>
+<th class="xmltd">Initial evaluation</th>
+<td class="xmltd-rend-center">76</td>
+<td class="xmltd-rend-center">73</td>
+<td class="xmltd-rend-center">720</td>
+<td class="xmltd-rend-center">30</td>
+</tr>
+<tr>
+<th class="xmltd">1. Minify CSS/JS</th>
+<td class="xmltd-rend-center">78</td>
+<td class="xmltd-rend-center">75</td>
+<td class="xmltd-rend-center">668</td>
+<td class="xmltd-rend-center">30</td>
+</tr>
+<tr>
+<th class="xmltd">2. Minify HTML</th>
+<td class="xmltd-rend-center">79</td>
+<td class="xmltd-rend-center">75</td>
+<td class="xmltd-rend-center">666</td>
+<td class="xmltd-rend-center">30</td>
+</tr>
+<tr>
+<th class="xmltd">3. Optimize images</th>
+<td class="xmltd-rend-center">80</td>
+<td class="xmltd-rend-center">77</td>
+<td class="xmltd-rend-center">611</td>
+<td class="xmltd-rend-center">30</td>
+</tr>
+<tr>
+<th class="xmltd">4. Reduce HTTP requests</th>
+<td class="xmltd-rend-center">82</td>
+<td class="xmltd-rend-center">81</td>
+<td class="xmltd-rend-center">435</td>
+<td class="xmltd-rend-center">16</td>
+</tr>
+<tr>
+<th class="xmltd">5. Enable compression</th>
+<td class="xmltd-rend-center">89</td>
+<td class="xmltd-rend-center">83</td>
+<td class="xmltd-rend-center">309</td>
+<td class="xmltd-rend-center">16</td>
+</tr>
+<tr>
+<th class="xmltd">6. Add expires headers</th>
+<td class="xmltd-rend-center">94</td>
+<td class="xmltd-rend-center">95</td>
+<td class="xmltd-rend-center">298</td>
+<td class="xmltd-rend-center">16</td>
+</tr>
+<tr>
+<th class="xmltd">7. Eliminate render-blocking content</th>
+<td class="xmltd-rend-center">96</td>
+<td class="xmltd-rend-center">96</td>
+<td class="xmltd-rend-center">238</td>
+<td class="xmltd-rend-center">15</td>
+</tr>
+<tr>
+<th class="xmltd">Final evaluation</th>
+<td class="xmltd-rend-center">96</td>
+<td class="xmltd-rend-center">96</td>
+<td class="xmltd-rend-center">238</td>
+<td class="xmltd-rend-center">15</td>
+</tr>
+</table>
+<p>In the initial pre-enhancement evaluation, the homepage scored a 76 from PageSpeed Insights (76th percentile in the performance dataset) and a 73 from YSlow (46th percentile). The homepage weighed 720 kB (29th percentile) with 30 HTTP requests (11th percentile).  After completing the Performance Enhancement Plan, the homepage scored a 96 from PageSpeed Insights (99th percentile equivalent) and a 96 from YSlow (99th percentile equivalent), with a page weight of 238 kB (1st percentile equivalent and a decrease of 67 percent) and 14 HTTP requests (1st percentile equivalent and a decrease of 53 percent).  In short, the Performance Enhancement Plan worked. </p>
+<p>In the following sections, I address each point of the plan directly and detail its step-by-step implementation process that I followed for my library’s website. Each step of the plan contains a level of depth and detail that I am unable to address in the scope of this article, so I also include links to further readings and documentation from Google, Yahoo, and <span class="rend-i">Designing for Performance</span>. While certain steps individually affected performance metrics to a greater degree than others, all steps of the plan ultimately operated in concert to create a coherent and effective program for performance enhancement. </p>
+<div class="textindentlevelx">
+<a name="5.1"></a><h3><span class="rend-i">Minify CSS and JavaScript</span></h3>
+<p>Minifying stylesheets and scripts comes as the first step because it is among the most straightforward to implement. “Minification” entails the removal of spaces in markup and code. For a human reader, spaces between characters and words are necessary for interpretation, but for machine readers such as a web browser, spaces are unnecessary and even undesirable, as spaces can add weight to a resource. Many free web tools exist that automate minifying and unminifying resources.<span class="ptr" id="N6-ptr1"><a href="quod-lib-umich-edu-3043.html#N6">[6]</a></span></p>
+<p>Before minifying the CSS for the homepage, the markup contained spaces unnecessary for a web browser: </p>
+<div class="q1-block">
+<p class="rend-code">.social-icons a.facebook:hover {<br>background-color: #305fb3;<br>}</p>
+<p class="rend-code">.social-icons a.twitter:hover {<br>}background-color: #2daae1;<br>}}</p>
+<p class="rend-code">.social-icons a.youtube:hover {<br>}background-color: #ff3333;<br>}}</p>
+<p class="rend-code">.social-icons a.pinterest:hover {<br>}background-color: #e1003a;<br>}}</p>
+<p class="rend-code">.social-icons a.tumblr:hover {<br>}background-color: #44546b;<br>}}</p>
+</div>
+<p>After minification, the same CSS can be rendered on a single line and interpreted seamlessly by the browser: </p>
+<div class="q1-block">
+<p class="rend-code">.social-icons a.facebook:hover{background-color:#305fb3}.social-icons a.twitter:hover{background-color:#2daae1}.social-icons a.youtube:hover{background-color:#f33}.social-icons a.pinterest:hover{background-color:#e1003a}.social-icons a.tumblr:hover{background-color:#44546b}</p>
+</div>
+<p>Minifying the primary CSS file for homepage reduced its size by 33 percent (24 kB to 16 kB). Minifying our 6 JavaScript resources and 3 CSS resources reduced page weight by 7 percent (720 kB to 668 kB). While this gain in itself was modest, it represented one gradual step in a process which builds towards a high-impact result. After this step, the PageSpeed Insights score increased from 76 to 78, and the YSlow score increased from 73 to 75. </p>
+<p><span class="rend-i">Further reading</span></p>
+<ul class="bulleted">
+<li><span class="ref"><a href="https://developers.google.com/speed/docs/insights/MinifyResources?hl=en" target="_blank">https://developers.google.com/speed/docs/insights/MinifyResources</a></span></li>
+<li><span class="ref"><a href="http://designingforperformance.com/optimizing-markup-and-styles/#minification-and-gzip" target="_blank">http://designingforperformance.com/optimizing-markup-and-styles/#minification-and-gzip</a></span></li>
+</ul>
+</div>
+<div class="textindentlevelx">
+<a name="5.2"></a><h3><span class="rend-i">Minify HTML</span></h3>
+<p>The same best practice principles of minification apply to markup.  Prior to minifying our homepage HTML, the markup contained many necessary spaces for human interpretation, but unnecessary for machine interpretation:</p>
+<div class="q1-block">
+<p class="rend-code">&lt;div id="rightpane"&gt;<br>     &lt;div id="aside"&gt;<br>          &lt;ul class="nav-tabs"&gt;<br>               &lt;li class="active"&gt;&lt;a href="index.php"&gt;Hours&lt;/a&gt;&lt;/li&gt; <br>               &lt;li&gt;&lt;a href="index.php?view=news"&gt;News&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a<br>                href="index.php?view=chat"&gt;Chat&lt;/a&gt;&lt;/li&gt;<br>          &lt;/ul&gt;<br>     &lt;/div&gt;<br>&lt;/div&gt;</p>
+</div>
+<p>To complete the minification step, I simply unindented each line of HTML:</p>
+<div class="q1-block">
+<p class="rend-code">&lt;div id="rightpane"&gt;<br>&lt;div id="aside"&gt;<br>&lt;ul class="nav-tabs"&gt;<br>&lt;li class="active"&gt;&lt;a href="index.php"&gt;Hours&lt;/a&gt;&lt;/li&gt; <br>&lt;li&gt;&lt;a href="index.php?view=news"&gt;News&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="index.php?view=chat"&gt;Chat&lt;/a&gt;&lt;/li&gt;<br>&lt;/ul&gt;<br>&lt;/div&gt;<br>&lt;/div&gt;</p>
+</div>
+<p>Minifying our one HTML resource reduced page weight by 0.3 percent (668 kB to 666 kB). After this step, the PageSpeed Insights score increased from 78 to 79, and the YSlow score remained 75.</p>
+<p><span class="rend-i">Further reading</span></p>
+<ul class="bulleted">
+<li><span class="ref"><a href="https://developers.google.com/speed/docs/insights/MinifyResources" target="_blank">https://developers.google.com/speed/docs/insights/MinifyResources</a></span></li>
+<li><span class="ref"><a href="http://designingforperformance.com/optimizing-markup-and-styles/#minification-and-gzip" target="_blank">http://designingforperformance.com/optimizing-markup-and-styles/#minification-and-gzip</a></span></li>
+</ul>
+</div>
+<div class="textindentlevelx">
+<a name="5.3"></a><h3><span class="rend-i">Optimize Images</span></h3>
+<p>The role of images in web performance has been well documented and much discussed. Trend analysis of data from the <span class="ref"><a href="http://httparchive.org/trends.php" target="_blank">HTTP Archive</a></span> shows that images have accounted for more than 50 percent of page weight since measurement began in November 2010, and as of November 2015, images account for 64 percent of average page weight. In <span class="rend-i">Designing for Performance</span>, Hogan notes, “optimizing images is arguably the easiest big win when it comes to improving your site’s page load time” (2014, p. 27). Images have been elsewhere described as “the biggest culprit for bloated web pages” (Avery, 2014). Images on library websites are no different. In my performance dataset, images on average accounted for 25 percent of total homepage weight and 11 percent of total about page weight. This data suggests that images on library websites can impact performance in a big way. Optimizing existing images is an approach that can offer performance gains without requiring a redesign. “Optimization” in this case entails choosing an appropriate file format and then reducing file size with compression tools. For my library’s website, I converted nineteen images to JPEG, a reduced-size file format. I then further reduced file size with <span class="ref"><a href="https://kraken.io/" target="_blank">Kraken</a></span>, a web tool that compresses image files. Other tools for Windows, Mac, and the web can be used to compress image files.<span class="ptr" id="N7-ptr1"><a href="quod-lib-umich-edu-3043.html#N7">[7]</a></span> Before optimization, images accounted for 80 percent of the total weight of our homepage. After optimization, images accounted for 77 percent of total page weight. In all, optimizing our nineteen image resources reduced page weight by 8 percent (666 kB to 611 kB).  After this step, the PageSpeed Insights score increased from 79 to 80, and the YSlow score increased from 75 to 77. This modest improvement illuminated two aspects of web performance enhancement: optimizing images offer solid performance benefits, but greater gains can result from reducing the total number of images requested via HTTP. I explore this second aspect in the next section.</p>
+<p><span class="rend-i">Further reading</span></p>
+<ul class="bulleted">
+<li><span class="ref"><a href="https://developers.google.com/speed/docs/insights/OptimizeImages" target="_blank">https://developers.google.com/speed/docs/insights/OptimizeImages</a></span></li>
+<li><span class="ref"><a href="https://developer.yahoo.com/performance/rules.html#opt_images" target="_blank">https://developer.yahoo.com/performance/rules.html#opt_images</a></span></li>
+<li><span class="ref"><a href="http://designingforperformance.com/optimizing-images/" target="_blank">http://designingforperformance.com/optimizing-images/</a></span></li>
+</ul>
+</div>
+<div class="textindentlevelx">
+<a name="5.4"></a><h3><span class="rend-i">Reduce HTTP Requests</span></h3>
+<p>This step currently offers a high potential for performance gains. <span class="ref"><a href="http://yslow.org/faq/#faq_grading" target="_blank">YSlow’s FAQ on grading</a></span> considers the rule “Make fewer HTTP requests” to be the most important aspect of web performance, and Hogan states, “Optimizing the size and number of requests that it takes to create your web page will make a tremendous impact on your site’s page load time.” (2014, p. 14) For my library website’s homepage, reducing HTTP requests started with a critical review of each resource. Prior to addressing this step, the homepage was comprised of thirty requests: nineteen image files, six JavaScript files, three CSS files, one text file, and one HTML file. I reduced the overall number of requests to sixteen by combining or removing resources to build a page comprised of eleven images, three JavaScript files, one CSS file, and one HTML file. The highest-impact approach was simply to reduce the number of images on the page. While it was not feasible to entirely eliminate our homepage’s slideshow carousel, I reduced the number of slides by half, from six to three.<span class="ptr" id="N8-ptr1"><a href="quod-lib-umich-edu-3043.html#N8">[8]</a></span> Prior to this step, our homepage used a JavaScript file to interact with the Instagram API, dynamically loading six Instagram images onto the page. In order to optimize this page element, I eliminated the JavaScript request and created a single image that presented a static grid-view of Instagram images, thereby reducing both our JavaScript requests and our image requests while maintaining the same basic experience of this design element. I took a more straightforward approach for our CSS by simply combining three separate files into one single file, which was rendered seamlessly by the browser. Our one text file was an out-of-date resource that was easily removed. In all, reducing our HTTP requests from 30 to 16 reduced page weight by 29 percent (611 kB to 435 kB). After this step, the PageSpeed Insights score increased from 80 to 82, and the YSlow score increased from 77 to 81.</p>
+<p>While keeping all of the above in mind, a recent development in HTTP protocol promises to considerably change the performance enhancement technique of reducing HTTP requests. The technical architecture of HTTP/1.x currently limits the number of resources that can be loaded by the browser at a single time, thus significantly slowing page load time if a large number of resources are required. The architecture of HTTP/2, on the other hand, is designed for “multiplexing,” a new method for delivering resources concurrently to the browser.<span class="ptr" id="N9-ptr1"><a href="quod-lib-umich-edu-3043.html#N9">[9]</a></span> While not now widely adopted, HTTP/2 will likely become the norm and—from the perspective of web performance—will render HTTP request reduction unnecessary.<span class="ptr" id="N10-ptr1"><a href="quod-lib-umich-edu-3043.html#N10">[10]</a></span></p>
+<p><span class="rend-i">Further Reading</span></p>
+<ul class="bulleted">
+<li><span class="ref"><a href="https://developer.yahoo.com/performance/rules.html#num_http" target="_blank">https://developer.yahoo.com/performance/rules.html#num_http</a></span></li>
+<li><span class="ref"><a href="http://designingforperformance.com/basics-of-page-speed/#requests" target="_blank">http://designingforperformance.com/basics-of-page-speed/#requests</a></span></li>
+</ul>
+</div>
+<div class="textindentlevelx">
+<a name="5.5"></a><h3><span class="rend-i">Enable Compression</span></h3>
+<p>Compressing your page resources can offer instant performance gains. Gzip is the leading method for web resource compression, and it can be enabled for specific file types through server configuration settings or easy-to-install plug-ins and extensions for content management systems such as WordPress and Drupal. My library’s website runs on an Apache server, so our server configuration for enabling compression is a simple one-line command:</p>
+<div class="q1-block">
+<p class="rend-code">AddOutputFilterByType DEFLATE<br>text/html text/plain text/xml text/css text/javascript </p>
+</div>
+<p>This setting compresses all HTML, XML, plain text, JavaScript, and CSS files that pass from our web server to a web browser. Enabling compression reduced our homepage weight 29 percent (435 kB to 309 kB). After this step, the PageSpeed Insights score increased from 82 to 89, and the YSlow score increased from 81 to 83.</p>
+<p><span class="rend-i">Further Reading</span></p>
+<ul class="bulleted">
+<li><span class="ref"><a href="https://developers.google.com/speed/docs/insights/EnableCompression" target="_blank">https://developers.google.com/speed/docs/insights/EnableCompression</a></span></li>
+<li><span class="ref"><a href="https://developer.yahoo.com/performance/rules.html#gzip" target="_blank">https://developer.yahoo.com/performance/rules.html#gzip</a></span></li>
+<li><span class="ref"><a href="http://designingforperformance.com/optimizing-markup-and-styles/#minification-and-gzip" target="_blank">http://designingforperformance.com/optimizing-markup-and-styles/#minification-and-gzip</a></span></li>
+</ul>
+</div>
+<div class="textindentlevelx">
+<a name="5.6"></a><h3><span class="rend-i">Add Expires Headers/Leverage Browser Caching</span></h3>
+<p>Caching page resources in the web browser can also offer instant performance gains. When a resource is saved and cached in the browser, it does not need to be immediately requested again from the server. With this setting enabled, your returning visitors will experience much faster page load time. Through this process, you can also set the duration of time that a page resource “expires” and must again be requested by the browser. For example, a CSS file that is edited infrequently can be given an expires setting of 30 days, thus allowing a web browser to cache this file for one month before requesting it again. During this one-month time period, a returning visitor to your website will benefit from having this CSS file stored for quicker access and faster loading by the web browser. As with resource compression, the exact configuration setting for adding expires headers and enabling browser caching will depend on your local server environment. Since my library’s website runs on an Apache server, I used the following server syntax to complete this step:</p>
+<div class="q1-block">
+<p class="rend-code">&lt;IfModule mod_expires.c&gt;<br>#Enable expirations<br> ExpiresActive on <br>#Default directive<br> ExpiresDefault "access plus 30 days"<br>#favicon<br> ExpiresByType image/x-icon "access plus 1 year"<br>#cache<br> ExpiresByType text/cache-manifest "access plus 0 seconds"<br>#Data<br>  ExpiresByType text/xml "access plus 15 days"<br>  ExpiresByType application/xml "access plus 15 days"<br>  ExpiresByType application/json "access plus 15 days"<br>#Images<br> ExpiresByType image/gif "access plus 30 days"<br> ExpiresByType image/png "access plus 30 days"<br> ExpiresByType image/jpg "access plus 30 days"<br> ExpiresByType image/jpeg "access plus 30 days"<br>#CSS<br> ExpiresByType text/css "access plus 30 days"<br>#Javascript<br> ExpiresByType application/javascript "access plus 1 year"<br> ExpiresByType text/javascript "access plus 1 year"<br>#HTML<br> ExpiresByType text/html "access plus 43200 seconds"<br>#Fonts<br> ExpiresByType application/vnd.ms-fontobject "access plus 1 year"<br> ExpiresByType application/x-font-ttf "access plus 1 year"<br> ExpiresByType application/x-font-opentype   "access plus 1 year"<br> ExpiresByType application/x-font-woff "access plus 1 year"<br> ExpiresByType font/truetype "access plus 1 month"<br> ExpiresByType image/svg+xml "access plus 1 month"<br>&lt;/IfModule&gt;</p>
+</div>
+<p>These settings add various expires timeframes for all HTML, XML, JSON, plain text, JavaScript, CSS, image, and font files that pass from our web server to a web browser. The web server and the web browser coordinate resources through a mechanism known as Entity Tags. Once you’ve enabled browser caching, you will also want to check that your server’s “ETags” are also configured correctly. Leveraging browser caching reduced page weight 3.5 percent (309 kB to 298 kB). After this step, the PageSpeed Insights score increased from 89 to 94, and the YSlow score increased from 83 to 95.</p>
+<p><span class="rend-i">Further Reading</span></p>
+<ul class="bulleted">
+<li><span class="ref"><a href="https://developers.google.com/speed/docs/insights/LeverageBrowserCaching" target="_blank">https://developers.google.com/speed/docs/insights/LeverageBrowserCaching</a></span></li>
+<li><span class="ref"><a href="https://developer.yahoo.com/performance/rules.html#expires" target="_blank">https://developer.yahoo.com/performance/rules.html#expires</a></span></li>
+<li><span class="ref"><a href="https://developer.yahoo.com/performance/rules.html#etags" target="_blank">https://developer.yahoo.com/performance/rules.html#etags</a></span></li>
+<li><span class="ref"><a href="http://designingforperformance.com/optimizing-markup-and-styles/#caching-assets" target="_blank">http://designingforperformance.com/optimizing-markup-and-styles/#caching-assets</a></span></li>
+</ul>
+</div>
+<div class="textindentlevelx">
+<a name="5.7"></a><h3><span class="rend-i">Eliminate Render-Blocking JavaScript and CSS in Above-The-Fold Content</span></h3>
+<p>This step involves optimizing the delivery of JavaScript and CSS resources for page content that loads in the immediate view of a user (above the so-called page fold). In practical terms, this means loading CSS resources at the top of the page, and asynchronously loading JavaScript at the bottom. To complete this step for my library website’s homepage, I added the “async” HTML attribute to our primary JavaScript file:</p>
+<div class="q1-block">
+<p class="rend-code">&lt;script async type="text/javascript" src="meta/scripts/scripts-all-min.js"&gt;<br>&lt;/script&gt;</p>
+</div>
+<p>And I moved all the styles from our single CSS file used for the homepage—already quite small at 7.7 kB—into the HTML head of our homepage, thereby improving page load time by reducing our HTTP requests and removing the dependency on this potentially render-blocking external CSS file. Eliminating render-blocking JavaScript and CSS reduced page weight 20 percent (298 kB to 238 kB), and reduced HTTP requests from 16 to 15. After this step, the PageSpeed Insights score increased from 94 to 96, and the YSlow score increased from 95 to 96.</p>
+<p><span class="rend-i">Further Reading</span></p>
+<ul class="bulleted">
+<li><span class="ref"><a href="https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery" target="_blank">https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery</a></span></li>
+<li><span class="ref"><a href="https://developers.google.com/speed/docs/insights/BlockingJS" target="_blank">https://developers.google.com/speed/docs/insights/BlockingJS</a></span></li>
+<li><span class="ref"><a href="https://developer.yahoo.com/performance/rules.html#css_top" target="_blank">https://developer.yahoo.com/performance/rules.html#css_top</a></span></li>
+<li><span class="ref"><a href="https://developer.yahoo.com/performance/rules.html#js_bottom" target="_blank">https://developer.yahoo.com/performance/rules.html#js_bottom</a></span></li>
+<li><span class="ref"><a href="http://designingforperformance.com/optimizing-markup-and-styles/#css-and-javascript-loading" target="_blank">http://designingforperformance.com/optimizing-markup-and-styles/#css-and-javascript-loading</a></span></li>
+</ul>
+</div>
+<a name="6"></a><h2>Web Performance in Practice </h2>
+<p>The Web Performance Enhancement Plan proved to be a great success for the MSU Library website. From a visual standpoint, the homepage interface itself went mostly unchanged through this process. Only when looking under the hood is it possible to discern the differences. The performance enhancements detailed in this paper translated into a faster-loading library homepage and an overall improved experience for our users. Results from this research and walk-through can help inform the work of library web practitioners and user experience designers, with the Web Performance Enhancement Plan serving as one possible method for ensuring that your pages load quickly.</p>
+<p>Beyond the immediate impact of the plan are issues of workflow integration and the long-term sustainability of performance optimization. To help introduce or reinforce performance-focused measures into existing workflows, I recommend “network checks,” which entail testing a website or web application under a variety of network speeds to ensure usability and functionality across a range of internet connection environments. Many users from advanced countries such as South Korea, Sweden, and Japan enjoy average broadband connections that near an ideal 30 Mbps, but many other users across the globe access the web from less-than-ideal mobile connection speeds that average near 1 Mbps, such as Vietnam, Indonesia, and Argentina (Belson, 2015). Within the United States, network connection speeds can also vary greatly. In 2011, the average download speed in Dover, Delaware, 18.9 Mbps, was nearly three times that of Dallas, Texas at 6.8 Mbps (Statista, 2011). Broadband adoption is another relevant website performance indicator which also shows a disparity among U.S. states, with Delaware recording a 97 percent adoption rate of 4 Mbps broadband in the first quarter of 2015 and West Virginia recording a 63 percent adoption rate (Belson, 2015). The reality of varying network connection speeds is especially relevant for libraries whose users access web content from a variety of geographic areas, mobile devices, and rural environments (Hogan, 2014)</p>
+<p>In order to track and measure web performance, I also recommend “performance benchmarking,” which entails documenting page weight and other performance metrics using PageSpeed Insights, YSlow, and other widely-available performance monitoring tools such as <span class="ref"><a href="http://www.webpagetest.org/" target="_blank">WebPageTest</a></span> and <span class="ref"><a href="http://www.bytecheck.com/" target="_blank">Byte Check</a></span>. To provide additional structure to performance monitoring, a “performance budget” can also be applied to a web page or a web application, which entails setting upper limits for key metrics such as page weight, HTTP requests, PageSpeed Insights score, YSlow score, speed index, and page render times.<span class="ptr" id="N11-ptr1"><a href="quod-lib-umich-edu-3043.html#N11">[11]</a></span> Advanced CSS animations, large images, and complex JavaScript functions can dramatically impact the performance of a website, and such costly functionality should be weighed against the goals of the site, its users, and the potential impact on web performance. As more functionality is added to a website or web app, a “performance budget” can serve as a check against unnecessary or overly costly web page elements. Performance budgets can also be gamified, as demonstrated by the University of Minnesota Libraries Web Development Team, which has created a <span class="ref"><a href="http://www.speedleaderboard.com/" target="_blank">Speed Leader Board</a></span> that publicizes up-to-date PageSpeed Insights scores for each Big Ten university library’s website homepage. </p>
+<p>As part of a comprehensive web analytics program, metrics such as performance benchmarking and performance budgeting can be used to understand, evaluate, and improve library websites. The role of web analytics overall has notably increased in recent years as libraries have begun incorporating analytics tools into web workflows and user experience research. Recent studies detail the benefits offered by web analytics to user-centered web design and development (Barba et. al, 2013; Veregin, 2014; Young, 2014; Tobias, 2015). Helpful library-focused analytics tutorials and practical walk-throughs have also appeared in recent years (Hess, 2012; Yang &amp; Perry, 2014). In reviewing the function of web analytics reporting for academic library websites, Hogan concludes that web analytics have the potential to be “a treasure trove of valuable decision-making information for libraries.” (2014, p. 32). Indeed, web performance metrics can provide a valuable structure for shaping a library’s website, with page load time and its associated measures helping to form the core of a library’s website design and user experience evaluation.  </p>
+<a name="7"></a><h2>Final Thoughts</h2>
+<p>Performance is a fundamental aspect of a user’s experience of the web. How fast or slow a page loads should be a matter of practical concern for those designing and developing the web. Through research into library website performance, I found that many library websites exhibit similar strengths and weaknesses across a range of performance rules. Using this research data as a foundation for improvement, I created a seven-step Library Web Performance Enhancement Plan that I implemented for my own library’s website. By following this plan, the performance of my library website’s homepage markedly improved, with gains across key performance metrics such as PageSpeed Insights score, YSlow score, page weight, and HTTP requests. This plan, which can be implemented with a modest commitment of time and resources, ultimately produced an achievable and effective pathway for performance enhancement. While the nuances of your local environment may generate greater or lesser gains, web performance enhancement and maintenance promise to save the time of the user, ultimately leading to an overall positive impact for your website’s users.</p>
+<a name="8"></a><h2>Data Availability</h2>
+<p>All research data is available from the author’s institutional repository, Montana State University ScholarWorks: <span class="ref"><a href="http://doi.org/10.15788/m23w2g" target="_blank">http://doi.org/10.15788/m23w2g</a></span>.</p>
+<a name="9"></a><h2>Acknowledgements</h2>
+<p>For their illuminating insight, I would like to thank the Skylight writing group: Ryer Banta, Sara Mannheimer, and Kirsten Ostergaard. My thanks also to Krista Godfrey for many valuable video chats along the way.</p>
+<a name="10"></a><h2>References</h2>
+<ul class="list-bibl">
+<li class="bibl">Avery, J. (2014). <span class="rend-i">Reducing image sizes.</span> Retrieved from <span class="ref"><a href="https://responsivedesign.is/articles/reducing-image-sizes" target="_blank">https://responsivedesign.is/articles/reducing-image-sizes</a></span>
+</li>
+<li class="bibl">Barba, I., Cassidy, R., De Leon, E., &amp; Williams, B. J. (2013). Web analytics reveal user behavior: TTU Libraries’ experience with Google Analytics. <span class="rend-i">Journal of Web Librarianship</span>, 7(4), 389–400. </li>
+<li class="bibl">Barford, P., &amp; Crovella, M. (1999). Measuring web performance in the wide area. <span class="rend-i">Performance Evaluation Review</span>, 27(2), 37–48. </li>
+<li class="bibl">Belson, D. 2015. <span class="rend-i">State of the Internet, Q1 2015 report</span> [PDF document]<span class="rend-i">.</span> Vol. 8 No. 1. Akamai. Retrieved from <span class="ref"><a href="https://www.stateoftheinternet.com/downloads/pdfs/2015-q1-state-of-the-internet-report.pdf" target="_blank">https://www.stateoftheinternet.com/downloads/pdfs/2015-q1-state-of-the-internet-report.pdf</a></span>
+</li>
+<li class="bibl">Bolot, J.-C. (1993). End-to-end packet delay and loss behavior in the Internet. In <span class="rend-i">Conference Proceedings on Communications Architectures, Protocols and Applications</span> (pp. 289–298). New York: Association for Computing Machinery. </li>
+<li class="bibl">Brown, J. M., &amp; Yunkin, M. (2014). Tracking changes: One library’s homepage over time—findings from usability testing and reflections on staffing. <span class="rend-i">Journal of Web Librarianship</span>, 8(1), 23–47. </li>
+<li class="bibl">Brutlag, J. (2009). <span class="rend-i">Speed matters.</span> Retrieved from <span class="ref"><a href="http://googleresearch.blogspot.com/2009/06/speed-matters.html" target="_blank">http://googleresearch.blogspot.com/2009/06/speed-matters.html</a></span>
+</li>
+<li class="bibl">Charzinski, J. (2001). Web performance in practice—why we are waiting. <span class="rend-i">International Journal of Electronics and Communications</span>, 55(1), 37–45.</li>
+<li class="bibl">Chow, A. S., Bridges, M., &amp; Commander, P. (2014). The website design and usability of U.S. academic and public libraries. <span class="rend-i">Reference &amp; User Services Quarterly</span>, 53(3), 253–265.</li>
+<li class="bibl">Cooper, P., &amp; Bachorik, J. (2015). <span class="rend-i">NPR.org now twice as fast.</span> Retrieved from <span class="ref"><a href="http://www.npr.org/sections/thisisnpr/2015/10/27/451147757/npr-org-now-twice-as-fast" target="_blank">http://www.npr.org/sections/thisisnpr/2015/10/27/451147757/npr-org-now-twice-as-fast</a></span>
+</li>
+<li class="bibl">Cutler, B. (2010). <span class="rend-i">Firefox &amp; page load speed—part II</span>. Retrieved from <span class="ref"><a href="https://blog.mozilla.org/metrics/2010/04/05/firefox-page-load-speed-%E2%80%93-part-ii/" target="_blank">https://blog.mozilla.org/metrics/2010/04/05/firefox-page-load-speed-%E2%80%93-part-ii/</a></span>
+</li>
+<li class="bibl">Frost, B. (2013). <span class="rend-i">Performance as design.</span> Retrieved from <span class="ref"><a href="http://bradfrost.com/blog/post/performance-as-design/" target="_blank">http://bradfrost.com/blog/post/performance-as-design/</a></span>
+</li>
+<li class="bibl">Grigorik, I. (2012). <span class="rend-i">Crash course on web performance</span> [PDF document]. Retrieved from <span class="ref"><a href="https://www.igvita.com/slides/2012/webperf-crash-course.pdf" target="_blank">https://www.igvita.com/slides/2012/webperf-crash-course.pdf</a></span>
+</li>
+<li class="bibl">Hess, K. (2012). Discovering digital library user behavior with Google Analytics. <span class="rend-i">Code4Lib Journal</span>, (17). </li>
+<li class="bibl">Hogan, L. C. (2014). <span class="rend-i">Designing for performance</span>. Cambridge: O’Reilly Media, Inc.</li>
+<li class="bibl">Kim, Y.-M. (2011). Factors affecting university library website design. <span class="rend-i">Information Technology and Libraries</span>, 30(3), 99–107. </li>
+<li class="bibl">Konigsburg, E. (2013). <span class="rend-i">Web performance at the New York Times</span> [Video file]. Retrieved from <span class="ref"><a href="https://youtu.be/2dwBB2Xa_B0" target="_blank">https://youtu.be/2dwBB2Xa_B0</a></span>
+</li>
+<li class="bibl">Krishnamurthy, B., &amp; Wills, C. E. (2000). Analyzing factors that influence end-to-end web performance. <span class="rend-i">Computer Networks</span>, 33(1–6), 17–32.</li>
+<li class="bibl">Moses. L. (2015). <span class="rend-i">How GQ cut its webpage load time by 80 percent.</span> Retrieved from <span class="ref"><a href="http://digiday.com/publishers/gq-com-cut-page-load-time-80-percent/" target="_blank">http://digiday.com/publishers/gq-com-cut-page-load-time-80-percent/</a></span>
+</li>
+<li class="bibl">Palmer, J. W. (2002). Web site usability, design, and performance metrics. <span class="rend-i">Information Systems Research</span>, 13(2), 151–167. </li>
+<li class="bibl">Paxson, V. (1997). End-to-end routing behavior in the Internet. <span class="rend-i">IEEE/ACM Transactions on Networking,</span> 5(5), 601–615. </li>
+<li class="bibl">Pendell, K. D., &amp; Bowman, M. S. (2012). Usability study of a library’s mobile website: An example from Portland State University. <span class="rend-i">Information Technology and Libraries</span>, 31(2), 45–62.</li>
+<li class="bibl">Ranganathan, S. R. (1931). <span class="rend-i">The five laws of library science</span>. Madras: Madras Library Association.</li>
+<li class="bibl">Raward, R. (2001). Academic library website design principles: Development of a checklist. <span class="rend-i">Australian Academic &amp; Research Libraries</span>, 32(2), 123–136.</li>
+<li class="bibl">Rush, K. (2012). <span class="rend-i">Meet the Obama campaigns $250 million fundraising platform</span>. Retrieved from <span class="ref"><a href="http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/" target="_blank">http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/</a></span>
+</li>
+<li class="bibl">Schoen, R. (2015). <span class="rend-i">Chrome improvements for a faster and more efficient web.</span> Retrieved from <span class="ref"><a href="http://chrome.blogspot.com/2015/09/chrome-improvements-for-faster-and-more.html" target="_blank">http://chrome.blogspot.com/2015/09/chrome-improvements-for-faster-and-more.html</a></span>
+</li>
+<li class="bibl">Seeholzer, J., &amp; Salem, J. A. (2011). Library on the go: A focus group study of the mobile web and the academic library. <span class="rend-i">College &amp; Research Libraries</span>, 72(1), 9–20. </li>
+<li class="bibl">Sighal, A., &amp; Cutts, M. (2010). <span class="rend-i">Using site speed in web search ranking.</span> Retrieved from <span class="ref"><a href="http://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html" target="_blank">http://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html</a></span>
+</li>
+<li class="bibl">Statista (2011). <span class="rend-i">Average download speeds in selected U.S cities in 2011 (in mbps).</span> Retrieved from <span class="ref"><a href="http://www.statista.com/statistics/210601/average-download-speeds-in-us-cities/" target="_blank">http://www.statista.com/statistics/210601/average-download-speeds-in-us-cities/</a></span>
+</li>
+<li class="bibl">Thorpe, A., &amp; Lukes, R. (2015). A design analysis of Indiana public library homepages. <span class="rend-i">Public Library Quarterly</span>, 34(2), 134–161. </li>
+<li class="bibl">Tobias, C., &amp; Blair, A. (2015). Listen to what you cannot hear, observe what you cannot see: An introduction to evidence-based methods for evaluating and enhancing the user experience in distance library services. <span class="rend-i">Journal of Library &amp; Information Services in Distance Learning</span>, 9(1-2), 148–156. </li>
+<li class="bibl">Twitter. (2012). Improving performance on twitter.com. Retrieved from <span class="ref"><a href="https://blog.twitter.com/2012/improving-performance-on-twittercom" target="_blank">https://blog.twitter.com/2012/improving-performance-on-twittercom</a></span>
+</li>
+<li class="bibl">Veregin, H., &amp; Wortley, A. J. (2014). Using web analytics to evaluate the effectiveness of online maps for community outreach. <span class="rend-i">Journal of Web Librarianship</span>, 8(2), 125–146.</li>
+<li class="bibl">Web Performance, Inc. (2010) <span class="rend-i">Microsoft affirms the importance of web performance.</span> Retrieved from <span class="ref"><a href="http://www.webperformance.com/load-testing/blog/2010/06/microsoft-affirms-the-importance-of-web-performance/" target="_blank">http://www.webperformance.com/load-testing/blog/2010/06/microsoft-affirms-the-importance-of-web-performance/</a></span>
+</li>
+<li class="bibl">Yang, L., &amp; Perrin, J. M. (2014). Tutorials on Google Analytics: How to craft a web analytics report for a library web site. <span class="rend-i">Journal of Web Librarianship</span>, 8(4), 404–417.</li>
+<li class="bibl">Young, S. W. (2014). Improving library user experience with A/B testing: Principles and process. <span class="rend-i">Weave: Journal of Library User Experience</span>, 1(1). Retrieved from <span class="ref"><a href="http://dx.doi.org/10.3998/weave.12535642.0001.101" target="_blank">http://dx.doi.org/10.3998/weave.12535642.0001.101</a></span>
+</li>
+</ul>
+<a name="11"></a><h2>Notes:</h2>
+<ul class="special-notes"></ul>
+<ol>
+<li value="1"><p class="numberednote" id="N1">Also available on the web with a CC-BY-NC-ND license: <span class="ref"><a href="http://designingforperformance.com/" target="_blank">http://designingforperformance.com/</a></span>.<a href="quod-lib-umich-edu-3043.html#N1-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="2"><p class="numberednote" id="N2"> Detailed discussion of this important and nuanced concept: <span class="ref"><a href="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/" target="_blank">https://developers.google.com/web/fundamentals/performance/critical-rendering-path/</a></span>.<a href="quod-lib-umich-edu-3043.html#N2-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="3"><p class="numberednote" id="N3"> See the full documentation for more detail: <span class="ref"><a href="https://developers.google.com/speed/docs/insights/about" target="_blank">https://developers.google.com/speed/docs/insights/about</a></span>; also see Google’s performance guidelines for detail regarding various PageSpeed Insights rules: <span class="ref"><a href="https://developers.google.com/web/fundamentals/performance/" target="_blank">https://developers.google.com/web/fundamentals/performance/</a></span>.<a href="quod-lib-umich-edu-3043.html#N3-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="4"><p class="numberednote" id="N4"> See the full documentation for more detail: <span class="ref"><a href="http://yslow.org/ruleset-matrix/" target="_blank">http://yslow.org/ruleset-matrix/</a></span>. I tested websites using YSlow V2, from which one rule was excluded by default (Make JavaScript and CSS external).<a href="quod-lib-umich-edu-3043.html#N4-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="5"><p class="numberednote" id="N5"> Full dataset available at <span class="ref"><a href="http://doi.org/10.15788/m23w2g" target="_blank">http://doi.org/10.15788/m23w2g</a></span>.<a href="quod-lib-umich-edu-3043.html#N5-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="6"><p class="numberednote" id="N6"> For example, <span class="ref"><a href="http://cssminifier.com/" target="_blank">http://cssminifier.com/</a></span> and <span class="ref"><a href="http://unminify.com/" target="_blank">http://unminify.com/</a></span> <a href="quod-lib-umich-edu-3043.html#N6-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="7"><p class="numberednote" id="N7"> For example: RIOT for Windows. <span class="ref"><a href="http://luci.criosweb.ro/riot/" target="_blank">http://luci.criosweb.ro/riot/</a></span>; ImageOptim for Mac/iOS devices, <span class="ref"><a href="https://imageoptim.com/" target="_blank">https://imageoptim.com/</a></span>; Smush it on the web, <span class="ref"><a href="http://www.imgopt.com/" target="_blank">http://www.imgopt.com/</a></span>.<a href="quod-lib-umich-edu-3043.html#N7-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="8"><p class="numberednote" id="N8"> For a more critical take of slideshow carousels, see <span class="ref"><a href="http://shouldiuseacarousel.com/" target="_blank">http://shouldiuseacarousel.com/</a></span>.<a href="quod-lib-umich-edu-3043.html#N8-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="9"><p class="numberednote" id="N9"> For more information, see: <span class="ref"><a href="https://http2.github.io/faq/#why-is-http2-multiplexed" target="_blank">https://http2.github.io/faq/#why-is-http2-multiplexed</a></span>; <span class="ref"><a href="http://rmurphey.com/blog/2015/11/25/building-for-http2" target="_blank">http://rmurphey.com/blog/2015/11/25/building-for-http2</a></span>.<a href="quod-lib-umich-edu-3043.html#N9-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="10"><p class="numberednote" id="N10"> For further reading on HTTP/2, see Chapter 12 of <span class="rend-i">High Performance Browser Networking</span> by Ilya Grigorik: <span class="ref"><a href="http://chimera.labs.oreilly.com/books/1230000000545/ch12.html" target="_blank">http://chimera.labs.oreilly.com/books/1230000000545/ch12.html</a></span>.<a href="quod-lib-umich-edu-3043.html#N10-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+<li value="11"><p class="numberednote" id="N11"> For more on performance budgeting, see <span class="ref"><a href="https://timkadlec.com/2014/11/performance-budget-metrics/" target="_blank">https://timkadlec.com/2014/11/performance-budget-metrics/</a></span> and <span class="ref"><a href="http://danielmall.com/articles/how-to-make-a-performance-budget/" target="_blank">http://danielmall.com/articles/how-to-make-a-performance-budget/</a></span>.<a href="quod-lib-umich-edu-3043.html#N11-ptr1"><img class="backToPtr" src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="return to text"></a></p></li>
+</ol>
+</div>
+<a name="bottom"></a><div id="linktotop">
+<a href="quod-lib-umich-edu-3043.html#top">Top of page</a>
+<a href="quod-lib-umich-edu-3043.html#top"><img src="https://quod.lib.umich.edu/m/mpubs/graphics/arrow_up.gif" alt="Top of page"></a>
+</div>
+</div></div></div>
+<div id="footer">
+<div class="logo"><img src="https://quod.lib.umich.edu/m/mpubs/graphics/mpub-logo-bw.png"></div>
+<p>Hosted by <a href="http://www.publishing.umich.edu/">Michigan Publishing</a>, a division of the <a href="http://lib.umich.edu">University of Michigan Library</a>.</p>
+<p><abbr title="International Standard Serials Number">ISSN</abbr> 2333-3316</p>
+<ul>
+<li><a href="http://www.weaveux.org/about.html">About</a></li>
+<li><a href="http://www.weaveux.org/about.html#who">Editorial Board</a></li>
+<li><a href="http://www.weaveux.org/about.html#philosophy">Editorial Philosophy</a></li>
+<li><a href="mailto:helloweaveux@umich.edu">Contact</a></li>
+<li><a href="https://weaveux.submittable.com/login">Log in</a></li>
+</ul>
+<ul>
+<li><b>Follow us:</b></li>
+<li><a href="https://twitter.com/WeaveUX" title="WeaveUX on Twitter">Twitter</a></li>
+<li><a href="http://eepurl.com/4AxQ5" title="Subscribe to our email list">Email</a></li>
+<li><a href="http://feeds.feedburner.com/weaveux" title="Subscribe to our articles with RSS"><abbr title="Really Simple Syndication">RSS</abbr></a></li>
+</ul>
+</div>
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+  			_gaq.push(['_setAccount', 'UA-35132797-11']);
+  			_gaq.push(['_trackPageview']);
+
+  			(function() {
+    			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  			})();
+		</script><script type="text/javascript">
+	        
+	        	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','uga');
+
+        var custom = { 'dimension1' : 'text' };
+        custom.dimension2 = 'weave';custom.dimension4 = 'serialarticle';
+
+        var account_codes = 'UA-43730774-1'.split(':');
+        $.each(account_codes, function(i, account_code) {
+            var name="tracker" + i;
+            account_code = $.trim(account_code);
+            uga('create', account_code, { name : name });
+            uga(name + '.send', 'pageview', custom);
+        });
+        
+        	</script>
+</div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+</body>
+</html>

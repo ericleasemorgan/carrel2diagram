@@ -1,0 +1,54 @@
+{% extends 'layouts/main.html' %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<style>
+   .links line {
+   stroke: #999;
+   stroke-opacity: 0.6;
+   }
+   .nodes circle {
+   stroke: #fff;
+   stroke-width: 1.5px;
+   }
+   .text label {
+   font-family: sans-serif;
+   font-size: 10px;
+   }
+   text {
+   font-family: sans-serif;
+   font-size: 10px;
+   }
+</style>
+<style type="text/css">
+   .node {}
+   .link { stroke: #999; stroke-opacity: .6; stroke-width: 1px; }
+</style>
+<div class="row">
+   <div class="col-xs-3">
+      <form role="form" method='POST' action='/' id="form">
+         <select class="form-control" name="jsonlist" form="form">
+            <option value="homer">Homer</option>
+            <option value="bible">Bible</option>
+            <option value="cooking">Cooking</option>
+         </select>
+   </div>
+   <div class="col-xs-2">
+     <button type="submit" class="btn btn-default">Submit</button>
+   </div>
+</div>
+</form>
+<!-- Example split danger button -->
+<div id="graphDiv">
+</div>
+
+<button id="zoom_in">+</button>
+<button id="zoom_out">-</button>
+
+
+{% endblock %}
+{% block scripts %}
+<script type="text/javascript">
+   var filename = '{{ json_name }}'
+</script>
+<script type="text/javascript" src="/static/js/knowledge_graph.js" defer></script>
+{% endblock %}

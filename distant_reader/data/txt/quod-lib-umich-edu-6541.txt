@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating a Culture of Usability
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+Creating a Culture of Usability
+
+
+
+
+Krista Godfrey
+
+Memorial University
+
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 3, 2015
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.301
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+This paper was refereed by Weave's peer reviewers.
+
+Abstract
+
+
+While usability testing is primarily applied to websites, it can and should be applied to many aspects of the library. Standing usability teams are an ideal means of improving usability across the library. As usability is applied to more library projects and usability skills develop, the library moves towards a culture of usability. This paper explores the creation of web usability teams as a means to develop a culture of usability and examines the steps taken by Memorial University Libraries to move in this direction.
+
+
+Introduction
+
+Libraries actively test the usability of their virtual spaces. Library literature is full of the results of usability tests conducted on library websites. It is regular practice for libraries to hire web designers and developers who are proficient in usability concepts, tools and practices. Yet a key aspect is missing from the discussion: Physical spaces and services, which are as important as their virtual counterparts, are rarely put under similar rigorous testing to ensure usability or improve the user experience.
+
+By leveraging the skills of library web designers and developers, libraries can work to ensure usable spaces and services and improve the user experience throughout all aspects of the library. Forrest takes this idea one step further, asking “what if an entire library committed itself to the user experience” (2009, p. 8). The usability and user experience expertise that web designers and developers possess can be used to help bolster these skills throughout the library. As these skills spread, the library moves towards adopting a culture of usability, ultimately focusing on improving the whole user experience.
+
+Memorial University Libraries is exploring Forrest’s question of an entire library committing to the user experience through the creation of a permanent web usability team. Establishing a permanent group devoted to usability testing is the first step towards an overall culture of usability and user experience. As a distinct and permanent group, the library is highlighting the importance and value of these skills to the organization. The team, which has rotating membership from across the library system, acts as both a group of experts in usability testing who can take back their skills for use in their own departments, and as a training team to further develop these skills among all library staff. By increasing usability skills among staff, it becomes an organizational value. Usability becomes ingrained in library projects and improves the usability, and ideally user experience, in both our physical and virtual spaces and services.
+
+By examining the ways in which usability can be applied to all aspects of the library, as well as developing usability skills throughout the organization through a standing committee, Memorial University Libraries aim to move towards a culture of usability.
+
+Literature Review
+
+Despite their often synonymous use, usability is only one aspect of user experience. Morville’s user experience honeycomb illustrates the complexity of user experience, highlighting each element that must be addressed, including usability (Morville, 2004). The goal of usability testing is to inform our judgment and decisions, rather than to provide or disprove existing beliefs and practices (Krug, 2006). It is important to remember that while usability is a key element of user experience, a product or website that is usable can still provide a poor overall user experience.
+
+While there are numerous articles on usability testing and library websites within scholarly literature, there is little discussion of the creation or importance of standing usability or user experience teams. Emphasis is placed on usability tests and their results rather than on those who complete the work. There are two notable exceptions to this trend. These articles provide an examination of usability teams or committees and represent the strengths and failures of creating such groups. Dethloff and German (2013) present the case study of a web usability team at the University of Houston Libraries, noting the difficulties their group encountered. A standing usability team was created, but the group experienced compositional issues and initially lacked usability testing expertise. Their culture of multiple-web related teams and consensus decision-making also made it difficult to complete usability testing in a timely manner. This minimized the impact of their group and resulted in the team’s dissolution. Nichols, Bobal, and McEvoy (2009) provide a very different experience at Oregon State University, where they successfully created a standing usability team. They provide an overview of the team’s skills, structure, and roles and outline both successes and challenges faced by the team.
+
+With little research examining usability teams and their impacts on the wider institution, it is useful to explore who is responsible for usability testing. These duties tend to fall to a web team or a single individual, such as a web librarian. A survey conducted by Kneip (2007) found that webmasters in medium-sized academic libraries frequently performed usability work. Connell’s (2008) survey of nearly 300 academic institutions found that just over half used a web team. Bundza, Vander Meer, and Perez-Stable (2009) noted that 75 percent of survey respondents indicated the use of a web team of some form. A survey conducted by Chen, Germain, and Yang (2009) revealed similar results, with 52 percent responding that they had a web advisory committee and 15 percent had a specific usability team. Composition of these teams varies and is largely dependent on the specific institutional needs and local culture.
+
+Since web teams frequently perform usability work, it is also valuable to examine web team skill sets and determine whether usability is a valued skill within these groups. The rise of social media, discovery layers, and the need for mobile websites may account for the recent decline in library literature on the topics of library web responsibilities and skills. Veldof and Nackerud (2001) note usability testing skills as one of the seven skills required for successful website design. Church and Felker (2005) also note usability study as a skill required by web teams, but as a subset of the broader skills associated with information design. While Bundza et al. (2009) report that 75 percent of their respondents conducted usability testing, they found far fewer used usability testing to set priorities. Connell (2008) found that, despite identifying usability testing as an important aspect of web work, it was completed by less than half of the survey respondents. Her survey also found that the web team members were primarily chosen by interest rather than by their web-related skills. Although Cervone (2005) does not examine usability or web teams specifically, he stresses the need for usability skills and usability training as an organization-wide goal.
+
+Usability Beyond the Website
+
+Usability is an ongoing iterative practice that involves observing our patrons using our resources. Usability testing is a cycle, as Krug simply states, “you make something, test it, fix it, test it again” (2006, p. 135). It is most frequently associated with websites and incorporates a range of tools and tests to determine if a website is easy to use, such as heat maps, eye-tracking software, card sorting, A/B testing, and tasked-based testing. Schmidt and Etches (2014) include usability testing as part of user research techniques to determine user behavior. As user needs are better understood and met, the user experience improves.
+
+Usability testing does not need to be limited to websites or other online resources. Usability principles can be applied to most library services and spaces. Graves and Ruppel (2007) discuss how participation in usability testing resulted in improvements to library instruction practices. Wu and Lanclos (2011) use ethnographic approaches for both web usability and space design. They included usability as part of their ethnographic definition and observed and tested their users in both their physical and virtual spaces. Hahn and Zitron (2011) also used ethnographic methods to determine how students navigate space.
+
+By examining how our users interact with library service points, stack arrangements, and furniture, it is possible to discover pain points. Wherever a decision is made, such as a route branching or which service desk to approach, it is possible to test how easily that decision is made (Hahn and Zitron, 2011; Wu and Lanclos, 2011). Questions that can be asked, observed, and tested include: Where do users stop to make a decision? Is it unclear where to go or what to do next? Can users see the service desk or is there a stack blocking the view? This is similar to using usability testing to determine pain points on a website (Schmidt, 2010). By observing our users interacting with our spaces, both virtual and physical, we can create more usable and enjoyable experiences.
+
+The principles and methods applied to websites to improve usability and readability can also be applied to all library communications, including emails for fines and recall notices, newsletters, and signage. By avoiding library jargon, using personal and friendly language, and reducing unnecessary text, library communication becomes usable, useful, and clear. Testing of library communications can include A/B testing or card sorting to test appropriate terminology to ensure the message is clear or test signage location and readability.
+
+In many ways, signage within our physical spaces are similar to a website navigation and text; text and layout are important in both mediums. Too much text can make a website or sign unreadable. Font, color, size, and placement can all influence whether or not the signage is useful and usable (Barclay and Scott, 2012). Design options can be assessed through usability tests such as A/B testing and through user feedback to determine user perceptions (Bosman and Rusinek, 1997). Location of signage, as well as fonts and text can undergo usability testing practices. Applying usability principles to signage can reduce confusion and increase library service usage.
+
+Expanding the principles of usability beyond the website improves the entire library experience. By incorporating usability into all aspects of the library, both physical and virtual, usability also becomes a recognized skill and value within the organization.
+
+Creating a Culture of Usability
+
+Cervone (2005) notes the need to create a culture of usability, but it is difficult to define what makes up an organization’s culture. It can include such things as values, beliefs, assumptions, behavior, leadership, management styles, and more (Lin, 2008). This is further complicated because an organization rarely has a single culture. It is usually composed of a number of subcultures that must also be taken into account (Lin, 2008).
+
+The inherent problems of defining both culture and subcultures have led some to suggest that the goal should not be to change culture (Lin, 2008). Rather than transforming a culture drastically, it is better to aim for new goals over time that will influence existing culture. As these goals are adopted and achieved, they can influence the broader culture of the organization, effectively transforming the culture.
+
+The creation of a team devoted to usability can act in a similar method. As a permanent group, it highlights both the importance of user feedback and evidence-based decisions within the organization. A standing team devoted to usability testing also implies administrative support for the practice and values the skills the group will develop among its members. As skills grow and spread from this team, usability becomes an organizational value and inherent aspect of the library culture.
+
+Buy-in is also important when implementing change; one must believe in the changes in order for them to succeed. The idea of join-in can be even more powerful than buy-in. Rather than passively accepting the change, join-in promotes participation in the change and ownership over the outcomes. Once staff become actively involved, there is a greater chance of successfully implementing new goals and affecting change within the organization. The establishment of a committee devoted to usability allows library staff to participate in the development of new skills and improving new or existing resources.
+
+Staff can join in usability testing in a variety of ways, either as a participant in a test, a volunteer notetaker or observer, or as a member of the usability team. Engaging in any of these ways provides further insight into the value of usability testing and develops related skills. After testing both library staff and users, Turner (2011) noted that participation in usability testing could offer librarians insights into their users and their needs and led to improvements in both website and instructional design. Graves and Ruppel (2007) illustrate Turner’s point as they outline how participation in usability testing helped librarians improve their instructional methods to better meet their users’ needs. Usability teams that open up testing within the library offer an opportunity for staff to join-in and can provide user insight, staff skills, and positive changes within the library.
+
+The Importance of Usability Teams
+
+Usability testing can be accomplished in a variety of ways, from single individuals to committees of varying sizes or departments devoted to usability and user experience. Many libraries hire a position devoted to user experience, which includes usability testing and may work best for smaller organizations. While such a position illustrates a library’s devotion to usability and user experience, it is often viewed as the responsibility of the single individual. Usability testing can be time consuming and overwhelming for a single individual and may not allow for the development of skills in other staff. Without participation, it may be more difficult to accomplish all necessary testing or for the skills to be appropriately valued by the entire organization and applied to all of the library’s physical and virtual spaces and services.
+
+Nichols et al. (2009) note two models for conducting usability testing; a centralized group in a single department or a distributed or open model. The latter is a group whose membership is distributed throughout the library, encouraging members from all departments to participate. Limiting to a specific department, such as a user experience department, a systems division, or an information services department does increase the number of individuals with user experience responsibilities and shares the workload, but still keeps the skills among a small set of individuals. As such, it may be more difficult to move usability towards an institutional value.
+
+Usability teams or committees represent Nichols et al.’s idea of a distributed model for usability work. The team draws membership from numerous departments, bringing members with differing expertise and skills together. The two usability teams created at Oregon State University and the University of Houston libraries stress that interest in usability, rather than usability skills, was key in team membership (Dethloff and German, 2013; Nichols et al., 2009). Rotating membership allowed numerous individuals from a variety of departments or divisions to gain usability skills, spreading these skills throughout the organization while at the same time offering a join-in opportunity.
+
+Chen et al. (2009) note that only 15 percent of survey respondents had some type of usability team or committee, and permanent usability teams are not currently standard practice in libraries. Teams tend to be created for specific projects and disbanded when the project is complete. There are, however, numerous benefits to creating permanent usability teams. A standing committee on usability allows the work to become part of expected duties rather than viewed as extra responsibilities that are low priority (Nichols et al., 2009). A permanent team also allows for quick and efficient usability testing, as members are familiar with required processes (Nichols et al.). They can readily identify testing priorities for the year, prepare ethics clearance in advance of projects, and ensure appropriate testing in all phases of a project. The team can also act as consultants for projects in other departments. Project groups may choose to ignore usability testing if they need to build these skills among their members or view it as slowing down their process. However, if a standing committee exists, projects can consult this group for quick guidance and assistance and ensuring usability is part of all projects.
+
+Schaffer (2004) stresses that usability can only succeed if it permeates the organization. Skills can be spread throughout the organization via this group, especially if one adopts a distributed model for the team. As noted, this model encourages membership from across the library rather than a particular department or level and allows skills to develop throughout the system. Employing this model not only builds skills across the library, but may help break down silos within the organization as it brings together individuals who do not normally have the opportunity to work together (Nichols et al., 2009). Rotating membership in the team brings in new perspectives and knowledge to the group and allows skills to develop and disseminate throughout the organization.
+
+The team can also act in a training capacity, offering workshops and opportunities to participate in usability testing, further spreading usability skills throughout the organization. Cervone (2005) suggests that a training program be used to promote a culture of usability. He identifies two types of training: knowledge-based and skills-based. Knowledge-based training provides background information or context behind usability testing and user experience concepts. These can be done as a lunchtime series or as a single day workshop. Skills-based training emphasizes specific tools and techniques and results in knowing how to do something (Cervone, 2005). It requires both hands-on experience and time to practice and develop the skill. A standing team is ideally situated to implement a training program, spreading usability skills throughout the organization and moving the library towards a culture of usability.
+
+Usability teams can fall prey to normal pitfalls. Most libraries are familiar with the phrase “death by committee.” Personalities come into conflict, skills may need to be built, lack of clear authority or reporting structures can hamper the group, workload or conflicting priorities can be problematic. Ensuring administrative support and recognition of the group can help alleviate some of these issues. Despite these potential issues, the strength of building a usability team lies in the development of skills among many divisions and staff members. As usability testing is applied to key projects throughout the library and included in strategic goals, the value in a usability team as well as usability skills is highlighted.
+
+Memorial University Libraries Experience
+
+Memorial University Libraries, located in Newfoundland and Labrador, is a system composed of five libraries and three resource centers and serves nearly 18,000 students. I was hired as the first Web Services Librarian in 2011, and my primary responsibilities included improving the library website and front-end user experience. As such, one of my first major tasks was reorganizing the large web team in anticipation of a website migration to a new content management system and subsequent website redesign. The reorganization of the web team presented me the opportunity to highlight usability skills and work towards a culture of usability through the creation of a web usability team.
+
+Previously, the library website had been the responsibility of a monthly committee of ten members from across the branches and most library divisions. Members represented the needs of their individuals divisions or branches and their users. The large size of the group made regular meetings with full attendance difficult and did not offer representation from all public services divisions. As web skills were not required, members possessed varying degrees of web skills and much of the work fell to a smaller group with stronger skills such as HTML coding. I reorganized the web team in a way that recognized the culture of consensus building via committee work and resulted in the creation of three groups, each with a specific focus: the web advisory team, the web implementation team, and the web usability team. All three groups are presently chaired by me, allowing website goals and priorities to be aligned among the three teams while also ensuring information can flow between the groups.
+
+The advisory team, a group of ten members, closely resembles the composition of the former web team and includes members from all library branches and public services divisions. Members represent their areas and users and are not required to possess web skills, but must be in a public services role. This team meets less frequently than the other teams and is consulted on major web decisions, ensuring the public services divisions continue to have a voice on web related issues.
+
+The implementation team is a smaller core group of five individuals, including myself, and members are required to possess web related skills, such as HTML coding. While the team includes a web programmer, members tend to come from public services backgrounds. This groups meets frequently to discuss and implement website needs and improvements and was a driving force behind the library redesign project, deciding the site’s information architecture, recommending design, and building the website within the new content management system. As a smaller group, it is usually easier to meet regularly and accomplish tasks than it had been in the previous web team. The implementation and advisory teams essentially compose the older web team, but separate out the focus of building and advising.
+
+Previously, usability testing was done by members of the web team or through subcommittees working on individual projects. Although usability work could have been assigned to the implementation group, a new team, the web usability team was created to focus on these skills and tasks. By pulling out usability work as a specific focus, it highlights the work as significant and important to the library. Furthermore, membership in implementation and advisory groups is generally limited to librarians in particular roles or divisions. As a separate group, the usability team is open to all with an interest in usability testing and allows more library staff to participate in the work, thus developing new skills and an understanding of usability throughout the organization. The team consists of four individuals, as well as myself, and these memberships are staggered two-year terms, with two new members joining the team each year. The term length allows for overlap and development of skills. Members must have approval from supervisors, who will ideally help with workload issues associated with their participation. Librarians can count membership in the team as part of their service if it is outside their regular duties. In its first two years, the usability team has had members from three branches and two major library divisions. By opening membership to all, usability skills are developed in numerous departments and ideally incorporated into divisional projects. Broad membership also brings in new perspectives, strengths and skills to the team.
+
+The usability team’s primary responsibility is to perform usability testing of the library website and other online resources, such as the link resolver, the OPAC, and the discovery layer, in order to implement iterative changes, although the website redesign took precedence in its early stages. As the group shares usability testing results and builds skills through learning opportunities, it is hoped that eventually the team will be consulted by other groups in the library to assist with projects, both for virtual and physical services and spaces.
+
+Strategic objectives for the group also include a role as trainers, building usability and user experience skills throughout the library. Team member skills are strengthened as they create these learning tools and provide instruction, building the skills of their colleagues. Goals include the creation of training materials for others in the library, such as an online toolkit, and formal and informal training sessions such as lunchtime brown bag talks. Initial talks have shared testing results and will eventually include hands on workshops on various usability tests and tools. In the first year, we created a wiki to act as a usability toolkit and members were assigned a type of usability testing, such as scenario-based testing or click/heat maps, to research, explain and provide a list of online tools or readings for others to use and explore. The wiki is also used as an information-sharing tool and usability tests are outlined and results shared with staff in this area. Creating a shared understanding of usability testing and user experience can help shape library goals and projects and, ideally, influence the culture towards good user experiences. 
+
+Reactions and Successes
+
+The website usability team has played a key role in the library website redesign and migration to a new content management system. In the first two years of the group, the team successfully conducted a variety of tests and activities, including focus groups, a university-wide survey, open and closed card sorts, prototype testing and task-based testing on the new library homepage. Results from these tests have influenced the design of the new website.
+
+In testing, the usability team has reached out to groups on campus for both feedback and assistance. The response to requests for assistance in testing has been overwhelmingly positive, and the team has been thanked for including student feedback in the redesign process. An added bonus of the university-wide survey, which resulted in more than 2000 responses, was a list of more than 500 volunteers interested in assisting in future website testing. This list has been essential as we continued to test the library website redesign and highlights that our users want to be heard. The group has given them an outlet for this feedback. Another success is that the team has been contacted by other groups on campus for assistance with usability testing. These groups have also used the wiki toolkit on types of usability testing. The wiki has helped us build usability skills and move towards a culture of usability and user experience both in the library and in the university.
+
+Initial steps have been taken to expand usability skills among library staff. As focus was placed on conducting tests rather than training sessions in order to meet launch deadlines, these learning opportunities have been fewer than originally intended. As mentioned, the first year saw the creation of a web usability toolkit and it continues to develop. Developing the toolkit acts as a training opportunity for members, but also allows those interested in usability to learn more. The usability team has also offered a brown bag session to staff that offered an overview of usability tests and the work we previously accomplished, offering staff an insight to the type of work the team does and its importance to the redesign project. An overview of usability test results was also offered at our local librarians’ research fair.
+
+A call for volunteers in the team’s second and third years resulted in several librarians and library staff members volunteering to participate, illustrating interest in both the work the usability team accomplishes and the skills it develops. Interest in the team continues to grow as we share findings from the testing and bring to light how our users interact with our library website.
+
+Next Steps 
+
+The website redesign has been the focus for the usability team to date and training activities have taken a back seat to conducting usability tests to inform the redesign. Increasing the training opportunities through brown bag lunches and staff training sessions will be a focus moving forward. While iterative testing of the website will continue over time, another goal for the future includes further outreach to existing groups within the libraries, such as those involved with signage and space. Future projects include ongoing testing on the new library website. The library is also implementing a new discovery layer as part of a larger move to a new unified resource management system and the usability team will play a key role in testing the discovery layer.
+
+The team has just begun its third year, which means that we have had four members return to their divisions or branches with their developed usability testing skills. It is still too early to tell how or if these skills have influenced their areas. It is hoped that once new projects are begun within their departments and branches, the former members will highlight the need to include usability from the beginning of the project. Currently, smaller projects are being sidelined by a major shift to a new library services platform and discovery layer. Library administration expects the usability team to conduct testing on the new discovery layer, confirming the library’s commitment to usability. 
+
+In this last year, our library updated their vision, mission, and values statement. The revised service value, although it does not explicitly use the term user experience or usability explicitly, enshrines these principles when it states that we provide “a consistent, high-quality experience through our spaces, collections, policies, and interactions with all our users” (Memorial University Libraries, 2015). The work that the web usability team accomplishes is now a stated value within our library and it is hoped that the group will become key in developing the skills so that we may live up to this value within all of the stated areas.
+
+Conclusion
+
+Culture does not shift or change overnight but takes time and planning. When implementing change, it is important to consider the existing culture in the library and ensure that web team structures work within specific institutions; what works for one does not work for all. By creating goals that work towards realigning priorities, rather than implementing drastic culture shifts, it is possible to introduce new values, such as usability, and slowly adopt a new culture.
+
+Memorial University Libraries have taken the first steps towards a creating a culture of usability and user experience through the creation of a permanent group focused on usability. The team allows for quick and efficient usability testing and builds usability skills throughout the organization through open, rotating membership and training. Although the team is presently focused on web usability, the foundations are in place to develop usability skills more generally and can be applied to other aspects of library work and spaces.
+
+Libraries cannot meet user needs without talking to and observing users in their spaces, both physical and virtual. Usability testing is key to gathering this data and ensuring we are creating usable websites, spaces, and services. As libraries adopt a data-driven culture on account of budget constraints and embrace evidence-based decision making as a practice, usability testing becomes an essential tool and an important aspect of a library’s culture. A standing usability team highlights the importance of usability within the library, allowing the work to be completed quickly and efficiently, and increasing the skills within the library while ultimately enhancing the user experience. Schmidt and Etches (2014) note the trinity of user experience as useful, usable and desirable. The implementation of a permanent web team is the first step to creating a culture of usability and improving the user experience.
+
+References
+
+	Barclay, D., & Scott, E. (2012). Directions to library wayfinding. American Libraries, 43(3/4), 36–38.
+	Bosman, E., & Rusinek, C. (1997). Creating the user-friendly library by evaluating patron perception of signage. Reference Services Review, 25(1), 71–82.
+	Bundza, M., Vander Meer, P. F., & Perez-Stable, M. (2009). Work of the web weavers: Web development in academic libraries. Journal of Web Librarianship, 3(3), 239–262.
+
+	Cervone, F. (2005). Usability training: An overlooked component in an on-going program of web assessment and development. OCLC Systems & Services, 21(30), 244–251.
+	Chen, Y., Germain, C. A., & Yang, H. (2009). An exploration into the practices of library web usability in ARL academic libraries. Journal of the American Society for Information Science and Technology, 60(5), 953–968.
+	Church, J., & Felker, K. (2005). Web team development. portal: Libraries and the Academy, 5(4), 545–554.
+	Connell, R. (2008). Survey of web developers in academic libraries. Journal of Academic Librarianship, 34(2), 121–129.
+	Dethloff, N., & German, E. (2013). Successes and struggles with building web teams: A usability committee case study. New Library World, 114(5/6), 242–250.
+	Forrest, C. (2009). Academic libraries as learning spaces: Library effectiveness and the user experience. Georgia Library Quarterly, 46(3), 7–10.
+	Graves, S., & Ruppel, M. (2007). Usability testing and instruction librarians: A perfect pair. Internet Reference Services Quarterly, 11(4), 99–116.
+	Hahn, J., & Zitron, L. (2011). How first-year students navigate the stacks: Implications for improving wayfinding. Reference & User Services Quarterly, 51(1), 28–35.
+	Kneip, J. (2007). Library webmasters in medium-sized academic libraries. Journal of Web Librarianship, 1(3), 3–23.
+	Krug, S. (2006). Don’t make me think. Berkeley, CA: New Riders.
+	Lin, M. (2008). Organizational culture: An important factor to consider. The Bottom Line: Managing Library Finances, 21(3), 88–93.
+	Memorial University Libraries. (2015). Vision, mission, values. Retrieved from http://www.library.mun.ca/aboutus/aboutourlibraries/vision/.
+
+	Morville, P. (2004). User experience design. Retrieved from http://semanticstudios.com/user_experience_design/.
+
+	Nichols, J., Bobal, A., & McEvoy, S. (2009). Using a permanent usability team to advance user-centered design in libraries. Electronic Journal of Academic and Special Librarianship, 10(2), 1–8.
+	Schaffer, E. (2004). Institutionalization of usability: A step-by-step Guide. Boston: Addison-Wesley.
+	Schmidt, A. (2010). Touch points and testing. Library Journal, 135(8), 20. 
+	Schmidt, A., & Etches, A. (2014). Useful, usable, desirable. Applying user experience design to your library. Chicago: ALA Editions. 
+	Turner, N. (2011). Librarians do it differently: Comparative usability testing with students and library staff. Journal of Web Librarianship, 5(4), 286–298.
+	Veldof, J., & Nackerud, S. (2001). Do you have the right stuff? Seven areas of expertise for successful web site design in libraries. Internet Reference Services Quarterly, 6(1), 13–38.
+	Wu, S. K., & Lanclos, D. (2011). Re-imagining the users’ experience: An ethnographic approach to web usability and space design. Reference Services Review, 39(3), 369–389.
+
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

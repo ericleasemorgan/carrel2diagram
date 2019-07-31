@@ -1,0 +1,7 @@
+most	105
+least	15
+best	7
+highest	2
+lapply(respondent.log$v6	1
+lowest	1
+worst	1

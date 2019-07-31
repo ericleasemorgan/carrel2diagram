@@ -1,0 +1,590 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-3890	1	1	Skip	PERSON
+quod-lib-umich-edu-3890	1	2	Skip	PERSON
+quod-lib-umich-edu-3890	1	3	Journal of Library User Experience	ORG
+quod-lib-umich-edu-3890	1	4	Library User	PERSON
+quod-lib-umich-edu-3890	1	5	Michigan Publishing	ORG
+quod-lib-umich-edu-3890	2	1	Quick	ORG
+quod-lib-umich-edu-3890	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-3890	3	1	2	CARDINAL
+quod-lib-umich-edu-3890	3	2	Edward Luca	PERSON
+quod-lib-umich-edu-3890	3	3	Bhuva Narayan University of Technology Sydney	ORG
+quod-lib-umich-edu-3890	3	4	Australia	GPE
+quod-lib-umich-edu-3890	3	5	DOI	ORG
+quod-lib-umich-edu-3890	3	6	1	CARDINAL
+quod-lib-umich-edu-3890	3	7	DOI	ORG
+quod-lib-umich-edu-3890	3	8	Creative Commons 3.0 Attribution License Permissions	ORG
+quod-lib-umich-edu-3890	3	9	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-3890	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-3890	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-3890	6	1	Reddit Mendeley	PERSON
+quod-lib-umich-edu-3890	6	2	Weave	PERSON
+quod-lib-umich-edu-3890	10	1	the UTS Library	ORG
+quod-lib-umich-edu-3890	10	2	Australia	GPE
+quod-lib-umich-edu-3890	10	3	the University of Technology Sydney	ORG
+quod-lib-umich-edu-3890	10	4	UTS	ORG
+quod-lib-umich-edu-3890	13	1	Ranganathan	GPE
+quod-lib-umich-edu-3890	13	2	1931	DATE
+quod-lib-umich-edu-3890	15	1	Polger & Stempler	ORG
+quod-lib-umich-edu-3890	15	2	2014	DATE
+quod-lib-umich-edu-3890	17	1	Scott	ORG
+quod-lib-umich-edu-3890	17	2	2012	DATE
+quod-lib-umich-edu-3890	17	3	37	CARDINAL
+quod-lib-umich-edu-3890	18	1	White	ORG
+quod-lib-umich-edu-3890	18	2	2010	DATE
+quod-lib-umich-edu-3890	18	3	23	CARDINAL
+quod-lib-umich-edu-3890	21	1	2010	DATE
+quod-lib-umich-edu-3890	22	1	Literature Review Library	ORG
+quod-lib-umich-edu-3890	22	2	Schmidt	PERSON
+quod-lib-umich-edu-3890	22	3	2010	DATE
+quod-lib-umich-edu-3890	22	4	Hahn & Zitron	ORG
+quod-lib-umich-edu-3890	22	5	2011	DATE
+quod-lib-umich-edu-3890	22	6	28	CARDINAL
+quod-lib-umich-edu-3890	23	1	Schmidt	PERSON
+quod-lib-umich-edu-3890	23	2	2010	DATE
+quod-lib-umich-edu-3890	23	3	20	CARDINAL
+quod-lib-umich-edu-3890	23	4	” (Schmidt, 2010	WORK_OF_ART
+quod-lib-umich-edu-3890	23	5	20	CARDINAL
+quod-lib-umich-edu-3890	25	1	one	CARDINAL
+quod-lib-umich-edu-3890	25	2	” (Schmidt	GPE
+quod-lib-umich-edu-3890	25	3	2015	DATE
+quod-lib-umich-edu-3890	25	4	25	CARDINAL
+quod-lib-umich-edu-3890	26	1	Constance Mellon	ORG
+quod-lib-umich-edu-3890	26	2	McPherson	PERSON
+quod-lib-umich-edu-3890	26	3	2015	DATE
+quod-lib-umich-edu-3890	26	4	317	CARDINAL
+quod-lib-umich-edu-3890	27	1	Bosman & Rusinek	ORG
+quod-lib-umich-edu-3890	27	2	1997	DATE
+quod-lib-umich-edu-3890	27	3	81	CARDINAL
+quod-lib-umich-edu-3890	28	1	stupid’	PERSON
+quod-lib-umich-edu-3890	28	2	Coker	PERSON
+quod-lib-umich-edu-3890	28	3	1993	DATE
+quod-lib-umich-edu-3890	28	4	27	CARDINAL
+quod-lib-umich-edu-3890	29	1	” (McPherson, 2015	WORK_OF_ART
+quod-lib-umich-edu-3890	29	2	318	CARDINAL
+quod-lib-umich-edu-3890	31	1	2007	DATE
+quod-lib-umich-edu-3890	31	2	138	CARDINAL
+quod-lib-umich-edu-3890	33	1	two	CARDINAL
+quod-lib-umich-edu-3890	33	2	Serfass	NORP
+quod-lib-umich-edu-3890	33	3	2012	DATE
+quod-lib-umich-edu-3890	33	4	5	CARDINAL
+quod-lib-umich-edu-3890	35	1	2014	DATE
+quod-lib-umich-edu-3890	35	2	67	CARDINAL
+quod-lib-umich-edu-3890	36	1	Librarians	NORP
+quod-lib-umich-edu-3890	36	2	every day	DATE
+quod-lib-umich-edu-3890	37	1	Wakimoto	GPE
+quod-lib-umich-edu-3890	37	2	2015	DATE
+quod-lib-umich-edu-3890	37	3	172	CARDINAL
+quod-lib-umich-edu-3890	38	1	Fadel & Battisto	ORG
+quod-lib-umich-edu-3890	38	2	2009	DATE
+quod-lib-umich-edu-3890	38	3	397	CARDINAL
+quod-lib-umich-edu-3890	39	1	Gibson	ORG
+quod-lib-umich-edu-3890	39	2	two	CARDINAL
+quod-lib-umich-edu-3890	39	3	1979	DATE
+quod-lib-umich-edu-3890	39	4	141	CARDINAL
+quod-lib-umich-edu-3890	41	1	Schmidt	PERSON
+quod-lib-umich-edu-3890	41	2	2014	DATE
+quod-lib-umich-edu-3890	41	3	71	CARDINAL
+quod-lib-umich-edu-3890	43	1	Mollerup	ORG
+quod-lib-umich-edu-3890	43	2	2013	DATE
+quod-lib-umich-edu-3890	43	3	50	CARDINAL
+quod-lib-umich-edu-3890	45	1	three	CARDINAL
+quod-lib-umich-edu-3890	45	2	Li & Klippel	ORG
+quod-lib-umich-edu-3890	45	3	2012	DATE
+quod-lib-umich-edu-3890	45	4	23	CARDINAL
+quod-lib-umich-edu-3890	46	1	Klippel	GPE
+quod-lib-umich-edu-3890	46	2	2012	DATE
+quod-lib-umich-edu-3890	46	3	36	CARDINAL
+quod-lib-umich-edu-3890	48	1	Clay Shirky	PERSON
+quod-lib-umich-edu-3890	48	2	Asay	ORG
+quod-lib-umich-edu-3890	48	3	2009	DATE
+quod-lib-umich-edu-3890	50	1	Godfrey	PERSON
+quod-lib-umich-edu-3890	50	2	2015	DATE
+quod-lib-umich-edu-3890	51	1	Schmidt	PERSON
+quod-lib-umich-edu-3890	51	2	2014	DATE
+quod-lib-umich-edu-3890	51	3	Brown	PERSON
+quod-lib-umich-edu-3890	51	4	2002	DATE
+quod-lib-umich-edu-3890	51	5	five	CARDINAL
+quod-lib-umich-edu-3890	52	1	Schmidt & Etches	ORG
+quod-lib-umich-edu-3890	52	2	2014	DATE
+quod-lib-umich-edu-3890	52	3	UTS Library	ORG
+quod-lib-umich-edu-3890	53	1	Approach UTS	PERSON
+quod-lib-umich-edu-3890	53	2	more than a dozen	CARDINAL
+quod-lib-umich-edu-3890	53	3	several decades	DATE
+quod-lib-umich-edu-3890	58	1	UTS	ORG
+quod-lib-umich-edu-3890	58	2	July 2014	DATE
+quod-lib-umich-edu-3890	60	1	roughly 450,000	CARDINAL
+quod-lib-umich-edu-3890	60	2	200,000	CARDINAL
+quod-lib-umich-edu-3890	61	1	UTS	ORG
+quod-lib-umich-edu-3890	62	1	UTS Library	ORG
+quod-lib-umich-edu-3890	62	2	Booth	GPE
+quod-lib-umich-edu-3890	62	3	Schofield	GPE
+quod-lib-umich-edu-3890	62	4	Tiffen	GPE
+quod-lib-umich-edu-3890	62	5	2012	DATE
+quod-lib-umich-edu-3890	63	1	Tiffen	GPE
+quod-lib-umich-edu-3890	63	2	England	GPE
+quod-lib-umich-edu-3890	63	3	2011	DATE
+quod-lib-umich-edu-3890	63	4	238	CARDINAL
+quod-lib-umich-edu-3890	65	1	2012	DATE
+quod-lib-umich-edu-3890	65	2	the UTS Library	ORG
+quod-lib-umich-edu-3890	65	3	” (Booth, 2016)	WORK_OF_ART
+quod-lib-umich-edu-3890	66	1	first	ORDINAL
+quod-lib-umich-edu-3890	66	2	Chris Gaul	PERSON
+quod-lib-umich-edu-3890	66	3	 	ORG
+quod-lib-umich-edu-3890	66	4	Gaul	PERSON
+quod-lib-umich-edu-3890	66	5	2013b	DATE
+quod-lib-umich-edu-3890	67	1	Chan	GPE
+quod-lib-umich-edu-3890	67	2	Crosbie	ORG
+quod-lib-umich-edu-3890	67	3	Williams	PERSON
+quod-lib-umich-edu-3890	67	4	2015	DATE
+quod-lib-umich-edu-3890	67	5	2	CARDINAL
+quod-lib-umich-edu-3890	68	1	2016	DATE
+quod-lib-umich-edu-3890	68	2	80	CARDINAL
+quod-lib-umich-edu-3890	69	1	Razzouk	PERSON
+quod-lib-umich-edu-3890	69	2	Shute	GPE
+quod-lib-umich-edu-3890	69	3	2012	DATE
+quod-lib-umich-edu-3890	69	4	330	CARDINAL
+quod-lib-umich-edu-3890	70	1	Stanford	ORG
+quod-lib-umich-edu-3890	70	2	Hasso Plattner Institute of Design	ORG
+quod-lib-umich-edu-3890	70	3	2013	DATE
+quod-lib-umich-edu-3890	70	4	2	CARDINAL
+quod-lib-umich-edu-3890	71	1	Reeves	ORG
+quod-lib-umich-edu-3890	71	2	2008	DATE
+quod-lib-umich-edu-3890	71	3	33	CARDINAL
+quod-lib-umich-edu-3890	71	4	Serfass	NORP
+quod-lib-umich-edu-3890	71	5	one	CARDINAL
+quod-lib-umich-edu-3890	71	6	2012	DATE
+quod-lib-umich-edu-3890	74	1	Empathy	PERSON
+quod-lib-umich-edu-3890	74	2	Curedale	ORG
+quod-lib-umich-edu-3890	74	3	2013	DATE
+quod-lib-umich-edu-3890	74	4	Given & Leckie	ORG
+quod-lib-umich-edu-3890	74	5	2003	DATE
+quod-lib-umich-edu-3890	77	1	Schmidt	PERSON
+quod-lib-umich-edu-3890	77	2	2014	DATE
+quod-lib-umich-edu-3890	77	3	83	CARDINAL
+quod-lib-umich-edu-3890	85	1	First	ORDINAL
+quod-lib-umich-edu-3890	87	1	two years	DATE
+quod-lib-umich-edu-3890	92	1	Leckie	GPE
+quod-lib-umich-edu-3890	92	2	users’	CARDINAL
+quod-lib-umich-edu-3890	92	3	2003	DATE
+quod-lib-umich-edu-3890	92	4	366	CARDINAL
+quod-lib-umich-edu-3890	94	1	Leckie	GPE
+quod-lib-umich-edu-3890	94	2	2003	DATE
+quod-lib-umich-edu-3890	96	1	several months	DATE
+quod-lib-umich-edu-3890	96	2	2013–14	DATE
+quod-lib-umich-edu-3890	97	1	RefTracker	ORG
+quod-lib-umich-edu-3890	105	1	Stempler & Polger	ORG
+quod-lib-umich-edu-3890	105	2	2013	DATE
+quod-lib-umich-edu-3890	105	3	122	CARDINAL
+quod-lib-umich-edu-3890	106	1	first	ORDINAL
+quod-lib-umich-edu-3890	106	2	second	ORDINAL
+quod-lib-umich-edu-3890	111	1	1	CARDINAL
+quod-lib-umich-edu-3890	111	2	1	CARDINAL
+quod-lib-umich-edu-3890	112	1	1	CARDINAL
+quod-lib-umich-edu-3890	114	1	years ago	DATE
+quod-lib-umich-edu-3890	116	1	2	CARDINAL
+quod-lib-umich-edu-3890	119	1	2	CARDINAL
+quod-lib-umich-edu-3890	120	1	two	CARDINAL
+quod-lib-umich-edu-3890	122	1	seventeen	CARDINAL
+quod-lib-umich-edu-3890	122	2	fifty-four	CARDINAL
+quod-lib-umich-edu-3890	123	1	One	CARDINAL
+quod-lib-umich-edu-3890	123	2	ten whole years	DATE
+quod-lib-umich-edu-3890	125	1	3	CARDINAL
+quod-lib-umich-edu-3890	126	1	4	CARDINAL
+quod-lib-umich-edu-3890	126	2	5	CARDINAL
+quod-lib-umich-edu-3890	127	1	3	CARDINAL
+quod-lib-umich-edu-3890	129	1	4	CARDINAL
+quod-lib-umich-edu-3890	131	1	5	CARDINAL
+quod-lib-umich-edu-3890	132	1	4	CARDINAL
+quod-lib-umich-edu-3890	134	1	two	CARDINAL
+quod-lib-umich-edu-3890	135	1	6	CARDINAL
+quod-lib-umich-edu-3890	136	1	Facebook	ORG
+quod-lib-umich-edu-3890	136	2	Twitter	GPE
+quod-lib-umich-edu-3890	136	3	Instagram	GPE
+quod-lib-umich-edu-3890	138	1	6	CARDINAL
+quod-lib-umich-edu-3890	140	1	Schmidt	PERSON
+quod-lib-umich-edu-3890	140	2	Etches’	PERSON
+quod-lib-umich-edu-3890	140	3	2014	DATE
+quod-lib-umich-edu-3890	140	4	five	CARDINAL
+quod-lib-umich-edu-3890	141	1	sixth	ORDINAL
+quod-lib-umich-edu-3890	142	1	Directional Directional	ORG
+quod-lib-umich-edu-3890	142	2	Schmidt & Etches	ORG
+quod-lib-umich-edu-3890	142	3	2014	DATE
+quod-lib-umich-edu-3890	142	4	83	CARDINAL
+quod-lib-umich-edu-3890	143	1	Brown	PERSON
+quod-lib-umich-edu-3890	143	2	” (Brown, 2002	WORK_OF_ART
+quod-lib-umich-edu-3890	143	3	95	CARDINAL
+quod-lib-umich-edu-3890	144	1	UTS	ORG
+quod-lib-umich-edu-3890	144	2	Peake & Wilschefski	ORG
+quod-lib-umich-edu-3890	144	3	1989	DATE
+quod-lib-umich-edu-3890	145	1	UTS Library	ORG
+quod-lib-umich-edu-3890	150	1	2012	DATE
+quod-lib-umich-edu-3890	150	2	5	CARDINAL
+quod-lib-umich-edu-3890	151	1	Barclay	FAC
+quod-lib-umich-edu-3890	151	2	Scott	ORG
+quod-lib-umich-edu-3890	151	3	2012	DATE
+quod-lib-umich-edu-3890	151	4	37	CARDINAL
+quod-lib-umich-edu-3890	154	1	Martin & Hanington	ORG
+quod-lib-umich-edu-3890	154	2	2012	DATE
+quod-lib-umich-edu-3890	154	3	120	CARDINAL
+quod-lib-umich-edu-3890	155	1	several months	DATE
+quod-lib-umich-edu-3890	157	1	7	CARDINAL
+quod-lib-umich-edu-3890	158	1	7	CARDINAL
+quod-lib-umich-edu-3890	166	1	8	CARDINAL
+quod-lib-umich-edu-3890	167	1	8	CARDINAL
+quod-lib-umich-edu-3890	170	1	Identification	NORP
+quod-lib-umich-edu-3890	171	1	2013	DATE
+quod-lib-umich-edu-3890	171	2	the Collection Ribbon (	ORG
+quod-lib-umich-edu-3890	172	1	9	CARDINAL
+quod-lib-umich-edu-3890	172	2	Chris Gaul’s	PERSON
+quod-lib-umich-edu-3890	176	1	a “Shelf View”	LAW
+quod-lib-umich-edu-3890	177	1	9	CARDINAL
+quod-lib-umich-edu-3890	178	1	Collection Ribbon”	LAW
+quod-lib-umich-edu-3890	178	2	UTS	ORG
+quod-lib-umich-edu-3890	178	3	2016	DATE
+quod-lib-umich-edu-3890	179	1	Zitron	ORG
+quod-lib-umich-edu-3890	179	2	2011	DATE
+quod-lib-umich-edu-3890	179	3	32	CARDINAL
+quod-lib-umich-edu-3890	180	1	first-year	DATE
+quod-lib-umich-edu-3890	180	2	Hahn & Zitron	ORG
+quod-lib-umich-edu-3890	180	3	2011	DATE
+quod-lib-umich-edu-3890	181	1	Stempler	PERSON
+quod-lib-umich-edu-3890	181	2	2013	DATE
+quod-lib-umich-edu-3890	182	1	2013	DATE
+quod-lib-umich-edu-3890	182	2	512	CARDINAL
+quod-lib-umich-edu-3890	183	1	2004	DATE
+quod-lib-umich-edu-3890	183	2	20	CARDINAL
+quod-lib-umich-edu-3890	184	1	Woodward	PERSON
+quod-lib-umich-edu-3890	184	2	2004	DATE
+quod-lib-umich-edu-3890	184	3	118	CARDINAL
+quod-lib-umich-edu-3890	186	1	10	CARDINAL
+quod-lib-umich-edu-3890	187	1	students’	PERSON
+quod-lib-umich-edu-3890	189	1	the Collection Ribbon	ORG
+quod-lib-umich-edu-3890	190	1	10	CARDINAL
+quod-lib-umich-edu-3890	192	1	11	CARDINAL
+quod-lib-umich-edu-3890	192	2	one	CARDINAL
+quod-lib-umich-edu-3890	193	1	10	CARDINAL
+quod-lib-umich-edu-3890	196	1	11	CARDINAL
+quod-lib-umich-edu-3890	197	1	00s	DATE
+quod-lib-umich-edu-3890	199	1	UTS Library	ORG
+quod-lib-umich-edu-3890	200	1	“G-Row	FAC
+quod-lib-umich-edu-3890	200	2	2016	DATE
+quod-lib-umich-edu-3890	203	1	Polger & Stempler	ORG
+quod-lib-umich-edu-3890	203	2	2014	DATE
+quod-lib-umich-edu-3890	203	3	68	CARDINAL
+quod-lib-umich-edu-3890	204	1	UTS	ORG
+quod-lib-umich-edu-3890	208	1	one	CARDINAL
+quod-lib-umich-edu-3890	212	1	Schmidt	PERSON
+quod-lib-umich-edu-3890	212	2	2014	DATE
+quod-lib-umich-edu-3890	212	3	86	CARDINAL
+quod-lib-umich-edu-3890	214	1	Mollerup	ORG
+quod-lib-umich-edu-3890	214	2	2005	DATE
+quod-lib-umich-edu-3890	214	3	15	CARDINAL
+quod-lib-umich-edu-3890	216	1	Brown	PERSON
+quod-lib-umich-edu-3890	216	2	2002	DATE
+quod-lib-umich-edu-3890	216	3	93	CARDINAL
+quod-lib-umich-edu-3890	217	1	UTS Library’s	ORG
+quod-lib-umich-edu-3890	217	2	Print & Copy Room	EVENT
+quod-lib-umich-edu-3890	224	1	UTS Library	ORG
+quod-lib-umich-edu-3890	224	2	2016	DATE
+quod-lib-umich-edu-3890	226	1	the Print & Copy Room	FAC
+quod-lib-umich-edu-3890	227	1	ten	CARDINAL
+quod-lib-umich-edu-3890	231	1	Schmidt	PERSON
+quod-lib-umich-edu-3890	231	2	Schmidt	PERSON
+quod-lib-umich-edu-3890	231	3	2015	DATE
+quod-lib-umich-edu-3890	233	1	Carlile	ORG
+quod-lib-umich-edu-3890	233	2	2007	DATE
+quod-lib-umich-edu-3890	233	3	138	CARDINAL
+quod-lib-umich-edu-3890	235	1	UTS Library	ORG
+quod-lib-umich-edu-3890	237	1	12	CARDINAL
+quod-lib-umich-edu-3890	239	1	12	CARDINAL
+quod-lib-umich-edu-3890	241	1	three	CARDINAL
+quod-lib-umich-edu-3890	243	1	13	CARDINAL
+quod-lib-umich-edu-3890	244	1	PSST	WORK_OF_ART
+quod-lib-umich-edu-3890	246	1	14	CARDINAL
+quod-lib-umich-edu-3890	251	1	13	CARDINAL
+quod-lib-umich-edu-3890	253	1	first	ORDINAL
+quod-lib-umich-edu-3890	254	1	14	CARDINAL
+quod-lib-umich-edu-3890	257	1	15	CARDINAL
+quod-lib-umich-edu-3890	258	1	15	CARDINAL
+quod-lib-umich-edu-3890	260	1	first	ORDINAL
+quod-lib-umich-edu-3890	262	1	16	CARDINAL
+quod-lib-umich-edu-3890	263	1	Level 2	PRODUCT
+quod-lib-umich-edu-3890	266	1	17	CARDINAL
+quod-lib-umich-edu-3890	267	1	16	CARDINAL
+quod-lib-umich-edu-3890	269	1	Directional	GPE
+quod-lib-umich-edu-3890	271	1	17	CARDINAL
+quod-lib-umich-edu-3890	272	1	early 2016	DATE
+quod-lib-umich-edu-3890	273	1	Two	CARDINAL
+quod-lib-umich-edu-3890	273	2	today	DATE
+quod-lib-umich-edu-3890	275	1	Fun & Delightful	ORG
+quod-lib-umich-edu-3890	275	2	sixth	ORDINAL
+quod-lib-umich-edu-3890	275	3	Crosbie & Williams	ORG
+quod-lib-umich-edu-3890	275	4	2015	DATE
+quod-lib-umich-edu-3890	275	5	3	CARDINAL
+quod-lib-umich-edu-3890	276	1	users’	CARDINAL
+quod-lib-umich-edu-3890	279	1	 	PERSON
+quod-lib-umich-edu-3890	280	1	18	CARDINAL
+quod-lib-umich-edu-3890	284	1	18	CARDINAL
+quod-lib-umich-edu-3890	286	1	Shhhhhhhhhhh	WORK_OF_ART
+quod-lib-umich-edu-3890	287	1	19	CARDINAL
+quod-lib-umich-edu-3890	289	1	19	CARDINAL
+quod-lib-umich-edu-3890	291	1	The UTS Library	ORG
+quod-lib-umich-edu-3890	294	1	Borrow	WORK_OF_ART
+quod-lib-umich-edu-3890	295	1	20	CARDINAL
+quod-lib-umich-edu-3890	296	1	20	CARDINAL
+quod-lib-umich-edu-3890	299	1	UTS Library’s	ORG
+quod-lib-umich-edu-3890	299	2	Chris Gaul	PERSON
+quod-lib-umich-edu-3890	299	3	Gaul	PERSON
+quod-lib-umich-edu-3890	299	4	2013a	DATE
+quod-lib-umich-edu-3890	300	1	three	CARDINAL
+quod-lib-umich-edu-3890	300	2	350–650	CARDINAL
+quod-lib-umich-edu-3890	300	3	651–999	DATE
+quod-lib-umich-edu-3890	302	1	21	CARDINAL
+quod-lib-umich-edu-3890	303	1	21	CARDINAL
+quod-lib-umich-edu-3890	304	1	UTS Library’s	ORG
+quod-lib-umich-edu-3890	305	1	Chris Gaul	PERSON
+quod-lib-umich-edu-3890	307	1	dozens	CARDINAL
+quod-lib-umich-edu-3890	310	1	UTS Library	ORG
+quod-lib-umich-edu-3890	313	1	the University Librarian Mal Booth	ORG
+quod-lib-umich-edu-3890	313	2	the UTS Library	ORG
+quod-lib-umich-edu-3890	313	3	the University of Technology Sydney	ORG
+quod-lib-umich-edu-3890	313	4	Australia	GPE
+quod-lib-umich-edu-3890	314	1	UTS Library’s	ORG
+quod-lib-umich-edu-3890	314	2	2012	DATE
+quod-lib-umich-edu-3890	314	3	Chris Gaul	PERSON
+quod-lib-umich-edu-3890	314	4	Thomas Fethers	PERSON
+quod-lib-umich-edu-3890	314	5	Joanna Grygierczyk	PERSON
+quod-lib-umich-edu-3890	314	6	Emily Gregory	PERSON
+quod-lib-umich-edu-3890	315	1	Alhamdani	PERSON
+quod-lib-umich-edu-3890	315	2	W. A.	PERSON
+quod-lib-umich-edu-3890	316	1	2016	DATE
+quod-lib-umich-edu-3890	318	1	Applied Security Research	ORG
+quod-lib-umich-edu-3890	318	2	11(1	CARDINAL
+quod-lib-umich-edu-3890	318	3	78–89	CARDINAL
+quod-lib-umich-edu-3890	319	1	Amiel	PERSON
+quod-lib-umich-edu-3890	319	2	T., & Reeves	ORG
+quod-lib-umich-edu-3890	319	3	T. C.	ORG
+quod-lib-umich-edu-3890	319	4	2008	DATE
+quod-lib-umich-edu-3890	321	1	Journal of Educational Technology & Society	ORG
+quod-lib-umich-edu-3890	321	2	11(4	DATE
+quod-lib-umich-edu-3890	321	3	29–40	CARDINAL
+quod-lib-umich-edu-3890	322	1	2009	DATE
+quod-lib-umich-edu-3890	323	1	Shirky	ORG
+quod-lib-umich-edu-3890	323	2	Problem	GPE
+quod-lib-umich-edu-3890	324	1	Retrieved June 29, 2016	DATE
+quod-lib-umich-edu-3890	324	2	WebCite	ORG
+quod-lib-umich-edu-3890	324	3	Barclay, D. A., & Scott	ORG
+quod-lib-umich-edu-3890	324	4	E. D. (	PERSON
+quod-lib-umich-edu-3890	324	5	2012	DATE
+quod-lib-umich-edu-3890	326	1	American Libraries	ORG
+quod-lib-umich-edu-3890	326	2	36–38	CARDINAL
+quod-lib-umich-edu-3890	327	1	2016	DATE
+quod-lib-umich-edu-3890	328	1	VALA	ORG
+quod-lib-umich-edu-3890	328	2	2016	DATE
+quod-lib-umich-edu-3890	329	1	Retrieved April 3, 2016	DATE
+quod-lib-umich-edu-3890	329	2	WebCite	ORG
+quod-lib-umich-edu-3890	329	3	Booth	GPE
+quod-lib-umich-edu-3890	329	4	M.	NORP
+quod-lib-umich-edu-3890	329	5	Schofield	GPE
+quod-lib-umich-edu-3890	329	6	S.	GPE
+quod-lib-umich-edu-3890	329	7	& Tiffen	GPE
+quod-lib-umich-edu-3890	329	8	B.	ORG
+quod-lib-umich-edu-3890	330	1	2012	DATE
+quod-lib-umich-edu-3890	331	1	UTS	ORG
+quod-lib-umich-edu-3890	332	1	Australian Academic & Research Libraries	ORG
+quod-lib-umich-edu-3890	332	2	43(1	CARDINAL
+quod-lib-umich-edu-3890	332	3	32–45	CARDINAL
+quod-lib-umich-edu-3890	333	1	Bosman	PERSON
+quod-lib-umich-edu-3890	333	2	C.	GPE
+quod-lib-umich-edu-3890	333	3	1997	DATE
+quod-lib-umich-edu-3890	335	1	Reference Services Review	ORG
+quod-lib-umich-edu-3890	335	2	25(1	CARDINAL
+quod-lib-umich-edu-3890	335	3	71–82	CARDINAL
+quod-lib-umich-edu-3890	336	1	http://doi.org/10.1108/00907329710306599 Brown	PERSON
+quod-lib-umich-edu-3890	336	2	C. R.	PERSON
+quod-lib-umich-edu-3890	336	3	2002	DATE
+quod-lib-umich-edu-3890	337	1	Interior	ORG
+quod-lib-umich-edu-3890	338	1	Chicago	GPE
+quod-lib-umich-edu-3890	338	2	ALA Editions	ORG
+quod-lib-umich-edu-3890	339	1	H.	PERSON
+quod-lib-umich-edu-3890	339	2	2007	DATE
+quod-lib-umich-edu-3890	341	1	Australian Academic & Research Libraries	ORG
+quod-lib-umich-edu-3890	341	2	38(2	GPE
+quod-lib-umich-edu-3890	341	3	129–147	CARDINAL
+quod-lib-umich-edu-3890	342	1	Crosbie	ORG
+quod-lib-umich-edu-3890	342	2	J., & Williams	ORG
+quod-lib-umich-edu-3890	342	3	K.	PERSON
+quod-lib-umich-edu-3890	342	4	2015	DATE
+quod-lib-umich-edu-3890	344	1	Retrieved April 3, 2016	DATE
+quod-lib-umich-edu-3890	344	2	WebCite	ORG
+quod-lib-umich-edu-3890	344	3	Coker	PERSON
+quod-lib-umich-edu-3890	344	4	S. (1993	PERSON
+quod-lib-umich-edu-3890	347	1	Library Management	ORG
+quod-lib-umich-edu-3890	347	2	24–31	CARDINAL
+quod-lib-umich-edu-3890	348	1	http://doi.org/10.1108/EUM0000000000844 Curedale	PERSON
+quod-lib-umich-edu-3890	348	2	R. A.	PERSON
+quod-lib-umich-edu-3890	349	1	2013	DATE
+quod-lib-umich-edu-3890	351	1	Topanga	GPE
+quod-lib-umich-edu-3890	351	2	CA: Design Community College Inc.	ORG
+quod-lib-umich-edu-3890	351	3	Gaul	PERSON
+quod-lib-umich-edu-3890	351	4	C.	PERSON
+quod-lib-umich-edu-3890	351	5	2013a	DATE
+quod-lib-umich-edu-3890	353	1	Retrieved April 3, 2016	DATE
+quod-lib-umich-edu-3890	353	2	WebCite	ORG
+quod-lib-umich-edu-3890	353	3	http://www.webcitation.org/6gUfY99Zf)	ORG
+quod-lib-umich-edu-3890	353	4	Gaul	PERSON
+quod-lib-umich-edu-3890	353	5	C.	PERSON
+quod-lib-umich-edu-3890	353	6	2013b	DATE
+quod-lib-umich-edu-3890	355	1	Retrieved April 3, 2016	DATE
+quod-lib-umich-edu-3890	355	2	WebCite	ORG
+quod-lib-umich-edu-3890	355	3	Gibson	PERSON
+quod-lib-umich-edu-3890	355	4	J. J.	PERSON
+quod-lib-umich-edu-3890	356	1	1979	DATE
+quod-lib-umich-edu-3890	358	1	Boston	GPE
+quod-lib-umich-edu-3890	358	2	Houghton Mifflin	PERSON
+quod-lib-umich-edu-3890	359	1	L. M. & Leckie	ORG
+quod-lib-umich-edu-3890	359	2	G. J.	PERSON
+quod-lib-umich-edu-3890	360	1	2003	DATE
+quod-lib-umich-edu-3890	362	1	Library & Information Science Research	ORG
+quod-lib-umich-edu-3890	362	2	25(4	CARDINAL
+quod-lib-umich-edu-3890	363	1	Godfrey	PERSON
+quod-lib-umich-edu-3890	363	2	K.	PERSON
+quod-lib-umich-edu-3890	363	3	2015	DATE
+quod-lib-umich-edu-3890	365	1	1(3	CARDINAL
+quod-lib-umich-edu-3890	366	1	J., & Zitron	ORG
+quod-lib-umich-edu-3890	366	2	L. (	GPE
+quod-lib-umich-edu-3890	366	3	2011	DATE
+quod-lib-umich-edu-3890	367	1	first-year	DATE
+quod-lib-umich-edu-3890	367	2	Implications	PERSON
+quod-lib-umich-edu-3890	368	1	Reference & User Services Quarterly	ORG
+quod-lib-umich-edu-3890	368	2	51(1	CARDINAL
+quod-lib-umich-edu-3890	368	3	28–35	CARDINAL
+quod-lib-umich-edu-3890	369	1	Hasso Plattner Institute of Design	ORG
+quod-lib-umich-edu-3890	370	1	2013	DATE
+quod-lib-umich-edu-3890	372	1	Retrieved April 3, 2016	DATE
+quod-lib-umich-edu-3890	372	2	WebCite	ORG
+quod-lib-umich-edu-3890	372	3	http://www.webcitation.org/6gUg0MvIX	GPE
+quod-lib-umich-edu-3890	372	4	Li	PERSON
+quod-lib-umich-edu-3890	372	5	R.	NORP
+quod-lib-umich-edu-3890	372	6	& Klippel	ORG
+quod-lib-umich-edu-3890	373	1	2012	DATE
+quod-lib-umich-edu-3890	375	1	Map & Geography Libraries	ORG
+quod-lib-umich-edu-3890	375	2	21–38	CARDINAL
+quod-lib-umich-edu-3890	376	1	Maier	PERSON
+quod-lib-umich-edu-3890	376	2	J. R. A.	PERSON
+quod-lib-umich-edu-3890	376	3	Fadel	PERSON
+quod-lib-umich-edu-3890	376	4	G. M.,	PERSON
+quod-lib-umich-edu-3890	376	5	& Battisto	ORG
+quod-lib-umich-edu-3890	376	6	D. G.	PERSON
+quod-lib-umich-edu-3890	376	7	2009	DATE
+quod-lib-umich-edu-3890	379	1	Martin	PERSON
+quod-lib-umich-edu-3890	379	2	B., & Hanington	ORG
+quod-lib-umich-edu-3890	379	3	B.	GPE
+quod-lib-umich-edu-3890	380	1	2012	DATE
+quod-lib-umich-edu-3890	381	1	100	CARDINAL
+quod-lib-umich-edu-3890	382	1	Rockport Publishers	ORG
+quod-lib-umich-edu-3890	383	1	McPherson	PERSON
+quod-lib-umich-edu-3890	383	2	M. A.	PERSON
+quod-lib-umich-edu-3890	384	1	2015	DATE
+quod-lib-umich-edu-3890	386	1	IFLA Journal	ORG
+quod-lib-umich-edu-3890	386	2	41(4	CARDINAL
+quod-lib-umich-edu-3890	386	3	317–325	CARDINAL
+quod-lib-umich-edu-3890	387	1	Mollerup	ORG
+quod-lib-umich-edu-3890	387	2	2005	DATE
+quod-lib-umich-edu-3890	389	1	Baden	GPE
+quod-lib-umich-edu-3890	389	2	Switzerland	GPE
+quod-lib-umich-edu-3890	389	3	Lars Müller Publishers	ORG
+quod-lib-umich-edu-3890	390	1	Mollerup	ORG
+quod-lib-umich-edu-3890	390	2	2013	DATE
+quod-lib-umich-edu-3890	391	1	Basic & Interactive	ORG
+quod-lib-umich-edu-3890	393	1	D. G.	PERSON
+quod-lib-umich-edu-3890	393	2	& Wilschefski	PERSON
+quod-lib-umich-edu-3890	393	3	W. A.	PERSON
+quod-lib-umich-edu-3890	394	1	1989	DATE
+quod-lib-umich-edu-3890	395	1	the University of Technology	ORG
+quod-lib-umich-edu-3890	395	2	Sydney	GPE
+quod-lib-umich-edu-3890	396	1	Sydney	GPE
+quod-lib-umich-edu-3890	396	2	Australia	GPE
+quod-lib-umich-edu-3890	397	1	M. A.	PERSON
+quod-lib-umich-edu-3890	397	2	& Stempler	ORG
+quod-lib-umich-edu-3890	397	3	A. F. (	PERSON
+quod-lib-umich-edu-3890	397	4	2014	DATE
+quod-lib-umich-edu-3890	399	1	10(2	DATE
+quod-lib-umich-edu-3890	399	2	67–95	CARDINAL
+quod-lib-umich-edu-3890	400	1	Ranganathan	PERSON
+quod-lib-umich-edu-3890	400	2	S. R.	PERSON
+quod-lib-umich-edu-3890	400	3	1931	DATE
+quod-lib-umich-edu-3890	401	1	five	CARDINAL
+quod-lib-umich-edu-3890	402	1	The Madras Library Association	ORG
+quod-lib-umich-edu-3890	403	1	Razzouk	PERSON
+quod-lib-umich-edu-3890	403	2	R.	NORP
+quod-lib-umich-edu-3890	403	3	& Shute	ORG
+quod-lib-umich-edu-3890	403	4	V.	PERSON
+quod-lib-umich-edu-3890	403	5	2012	DATE
+quod-lib-umich-edu-3890	405	1	Review of Educational Research	ORG
+quod-lib-umich-edu-3890	405	2	330–348	CARDINAL
+quod-lib-umich-edu-3890	406	1	http://doi.org/10.3102/0034654312457429 Schmidt	PERSON
+quod-lib-umich-edu-3890	407	1	2010	DATE
+quod-lib-umich-edu-3890	408	1	Touch	ORG
+quod-lib-umich-edu-3890	409	1	Library Journal	ORG
+quod-lib-umich-edu-3890	409	2	135(8	CARDINAL
+quod-lib-umich-edu-3890	409	3	20	CARDINAL
+quod-lib-umich-edu-3890	410	1	Schmidt, A.	ORG
+quod-lib-umich-edu-3890	411	1	2015	DATE
+quod-lib-umich-edu-3890	413	1	Library Journal	ORG
+quod-lib-umich-edu-3890	413	2	140(14	DATE
+quod-lib-umich-edu-3890	413	3	25	CARDINAL
+quod-lib-umich-edu-3890	414	1	Schmidt, A., & Etches	ORG
+quod-lib-umich-edu-3890	415	1	2014	DATE
+quod-lib-umich-edu-3890	417	1	Chicago	GPE
+quod-lib-umich-edu-3890	417	2	American Library Association	ORG
+quod-lib-umich-edu-3890	418	1	Serfass, M. (	ORG
+quod-lib-umich-edu-3890	418	2	2012	DATE
+quod-lib-umich-edu-3890	420	1	Spectrum	PERSON
+quod-lib-umich-edu-3890	420	2	16(9	DATE
+quod-lib-umich-edu-3890	420	3	5–6	CARDINAL
+quod-lib-umich-edu-3890	421	1	A. F. (	PERSON
+quod-lib-umich-edu-3890	421	2	2013	DATE
+quod-lib-umich-edu-3890	423	1	Reference Services Review	ORG
+quod-lib-umich-edu-3890	424	1	http://doi.org/10.1108/RSR-02-2013-0006 Stempler	PERSON
+quod-lib-umich-edu-3890	424	2	M. A.	PERSON
+quod-lib-umich-edu-3890	425	1	2013	DATE
+quod-lib-umich-edu-3890	428	1	Quarterly	DATE
+quod-lib-umich-edu-3890	429	1	Tiffen	PERSON
+quod-lib-umich-edu-3890	429	2	B., & England	ORG
+quod-lib-umich-edu-3890	429	3	A.	GPE
+quod-lib-umich-edu-3890	430	1	2011	DATE
+quod-lib-umich-edu-3890	431	1	UTS Library: Measuring	ORG
+quod-lib-umich-edu-3890	432	1	Australian Library Journal	ORG
+quod-lib-umich-edu-3890	432	2	60(3	CARDINAL
+quod-lib-umich-edu-3890	432	3	237–247	DATE
+quod-lib-umich-edu-3890	433	1	UTS Library	ORG
+quod-lib-umich-edu-3890	434	1	2016	DATE
+quod-lib-umich-edu-3890	436	1	Retrieved April 3, 2016 from http://www.lib.uts.edu.au/facilities/printing	DATE
+quod-lib-umich-edu-3890	436	2	WebCite	ORG
+quod-lib-umich-edu-3890	436	3	Wakimoto	PERSON
+quod-lib-umich-edu-3890	436	4	D. K.	PERSON
+quod-lib-umich-edu-3890	436	5	2015	DATE
+quod-lib-umich-edu-3890	437	1	Librarians	NORP
+quod-lib-umich-edu-3890	438	1	Quarterly,	DATE
+quod-lib-umich-edu-3890	438	2	11(3	DATE
+quod-lib-umich-edu-3890	439	1	http://doi.org/10.1080/15228959.2015.1054545 White	PERSON
+quod-lib-umich-edu-3890	439	2	L. L.	PERSON
+quod-lib-umich-edu-3890	439	3	2010	DATE
+quod-lib-umich-edu-3890	441	1	American Libraries	ORG
+quod-lib-umich-edu-3890	441	2	41(8	CARDINAL
+quod-lib-umich-edu-3890	441	3	23	CARDINAL
+quod-lib-umich-edu-3890	442	1	Woodward	PERSON
+quod-lib-umich-edu-3890	442	2	J.	PERSON
+quod-lib-umich-edu-3890	444	1	2004	DATE
+quod-lib-umich-edu-3890	446	1	Chicago	GPE
+quod-lib-umich-edu-3890	446	2	ALA Editions	ORG
+quod-lib-umich-edu-3890	447	1	Notes	PRODUCT
+quod-lib-umich-edu-3890	447	2	Abby Covert’s	PERSON
+quod-lib-umich-edu-3890	447	3	Information Architecture Heuristics	ORG
+quod-lib-umich-edu-3890	448	1	Hosted	ORG
+quod-lib-umich-edu-3890	448	2	Michigan Publishing	ORG
+quod-lib-umich-edu-3890	448	3	the University of Michigan Library	ORG
+quod-lib-umich-edu-3890	449	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-3890	449	2	Twitter Email RSS	ORG

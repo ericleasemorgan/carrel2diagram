@@ -1,0 +1,266 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-9812	1	1	A Weave Digital Panel	ORG
+quod-lib-umich-edu-9812	1	2	Two	CARDINAL
+quod-lib-umich-edu-9812	1	3	Skip	PERSON
+quod-lib-umich-edu-9812	1	4	Skip	PERSON
+quod-lib-umich-edu-9812	1	5	Journal of Library User Experience	ORG
+quod-lib-umich-edu-9812	1	6	Library User	PERSON
+quod-lib-umich-edu-9812	1	7	Michigan Publishing	ORG
+quod-lib-umich-edu-9812	2	1	Quick	ORG
+quod-lib-umich-edu-9812	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-9812	3	1	2	CARDINAL
+quod-lib-umich-edu-9812	3	2	Submit	ORG
+quod-lib-umich-edu-9812	3	3	A Weave Digital Panel	ORG
+quod-lib-umich-edu-9812	3	4	Two	CARDINAL
+quod-lib-umich-edu-9812	3	5	DOI	ORG
+quod-lib-umich-edu-9812	3	6	1	CARDINAL
+quod-lib-umich-edu-9812	3	7	DOI	ORG
+quod-lib-umich-edu-9812	3	8	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-9812	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-9812	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-9812	6	1	Reddit Mendeley	PERSON
+quod-lib-umich-edu-9812	6	2	mid-January 2015	DATE
+quod-lib-umich-edu-9812	9	1	UX	ORG
+quod-lib-umich-edu-9812	11	1	2015	DATE
+quod-lib-umich-edu-9812	11	2	nine	CARDINAL
+quod-lib-umich-edu-9812	12	1	between Tuesday, January 20 and Friday, January 23, 2015	DATE
+quod-lib-umich-edu-9812	13	1	two	CARDINAL
+quod-lib-umich-edu-9812	14	1	UX	ORG
+quod-lib-umich-edu-9812	14	2	Jennifer Anderson	PERSON
+quod-lib-umich-edu-9812	14	3	New York Public Library	ORG
+quod-lib-umich-edu-9812	14	4	Rebecca Blakiston	PERSON
+quod-lib-umich-edu-9812	14	5	Associate Librarian	PERSON
+quod-lib-umich-edu-9812	14	6	User Experience	PERSON
+quod-lib-umich-edu-9812	14	7	University of Arizona Heidi Steiner Burkhardt	ORG
+quod-lib-umich-edu-9812	14	8	Digital Services	ORG
+quod-lib-umich-edu-9812	14	9	Norwich University Georgina Cronin	ORG
+quod-lib-umich-edu-9812	14	10	User Experience Librarian	ORG
+quod-lib-umich-edu-9812	14	11	Cambridge	GPE
+quod-lib-umich-edu-9812	14	12	Stephen Francoeur	PERSON
+quod-lib-umich-edu-9812	14	13	User Experience Librarian	PERSON
+quod-lib-umich-edu-9812	14	14	Baruch College	ORG
+quod-lib-umich-edu-9812	14	15	City University of New York Amanda L. Goodman	ORG
+quod-lib-umich-edu-9812	14	16	User Experience Librarian	PERSON
+quod-lib-umich-edu-9812	14	17	Darien Library Eric Larson	PERSON
+quod-lib-umich-edu-9812	14	18	Web Architect	ORG
+quod-lib-umich-edu-9812	14	19	User Experience Analyst	ORG
+quod-lib-umich-edu-9812	14	20	University of Minnesota	ORG
+quod-lib-umich-edu-9812	14	21	Craig MacDonald	PERSON
+quod-lib-umich-edu-9812	14	22	Pratt School of Information and Library Science	ORG
+quod-lib-umich-edu-9812	14	23	Erin White	PERSON
+quod-lib-umich-edu-9812	14	24	Web Systems Librarian	ORG
+quod-lib-umich-edu-9812	14	25	Virginia Commonwealth University	ORG
+quod-lib-umich-edu-9812	14	26	Pete Coco	PERSON
+quod-lib-umich-edu-9812	14	27	Web Services Librarian	ORG
+quod-lib-umich-edu-9812	14	28	Boston Public Library	ORG
+quod-lib-umich-edu-9812	14	29	Matthew Reidsma	PERSON
+quod-lib-umich-edu-9812	14	30	Web Services Librarian	ORG
+quod-lib-umich-edu-9812	14	31	Grand Valley State University	ORG
+quod-lib-umich-edu-9812	14	32	UX	ORG
+quod-lib-umich-edu-9812	17	1	UX	ORG
+quod-lib-umich-edu-9812	18	1	UX	ORG
+quod-lib-umich-edu-9812	19	1	Agile	GPE
+quod-lib-umich-edu-9812	20	1	UX	ORG
+quod-lib-umich-edu-9812	20	2	Agile	GPE
+quod-lib-umich-edu-9812	20	3	a couple years ago	DATE
+quod-lib-umich-edu-9812	21	1	Pete Coco	PERSON
+quod-lib-umich-edu-9812	22	1	UX	ORG
+quod-lib-umich-edu-9812	25	1	Georgina Cronin	PERSON
+quod-lib-umich-edu-9812	25	2	UK	GPE
+quod-lib-umich-edu-9812	25	3	Google	ORG
+quod-lib-umich-edu-9812	28	1	UX	ORG
+quod-lib-umich-edu-9812	30	1	UK	GPE
+quod-lib-umich-edu-9812	33	1	UX	ORG
+quod-lib-umich-edu-9812	33	2	one	CARDINAL
+quod-lib-umich-edu-9812	35	1	UX	ORG
+quod-lib-umich-edu-9812	36	1	UX	ORG
+quod-lib-umich-edu-9812	37	1	Amanda L. Goodman	PERSON
+quod-lib-umich-edu-9812	37	2	the six years	DATE
+quod-lib-umich-edu-9812	37	3	UX	ORG
+quod-lib-umich-edu-9812	37	4	the past two years	DATE
+quod-lib-umich-edu-9812	38	1	Aaron Schmidt	PERSON
+quod-lib-umich-edu-9812	38	2	Amanda Etches	PERSON
+quod-lib-umich-edu-9812	38	3	Nate Hill	PERSON
+quod-lib-umich-edu-9812	38	4	first	ORDINAL
+quod-lib-umich-edu-9812	38	5	UXers	ORG
+quod-lib-umich-edu-9812	39	1	UX	ORG
+quod-lib-umich-edu-9812	39	2	2008	DATE
+quod-lib-umich-edu-9812	41	1	UX	ORG
+quod-lib-umich-edu-9812	43	1	2000	DATE
+quod-lib-umich-edu-9812	44	1	15 years	DATE
+quod-lib-umich-edu-9812	47	1	Responsive Web Design	ORG
+quod-lib-umich-edu-9812	47	2	RWD	ORG
+quod-lib-umich-edu-9812	48	1	Ethan Marcotte	PERSON
+quod-lib-umich-edu-9812	49	1	RWD	ORG
+quod-lib-umich-edu-9812	49	2	Marcotte	ORG
+quod-lib-umich-edu-9812	49	3	a decade earlier	DATE
+quod-lib-umich-edu-9812	50	1	UX	ORG
+quod-lib-umich-edu-9812	53	1	the Americans with Disabilities Act	LAW
+quod-lib-umich-edu-9812	55	1	Friendlier	GPE
+quod-lib-umich-edu-9812	55	2	Hazards: Oops	ORG
+quod-lib-umich-edu-9812	57	1	Eric Larson	PERSON
+quod-lib-umich-edu-9812	57	2	Amanda	PERSON
+quod-lib-umich-edu-9812	57	3	UX	ORG
+quod-lib-umich-edu-9812	59	1	UX	ORG
+quod-lib-umich-edu-9812	63	1	University of Wisconsin-Madison	ORG
+quod-lib-umich-edu-9812	63	2	the University of Minnesota	ORG
+quod-lib-umich-edu-9812	63	3	two	CARDINAL
+quod-lib-umich-edu-9812	65	1	UX	ORG
+quod-lib-umich-edu-9812	79	1	Amanda L. Goodman	PERSON
+quod-lib-umich-edu-9812	82	1	Eric Larson	PERSON
+quod-lib-umich-edu-9812	85	1	two weeks ago	DATE
+quod-lib-umich-edu-9812	86	1	Mondays	DATE
+quod-lib-umich-edu-9812	87	1	Rebecca	GPE
+quod-lib-umich-edu-9812	87	2	Amanda	PERSON
+quod-lib-umich-edu-9812	90	1	UX	ORG
+quod-lib-umich-edu-9812	92	1	UX	ORG
+quod-lib-umich-edu-9812	92	2	the last few years	DATE
+quod-lib-umich-edu-9812	98	1	Hazard	ORG
+quod-lib-umich-edu-9812	99	1	Heidi Steiner Burkhardt	PERSON
+quod-lib-umich-edu-9812	99	2	Rebecca	GPE
+quod-lib-umich-edu-9812	100	1	the Value of Academic Libraries	ORG
+quod-lib-umich-edu-9812	101	1	Georgina	ORG
+quod-lib-umich-edu-9812	101	2	UX	ORG
+quod-lib-umich-edu-9812	101	3	one	CARDINAL
+quod-lib-umich-edu-9812	101	4	UX	ORG
+quod-lib-umich-edu-9812	102	1	Craig MacDonald	PERSON
+quod-lib-umich-edu-9812	102	2	UX/	ORG
+quod-lib-umich-edu-9812	103	1	one	CARDINAL
+quod-lib-umich-edu-9812	104	1	UX	ORG
+quod-lib-umich-edu-9812	104	2	UX	ORG
+quod-lib-umich-edu-9812	104	3	UX	ORG
+quod-lib-umich-edu-9812	105	1	a few months	DATE
+quod-lib-umich-edu-9812	106	1	UX	ORG
+quod-lib-umich-edu-9812	106	2	UX	ORG
+quod-lib-umich-edu-9812	107	1	Pratt	GPE
+quod-lib-umich-edu-9812	107	2	UX	ORG
+quod-lib-umich-edu-9812	107	3	MSLIS	PERSON
+quod-lib-umich-edu-9812	107	4	MSLIS	PERSON
+quod-lib-umich-edu-9812	108	1	UX	ORG
+quod-lib-umich-edu-9812	109	1	UX	ORG
+quod-lib-umich-edu-9812	110	1	UX	ORG
+quod-lib-umich-edu-9812	111	1	Jennifer Anderson	PERSON
+quod-lib-umich-edu-9812	111	2	NYPL	ORG
+quod-lib-umich-edu-9812	112	1	first	ORDINAL
+quod-lib-umich-edu-9812	112	2	Digital	ORG
+quod-lib-umich-edu-9812	112	3	2007	DATE
+quod-lib-umich-edu-9812	113	1	UX Designer	ORG
+quod-lib-umich-edu-9812	113	2	UX	ORG
+quod-lib-umich-edu-9812	118	1	Post	ORG
+quod-lib-umich-edu-9812	119	1	Post	ORG
+quod-lib-umich-edu-9812	122	1	UX	ORG
+quod-lib-umich-edu-9812	122	2	Leah Buley	PERSON
+quod-lib-umich-edu-9812	122	3	Adaptive Path's	ORG
+quod-lib-umich-edu-9812	122	4	UX Week conference	EVENT
+quod-lib-umich-edu-9812	122	5	A UX Team of One	WORK_OF_ART
+quod-lib-umich-edu-9812	124	1	Amazon	ORG
+quod-lib-umich-edu-9812	124	2	Google	ORG
+quod-lib-umich-edu-9812	124	3	YouTube	ORG
+quod-lib-umich-edu-9812	126	1	Eric Larson	PERSON
+quod-lib-umich-edu-9812	127	1	1	CARDINAL
+quod-lib-umich-edu-9812	129	1	UX	ORG
+quod-lib-umich-edu-9812	130	1	UX	ORG
+quod-lib-umich-edu-9812	134	1	jQuery / Google Analytics	ORG
+quod-lib-umich-edu-9812	136	1	the end of each month	DATE
+quod-lib-umich-edu-9812	137	1	Jewish	NORP
+quod-lib-umich-edu-9812	137	2	Archive	NORP
+quod-lib-umich-edu-9812	139	1	UX	ORG
+quod-lib-umich-edu-9812	139	2	one or zero	CARDINAL
+quod-lib-umich-edu-9812	140	1	UX	ORG
+quod-lib-umich-edu-9812	141	1	Georgina Cronin	PERSON
+quod-lib-umich-edu-9812	143	1	UKAnthroLib	ORG
+quod-lib-umich-edu-9812	143	2	UX	ORG
+quod-lib-umich-edu-9812	147	1	Erin White	PERSON
+quod-lib-umich-edu-9812	148	1	Michael Schofield	PERSON
+quod-lib-umich-edu-9812	148	2	Amanda	PERSON
+quod-lib-umich-edu-9812	148	3	LibUX	DATE
+quod-lib-umich-edu-9812	148	4	UX	ORG
+quod-lib-umich-edu-9812	149	1	UX	ORG
+quod-lib-umich-edu-9812	151	1	UX	ORG
+quod-lib-umich-edu-9812	151	2	CX	ORG
+quod-lib-umich-edu-9812	152	1	UX	ORG
+quod-lib-umich-edu-9812	155	1	Amanda L. Goodman	PERSON
+quod-lib-umich-edu-9812	155	2	UX	ORG
+quod-lib-umich-edu-9812	162	1	Heidi Steiner Burkhardt	PERSON
+quod-lib-umich-edu-9812	162	2	Craig	PERSON
+quod-lib-umich-edu-9812	162	3	UX "Teams of None	ORG
+quod-lib-umich-edu-9812	165	1	Amanda	PERSON
+quod-lib-umich-edu-9812	166	1	UX	ORG
+quod-lib-umich-edu-9812	168	1	Rebecca	GPE
+quod-lib-umich-edu-9812	170	1	last year’s	DATE
+quod-lib-umich-edu-9812	170	2	Vermont Library Conference	EVENT
+quod-lib-umich-edu-9812	170	3	the State Librarian	ORG
+quod-lib-umich-edu-9812	170	4	the State Library and Department of Libraries	ORG
+quod-lib-umich-edu-9812	172	1	Stephen Francoeur	PERSON
+quod-lib-umich-edu-9812	172	2	24	CARDINAL
+quod-lib-umich-edu-9812	173	1	IR	ORG
+quod-lib-umich-edu-9812	174	1	Today	DATE
+quod-lib-umich-edu-9812	174	2	next week	DATE
+quod-lib-umich-edu-9812	175	1	First	ORDINAL
+quod-lib-umich-edu-9812	175	2	Erin	PERSON
+quod-lib-umich-edu-9812	175	3	Primo	PERSON
+quod-lib-umich-edu-9812	176	1	Erin	PERSON
+quod-lib-umich-edu-9812	176	2	last fall	DATE
+quod-lib-umich-edu-9812	176	3	CUNY	FAC
+quod-lib-umich-edu-9812	177	1	Second	ORDINAL
+quod-lib-umich-edu-9812	177	2	Primo	PERSON
+quod-lib-umich-edu-9812	178	1	this winter	DATE
+quod-lib-umich-edu-9812	180	1	UX	ORG
+quod-lib-umich-edu-9812	181	1	Erin	PERSON
+quod-lib-umich-edu-9812	182	1	Assessment Division	ORG
+quod-lib-umich-edu-9812	182	2	UX	ORG
+quod-lib-umich-edu-9812	183	1	UX	ORG
+quod-lib-umich-edu-9812	184	1	Erin White	PERSON
+quod-lib-umich-edu-9812	184	2	Stephen	PERSON
+quod-lib-umich-edu-9812	187	1	UX	ORG
+quod-lib-umich-edu-9812	188	1	UX	ORG
+quod-lib-umich-edu-9812	189	1	Heidi	NORP
+quod-lib-umich-edu-9812	189	2	Stephen	PERSON
+quod-lib-umich-edu-9812	190	1	UX	ORG
+quod-lib-umich-edu-9812	190	2	UX	ORG
+quod-lib-umich-edu-9812	195	1	UX	ORG
+quod-lib-umich-edu-9812	196	1	Jennifer Anderson	PERSON
+quod-lib-umich-edu-9812	196	2	Agile	GPE
+quod-lib-umich-edu-9812	197	1	UX	ORG
+quod-lib-umich-edu-9812	197	2	Agile	GPE
+quod-lib-umich-edu-9812	197	3	a couple years ago	DATE
+quod-lib-umich-edu-9812	198	1	Rebecca Blakiston	PERSON
+quod-lib-umich-edu-9812	198	2	about a year	DATE
+quod-lib-umich-edu-9812	198	3	morning	TIME
+quod-lib-umich-edu-9812	198	4	8:42–8:57 a.m.	TIME
+quod-lib-umich-edu-9812	199	1	Scrum	PRODUCT
+quod-lib-umich-edu-9812	199	2	a couple of months	DATE
+quod-lib-umich-edu-9812	199	3	two-week	DATE
+quod-lib-umich-edu-9812	199	4	one	CARDINAL
+quod-lib-umich-edu-9812	200	1	Kanban	ORG
+quod-lib-umich-edu-9812	203	1	Redmine	ORG
+quod-lib-umich-edu-9812	207	1	Amanda L. Goodman	PERSON
+quod-lib-umich-edu-9812	209	1	fourth	ORDINAL
+quod-lib-umich-edu-9812	210	1	Eric Larson	PERSON
+quod-lib-umich-edu-9812	210	2	Kanban	ORG
+quod-lib-umich-edu-9812	211	1	Trello	ORG
+quod-lib-umich-edu-9812	212	1	Amanda L. Goodman	PERSON
+quod-lib-umich-edu-9812	212	2	Trello	ORG
+quod-lib-umich-edu-9812	214	1	Trello	ORG
+quod-lib-umich-edu-9812	215	1	the first of each month	DATE
+quod-lib-umich-edu-9812	215	2	UX	ORG
+quod-lib-umich-edu-9812	215	3	Rejected Ideas	ORG
+quod-lib-umich-edu-9812	215	4	Erin White	PERSON
+quod-lib-umich-edu-9812	215	5	Trello	PRODUCT
+quod-lib-umich-edu-9812	216	1	Amanda L. Goodman	PERSON
+quod-lib-umich-edu-9812	217	1	2	CARDINAL
+quod-lib-umich-edu-9812	218	1	Darien Library	PERSON
+quod-lib-umich-edu-9812	219	1	Eric Larson	PERSON
+quod-lib-umich-edu-9812	219	2	year	DATE
+quod-lib-umich-edu-9812	219	3	Trello	ORG
+quod-lib-umich-edu-9812	220	1	the University Libraries'	ORG
+quod-lib-umich-edu-9812	223	1	Kanban	ORG
+quod-lib-umich-edu-9812	223	2	at least three	CARDINAL
+quod-lib-umich-edu-9812	224	1	Trello	ORG
+quod-lib-umich-edu-9812	227	1	3	CARDINAL
+quod-lib-umich-edu-9812	227	2	University of Minnesota Trello Board Top	ORG
+quod-lib-umich-edu-9812	227	3	Hosted	ORG
+quod-lib-umich-edu-9812	227	4	Michigan Publishing	ORG
+quod-lib-umich-edu-9812	227	5	the University of Michigan Library	ORG
+quod-lib-umich-edu-9812	228	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-9812	228	2	Twitter Email RSS	ORG

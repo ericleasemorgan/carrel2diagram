@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meaningfully Judging Performance in Terms of User Experience
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+Meaningfully Judging Performance in Terms of User Experience
+
+
+
+Michael Schofield 
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 4, 2016
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.403
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Much about user experience design is concerned with subjective improvements to language and structure, style, tone. The bulk of our quantitative data is used toward these purposes—and, of course, being user-centric is precisely what that data is for. The role of the user experience designer connotes a ton about the sorts of improvements at the surface of our websites, at the obvious touchpoints between patron and library. Unfortunately, this approach can neglect deep systemic or technical pain points to which “design” is wrongfully oblivious but which are fundamental to good user experience. 
+
+Speed is a major example. Website performance is crucial enough that, when it is poor, the potential for even the best designs to convert is diminished. The most “usable” website can have no effect if it fails to load when and in the way users expect it to.
+
+One thing we can be thankful for when improving the performance of a website is that while “more speed” definitely has a strong impact on the user experience, it is also easy to measure. Look, feel, and the “oomph” of meaningful, quality content, navigability, usability, each have their own quantitative metrics like conversion or bounce rate, time watched, and so on. But at best these aspects of the web design are objective-ish: the numbers hint at a possible truth, but these measurements only weather scrutiny when derived from real, very human, users. 
+
+ 
+
+A fast site won’t make up for other serious usability concerns, but since simple performance optimization doesn’t necessarily require any actual users, it lends itself to projects constrained by time or budget, or those otherwise lacking the human resources needed to observe usage, gather feedback, and iterate. The ideal cycle of “tweak, test, rinse, and repeat” is in some cases not possible. Few user experience projects return as much bang for the buck as site optimization, and it can be baked into the design and development process early and with known—not guessed-at, nor situational—results. 
+
+When it comes to site optimization, there are no shortage of signals to watch. There is a glut of data right in the browser about the number of bytes in, script or style file size, network status codes, drop-shadow rendering, frames per second, and so on. Tim Kadlec, author of Implementing Responsive Design, broke a lot of these down in terms of meaningful measurements in a series of articles throughout the last couple of years oriented around the “performance budget.” 
+
+
+A performance budget is just what it sounds like: you set a “budget” on your page and do not allow the page to exceed that. This may be a specific load time, but it is usually an easier conversation to have when you break the budget down into the number of requests or size of the page. 
+
+
+
+Such a strategy really took root in the #perfmatters movement, spurred by folks repulsed by just how fast the web was getting slower. Their observation was that because the responsive web was becoming increasingly capable and high pixel density screens were the new norm, developers making cool stuff sent larger and larger file sizes through the pipes. While by definition responsive websites can scale for any screen, they were becoming cumbersome herky-jerky mothras for which data was beginning to show negative impacts. 
+
+In his talk in 2013, “Breaking the 1000ms Time to Glass Mobile Barrier”— and, later, his book High Performance Browser Networking—Ilya Grigorik demonstrated users’ reactions to even milliseconds-long delays:
+
+	Delay	User Reaction
+	0 – 100ms	Instant
+	100 – 300ms	Feels sluggish
+	300 – 1000ms	Machine is working ...
+	1s +	Mental context switch
+	10s +	I’ll come back later ...
+
+
+Since then, the average page weight has grown 134 percent, 186 percent since 2010. Poor performance is such a drag on what might otherwise be a positive user experience—encapsulated by a July 2015 article in The Verge, “The Mobile Web Sucks”—that the biggest players in the web game (Facebook and Google) have dramatically reacted by either enforcing design restrictions on the SEO-sensitive developer or removing the dev’s influence entirely. 
+
+
+Figure 1. Comparison of average bytes per content type in November 2010 (left) and November 2015 (right).
+
+
+
+Self-imposed performance budgets are increasingly considered best practice, and—as mentioned—there are different ways to measure its success. In his write-up on the subject, Tim Kadlec identifies four major categories: 
+
+	Milestone timings
+	Rule based metrics
+	Quantity based metrics
+	Speed index
+
+
+Milestone Timings
+
+A milestone in this context is a number like the time in seconds until the browser reaches the load event for the main document, or, for instance, the time until the page is visually complete. Milestones are easy to track, but there are arguments against their usefulness. Pat Meenan writes in the WebPagetest documentation that a milestone “isn’t a very good indicator of the actual end-user experience.”
+
+
+As pages grow and load a lot of content that is not visible to the user or off the screen (below the fold) the time to reach the load event is extended even if the user-visible content has long-since rendered... [Milestones] are all fundamentally flawed in that they measure a single point and do not convey the actual user experience. 
+
+
+
+Rule Based and Quantity Based Metrics
+
+Rule based metrics check a page or site against an existing checklist with a tool like YSlow or Google PageSpeed to grade your site. Quantity based metrics, on the other hand, include a lot of the data as reported by outlets like the HTTP Archive. These include total number of requests, overall page weight, and even the size of the CSS file. Not all these metrics indicate poor performance, but they are useful for conceptualizing the makeup of a page and where efforts at optimization can be targeted. If the bulk of the page weight is chalked-up to heavy image use, then perhaps there are image-specific techniques you can use for stepping-up the pace.
+
+
+Figure 2. Example of a library web page graded by YSlow.
+
+
+
+Speed Index
+
+Speed Index is set apart by its attempts to measure the experience (there is an algorithm) to which Pat Meenan referred by determining how much above-the-fold content is visually complete over time then assigning a score. This is not a timing metric, but Meenan explains: 
+
+
+the ‘area above the curve’ calculated in ms and using 0.0–1.0 for the range of visually complete. The calculation looks at each 0.1s interval and calculates IntervalScore = Interval * ( 1.0 – (Completeness/100)) where Completeness is the percent visually complete for that frame and Interval is the elapsed time for that video frame in ms... The overall score is just a sum of the individual intervals.
+
+
+
+
+Figure 3. View of a web page loading over time (in milliseconds).
+
+
+
+Basically, the faster the website loads above the fold, the faster the user can start to interact with the content. A low score is better, which is read as milliseconds. A score of “1000” roughly means that a user can start to use the website after just one second. So if other metrics measure the Time To Load (TTL), then Speed Index measures Time To Interact (TTI), which may be a more meaningful signal.
+
+TTI encapsulates an important observation even by quantitative-data nerds that web performance is just as much tied to the psychology of time and the perception of speed as it is by the speed of the network. If we look at page speed as a period of waiting, then how the user waits plays a role in how that wait is experienced. As Denys Mishunov writes in an article about “Why Performance Matters,” the wait is either active or passive:  
+
+
+The period in which the user has no choice or control over the waiting time, such as standing in line or waiting for a loved one who is late for the date, is called a passive phase, or passive wait. People tend to estimate passive waiting as a longer period of time than active, even if the time intervals are objectively equal. 
+
+
+
+For example, during my recent involvement with an academic library homepage redesign, our intention was that it would serve as thin a buffer as possible between the students or faculty and their research. This not only involved bringing search tools and content from deeper in the website to the forefront, but also reducing any barrier or “ugh” factor when engaging with them—such as time. Speed Index has a user-centric bias in that its measurement approximates the time the user can interact with—thus experience—the site. And it is for this reason we adopted it as a focal metric for our redesign project. 
+
+
+Figure 4. Example report from Google PageSpeed.
+
+
+
+How to Measure Speed Index with WebPagetest
+
+Google develops and supports WebPagetest, the online open-source web performance diagnostic tool at WebPagetest.org, which uses virtual machines to simulate websites loading on various devices and with various browsers, throttling the network to demonstrate load times over slower or faster connections, and much more. Its convenience and ease of use makes it an attractive tool. Generating a report requires neither browser extensions nor prior experience with in-browser developer tools. WebPagetest, like alternatives, incorporates rule-based grading and quantity metrics, but it was also the first to introduce Speed Index, which can be measured by telling it to “Capture Video.”
+
+
+Figure 5. Screenshot of WebPagetest interface.
+
+
+
+WebPagetest returns a straightforward report card summarizing the performance results of its tests, including a table of milestones alongside speed indices. The tool provides results for “First View” and “Repeat View,” which demonstrates the role of the browser cache. These tests are remarkably thorough in other ways as well, including screen captures, videos, waterfall charts, content breakdowns, and optimization checklists. 
+
+
+Figure 6. WebPagetest report card.
+
+
+
+It’s worth noting that these kinds of diagnostics can be run by other tools on either end of development. Google PageSpeed Insights can be generated in the same way: type a URL and run the report. But folks can also install PageSpeed’s Apache and Nginx modules to optimize pages automatically, or otherwise integrate PageSpeed—or YSlow—into the build-process with grunt tasks. The bottom line is that these kinds of performance diagnostics can be run wherever it is most convenient, at different depths, whether you prefer to approach it as a developer or not. They can be as integrated or used ex-post-facto as needed.
+
+Keep in Mind: The Order in which Elements Load Matters
+
+Of course, the user’s experience of load times is not only about how long it takes any interactive elements of the page to load but how long it takes certain elements to load. Radware’s recent report “Speed vs. Fluency in Website Loading: What Drives User Engagement” shows that “simply loading a page faster doesn’t necessarily improve users’ emotional response to the page.” They outfitted participants with neuroimaging systems and eye-trackers (mounted on monitors) in an attempt to objectively measure things like cognitive load and motivation. In the study, the same web page was loaded using three different techniques:
+
+	the original, unaltered loading sequence,
+	the fastest option, where the techniques used provided the most demonstrably fast load times regardless of rendering sequence,
+	a version where the parts of the page most important to what the user wanted to accomplish were loaded first.
+
+
+
+Figure 7 Results of Radware’s study on how users process web pages during rendering.
+
+
+
+In six out of ten pages, the sequence in which elements loaded based off their importance toward a primary user task affected overall user engagement, measured by total fixation time.
+
+
+
+While not overwhelming, the results suggest that depending on the type of website, rendering sequence can play an important role on the “emotional and cognitive response and at which order [users] will look at different items.” Radware makes no suggestions about which rendering sequences work for which websites. 
+
+Still, the idea that cherry-picking the order in which things load on the page might decrease cognitive load (especially on an academic library homepage where the primary user task is search) is intriguing. 
+
+The Bottom Line: Earmark a Performance Budget
+
+There are all sorts of improvements that can be made to library websites that add value to the user experience. Prioritizing between these involves any number of considerations. But while it may take a little extra care to optimize performance, it’s worth the time for one simple reason: your users expect your site to load the moment they want it. This sets the tone for the entire experience.
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

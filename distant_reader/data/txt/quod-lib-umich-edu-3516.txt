@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User Experience in Libraries: Applying Ethnography and Human-Centered Design
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+User Experience in Libraries: Applying Ethnography and Human-Centered Design
+
+
+
+
+Edited by Andy Priestner and Matt Borg
+
+Review by Heidi Steiner Burkhardt
+
+University of Michigan Library
+
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 5, 2016
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.505
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User Experience in Libraries: Applying Ethnography and Human-Centered Design (Routledge 2016) makes the compelling case that user experience work in libraries must go beyond our digital presence in broad and meaningful ways. The edited volume, published in May 2016, fills a void in the scholarly literature. Others have taken library user experience beyond the digital (namely Courtney McDonald’s  Putting the User First and Aaron Schmidt and Amanda Etches’ Useful, Usable, Desirable), but no other book dives into qualitative research and ethnography to this level of depth.
+
+Schemed by Andy Priestner and Matt Borg at the same time as the inaugural UXLibs conference, this tome aims to “advocate for more ethnography and design thinking, encourage discussion and debate, and help kick-start library UX projects, big and small” (p. ix). After finishing the book, you can go back to this stated goal from the first paragraph of the preface and will likely agree that it succeeds.
+
+To set the tone and stage, Priestner and Borg authored the first chapter, in which they articulate the current state of affairs in libraries regarding UX work and persuasively conjecture how we got here. This chapter is a manifesto. The editors acknowledge reality and counter the standard excuses and arguments against UX research techniques—defined as: “chiefly...ethnography, usability, and service design” (p. 3)—with serious aplomb. They also propose that the positioning for UX work in libraries is riper than ever and the impressive body of contributed work that follows their chapter supports that stance. 
+
+The editors’ efforts to feature a variety of viewpoints and illustrate a wide range of work is well considered and they deliver. An array of topics, author perspectives, and types of pieces (case studies, overviews of methods, theoretical pieces, etc.) is presented. Though each chapter stands distinctly on its own, they piece together beautifully for a holistic look at user experience work in libraries. Early chapters include theory, topical overviews, and discussions of the groundwork that can be laid to make an organization’s engagement with user experience most productive. From there, we move through a broad variety of case studies, before closing with a reminder on the power of storytelling and a call to action. 
+
+Beyond the opening by the editors, Donna M. Lanclos’ stand-out chapter, “Embracing an Ethnographic Agenda: Context, Collaboration, and Complexity,” deftly reframes the challenges of visibility, the critical nature of usability, the perils of mediation, and libraries as part of larger networks. She argues that “ethnographic approaches necessarily explode usability out of the library into spaces where people are” (p. 29) and libraries can “benefit from the perspective that comes from anthropology as a worldview” (p. 33). It’s a piece of scholarship so immediately useful that it even provides you with a new mental framework that can inform your engagement with the rest of the book. 
+
+Bryony Ramsden provides an excellent “starter guide” to using ethnographic methods—including primers on observation, interviews, cognitive mapping, and focus groups, as well as what to do with your data—that is relatable to anyone working in a library building. Penny Andrew’s powerful chapter on autoethnography, library anxiety, hidden disabilities, and real inclusion brings in the much needed perspective of accessibility, positing against accommodating the “special case” and instead fixing problems with a solution available to everyone. Leah Emary’s chapter provides valuable advice on research design, including considerations of validity, reliability, and scoping. Andrew Asher gives the rundown on taskscapes—which weave together locations, rhythms, schedules, obligations, etc. revealing students’ “lived experiences” (p. 92)—and how they vary dramatically between different individuals’ lives. Imparting expertise from outside the library field, Paul-Jervis Heath of Modern Human shares an overview of the design thinking process that includes ample prompts for methods and models across “four overlapping spaces or ‘modes’: Immerse, Inspire, Imagine and Invent” (p. 50). 
+
+The included case studies illuminate the varied scope, scale, and potential applications of UX research techniques. Priestner discusses the creation of Spacefinder, a web-based service to help users find study spaces near them based on attributes like facilities and noise level. Spacefinder was developed entirely from scratch; it derives directly from ethnographic research and threads UX throughout the process, while Michael Courtney and Carrie Donovan apply an ethnographic lens to library instruction. Many of the other case studies are dedicated to changes in spaces but present a wide array of examples: from a multi-year, intense participatory design process for a new building that included students as co-creators and partners, to the small scale work by one person to cultivate a UX mindset and inform minor changes.
+
+A number of themes emerge throughout the course of the chapters including an emphasis on looking at our libraries within their larger ecosystems, moving beyond standard quantitative data collection and feedback surveys, considering the importance of context, taking a holistic approach, and focusing on our users as whole people. The entirety of this book is filled with honesty and keeps things real; there is a even a chapter dedicated to an “epic fail” (p. 103). This authenticity continually strikes you while reading and you might find yourself doodling hearts and writing things like “BOOM!” and “yesssss” in the margins. 
+
+Despite all this greatness, there are some weaknesses to User Experience in Libraries. Though the chapters come together well, you may notice some repetition if reading from cover-to-cover, specifically around defining ethnography and the relationships between quantitative and qualitative data. When the chapters are taken individually, this repetition has value, but can become tiresome when taking in the book as a whole—especially if you already have some familiarity with the concepts. On the flipside, this can also be considered reinforcement, as the concepts are essential to the book’s core.
+
+And though the title broadly encompasses all libraries, the chapters are predominantly written by authors associated with academic libraries in the United Kingdom. There is some practical guidance applicable to all sorts of libraries, as well as mentions of public libraries here and there. Even with plenty of takeaways that transcend their originating context, particularly from a theoretical perspective, the book most benefits and supports academic work.
+
+It’s easy to acknowledge and broadly accept the general concepts of user experience and human-centered design in relation to libraries, but the real work illustrated in User Experience in Libraries is hard to do. It requires support, buy-in, and dedication of time and resources. As with so many things, the question becomes how to get this book, these powerful chapters, into the right hands. How do we move beyond the echo chamber of passionate advocates? There are no answers offered in this review, other than for practitioners to keep talking and sharing. If we’re lucky, with its honesty and rational approach, User Experience in Libraries: Applying Ethnography and Human-Centered Design can break through.
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-3516	1	1	Skip	PERSON
+quod-lib-umich-edu-3516	1	2	Skip	PERSON
+quod-lib-umich-edu-3516	1	3	Journal of Library User Experience	ORG
+quod-lib-umich-edu-3516	1	4	Library User	PERSON
+quod-lib-umich-edu-3516	1	5	Michigan Publishing	ORG
+quod-lib-umich-edu-3516	2	1	Quick	ORG
+quod-lib-umich-edu-3516	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-3516	3	1	2	CARDINAL
+quod-lib-umich-edu-3516	3	2	Human-Centered Design	PRODUCT
+quod-lib-umich-edu-3516	3	3	Andy Priestner	PERSON
+quod-lib-umich-edu-3516	3	4	Matt Borg	PERSON
+quod-lib-umich-edu-3516	3	5	Heidi Steiner	PERSON
+quod-lib-umich-edu-3516	3	6	University of Michigan Library	ORG
+quod-lib-umich-edu-3516	3	7	DOI	ORG
+quod-lib-umich-edu-3516	3	8	1	CARDINAL
+quod-lib-umich-edu-3516	3	9	DOI	ORG
+quod-lib-umich-edu-3516	3	10	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-3516	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-3516	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-3516	6	1	Reddit Mendeley User	PERSON
+quod-lib-umich-edu-3516	6	2	Libraries	GPE
+quod-lib-umich-edu-3516	6	3	Human-Centered Design	ORG
+quod-lib-umich-edu-3516	6	4	2016	DATE
+quod-lib-umich-edu-3516	7	1	May 2016	DATE
+quod-lib-umich-edu-3516	8	1	Courtney McDonald’s	PERSON
+quod-lib-umich-edu-3516	8	2	the User First	WORK_OF_ART
+quod-lib-umich-edu-3516	8	3	Aaron Schmidt	PERSON
+quod-lib-umich-edu-3516	8	4	Amanda Etches’ Useful	PERSON
+quod-lib-umich-edu-3516	8	5	Desirable	PERSON
+quod-lib-umich-edu-3516	9	1	Andy Priestner	PERSON
+quod-lib-umich-edu-3516	9	2	Matt Borg	PERSON
+quod-lib-umich-edu-3516	9	3	UXLibs	ORG
+quod-lib-umich-edu-3516	9	4	UX	ORG
+quod-lib-umich-edu-3516	10	1	first	ORDINAL
+quod-lib-umich-edu-3516	11	1	Priestner and Borg	ORG
+quod-lib-umich-edu-3516	11	2	first	ORDINAL
+quod-lib-umich-edu-3516	11	3	UX	ORG
+quod-lib-umich-edu-3516	13	1	UX	ORG
+quod-lib-umich-edu-3516	13	2	3)—with	CARDINAL
+quod-lib-umich-edu-3516	14	1	UX	ORG
+quod-lib-umich-edu-3516	21	1	Donna M. Lanclos’	PERSON
+quod-lib-umich-edu-3516	21	2	“Embracing an Ethnographic Agenda	ORG
+quod-lib-umich-edu-3516	21	3	Context, Collaboration	ORG
+quod-lib-umich-edu-3516	22	1	29	CARDINAL
+quod-lib-umich-edu-3516	22	2	33	CARDINAL
+quod-lib-umich-edu-3516	24	1	Bryony Ramsden	PERSON
+quod-lib-umich-edu-3516	25	1	Penny Andrew’s	PERSON
+quod-lib-umich-edu-3516	26	1	Leah Emary’s	PERSON
+quod-lib-umich-edu-3516	27	1	Andrew Asher	PERSON
+quod-lib-umich-edu-3516	28	1	students’	PERSON
+quod-lib-umich-edu-3516	28	2	92)—and	CARDINAL
+quod-lib-umich-edu-3516	28	3	individuals’	PERSON
+quod-lib-umich-edu-3516	29	1	Paul-Jervis Heath of Modern Human	ORG
+quod-lib-umich-edu-3516	29	2	four	CARDINAL
+quod-lib-umich-edu-3516	29	3	Imagine and Invent”	ORG
+quod-lib-umich-edu-3516	29	4	50	CARDINAL
+quod-lib-umich-edu-3516	30	1	UX	ORG
+quod-lib-umich-edu-3516	31	1	Spacefinder	GPE
+quod-lib-umich-edu-3516	32	1	Spacefinder	GPE
+quod-lib-umich-edu-3516	32	2	UX	ORG
+quod-lib-umich-edu-3516	32	3	Michael Courtney	PERSON
+quod-lib-umich-edu-3516	32	4	Carrie Donovan	PERSON
+quod-lib-umich-edu-3516	33	1	one	CARDINAL
+quod-lib-umich-edu-3516	33	2	UX	ORG
+quod-lib-umich-edu-3516	35	1	103	CARDINAL
+quod-lib-umich-edu-3516	37	1	Libraries	GPE
+quod-lib-umich-edu-3516	41	1	the United Kingdom	GPE
+quod-lib-umich-edu-3516	44	1	Libraries	GPE
+quod-lib-umich-edu-3516	50	1	Hosted	ORG
+quod-lib-umich-edu-3516	50	2	Michigan Publishing	ORG
+quod-lib-umich-edu-3516	50	3	the University of Michigan Library	ORG
+quod-lib-umich-edu-3516	51	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-3516	51	2	Twitter Email RSS	ORG

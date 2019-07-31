@@ -1,0 +1,165 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-7496	2	1	Skip	PERSON
+quod-lib-umich-edu-7496	2	2	Skip	PERSON
+quod-lib-umich-edu-7496	2	3	Journal of Library User Experience	ORG
+quod-lib-umich-edu-7496	2	4	Library User	PERSON
+quod-lib-umich-edu-7496	2	5	Michigan Publishing	ORG
+quod-lib-umich-edu-7496	3	1	Quick	ORG
+quod-lib-umich-edu-7496	3	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-7496	4	1	2	CARDINAL
+quod-lib-umich-edu-7496	5	1	Susanna Galbraith MCMASTER UNIVERSITY	PERSON
+quod-lib-umich-edu-7496	5	2	DOI	ORG
+quod-lib-umich-edu-7496	5	3	1	CARDINAL
+quod-lib-umich-edu-7496	5	4	DOI	ORG
+quod-lib-umich-edu-7496	5	5	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-7496	6	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-7496	7	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-7496	8	1	Emily Mitchell	PERSON
+quod-lib-umich-edu-7496	8	2	Brandon West	PERSON
+quod-lib-umich-edu-7496	8	3	2016	DATE
+quod-lib-umich-edu-7496	8	4	UX	ORG
+quod-lib-umich-edu-7496	13	1	Erika Hall’s	PERSON
+quod-lib-umich-edu-7496	13	2	Just Enough Research	WORK_OF_ART
+quod-lib-umich-edu-7496	13	3	2013	DATE
+quod-lib-umich-edu-7496	14	1	Hall	ORG
+quod-lib-umich-edu-7496	18	1	Hall	PERSON
+quod-lib-umich-edu-7496	18	2	Hall	PERSON
+quod-lib-umich-edu-7496	18	3	2013	DATE
+quod-lib-umich-edu-7496	18	4	12	CARDINAL
+quod-lib-umich-edu-7496	19	1	first	ORDINAL
+quod-lib-umich-edu-7496	22	1	12	CARDINAL
+quod-lib-umich-edu-7496	23	1	the Nielsen Norman Group	ORG
+quod-lib-umich-edu-7496	24	1	The Nielsen Norman Group	ORG
+quod-lib-umich-edu-7496	24	2	Nielsen	GPE
+quod-lib-umich-edu-7496	24	3	2011	DATE
+quod-lib-umich-edu-7496	25	1	Pernice & Budiu	ORG
+quod-lib-umich-edu-7496	25	2	2016	DATE
+quod-lib-umich-edu-7496	29	1	Hall	PERSON
+quod-lib-umich-edu-7496	29	2	2013	DATE
+quod-lib-umich-edu-7496	29	3	p.13	ORG
+quod-lib-umich-edu-7496	30	1	first	ORDINAL
+quod-lib-umich-edu-7496	32	1	Hall	PERSON
+quod-lib-umich-edu-7496	33	1	Familiarity	ORG
+quod-lib-umich-edu-7496	33	2	26	CARDINAL
+quod-lib-umich-edu-7496	34	1	UX	ORG
+quod-lib-umich-edu-7496	37	1	Donna Lanclos	PERSON
+quod-lib-umich-edu-7496	37	2	Andrew Asher	PERSON
+quod-lib-umich-edu-7496	37	3	2016	DATE
+quod-lib-umich-edu-7496	39	1	Andrew Priestner	PERSON
+quod-lib-umich-edu-7496	39	2	2017	DATE
+quod-lib-umich-edu-7496	39	3	users’	ORG
+quod-lib-umich-edu-7496	41	1	Hall	PERSON
+quod-lib-umich-edu-7496	41	2	2013	DATE
+quod-lib-umich-edu-7496	41	3	33–35	CARDINAL
+quod-lib-umich-edu-7496	43	1	Sampling Bias	PERSON
+quod-lib-umich-edu-7496	44	1	Wikipedia	PERSON
+quod-lib-umich-edu-7496	45	1	Hall	PERSON
+quod-lib-umich-edu-7496	45	2	2013	DATE
+quod-lib-umich-edu-7496	45	3	34	CARDINAL
+quod-lib-umich-edu-7496	46	1	34	CARDINAL
+quod-lib-umich-edu-7496	49	1	Bias Hall	PERSON
+quod-lib-umich-edu-7496	49	2	Hall	PERSON
+quod-lib-umich-edu-7496	49	3	2013	DATE
+quod-lib-umich-edu-7496	49	4	34	CARDINAL
+quod-lib-umich-edu-7496	52	1	Bias Hall	PERSON
+quod-lib-umich-edu-7496	52	2	35	CARDINAL
+quod-lib-umich-edu-7496	55	1	2013	DATE
+quod-lib-umich-edu-7496	57	1	Amanda Etches	PERSON
+quod-lib-umich-edu-7496	57	2	Aaron Schmidt	PERSON
+quod-lib-umich-edu-7496	57	3	Desirable	PERSON
+quod-lib-umich-edu-7496	57	4	2014	DATE
+quod-lib-umich-edu-7496	58	1	twelve	CARDINAL
+quod-lib-umich-edu-7496	66	1	Journey	GPE
+quod-lib-umich-edu-7496	66	2	Identify	PERSON
+quod-lib-umich-edu-7496	74	1	two	CARDINAL
+quod-lib-umich-edu-7496	75	1	two	CARDINAL
+quod-lib-umich-edu-7496	76	1	Personas	PERSON
+quod-lib-umich-edu-7496	78	1	Five-second	CARDINAL
+quod-lib-umich-edu-7496	82	1	Schmidt	PERSON
+quod-lib-umich-edu-7496	82	2	Hall	PERSON
+quod-lib-umich-edu-7496	82	3	four	CARDINAL
+quod-lib-umich-edu-7496	82	4	UX	ORG
+quod-lib-umich-edu-7496	87	1	1	CARDINAL
+quod-lib-umich-edu-7496	88	1	approximately one month	DATE
+quod-lib-umich-edu-7496	89	1	UX	ORG
+quod-lib-umich-edu-7496	91	1	Discovery Search	PRODUCT
+quod-lib-umich-edu-7496	92	1	Discovery Search	PRODUCT
+quod-lib-umich-edu-7496	94	1	Recommended Research Techniques Techniques Resource	ORG
+quod-lib-umich-edu-7496	94	2	Bias Credibility	PERSON
+quod-lib-umich-edu-7496	94	3	Somewhat Sampling	PERSON
+quod-lib-umich-edu-7496	94	4	Medium A/B testing	ORG
+quod-lib-umich-edu-7496	95	1	2	CARDINAL
+quod-lib-umich-edu-7496	95	2	Digital Collection	ORG
+quod-lib-umich-edu-7496	95	3	Digital Rare Book Collection	ORG
+quod-lib-umich-edu-7496	96	1	day	DATE
+quod-lib-umich-edu-7496	99	1	Recommended Research Techniques Techniques Resource	ORG
+quod-lib-umich-edu-7496	99	2	Bias Credibility	PERSON
+quod-lib-umich-edu-7496	99	3	Contextual	NORP
+quod-lib-umich-edu-7496	99	4	Medium User interviews	WORK_OF_ART
+quod-lib-umich-edu-7496	99	5	Social	NORP
+quod-lib-umich-edu-7496	99	6	Medium Focus	ORG
+quod-lib-umich-edu-7496	99	7	Desirability Bias	PERSON
+quod-lib-umich-edu-7496	99	8	Interviewer Bias	PERSON
+quod-lib-umich-edu-7496	99	9	Sampling Bias Medium	PERSON
+quod-lib-umich-edu-7496	99	10	3	CARDINAL
+quod-lib-umich-edu-7496	100	1	Stakeholders	ORG
+quod-lib-umich-edu-7496	101	1	five	CARDINAL
+quod-lib-umich-edu-7496	102	1	Problem	GPE
+quod-lib-umich-edu-7496	102	2	five	CARDINAL
+quod-lib-umich-edu-7496	103	1	Recommended Research Techniques Techniques Resource	ORG
+quod-lib-umich-edu-7496	103	2	Bias Credibility	PERSON
+quod-lib-umich-edu-7496	103	3	Survey Somewhat	ORG
+quod-lib-umich-edu-7496	103	4	Cultural	ORG
+quod-lib-umich-edu-7496	103	5	Social	NORP
+quod-lib-umich-edu-7496	103	6	first-year	DATE
+quod-lib-umich-edu-7496	103	7	The Setup	WORK_OF_ART
+quod-lib-umich-edu-7496	103	8	LibGuides	ORG
+quod-lib-umich-edu-7496	103	9	first-year	DATE
+quod-lib-umich-edu-7496	103	10	the previous year	DATE
+quod-lib-umich-edu-7496	105	1	LibGuides	ORG
+quod-lib-umich-edu-7496	106	1	Recommended Research Techniques Techniques Resource	ORG
+quod-lib-umich-edu-7496	106	2	Bias Credibility	PERSON
+quod-lib-umich-edu-7496	106	3	Five-second	TIME
+quod-lib-umich-edu-7496	106	4	Low Journey	PERSON
+quod-lib-umich-edu-7496	106	5	Medium Conclusion	PERSON
+quod-lib-umich-edu-7496	106	6	UX	ORG
+quod-lib-umich-edu-7496	106	7	stakeholders’	ORG
+quod-lib-umich-edu-7496	110	1	2014	DATE
+quod-lib-umich-edu-7496	111	1	Chicago	GPE
+quod-lib-umich-edu-7496	111	2	American Library Association	ORG
+quod-lib-umich-edu-7496	112	1	Hall	PERSON
+quod-lib-umich-edu-7496	112	2	2013	DATE
+quod-lib-umich-edu-7496	113	1	New York	GPE
+quod-lib-umich-edu-7496	113	2	A Book Apart	WORK_OF_ART
+quod-lib-umich-edu-7496	114	1	Lanclos	ORG
+quod-lib-umich-edu-7496	114	2	D. & Asher	ORG
+quod-lib-umich-edu-7496	114	3	A.	GPE
+quod-lib-umich-edu-7496	115	1	2016	DATE
+quod-lib-umich-edu-7496	115	2	Ethnographish	NORP
+quod-lib-umich-edu-7496	117	1	1(5	CARDINAL
+quod-lib-umich-edu-7496	118	1	E. & West	ORG
+quod-lib-umich-edu-7496	118	2	B.	GPE
+quod-lib-umich-edu-7496	119	1	2016	DATE
+quod-lib-umich-edu-7496	119	2	DIY	ORG
+quod-lib-umich-edu-7496	121	1	1(5	CARDINAL
+quod-lib-umich-edu-7496	122	1	J.	PERSON
+quod-lib-umich-edu-7496	123	1	2011	DATE
+quod-lib-umich-edu-7496	124	1	10	CARDINAL
+quod-lib-umich-edu-7496	125	1	Nielson Norman Group	ORG
+quod-lib-umich-edu-7496	126	1	https://www.nngroup.com/articles/top-10-mistakes-web-design/ Pernice	ORG
+quod-lib-umich-edu-7496	126	2	K. & Budiu	PERSON
+quod-lib-umich-edu-7496	126	3	R.	NORP
+quod-lib-umich-edu-7496	126	4	2016	DATE
+quod-lib-umich-edu-7496	127	1	UX	ORG
+quod-lib-umich-edu-7496	128	1	Nielson Norman Group	ORG
+quod-lib-umich-edu-7496	130	1	2017	DATE
+quod-lib-umich-edu-7496	131	1	UX	ORG
+quod-lib-umich-edu-7496	135	1	2017	DATE
+quod-lib-umich-edu-7496	136	1	Wikipedia	GPE
+quod-lib-umich-edu-7496	136	2	The Free Encyclopedia	ORG
+quod-lib-umich-edu-7496	137	1	August 1, 2017	DATE
+quod-lib-umich-edu-7496	137	2	Hosted	ORG
+quod-lib-umich-edu-7496	137	3	Michigan Publishing	ORG
+quod-lib-umich-edu-7496	137	4	the University of Michigan Library	ORG
+quod-lib-umich-edu-7496	138	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-7496	138	2	Twitter Email RSS	ORG

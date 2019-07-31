@@ -1,0 +1,466 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Method of Improving Library Information Literacy Teaching With Usability Testing Data
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+A Method of Improving Library Information Literacy Teaching With Usability Testing Data
+
+
+
+
+Catherine Baird and Tiffany Soares
+
+MONTCLAIR STATE UNIVERSITY
+
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 8, 2018
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.802
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+This paper was refereed by Weave's peer reviewers.
+
+This article is licensed under a CC-BY-NC-SA 4.0 license.
+
+
+Abstract
+
+
+Usability testing is a commonplace practice in many academic libraries, but the data produced during the course of usability testing have many more stories to tell if given the chance. Not only can the data help us improve our users’ online experience as they engage with our website and search tools, but it can tell us about how our students search and research, and what motivates those choices. That kind of data can guide our information literacy practices to be even more successful. This article describes the methodology used to analyze usability testing data for insights into information literacy teaching under the auspice of an IRB-approved study. It concludes that usability testing data can be analyzed and re-used to help bridge gaps and make connections between different library departments and roles and to motivate change in teaching practices that are informed by observations of local user behavior. 
+
+
+Introduction
+
+In one room of your library, a group of librarians and staff gathers to observe this month’s usability tests. They are deciding on changes they can make to the library website to improve the experience for student users. Down the hallway, a different group is meeting to analyze the interview data they’ve collected of students describing their research process. This group is deciding on changes they will make to their teaching practices to improve the learning experience for student users. These two groups may have more in common than they think, including common practices and goals. We contend that they also produce information that can enrich each other’s work. Yet in most libraries, these two groups are largely disconnected, and sometimes, they can even be at odds.
+
+Which is a better use of limited staff time: teaching information literacy or structuring information systems to make information seeking more successful? Are teaching librarians focused on teaching users to navigate complex systems and search tools when these could actually be made much simpler? Are web librarians oversimplifying the search interfaces and therewith the search process of users? Does good design make the teaching librarian’s role redundant? Does good teaching make the web librarian’s role redundant? These questions don’t have to invoke a sense of rivalry between different library positions and areas of responsibility. This article highlights one way in which the focus on the user can lead to mutually beneficial, collaborative and productive opportunities that strengthen collegial relationships and ultimately improve a variety of user experiences, including the experience of the user engaging in information literacy learning.
+
+At Montclair State University, our usability team members were meeting each month to discuss current usability tests and make changes to our website. However, we soon noticed that we were observing behaviors in our data that could also provide us with useful insights for our teaching. In the sections that follow, we will describe how we re-used the usability testing data, analyzing and mining it for insights related to information literacy teaching. 
+
+Since usability testing participants followed a think-aloud protocol, the data we had collected were much like one-on-one interviews, with the participants describing their actions and thoughts while the interviewer probed for deeper understanding or clarification. The result was hours of data very similar to the data that might be collected during a qualitative information behavior research study. This is important because although some libraries might not have the resources to conduct a stand-alone information behavior research study, they might be able to collect and analyze their usability testing data to inform information literacy teaching. 
+
+In the following sections, we will review existing literature relevant to the crossover between information literacy teaching and usability testing. We will also discuss in depth the methodology we used, providing specific examples and lessons learned throughout the process. Finally, we will introduce some of the new knowledge and understandings we gained from mining our own usability testing data set at Montclair State University and how we used this information to help advocate for local change. Though our sampling method was not designed to produce generalizable results to the broader population, we describe these details as a way to make more vivid the usefulness of this methodology. 
+
+Literature Review
+
+User experience literature focuses on employing data collected from users to change and improve the design of a system or experience so that the user can move more independently and successfully through an experience. Similarly, information literacy literature pays attention to the design and process of a learning experience so that a learner can navigate more independently and successfully the world of information. The Association of College and Research Libraries defines information literacy as “the set of integrated abilities encompassing the reflective discovery of information, the understanding of how information is produced and valued, and the use of information in creating new knowledge and participating ethically in communities of learning” (2015). 
+
+Many studies on information literacy have explored students’ search practices, often utilizing a methodology that involves recording (and/or observing) the search process, a think-aloud protocol, and sometimes probes or questions (Holman, 2011; Porter, 2011; Bloom & Deyrup, 2015; Valentine & West, 2016; Finder, Dent, & Lym, 2006; Dalal, Kimura & Hofmann, 2015). The methodologies employed in these information literacy studies are similar to what takes place during the course of a typical library usability test. Of course, this is not the only type of methodology used to better understand student behavior. Other large and small-scale library and information literacy and behavior studies use different methodologies such as in-depth interviews, surveys, and focus groups (Lee, 2008; Head & Eisenberg, 2009; Duke & Asher, 2012; Thomas, Tewell, & Wilson, 2017; Finder, Dent, & Lym, 2006). Clearly, we still need studies of user behavior that employ other methodologies, but it is important to capitalize more fully on data that our organizations may have already collected, such as usability testing data. 
+
+For example, Janyk (2014) describes using her institution’s Google analytics data (collected from the discovery layer service) to better understand users’ search behaviors. She concludes that this type of qualitative data can be used by librarians who teach information literacy, focusing their attention on ineffective search habits. Janyk is not alone in linking student search behaviors to library teaching. Some other researchers have also previously drawn connections between usability testing and library teaching and instructional practices (Graves & Ruppel, 2007). In their 2002 article, Vassiliadis & Stimatz advocated for instruction librarians to become more involved with usability projects and website redesign initiatives. Many authors of online tutorials and learning objects have used usability testing techniques to test the tutorials and learning objects they have created (Bury & Oud, 2005; Bowles-Terry, Hensley & Hinchliffe, 2010; Lindsay, Cummings, Johnson & Scales, 2006). Usability testing has even been used following library instruction activities to assess the effectiveness of library instruction and teaching (Novotny & Cahoy, 2006; Castonguay, 2008; Lee & Snajdr, 2015). The above literature acknowledges, but does not expand upon, the relevance of usability testing initiatives, data and methods to library teaching. In most cases the relevance of usability testing results to teaching is glossed over in a short paragraph or a few sentences. 
+
+In Turner’s (2011) study and in Valentine & West’s (2016) study (both usability testing studies), the authors comment at more length on the implications of their findings for library instruction programs and practices. Turner concludes that the different categories of users (librarians, library staff, and students) approached searching with different mental models and expectations, influenced by what they knew or didn’t know about the structure of information and the tool they are using for search. She suggests there are applications for her study for instruction and reference, but only very briefly. Valentine & West go further and discuss how their usability testing initiative sparked changes in librarian teaching, moving it to more of a “conceptual level” (2016, p. 192). More generally, they advocate for teaching librarians to conduct usability testing themselves in order to inform their teaching.
+
+While most of the studies we have discussed have referenced the connection between usability testing and information literacy only in passing, we are making it the focal point of our article. In doing this, we are hoping to make connections between silos that have formed within the academic library community, bridging a gap between teaching librarians (information literacy, instruction, reference), and web librarians and UX librarians. We contend that web usability data can provide the teaching librarian with a constant stream of data that illustrates current user practices, behaviors, and strategies in the context of their own library’s website and online search tools (discovery layer, catalog, databases, research guides, etc.) Rather than conducting a separate information literacy study, the teaching librarian can benefit from the data collection that the web librarian has already completed (or, better yet, from getting involved in the data collection itself). Given limited resources in academic libraries, where budget and time do not always allow for regular information literacy research projects, this practical re-use of usability testing data can help us better understand our users and therefore teach more effectively. As we will detail below, ideally, usability testing data collection would be a collaborative initiative, providing both the web librarian and the teaching librarian the understandings they need to improve the user experience in the classroom and on the library website.
+
+Methodology
+
+The usability testing data described in this article was collected under the auspice of an Institutional Review Board (IRB) approved study, in which data were collected over the course of 22 months, between March 2015 and December 2016, by the library website usability team (all members of the IRB-approved research team). We recommend that all members of your web usability team are also members of the research team so that they can work with the data for research purposes. If you are embarking on a similar project, ensure your IRB protocol is written in a way that gives you a bit of flexibility. For example, you might initially plan to do usability testing exclusively with students, but if you say in your IRB proposal that you will work with members of the university community, it gives you the opportunity to decide to do testing with faculty and staff. Our IRB protocol clearly stated that we would keep the recordings and transcriptions rather than discard the recordings after they had been transcribed. Had we made a different decision when writing the IRB protocol, we wouldn’t have been able to return to the recordings/data to look at them more thoroughly.
+
+
+Data Collection and Transcription
+
+The team had a goal of conducting three usability tests per month with members of the university community. The website usability team is made up of six librarians from the following library areas: Access Services, Reference & Instruction, Cataloging & Archives, and Government Documents. Half of the members of the usability team teach information literacy to students on a regular basis, conduct reference and research consultations, and regularly create and contribute to library research guides. This mix of people and their different perspectives proved to be extremely useful for the team. 
+
+One area in which diversity was helpful was in formulation of the test questions. Each month’s usability test questions were scripted collaboratively in advance by the members of the website usability team. The content of each test varied from month to month, but often participants were asked to find a source (e.g. an article, a book) in the context of a particular fictional assignment. Some tests involved participants selecting a database to search while others asked participants to perform more informational tasks such as finding a subject librarian or finding the library hours on a certain day. The collaborative scripting was important since it helped us craft good questions (often drawn from real-life scenarios observed by members of the team during their interactions with students). The diversity of our team, with members from different library departments, also enabled us to craft multiple follow-up questions (we called them probes) which helped us better understand what motivated the users’ choices. For example, once a student successfully identified an article to use for their fictional assignment, we might probe as to why that particular article was chosen over others or we might ask what type of information the student thought the article would help them with (e.g. background information, developing an argument, piece of evidence).
+
+The recordings (33 tests at 30 minutes each) were transcribed by the usability team and student researcher (position funded by an internal grant), the latter also a member of the research team. We recommend hiring a student with strong language skills (e.g. linguistics, languages, communications) and presenting it as an opportunity for a student to participate in a research project. If you’re requesting this extra student support through your library administration, highlighting the benefits to the student (in terms of gaining firsthand experience on a research project, a potential author credit, and increased student engagement) might be a compelling argument and can help your request for resources stand out. The student (co-author) and the lead author did the bulk of the transcribing with the assistance of Otranscribe, a free Chrome extension that facilitates transcription (e.g. keystroke shortcuts for starting/stopping/timestamps and automatically rewinding by a few seconds when playing after pausing). On average, it took us 90-120 minutes to transcribe a 30-minute test. We also included descriptions of screen-recorded activities enclosed in square brackets in our transcriptions. This sped up the process of pre-reading each transcript in preparation for analysis rather than watching the recording in its entirety. We recommend starting with 10-15 interviews which will be less work in terms of transcription and coding. You may do more or fewer, if you find you are still uncovering interesting themes or if you are starting to see a lot of repetition in your coding and less development of themes, in which case, you’ve likely reached a good time to stop.
+
+We recommend choosing unique file names for each transcript (Transcript 1, Transcript 2, etc.) and within each transcript use unique speaker codes for individual speakers (I1 for interviewer; I2 for second interviewer; PtSt1016 which stood for student (St) participant (Pt) #10 from 2016). Align participant numbers with transcript numbers. The speaker codes come in handy when you are analyzing your data and comparing themes across participants. It is important to make decisions about speaker codes as early in the process as possible, and ideally before transcription begins, so that the speaker codes can be created and inserted during the transcription process. Deciding on speaker codes after transcription will result in returning to all of your data to clean up these codes. In addition, if you make use of Word’s heading styles in your transcript files, you can automatically identify and autocode participant speech and interviewer speech, as long as you have applied different heading styles to these sections of your transcriptions.
+
+Keep in mind that when using fictional scenarios (as we did), you are relying on the participants to act as if they are experiencing a particular scenario. It is possible that our participants did not take these scenarios seriously or that they made up their responses in order to please the interviewers. In order to mitigate such effects, we tried to establish a rapport with participants during the interviews to put them at ease. We made it clear that we wouldn’t be offended by any of their comments, even if they were negative. We also emphasized that it was useful for us to know where their pain points were when using the library website to accomplish an informational task or to do research, since understanding their perspective would help us to make improvements. 
+
+
+
+
+Software
+
+Initially, we tried doing our analysis without using specialized software (i.e. using spreadsheets), but we needed the functionality of keeping track of the codes and coding hierarchy across all of our transcripts, which the spreadsheet software did not do for us. We therefore decided to use qualitative data analysis software called NVivo for coding and analyzing the data. You begin by importing all of your transcripts into an NVivo project, and as you do close readings of each text and annotate them, the software enables you to easily capture your codes and coding hierarchy. We equate it with using different colored highlighters on a print transcript to denote and collate different themes as you find meaning in your data. There are a few different software options that work similarly to NVivo.[1] We chose NVivo since it is used by other researchers on our campus and is better supported on our campus than other options. You may be able to get a free copy of NVivo (or another qualitative data analysis software tool) from your institution’s IT department. If not, a license costs a few hundred dollars. You can also look into comparable qualitative data analysis software that is available via a monthly subscription services (e.g. Dedoose). 
+
+The time and effort it took to learn the NVivo software was well spent as it saved us time in the long run and made the data easy to query. Regardless of what qualitative data analysis software you choose, we feel the most important thing is to make sure you have adequate support (e.g. experts who have used the software, access to free training materials). We made a lot of use of the free NVivo webinar series, online training videos, and user manual.[2] Our student assistant was able to complete some of this training independently, which was yet another time saver. If you are new to this type of software, expect to devote a bit of time at each stage of your project to software training. We suggest setting up a test project with a sample of your data, and taking the time to play with the software to become familiar with how it works. It isn’t particularly complex or difficult, but the few hours you spend with a test project will save you from making mistakes later.
+
+Yet another advantage of using NVivo was the ability to link our survey information with our transcripts. As mentioned above in our discussion of transcription, speaker codes allow you to easily store some demographic information (e.g. status = student), but not everything. We used NVivo Cases (an NVivo feature that allowed us to tag transcripts with the participants’ demographic information) in order to manage all of the survey data we had collected. We recommend collecting the following information from each participant: status (e.g. faculty, staff, student), year of study (e.g. freshman, sophomore), major/department affiliation, experience using the library website (multiple questions), and whether or not they had used certain library services (e.g. reference, library instruction session, one-on-one research consultation). We collected this demographic information through a short online survey (included in our IRB application) that participants completed before the usability test. 
+
+Linking demographic information to the transcripts is useful because it allows you to easily query your data to compare participant behaviors across specific attributes. For example, we were curious to see how freshmen and seniors differed in their use of our research guides. Since we had coded our transcripts for website location (e.g. research guides), we could quickly perform an NVivo query and focus our investigation to data we had collected in which freshmen or seniors were using research guides.
+
+
+
+
+Qualitative Coding
+
+We decided to analyze our usability testing data as if it were data collected during a qualitative interview of an information behavior study. Themes emerged organically as we did a close reading of each transcript (while sometimes reviewing parts of the screen capture and audio recording). We annotated (or coded) chunks of the transcripts as we observed these themes of importance and identified meaning in the data. We chose to code inductively (creating codes and coding based on our observations) rather than deductively (creating a set list of codes ahead of time and applying the codes to the data) since this was our first time approaching this kind of data set in this way. We wanted to ensure that we didn’t limit our observations and analysis by sticking to a set list of codes as we weren’t sure what to expect from the process. We will discuss the iterative process of uncovering themes in more detail below, but generally it meant that we might uncover a code in one coding session, and could return to it later as we noticed patterns across different participants. 
+
+We applied two different types of codes: thematic and descriptive codes. As mentioned above, thematic codes emerged from observing meaning in the data, whereas descriptive codes identified a specific chunk of a transcript having to do with a specific section of the website or a specific participant task. The two coding schemas reflected the dual purpose of the research: to improve teaching as well as improve the website. The thematic codes were of more interest to the teaching librarians, whereas the descriptive coding made the data more useful for the website usability team/research team to return to and utilize. We did both kinds of coding simultaneously as we were sifting the data.
+
+For example, we uncovered a theme (and created a corresponding thematic code) called Time which we used whenever a participant indicated or demonstrated that they were taking their time, or the opposite, that they were rushing, or that they demonstrated patience or impatience (both time-related phenomena). Eventually, we established a hierarchy under the Time theme, dividing it into sub-categories. After we had applied these codes to all of our transcripts, we could query all of the transcripts to compare Time and the subcategories of Time across multiple subjects. 
+
+An example of a descriptive code we used was website location codes. If our participant was doing a task on the Database A-Z page, we would code that chunk with Database A-Z so that later we could easily pull out all of the sections of the different transcripts where participants were using the Database A-Z section of our website. 
+
+This method of multipurpose coding was not carried out with the intent that we would code all of the website usability data in such a manner on an ongoing basis. Few academic libraries would have the resources to sustain such a project. (On average, a 30-minute usability test took us 60–90 minutes to code). However, we envision taking the time every few years to repeat this project, delving deeply into a sample of new usability testing data, coding that data (though likely re-using much of the same coding terminology and structure) to create a snapshot that eventually we can compare with other snapshots on a long-term basis. 
+
+
+
+
+Descriptive Coding
+
+Given that library website usability testing data likely have many similarities (e.g. in terms of tasks, webpage, search tools) between different institutions, we are listing some descriptive coding conventions here that we believe will be useful to others pursuing a similar project. The following descriptive coding for participant, website location, and task can easily be done by a trained student employee. We have found these descriptive codes useful when we want to pull up different parts of different transcripts and compare, for example, how participants approached a particular task (e.g. Find Book in Catalog).
+
+To begin, we coded all participant speech in each transcript with a descriptive participant code (Participant) and then with the same unique speaker code as used in the transcripts (PtSt1216). Primarily, these codes were used when we later compared behaviors, tasks, and themes across different participants. An extra benefit of having our transcripts marked up using these participant codes was the ability to quickly run an analysis to see how much of a given transcript was participant speech and how much was interviewer speech. This let us know whether or not the usability testing interviewers were speaking too much during a usability test. 
+
+	Sample Participant Codes
+	PtSt115 (student participant ID#1 from 2015)
+	PtSt215 (student participant ID#2 from 2015)
+	PtSt3316 (student participant ID#33 from 2016)
+
+
+Next, we coded each transcript for website location and task. These codes are used to mark up sections of each transcript where participants are using a specific section of the website or where they are performing a specific task such as finding a book on reserve or requesting an item through interlibrary loan. Usually, these codes mark up a long chunk of text and thus encompass both participant and interviewer speech and retain the conversation and context. 
+
+	Sample Descriptive Website Location Codes
+	Homepage
+	Catalog
+	About the Library page
+	Contact the Library page
+	Hours page
+	Database A-Z page
+	EDS Search
+	Journals A-Z Search
+	Research Guides
+	Library Instruction page
+	Archives
+	Descriptive Task Codes
+	Request-ILL
+	Find-Reserve
+	Find-Book
+	Find-Article
+
+
+In addition to these descriptive categories of codes, two other descriptive coding trees (coding hierarchies) were also used very frequently in our analysis: Terminology and Notices. The terminology coding tree had three branches—clear, unclear, and incorrect use: respectively, when the participant expressed that a term was clear; when the participant expressed that a term was unclear; and when the participant expressed that a term was clear, but nonetheless demonstrated an incorrect use. Terms were then divided by location of occurrence. For example, the term “Library Instruction” when seen by student participants from our library homepage was often an unclear term, so those sections of the transcript that demonstrated this would receive the following coding (columns 2-4 represent child/nested node layers): 
+
+Table 1. Coding for sections of the transcript that used the term “Library Instruction.”
+
+	
+Parent Code
+
+	
+Child Code 1st level
+
+	
+Child Code 2nd level
+
+(location)
+
+	
+Child Code 3rd level
+
+(term)
+
+
+	
+Terminology
+
+	
+Unclear
+
+	
+Library Homepage
+
+	
+Library Instruction
+
+
+
+
+Retaining the location allowed us to see if context had any impact on the clarity of terminology. The Notices coding tree similarly used location divisions. For example, if a participant noticed left-side limits in the library catalog, the coding would be: 
+
+Table 2. Coding showing patron awareness of left-side limits in the library catalog.
+
+	
+Parent Code
+
+	
+Child Code 1st level (location)
+
+	
+Child Code 2nd level
+
+
+	
+Notices
+
+	
+Catalog
+
+	
+Left Limits
+
+
+
+
+The coding conventions as discussed thus far are largely descriptive in nature. They address questions of who is doing what and where. Other descriptive codes included: Failure/Success (used and subdivided to describe moments of failure or success during the usability test), and Aesthetic (subdivided into categories such as “likes pictures”, “likes simple”, “cluttered.”) Thematic codes, which identified observed themes often looking at the why and how of a particular behavior, will be discussed next. 
+
+
+
+
+Thematic Coding
+
+We marked up our transcripts with thematic codes (codes which were a result of analytical or interpretive observations of our transcripts) as we noticed meaning in the data. This was work that could not be done exclusively by a student assistant. While coding for themes, it helped us to view this coding through the lens of answering how and why questions about participant behavior. If we noticed an interesting moment in a transcript, we paused to ask ourselves how the participant was behaving or why the behavior was happening and we created codes that captured these themes. For example, two codes emerged called Research for Learning and Research for Citing. These codes were used to capture moments in the transcripts where participants demonstrated that they saw research as a process of learning and discovery or as a process to simply find sources to cite. See Ryan and Bernard (2003) for more information about identifying themes in qualitative research.
+
+
+
+Uncovering Themes
+
+
+Search Mechanics
+
+The first theme we will discuss from our own research is one we called Search Mechanics. We observed a group of strategies and actions employed by participants which we initially coded simply as mechanics. We treated this as a descriptive group of codes to describe what participants were doing, but we soon became more caught up not just with what they were doing, but how they were doing it. This group of behaviors included the mechanistic use of filters such as the peer-review, full text or date check boxes (each identified with a unique code). In these instances, the actions seemed to be performed in a rote or habitual manner. From a usability perspective, it was excellent that these features were being used without difficulty. However, the automatic manner in which participants sometimes used these limits suggested that they were not thinking about why they selected these limits and how this impacted their research. 
+
+As we encountered this theme repeatedly in our data, we collated our ideas and insights in an NVivo Memo (simply a place in your NVivo project where you can keep track of your analysis while linking it to your coding and data). We used the Search Mechanics Memo to come back to the theme each time we noticed it in a transcript and continued to write and expand upon it throughout our analysis. Using this memo, we developed a narrative around Search Mechanics, which we essentially were able to then use as the basis for a pitch in meetings with colleagues when discussing opportunities for improving information literacy teaching. 
+
+While our observations of search mechanics weren’t new or surprising, what was useful was we now had evidence to advocate for a change in our local teaching practices. When librarians are teaching classes at our library, they often choose to highlight at least a few mechanics of search (e.g. demonstrating how to use filters to limit search results.) Armed with the evidence from our research, we were able to increase the use of some recently created online instructional videos that highlighted search mechanics and had them embedded in the learning management systems of key courses. While there was some concern that this would (in the minds of our faculty) negate the need to bring their classes to the library, in fact, this has not been the case. 
+
+Another behavior we coded repeatedly (and included under the Search Mechanics theme) was participants’ habitual use of a search box for an unintended purpose. For example, the search boxes on our Journals A-Z list and Research Guides homepage, respectively, are not meant for traditional topic keyword searching. However, we saw participants consistently use the available search boxes for this purpose. It repeatedly failed participants, but they often persisted with the same strategy over and over again. On one hand, with respect to the user experience, this prompted the website usability team to reconfigure access to our Journals A-Z list and remove search boxes from individual research guides. But on the other hand, with respect to information literacy teaching, these observations gave us pause in regards to our teaching strategies. Once again, we were able to use this evidence to encourage librarians to begin to incorporate teaching activities that shifted the learner’s awareness to a metacognitive space. 
+
+Good search mechanics alone will not necessarily lead students to successful search outcomes; but they are useful, if not critical, to master given the mass amount of information contained in academic databases and other search tools. For some of our participants, the mechanics of search seemed markedly difficult and to occupy most of their available cognitive energy. This impeded a successful search and, therefore, it is clear that avoiding teaching search mechanics entirely is also not a good strategy. Now instead of simply brainstorming a list of key terms to use in a given search box during instruction sessions or research appointments, we also try to elicit a metacognitive moment so that our students think about why they are searching, what they are searching, and what their expected results are before they type keywords into a search box.
+
+
+
+
+Flatness
+
+Another Memo we developed throughout our analysis and eventually identified as a theme, we called Flatness, short for Information Flatness. Many of our participants demonstrated a flat conceptual model of the library website and the many information structures it provides access to, such as databases and individual publications such as journals, magazine and news sources. When they searched from the library website, they were simply “searching the database.” Many participants used language that implied a lack of understanding of the depth and organization of the information structures they were using. Not only was the terminology (e.g. jargon such as “database” and “journal”) unclear to them, they also didn’t understand the relationship between these things. Furthermore, those who exhibited flatness tended to treat all information they encountered equally, which negatively affected their ability to select useful sources. They simply made selections based on the availability of a full-text PDF file. Some participants demonstrated a flat conceptual model until they began talking about citing. At that point, the participant recognized that understanding "what" they had in front of them was important, but it only was viewed as important if they planned to cite the source.
+
+Once again, this was not all new information. Mental models and how they relate to search have been explored by a number of library studies, both information seeking research studies and usability studies. Holman’s (2011) research concludes that students don’t possess a strong mental model of search and that this negatively impacts a successful outcome. Lee’s 2008 research study on information structures and undergraduates concluded that “students had knowledge of only a few search tools” (217) and they preferred resources that were “immediately and conveniently accessible” (2008, p. 217). Similarly, in their 2011 usability testing study, Swanson & Green remarked that “Users do not appear to be very aware of differences between databases, catalogs, and other tools. [...] As results for different types of sources are co-mingled, the user's ability to recognize the differences between results becomes more important for the successful use of the library website” (227).
+
+Combing through the data in such detail, however, really opened up our eyes as to how widespread (across our sample) these behaviors and understandings were. We had understood many of these things before, yet we hadn’t fully enacted this knowledge to change how we taught. Of course, we often talk about teaching practices, but with this methodology, we first looked at behaviors and grounded our ideas about teaching in the context of the data we were seeing. It’s a small shift, but for us, it was important because it helped actually galvanize change. 
+
+We noticed that the think-aloud protocol used in our usability testing forced a moment of metacognition that many novice researchers are not likely used to engaging in. It is exactly this process of reflection that we think will help a novice researcher to unflatten their conceptual model, and so we sought ways that we could use this in our teaching. For example, when teaching students within a particular discipline, we are devoting more time and teaching activities to exploring the list of databases available for use within a given subject area. If users don't understand that databases are essentially containers of different types of information, they will be unlikely to use them. A teaching strategy that has been useful in this regard is having students draw their research process and/or visually depict a specific search tool they are using. This type of visualization activity inevitably contributes depth to their mental model of the information structures they are encountering during their research process (Mayer & Anderson, 1992).
+
+Contemplating flatness also has made us re-think our library research guides. Since our research guides list what we now understand may be unrecognizable information structures, such as individual journal titles, databases, and other search tools, it makes sense that users are not likely motivated to use them. Understanding how to use a research guide requires the understanding that it’s an intermediary tool that points to other information containers (databases, journals) and search tools. Some of our participants expected a research guide to act like a database. They thought that they should be able to use search limits within a guide so that they could access directly the content they were seeking such as articles and statistics. We recognize from a usability perspective that the search boxes on our research guides are most likely being used incorrectly, and we plan to remove them. From a teaching perspective, we no longer treat research guides like self-explanatory web pages that are intuitive to use for research. At a minimum, when using research guides in our teaching, we need to model how they can be useful and use the guides to help address the potential flat model of information that our students might possess. 
+
+Clearly, the themes that we observed in our local data are not new information to the field. The above studies (both research studies and a usability study) suggest similar conclusions. However, the point of the methodology explored in this article is to highlight how local data can be reused to provide opportunity for conversations between different library areas and facilitate change in library teaching practices. 
+
+
+
+Conclusion
+
+Teaching is often an independent activity and bringing about changes in teaching practices can be a challenge. To change teaching practices, you need to change teachers’ minds. To change teachers’ minds, it helps to have evidence. Slowly, we are seeing a culture shift at our library. Before this project, it was common for opinions to be expressed as just that, opinions. But now, usability testing data often get invoked in meetings when we are discussing issues or problems we are trying to solve. For example, our librarians knew that good search mechanics were important, and therefore, we devoted some time to that when teaching. Systematic review of the usability testing data (i.e. our descriptive and thematic coding) revealed that good search mechanics were important, but often failed our students when they lacked a deeper understanding of research and saw it as a simple exercise of matching keywords in their topic to keywords in an article title.
+
+For many academic libraries, motivating a change in practice or use (be it space, a service, or teaching philosophy) can be difficult. The ability to produce compelling and local evidence to support new ideas or create a change in practice is powerful and that is where we see some of the greatest potential for our data analysis in the local context. We are not suggesting that this method should or could replace rigorous research investigating user information behavior. However, when time and resources do not permit for such an investigation, usability testing data can serve as a convenient and useful data set that can be used to enhance understanding of user behavior and apply that understanding wherever it is needed.
+
+We also see value in the process of analyzing the data by a team of people from across library divisions or departments. The careful study of existing data provides unanticipated opportunities to inform other areas of library operations and there is great potential for enriching cross-departmental conversations, focused around observations of user behavior. One of the advantages of looking at these data through the methodology described in this paper is the opportunity for people from different library areas not traditionally involved with usability testing and user experience initiatives to have the chance to deeply engage with the data and apply it to a practice, a service, or an initiative from a different perspective. In this case, we focused on information literacy teaching, but there are potentially other areas where it could be useful (e.g. e-resources, discovery team). 
+
+ That being said, the most time intensive component of this project was also the process. The method discussed in this article recycles pre-existing data, but can be very time intensive in terms of data organization, preparation, and analysis. The task of coding and analyzing the amount of data generated from even fifteen 30-minute usability tests is substantial. If you decide to embark on a similar project to this one, we would recommend either taking a snapshot of your data (i.e. focusing on a few consecutive months’ worth of usability tests) or selecting random tests from a larger pool of data collected over a longer period of time (e.g. selecting one test from each month, if you are conducting regular usability tests). We found that after analyzing 15-20 tests, we had seen clear themes emerge and were beginning to see much repetition in our data analysis and were finding more and more examples of our themes, but few new themes. You may find you reach this point of saturation even earlier (e.g. after 7-10 tests). If you are pursuing this methodology, we recommend you emphasize quality over quantity. Transcribe and code fewer usability tests, but do a thorough job of the ones you do. We found the role of the student researcher (co-author) invaluable and were able to get a small internal research grant to compensate the student. Consider also the possibility of student labor to help with aspects of the project. 
+
+In terms of frequency, we envision repeating this analysis every few years, in anticipation that changes in user behavior, interface design, and instructional practices happen incrementally over a longer period of time. We anticipate that having established a coding structure and familiarity with qualitative software (in our case NVivo), future projects will be less resource-intensive.
+
+Acknowledgements
+
+The authors wish to acknowledge the members of the website usability team at Montclair State University for their work writing, conducting, and transcribing usability tests as well as their contributions to the initial data analysis and for many fruitful discussions: Paul Martinez, William Vincenti, Darren Sweeper, Denise O’Shea, and Siobhan McCarthy
+
+References
+
+	Association of College and Research Libraries. (2015). Framework for information literacy for higher education. Retrieved from www.ala.org/acrl/standards/ilframework
+
+	Bloom, B., & Deyrup, M. M. (2015). The SHU research logs: Student online search behaviors trans-scripted. Journal of Academic Librarianship 41, 593–601.
+	Bowles-Terry, M, Hensley, M. K., & Hinchliffe, L.J. (2010). Best practices for online video tutorials: A study of student preferences and understanding. Communications in Information Literacy 4(1). 
+	Bury, S., & Oud, J. (2005). Usability testing of an online information literacy tutorial. Reference Services Review 33(1), 54–65. 
+	Castonguay, Remi. (2008). Assessing library instruction through web usability and vocabulary studies, Journal of Web Librarianship 2(2–3), 429–455, doi: 10.1080/19322900802190753
+
+	Dalal, H. A., Kimura, A. K., Hofmann, M. A. (2015). Searching in the wild: Observing information-seeking behavior in a discovery tool.ACRL 2015 Proceedings. Portland, OR: ACRL. Retrieved from http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2015/Dalal_Kimura_Hofmann.pdf 
+
+	Duke, L. M., & Asher, A. D. (2012). College libraries and student culture: What we now know. Chicago: American Library Association. 
+	Finder, L., Dent, V. F., & Lym, B. (2006). How the presentation of electronic gateway pages affects research behavior. The Electronic Library 24(6), 804–819.
+	Graves, S., & Ruppel, M. (2007). Usability testing and instruction librarians: A perfect pair. Internet Reference Services Quarterly, 11(4), 99–116.
+	Head, A. J., & Eisenberg, M. B. (2009). Lessons learned. How college students seek information in the digital age. Project Information Literacy, Seattle, WA (2009) Retrieved from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2281478
+
+	Holman, L. (2011). Millennial students’ mental models of search: Implications for academic librarians and database developers. Journal of Academic Librarianship 37(1), 19–27.
+	Janyk, R. (2014). Augmenting discovery data and analytics to enhance library services. Insights 27(3). 262–268. http://doi.org/10.1629/2048-7754.166
+
+	Lee, H. (2008). Information structures and undergraduate students. The Journal of Academic Librarianship 34(3), 211-219.
+	Lee, Y. Y., & Snajdr, E. (2015). Connecting library instruction to web usability: The key role of library instruction to change students’ web behavior. Retrieved from https://scholarworks.iupui.edu/handle/1805/7291
+
+	Lindsay, E. B., Cummings, L., Johnson, C. M., & Scales, B. J. (2006). If you build it, will they learn? Assessing online information literacy tutorials. College & Research Libraries 67(5). 429–445.
+	Mayer, R. E., & Anderson, R. B. (1992). The instructive animation: Helping students build connections between words and pictures in multimedia learning. Journal of Educational Psychology, 4, 444–452.
+	Novotny, E., & Cahoy, E. S. (2006). If we teach, do they learn? the impact of instruction on online catalog search strategies. portal:Libraries and the Academy, 6(2), 155–167. doi:10.1353/pla.2006.0027
+
+	Porter, B. (2011). Millennial undergraduate research strategies in web and library information retrieval systems. Journal of Web Librarianship 5(4), 267–285. doi:10.1080/19322909.2011.623538
+
+	Ryan, G. W., & Bernard, H. R. (2003). Techniques to identifying themes. Field Methods 15(1). 85–109.
+	Swanson, T. A., & Green, J. (2011). Why we are not Google: Lessons from a library website usability study. The Journal of Academic Librarianship 37(3), 222–229.
+	Thomas, S., Tewell, E., & Willson, G. (2017). Where students start and what they do when they get stuck: A qualitative inquiry into academic information-seeking and help-seeking practices. The Journal of Academic Librarianship 43(3), 224–231. https://doi.org/10.1016/j.acalib.2017.02.016
+
+	Turner, N. B. (2011). Librarians do it differently: Comparative usability testing with students and library staff. Journal of Web Librarianship 5(4), 286–298.
+	Valentine, B., & West, B. (2016). Improving Primo usability and teachability with help from the  users. Journal of Web Librarianship 10(3), 176–196.
+	Vassiliadis, K. & Stimatz, L.R. (2002). The instruction librarian’s role in creating a usable website. Reference Services Review 30(4), 338–342.
+
+
+
+
+	 See more options in this guide to qualitative data analysis, including ATLAS.ti, MAXQDA, QDA Miner, HyperRESEARCH.
+
+	 See also Using Software in Qualitative Research: a Step by Step Guide (2014) by Silver and Lewins. 
+
+
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,737 @@
+
+
+Summary of your 'study carrel'
+==============================
+
+This is a summary of your Distant Reader 'study carrel'.
+
+The Distant Reader harvested & cached your content into a
+collection/corpus. It then applied sets of natural language
+processing and text mining against the collection. The results of
+this process was reduced to a database file -- a 'study carrel'.
+The study carrel can then be queried, thus bringing light
+specific characteristics for your collection. These
+characteristics can help you summarize the collection as well as
+enumerate things you might want to investigate more closely.
+
+                               Eric Lease Morgan <emorgan@nd.edu>
+                                                     May 27, 2019
+
+
+Number of items in the collection; 'How big is my corpus?'
+----------------------------------------------------------
+35
+
+
+Average length of all items measured in words; "More or less, how big is each item?"
+------------------------------------------------------------------------------------
+4097
+
+
+Average readability score of all items (0 = difficult; 100 = easy)
+------------------------------------------------------------------
+59
+
+
+Top 50 statistically significant keywords; "What is my collection about?"
+-------------------------------------------------------------------------
+24	users
+22	libraries
+6	web
+5	library
+4	experiences
+3	data
+3	new
+3	researchers
+3	student
+3	worked
+2	content
+2	contents
+2	designed
+2	designers
+2	https
+2	included
+2	information
+2	informational
+2	method
+2	pages
+2	participant
+2	researcher
+2	searches
+2	spaces
+2	students
+2	surveys
+2	test
+2	tests
+2	usable
+2	websites
+1	accessed
+1	accessibility
+1	app
+1	approached
+1	apps
+1	archival
+1	builds
+1	buzzfeed
+1	cards
+1	chapters
+1	code
+1	collect
+1	collection
+1	designer
+1	designing
+1	designs
+1	developed
+1	digitally
+1	ebook
+1	engagements
+
+
+Top 50 lemmatized nouns; "What is discussed?"
+---------------------------------------------
+1802	library
+1511	user
+537	website
+517	usability
+502	design
+458	datum
+456	experience
+451	web
+413	time
+406	student
+397	service
+393	information
+366	space
+342	research
+338	testing
+317	page
+304	work
+301	content
+293	question
+270	group
+267	study
+263	team
+260	search
+253	process
+245	project
+242	system
+240	way
+212	test
+211	example
+209	p.
+202	staff
+201	librarian
+201	participant
+199	persona
+197	method
+187	term
+184	resource
+184	result
+175	access
+171	collection
+170	tool
+169	survey
+162	issue
+159	task
+158	people
+153	performance
+151	book
+151	member
+151	need
+149	use
+
+
+Top 50 proper nouns; "What are the names of persons or places?"
+--------------------------------------------------------------
+452	UX
+391	Library
+172	University
+167	User
+151	Michigan
+148	Skip
+144	Experience
+142	Journal
+138	SUS
+123	Libraries
+116	Weave
+113	Publishing
+111	J.
+110	Digital
+98	M.
+95	A.
+83	al
+82	Twitter
+82	et
+81	Google
+80	Research
+77	Issue
+77	S.
+76	License
+75	Commons
+74	Editorial
+69	DOI
+68	Services
+67	Usability
+66	A
+59	D.
+59	Design
+56	L.
+56	R.
+54	Information
+53	State
+52	C.
+52	Web
+51	UMUX
+47	Archive
+46	Facebook
+45	E.
+44	Collections
+43	HTTP
+43	K.
+42	B.
+42	Board
+42	Vol
+41	Log
+41	PageSpeed
+
+
+Top 50 personal pronouns nouns; "To whom are things referred?"
+-------------------------------------------------------------
+1261	we
+879	it
+522	you
+483	they
+478	i
+229	us
+187	them
+54	me
+32	itself
+29	she
+28	he
+20	themselves
+15	one
+13	ourselves
+9	myself
+7	yourself
+5	’s
+4	her
+3	himself
+3	mine
+3	oneself
+2	em
+1	77–85
+1	9–20
+1	confident’
+1	headers[8
+1	herself
+1	him
+1	https://developers.google.com/analytics/devguides/platform/experiments-overview
+1	yours
+
+
+Top 50 lemmatized verbs; "What do things do?"
+---------------------------------------------
+4715	be
+1043	have
+767	use
+648	do
+438	make
+289	include
+279	find
+242	create
+230	help
+215	provide
+211	see
+196	work
+188	need
+167	improve
+163	take
+158	get
+149	ask
+148	allow
+147	retrieve
+144	want
+136	identify
+134	base
+132	understand
+131	know
+127	think
+124	test
+122	build
+120	develop
+120	look
+118	focus
+110	’
+108	collect
+106	read
+105	go
+101	give
+100	consider
+96	offer
+94	show
+93	apply
+91	become
+90	conduct
+88	start
+87	learn
+86	come
+86	follow
+84	describe
+79	review
+78	note
+77	center
+77	search
+
+
+Top 50 lemmatized adjectives and adverbs; "How are things described?"
+---------------------------------------------------------------------
+832	not
+535	more
+372	also
+361	other
+223	new
+220	such
+215	digital
+206	many
+179	good
+179	most
+171	important
+167	different
+160	only
+150	out
+147	up
+142	first
+140	as
+140	well
+129	even
+126	large
+120	online
+118	easy
+118	quick
+116	so
+115	often
+113	much
+111	academic
+108	specific
+107	then
+104	just
+104	small
+100	open
+100	useful
+99	very
+93	physical
+90	however
+90	possible
+89	available
+86	high
+85	few
+82	long
+81	rather
+78	creative
+73	able
+72	great
+72	less
+70	same
+70	similar
+69	current
+69	own
+
+
+Top 50 lemmatized superlative adjectives; "How are things described to the extreme?"
+-------------------------------------------------------------------------
+74	most
+55	good
+27	least
+12	big
+12	high
+5	busy
+4	easy
+4	large
+3	great
+3	late
+2	low
+2	new
+2	wide
+1	bad
+1	bright
+1	broad
+1	cheap
+1	close
+1	disinter
+1	early
+1	fast
+1	near
+1	old
+1	quiet
+1	small
+1	smooth
+1	strong
+
+
+Top 50 lemmatized superlative adverbs; "How do things do to the extreme?"
+------------------------------------------------------------------------
+105	most
+15	least
+7	best
+2	highest
+1	lapply(respondent.log$v6
+1	lowest
+1	worst
+
+
+Top 50 Internet domains; "What Webbed places are alluded to in this corpus?"
+----------------------------------------------------------------------------
+46	dx.doi.org
+43	doi.org
+12	www.nngroup.com
+11	developers.google.com
+8	designingforperformance.com
+7	developer.yahoo.com
+7	uxpajournal.org
+7	www.webcitation.org
+4	hdl.handle.net
+4	journal.code4lib.org
+4	www.lib.montana.edu
+3	en.wikipedia.org
+3	stackoverflow.com
+3	www.clir.org
+3	www.cooper.com
+3	www.lib.ncsu.edu
+2	abtest.library.appstate.edu
+2	acrl.ala.org
+2	archive.ifla.org
+2	blog.twitter.com
+2	blogs.hbr.org
+2	chrisgaul.net
+2	ejournals.library.ualberta.ca
+2	googleblog.blogspot.com
+2	journals.tdl.org
+2	libux.co
+2	lj.libraryjournal.com
+2	moz.com
+2	papers.ssrn.com
+2	support.google.com
+2	uxmag.com
+2	weaveux.org
+2	webaim.org
+2	www.educause.edu
+2	www.erialproject.org
+2	www.google.com
+2	www.ida.liu.se
+2	www.measuringu.com
+2	www.oclc.org
+2	www.researchgate.net
+2	www.telize.com
+2	www.w3.org
+1	 w e a v e u x .org
+1	0-common.books24x7.com.library.simmons.edu
+1	4syllables.com.au
+1	abbytheia.com
+1	abtest.library.appstate.edu"
+1	blog.mozilla.org
+1	bradfrost.com
+1	busynessgirl.com
+
+
+Top 50 URLs; "What is hyperlinked from this corpus?"
+----------------------------------------------------
+3	http://designingforperformance.com/optimizing-markup-and-styles/#minification-and-gzip
+3	http://dx.doi.org/10.3998/weave.12535642.0001.301
+3	http://hdl.handle.net/1802/7520
+2	http://blogs.hbr.org/2011/08/henry-ford-never-said-the-fast/
+2	http://developers.google.com/speed/docs/insights/MinifyResources
+2	http://doi.org/10.15788/m23w2g
+2	http://dx.doi.org/10.3998/weave.12535642.0001.101
+2	http://dx.doi.org/10.3998/weave.12535642.0001.503
+2	http://dx.doi.org/10.3998/weave.12535642.0001.504
+2	http://dx.doi.org/10.3998/weave.12535642.0001.603
+2	http://googleblog.blogspot.com/2009/03/make-sense-of-your-site-tips-for.html
+2	http://moz.com/blog/from-keywords-to-contexts-the-new-query-model
+2	http://www.erialproject.org/publications/toolkit/
+2	http://www.lib.ncsu.edu/reports/suma
+1	http://
+1	http://0-common.books24x7.com.library.simmons.edu/toc.aspx?bookid=51014
+1	http://4syllables.com.au/articles/text-alternatives-decision-tree/
+1	http://abbytheia.com/wordpress/wp-content/uploads/2012/04/poster_readable.jpg
+1	http://abtest.library.appstate.edu"
+1	http://abtest.library.appstate.edu/var-a/?r=${e://Field/ResponseID}_Q1"></iframe>
+1	http://abtest.library.appstate.edu/var-a/about/?r=R_123_Q1
+1	http://acrl.ala.org/ilstandards/
+1	http://acrl.ala.org/ilstandards/wp-content/uploads/2014/02/Framework-for-IL-for-HE-Draft-2.pdf
+1	http://archive.ifla.org/IV/ifla74/papers/107-Hoivik-en.pdf
+1	http://archive.ifla.org/VI/5/op/udtop8/udt-op8.pdf
+1	http://blog.mozilla.org/metrics/2010/04/05/firefox-page-load-speed-%E2%80%93-part-ii/
+1	http://blog.twitter.com/2012/improving-performance-on-twittercom
+1	http://blog.twitter.com/2013/experiments-twitter
+1	http://bradfrost.com/blog/post/performance-as-design/
+1	http://busynessgirl.com/the-invasive-valley-of-personalizatio/
+1	http://catalog.hathitrust.org/Record/001661182
+1	http://chimera.labs.oreilly.com/books/1230000000545/ch12.html
+1	http://chrisgaul.net/projects/shelf-life/
+1	http://chrisgaul.net/works/library-return-chutes/
+1	http://chrome.blogspot.com/2015/09/chrome-improvements-for-faster-and-more.html
+1	http://crl.acrl.org/content/77/1/51.full.pdf+html
+1	http://crln.acrl.org/content/72/3/132.full
+1	http://cssminifier.com/
+1	http://danielmall.com/articles/how-to-make-a-performance-budget/
+1	http://designingforperformance.com/
+1	http://designingforperformance.com/basics-of-page-speed/#requests
+1	http://designingforperformance.com/optimizing-images/
+1	http://designingforperformance.com/optimizing-markup-and-styles/#caching-assets
+1	http://designingforperformance.com/optimizing-markup-and-styles/#css-and-javascript-loading
+1	http://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
+1	http://developer.yahoo.com/performance/rules.html#css_top
+1	http://developer.yahoo.com/performance/rules.html#etags
+1	http://developer.yahoo.com/performance/rules.html#expires
+1	http://developer.yahoo.com/performance/rules.html#gzip
+1	http://developer.yahoo.com/performance/rules.html#js_bottom
+
+
+Top 50 email addresses; "Who are you gonna call?"
+-------------------------------------------------
+37	mpub-help@umich.edu
+1	adr3@email.arizona.edu
+1	beausmith@catworks.arizona.edu
+1	blakisto@email.arizona.edu
+1	cliegl@calpoly.edu
+1	hello@weaveux.org
+1	helloweaveux@umich.edu
+1	mpromann@purdue.edu
+1	nattawan@email.arizona.edu
+1	smayden@email.arizona.edu
+1	zhan1022@purdue.edu
+
+
+Top 50 positive assertions; "What sentences are in the shape of noun-verb-noun?"
+-------------------------------------------------------------------------------
+30	space use data
+4	usability test results
+3	data was not
+3	library is not
+3	website is easy
+2	content is not
+2	data work harder
+2	libraries do not
+2	libraries do n’t
+2	library is also
+2	project is complete
+2	projects do not
+2	research is enough
+2	research is not
+2	space made clear
+2	space was not
+2	space was small
+2	spaces is accessible
+2	students do not
+2	system is easy
+2	testing using static
+2	users are likely
+2	users do not
+2	ux is not
+2	ux is n’t
+2	ux using query
+1	content are complicated
+1	content are different
+1	content has long
+1	content includes library
+1	content is accessible
+1	content is different
+1	content is more
+1	content is shareable
+1	content is visually
+1	content is vital
+1	content was too
+1	data are not
+1	data identified areas
+1	data is simple
+1	data is typically
+1	data provides unanticipated
+1	data using excel
+1	data was incomplete
+1	data was manually
+1	data were more
+1	data were not
+1	design are objective
+1	design is co
+1	design is conducive
+
+
+Top 50 negative assertions; "What sentences are in the shape of noun-verb-no|not-noun?"
+---------------------------------------------------------------------------------------
+1	data are not new
+1	data were not disparate
+1	libraries are no longer
+1	libraries is not complete
+1	libraries was not really
+1	library had no common
+1	library has no ability
+1	library is not only
+1	projects do not always
+1	projects do not explicitly
+1	research is not really
+1	research is not ux
+1	space is not available
+1	spaces were not implicitly
+1	students do not generally
+1	students is not easily
+1	system was not sufficient
+1	teams are not currently
+1	time do not always
+1	times is not only
+1	user has no choice
+1	users are not likely
+1	users were not central
+1	website are not uncommon
+1	websites are no different
+
+
+Sizes of items; "Measures in words, how big is each item?"
+----------------------------------------------------------
+9310	quod-lib-umich-edu-6336
+8761	quod-lib-umich-edu-6857
+8081	quod-lib-umich-edu-3043
+8063	quod-lib-umich-edu-9091
+7806	quod-lib-umich-edu-7670
+7717	quod-lib-umich-edu-7763
+7419	quod-lib-umich-edu-844
+5820	quod-lib-umich-edu-5619
+5765	quod-lib-umich-edu-2350
+5701	quod-lib-umich-edu-6541
+5531	quod-lib-umich-edu-764
+5302	quod-lib-umich-edu-853
+4822	quod-lib-umich-edu-9797
+4734	quod-lib-umich-edu-9812
+4578	quod-lib-umich-edu-2805
+4383	quod-lib-umich-edu-6239
+4227	quod-lib-umich-edu-6754
+4049	quod-lib-umich-edu-7797
+3131	quod-lib-umich-edu-3638
+2779	quod-lib-umich-edu-8992
+2778	quod-lib-umich-edu-8323
+2503	quod-lib-umich-edu-8615
+2432	quod-lib-umich-edu-7496
+2294	quod-lib-umich-edu-342
+2287	quod-lib-umich-edu-3131
+2260	quod-lib-umich-edu-7915
+2253	quod-lib-umich-edu-3815
+1950	quod-lib-umich-edu-4063
+1774	quod-lib-umich-edu-4850
+1571	quod-lib-umich-edu-9845
+1319	quod-lib-umich-edu-3516
+916	quod-lib-umich-edu-5004
+548	quod-lib-umich-edu-4871
+378	quod-lib-umich-edu-3902
+170	quod-lib-umich-edu-6634
+
+
+Readability of items; "How difficult is each item to read?"
+-----------------------------------------------------------
+69.0	quod-lib-umich-edu-3638
+69.0	quod-lib-umich-edu-7797
+68.0	quod-lib-umich-edu-9812
+66.0	quod-lib-umich-edu-9091
+64.0	quod-lib-umich-edu-764
+63.0	quod-lib-umich-edu-3131
+63.0	quod-lib-umich-edu-8992
+63.0	quod-lib-umich-edu-853
+62.0	quod-lib-umich-edu-8615
+62.0	quod-lib-umich-edu-7670
+61.0	quod-lib-umich-edu-3902
+61.0	quod-lib-umich-edu-4063
+61.0	quod-lib-umich-edu-7915
+61.0	quod-lib-umich-edu-5619
+61.0	quod-lib-umich-edu-3043
+60.0	quod-lib-umich-edu-3815
+60.0	quod-lib-umich-edu-9845
+59.0	quod-lib-umich-edu-6754
+59.0	quod-lib-umich-edu-8323
+58.0	quod-lib-umich-edu-342
+58.0	quod-lib-umich-edu-2350
+58.0	quod-lib-umich-edu-7496
+58.0	quod-lib-umich-edu-2805
+56.0	quod-lib-umich-edu-4850
+56.0	quod-lib-umich-edu-6239
+55.0	quod-lib-umich-edu-7763
+55.0	quod-lib-umich-edu-6857
+55.0	quod-lib-umich-edu-6541
+54.0	quod-lib-umich-edu-9797
+53.0	quod-lib-umich-edu-5004
+52.0	quod-lib-umich-edu-844
+51.0	quod-lib-umich-edu-6634
+51.0	quod-lib-umich-edu-6336
+50.0	quod-lib-umich-edu-3516
+48.0	quod-lib-umich-edu-4871
+
+
+Item summaries; "In a narrative form, how can each item be abstracted?"
+-----------------------------------------------------------------------
+quod-lib-umich-edu-2350	Literature Review Much of the existing research that explores the statistical structures associated with A/B testing can be found within computer science literature, with specific investigation of sampling techniques, randomization algorithms, assignment methods, and raw data collection (Cochran, 1977; Cox, 2000; Johnson, 2002; Kohavi 2007, 2009; Borodovsky, 2011). The library literature offers extensive discussion of UX and user-centered design for a range of library products and services, including websites (Bordac 2008; Kasperek, 2011; Swanson, 2011), library subject guides (Sonsteby, 2013), and search & web-scale discovery (Gross, 2011; Lown, 2013). While the focus of the case study is a website, the essential principles and process of A/B testing may be applied in any context characterized by a known UX problem, a definite design question, and relevant measurable user data. With the combined data from web analytics and user interviews for this case study, the library web committee formed the following experiment hypothesis: a homepage with Help or Services will generate increased website engagement compared to Learn, Connect, and Interact.
+
+quod-lib-umich-edu-2805	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave A Practical Guide to Improving Web Accessibility Cynthia Ng NEW WESTMINSTER PUBLIC LIBRARY Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 7, 2017 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.701 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. In order to provide a user experience that allows people to achieve their goals, accessibility guidelines and best practices need to be integrated into the regular content lifecycle. Understanding accessibility requires us to consider the use of websites and other digital content holistically, encompassing: Hardware including desktop and mobile devices, pointing and input devices Software including operating system, browser, assistive software Environmental conditions such as lighting (Shneiderman & Hochheiser, 2001) Figure 1. A link allows users to view the content on the original site, which may have more controls, accessibility features, and other features not available in the embedded version, including auto-generated closed captions.
+
+quod-lib-umich-edu-3043	During the evaluation process, I also recorded other key metrics: HTTP requests, page weight, and image weight.[5] Google PageSpeed Insights—Performance Rules Leverage browser caching Eliminate render-blocking JavaScript and CSS Enable compression Optimize images Minify CSS Minify JavaScript Minify HTML Avoid landing page redirects Prioritize visible content Reduce server response time Yahoo YSlow—Performance Rules Make fewer HTTP requests Use a content delivery network (CDN) Avoid empty src or href Add expires headers Compress components with gzip Put CSS at top Put JavaScript at bottom Avoid CSS expressions Make JavaScript and CSS external Reduce DNS lookups Minify JavaScript and CSS Avoid URL redirects Remove duplicate JavaScript and CSS Configure entity tags (ETags) Make AJAX cacheable Use GET for AJAX requests Reduce the number of DOM elements Avoid HTTP 404 error Reduce cookie size Use cookie-free domains Avoid AlphaImageLoader filter Do not scale images in HTML Make favicon small and cacheable Library Web Performance—Homepage A histogram of overall scores for library homepages from PageSpeed Insights (fig.
+
+quod-lib-umich-edu-3131	Libraries seeking to offer good user experience on mobile devices have two choices: a responsive website, which scales the amount of content displayed up and down depending on screen size, and a native app, downloadable from platform marketplaces. There seems to be a lot of focus on developing standards for bringing native app functions into websites.” Dialog Box Takeaways from SDSU: One staff member or librarian can make an app happen and the project can be a great professional development opportunity. University of California, Los Angeles Libraries Simul8, a group of student developers from the University of California, Los Angeles (UCLA), builds iOS, Android, and responsive web apps for the university’s library. When people are provided this respect, they tend to be invested in the process much more and thus connect with projects in a more personal way.” Over time, the group began to focus on mobile platforms and released the first iOS UCLA Library app in September 2011.
+
+quod-lib-umich-edu-342	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave A Toolkit to Effectively Manage your Website: Practical Advice for Content Strategy Sherry Buchanan PORTLAND STATE UNIVERSITY Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 6, 2017 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.604 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. In 2014, PSU Library launched its new website, after a card sort and numerous usability tests to reinforce the utility of our information architecture and content strategy. A big part of our approach to managing our website content—the writing/layout—is posited in the notion of “psychological safety.” Creativity and success happen when editors are comfortable expressing their ideas, are free to take risks and explore solutions, and find their own ways to keep our user-centered, data-driven approach to content at the heart of their efforts.
+
+quod-lib-umich-edu-3516	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave User Experience in Libraries: Applying Ethnography and Human-Centered Design Edited by Andy Priestner and Matt Borg Review by Heidi Steiner Burkhardt University of Michigan Library Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 5, 2016 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.505 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Print Share+ Twitter Facebook Reddit Mendeley User Experience in Libraries: Applying Ethnography and Human-Centered Design (Routledge 2016) makes the compelling case that user experience work in libraries must go beyond our digital presence in broad and meaningful ways. If we’re lucky, with its honesty and rational approach, User Experience in Libraries: Applying Ethnography and Human-Centered Design can break through.
+
+quod-lib-umich-edu-3638	This book is intended to give a reader at any level of familiarity with UX something tangible to think about or apply right away—a new perspective, a tool or technique, an article to follow up on—to positively impact the user experience at his or her library. Returning to the idea of understanding user behavior, I like a nice mix of formal and informal observation—user studies, contextual inquiry, surveys, focus groups, a chat with the student employees at the desk, noting questions and complaints submitted through any venue, reviewing search logs, reading case studies, and even eavesdropping in the coffee line. As there is no replacement for first-hand observation of someone else’s experiences, carry your colleagues along to the degree possible: share the comments, invite them to observe or participate in user testing, forward around articles and studies you find insightful and relevant, create meaningful graphs and charts out of that log data that help tell the story, ask lots of questions.
+
+quod-lib-umich-edu-3815	An Internet of Pings: Enhancing the Web User Experience of Physically Present Patrons with Bluetooth Beacons Skip to main content Skip to quick search Skip to global navigation Journal of Library User Experience Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing. Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave An Internet of Pings: Enhancing the Web User Experience of Physically Present Patrons with Bluetooth Beacons Mikael Jergefelt Karolinska Institutet Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 2, 2015 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.202 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. When you set your library app to listen for your UUID, iOS tells it whenever the device comes in or out of range of one of your beacons (if and only if the user has enabled Bluetooth and granted the app permission to do so).
+
+quod-lib-umich-edu-3902	WeaveUX Tweetposium: May 2, 2014 Skip to main content Skip to quick search Skip to global navigation Journal of Library User Experience Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing. Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave WeaveUX Tweetposium: May 2, 2014 Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 1, 2014 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.106 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Curious fool and WeaveUX Dialog Box editor Pete Coco (@pfcoco), ably assisted by Wheaton College Content Strategy Assistant Julie Bogen ‘14 (@jabogen-now of @refinery29) took to Twitter this past May with the intention of stirring the library UX pot. Get in touch @weaveux or @pfcoco with the questions you’d like to ask our Twitter followers-an ace group of Library UX experts, stakeholders, and curious fools.
+
+quod-lib-umich-edu-4063	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave 5 Lessons Library Websites Can Learn from Buzzfeed Christina Manzo Boston Public Library Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 3, 2015 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.302 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Buzzfeed’s business model relies on shareability, something it has in common with today’s library, which is why library website designers have the opportunity to learn from Buzzfeed’s overwhelming success. Once their statistically favorable headline is written, Buzzfeed employs the Bite-Snack-Meal method of information gathering to make sure that the user is not overwhelmed by content on their homepage (see fig. How Libraries Can Use It: Apart from their general utility in library web design, personas are ideal for reader’s advisory, because it groups patrons based on the books, genres, and authors they already like.
+
+quod-lib-umich-edu-4850	The results provided information on what students consider the most important library web pages: hours, article search, book locations and maps, computer availability, course reserves, and printing guidelines. To further define user needs and to understand the ideal information flow for online visitors better, I also designed a fun guerilla method for getting user feedback: I printed 200 sketch papers, and distributed them throughout the library, prompting student visitors and library employees to, “Sketch your ideal Kennedy Library website!” Sketches were returned to a colored cardboard box at the checkout desk, which allowed participants to return sketches anonymously if they desired. Second Runner-up: Applying a Hierarchical Task Analysis Method to Discovery Tool Evaluation From Purdue University Libraries: Tao Zhang, Digital User Experience Specialist, zhan1022@purdue.edu Marlen Promann, Graduate Research Assistant, mpromann@purdue.edu There is a large body of literature on usability tests of discovery tools in the libraries.
+
+quod-lib-umich-edu-4871	Print Share+ Twitter Facebook Reddit Mendeley Dialog Box was created at Weave’s founding with the goal to “...extend beyond the traditional book review section and feature critical dialogue not only with books but with other media that set the boundaries of library [user experience].” As new editors settle into our roles with the journal, we reconceive our original aims. This includes but is not limited to submissions taking the form of: Email or social media symposium Practitioner interviews Intermittent columns Ethnographic and/or personal narratives Interactive pieces, artwork, zines Visual note-taking from conferences “Thing Explainers” that break down difficult concepts and systems Addressing topics such as, but not limited to: Privacy Politics of measurement and assessment All forms of accessibility Implications of UX as an intersectional social justice issue UX as a reflection of organizational culture Analysis of power, labor, and organizing in design, UX, or library systems Engaging the concepts of maintenance, failure, and innovation We are interested in highlighting work from marginalized groups, precarious workers, students, and other voices absent from these subjects.
+
+quod-lib-umich-edu-5004	Book Review: The Art of Relevance, Written by Nina Simon Skip to main content Skip to quick search Skip to global navigation Journal of Library User Experience Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing. Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave Book Review: The Art of Relevance, Written by Nina Simon Review by Kristen Cardoso MIDDLEBURY INSTITUTE OF INTERNATIONAL STUDIES AT MONTEREY Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 6, 2017 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.605 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. In The Art of Relevance (Museum 2.0 2016), Simon provides practical steps, advice, and insights into the participatory design she has implemented so successfully at her museum, offering librarians a new perspective on user experience at our institutions.
+
+quod-lib-umich-edu-5619	Intention mining is a useful frame for the activity we will conduct as we work through how to apply anticipatory design to our search interfaces.[4] Given our searching culture and expectations, I will look at a series of research questions and possibilities for library search interactions in this article. And finally, I will look at the implications of this anticipatory model in relation to privacy and utility in hopes of understanding where we can introduce value to library search interactions and how tolerant our users are in accepting enhancements that depend on inference and knowledge of their contextual patterns and behavior. Interpretation and anticipation of contextual user data enables even more potential improvements within a search user interface, such as: Watching for semantic cues within search queries to suggest/show facets related to generic questions about library collections and services.
+
+quod-lib-umich-edu-6239	While interest in ethnographically-oriented studies began to increase in libraries by the late 1990s (e.g., Mellon, 1990; Fidel, 1993; Bradley & Sutton, 1993; and Julien & Duggan, 2000), this visibility largely begins with a series of successful and influential studies of libraries in the mid-2000s: the University of Rochester’s Undergraduate Research Project, which began in 2004 under the guidance of Nancy Fried Foster (Foster & Gibbons, 2007; Foster 2013), and drew particularly on user-centered and participatory design research techniques to understand how library spaces are used, how students engage with technology, and how undergraduates go about their academic work; the 2008–2009 Library Study at Fresno State (Delcore et al., 2009), which focused on the practices and experience of student life and students’ approaches to assignments; the 2008–2010 Ethnographic Research in Illinois Academic Libraries project which studied undergraduates’ research processes at five Illinois universities based on firsthand accounts of how students obtained, evaluated, and managed information for their assignments (Duke & Asher, 2012); and the 2009–2011 Undergraduate Scholarly Habits Ethnography Project which explored the information and communication technology use of undergraduates at six colleges at the City University of New York (Smale & Regalado, 2014).
+
+quod-lib-umich-edu-6336	Research questions Answer time Type of request Willingness to contact Access issues ILS Inexperienced Broad or unfocused research questions Want quick answers: Book checkout periods Link to LibGuide Find EBSCO/ASP Concerned with assignment requirements: Sometimes ask for specific number of sources; other assignment requirements Worry about “bothering” librarians Trouble-shooting access issues from off-campus ILS issues Experienced Focused research questions Willing to take time to work on complicated questions Need help locating known items (usually wanted an electronic copy of a specific article) Book check out periods Often (eventually) referred to subject librarians LibQUAL+® Survey Questions In 2014, USU’s assessment librarian conducted a detailed analysis of open-ended comments from a 2013 LibQUAL+® survey and created reports for each major user type, including undergrads, graduates, and faculty members, which summarized each group’s perceptions and expectations of the Libraries, and included representative quotes.
+
+quod-lib-umich-edu-6541	Yet a key aspect is missing from the discussion: Physical spaces and services, which are as important as their virtual counterparts, are rarely put under similar rigorous testing to ensure usability or improve the user experience. By leveraging the skills of library web designers and developers, libraries can work to ensure usable spaces and services and improve the user experience throughout all aspects of the library. As a separate group, the usability team is open to all with an interest in usability testing and allows more library staff to participate in the work, thus developing new skills and an understanding of usability throughout the organization. As the group shares usability testing results and builds skills through learning opportunities, it is hoped that eventually the team will be consulted by other groups in the library to assist with projects, both for virtual and physical services and spaces.
+
+quod-lib-umich-edu-6634	Download EPUB file for Volume 2, Issue 1 Skip to main content Skip to quick search Skip to global navigation Journal of Library User Experience Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing. Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave Download EPUB file for Volume 2, Issue 1 Skip other details (including permanent urls, DOI, citation information) Volume 2, Issue 1, 2019 DOI: http://dx.doi.org/10.3998/weave.12535642.0002.104 Creative Commons 4.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 4.0 International License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license. For more information, read Michigan Publishing''s access and usage policy. Print Share+ Twitter Facebook Reddit Mendeley Download an EPUB file of Volume 2, Issue 1. ISSN 2333-3316 About Editorial Board Editorial Philosophy Contact Log in Follow us: Twitter Email RSS 
+
+quod-lib-umich-edu-6754	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave Improving the Library Homepage through User Research — Without a Total Redesign Amy Deschenes Simmons College Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 1, 2014 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.102 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. At Simmons College in Boston, we recently performed a user research study that took an in-depth look at the content organization and wording of links on the Library homepage. Our most recent user research, conducted in July of 2013, was a small-scale study that focused on the organization, wording, and content of the library homepage, and allowed us to make significant enhancements to the homepage’s usability without overhauling its design and layout.
+
+quod-lib-umich-edu-6857	Approaches, advantages, limitations, and time investments Approach Advantages Limitations Easel feedback Brief time commitment Quick turnaround between posting and actionable information Can gather information from wide range of users A useful first or second step Feedback can be altered by other participants No demographic information Only users of physical space are reached Comment Box Informal Minimal time commitment Maintains awareness of emerging issues in library as a whole A useful first or second step Feedback is spotty and ad hoc Little demographic information Little opportunity to ask for clarification Only feedback from current users of physical spaces is accessible Reply Cards Can target specific areas within a library Provides detailed information about current space use Time commitment is relatively manageable Can serve as a bridge to more time-intensive methods Little opportunity to ask for clarification Only feedback from current users of physical spaces is accessible Little opportunity for in-depth reflection Intensive in-person methods: semi-structured interviews, charrettes, journey mapping Opportunity for deep exploration and user reflection Opportunity to clarify or collaboratively solve issues identified in previous feedback Can address particular user communities (faculty, undergraduates, graduate students...) Hard to cover feedback from low-staff times Captures feedback only from active users willing to talk to strangers Time intensive In addition to being low-cost and building a foundation of small victories, these techniques also provide essential perspective.
+
+quod-lib-umich-edu-7496	An example of applied research is a designer working on building a library interface who uses the pure research of the Nielsen Norman Group as a starting point. A common argument in opposition to design research in libraries is “but we already know all of this.” As Hall helpfully explains, a good counter-argument is, “Unless this knowledge comes from recent inquiry specific to your current goals, a fresh look will be helpful. Amanda Etches and Aaron Schmidt summarized many different research methods applied to specific library-related situations in their book Useful, Usable, Desirable (2014). Recommended Research Techniques Techniques Resource and time intensive Bias Credibility buy-In Contextual inquiry Yes Sampling bias Medium User interviews Yes Social desirability bias, interviewer bias, sampling bias Medium Focus groups Yes Social Desirability Bias, Interviewer Bias, Sampling Bias Medium Scenario 3 Determining the most critical tasks on a large university library website homepage The Setup Your library’s website has built up a large collection of links, images, and content that make the page very busy and potentially overwhelming. (2014) Useful, usable, desirable: Applying user experience design to your library.
+
+quod-lib-umich-edu-764	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave A Novel Technique for A/B Testing Using Static Prototypes Scott Goldstein APPALACHIAN STATE UNIVERSITY Skip other details (including permanent urls, DOI, citation information) Volume 2, Issue 1, 2019 DOI: http://dx.doi.org/10.3998/weave.12535642.0002.101 Creative Commons 4.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 4.0 International License. Appalachian State University Libraries recently piloted a variety of A/B testing that has the potential to address some of these shortcomings: a Qualtrics survey of tasks carried out on static prototype websites embedded into the survey as inline frames. Appalachian State University Libraries recently performed a prototype A/B test of the library website that scaled to a level more typical of a live A/B test, giving us data from more than a hundred users.
+
+quod-lib-umich-edu-7670	Libraries who want the kind of data the SUS can provide but find its shortcomings prohibitive may wish to look into other similar options as possible alternatives or as supplementary tools, such as single-item scales or other evaluative frameworks such as the UMUX, UMUX-LITE or SUPR-Q, which are also discussed briefly in this article.[1] SUS in the Literature In Libraries The SUS has been referenced in more than 1,300 articles and publications (Usability.gov, n.d.), including many library and information sciences publications detailing its use in testing various library systems and applications such as websites and discovery tools. Challenges of Using the System Usability Scale SUS May Have Limited Value When Used On Its Own A benefit of the SUS is that it is a “technology agnostic” tool that can be used to rate a variety of products, however, this trait may make it a liability when testing library websites and systems because “the disadvantage of a technology agnostic instrument is that it can omit important information that is specific to an interface type” (Sauro, 2015, p.
+
+quod-lib-umich-edu-7763	It concludes that usability testing data can be analyzed and re-used to help bridge gaps and make connections between different library departments and roles and to motivate change in teaching practices that are informed by observations of local user behavior. Other large and small-scale library and information literacy and behavior studies use different methodologies such as in-depth interviews, surveys, and focus groups (Lee, 2008; Head & Eisenberg, 2009; Duke & Asher, 2012; Thomas, Tewell, & Wilson, 2017; Finder, Dent, & Lym, 2006). Given limited resources in academic libraries, where budget and time do not always allow for regular information literacy research projects, this practical re-use of usability testing data can help us better understand our users and therefore teach more effectively.
+
+quod-lib-umich-edu-7797	Aside from hanging up posters or asking instruction librarians to help with recruitment, it’s also helpful to offer an incentive for patrons to participate in longer usability tests. Regardless of whether your sort is open or closed, if you’re running a small enough test, there are free tools that will let you do your card sorting online. Since this testing can produce such meaningful yields, it’s worth the initial investment of time: three to five think-aloud tests with your patrons should turn up plenty of fixes you want to make on your library website. The tasks don’t need to fall under a single theme but they should be related to actual patron needs and help to answer your questions about the website. Ask other librarians for task ideas; that way you’ll better understand their concerns about the website and you might even get them interested in usability testing.
+
+quod-lib-umich-edu-7915	In his write-up on the subject, Tim Kadlec identifies four major categories: Milestone timings Rule based metrics Quantity based metrics Speed index Milestone Timings A milestone in this context is a number like the time in seconds until the browser reaches the load event for the main document, or, for instance, the time until the page is visually complete. Pat Meenan writes in the WebPagetest documentation that a milestone “isn’t a very good indicator of the actual end-user experience.” As pages grow and load a lot of content that is not visible to the user or off the screen (below the fold) the time to reach the load event is extended even if the user-visible content has long-since rendered... How to Measure Speed Index with WebPagetest Google develops and supports WebPagetest, the online open-source web performance diagnostic tool at WebPagetest.org, which uses virtual machines to simulate websites loading on various devices and with various browsers, throttling the network to demonstrate load times over slower or faster connections, and much more.
+
+quod-lib-umich-edu-8323	We also identified patterns in the way people engage with public libraries over the course of their lives, as well as how they find information about their communities inside and outside the library. After an initial round of sessions, we spoke to a group of public librarians to understand what user populations might be missing (job seekers and ESL students getting resources and support from the public library) and who we should recruit more of (senior citizens and young parents). Sessions Sessions ran from one and half to two hours and started with one question: “Tell me about the last time you used your public library.” From there, participants led an organic discussion about how they use the library (or don’t), how they find out what’s going on in their community and in the world, and how they search for information online.
+
+quod-lib-umich-edu-844	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave What We Talk About When We Talk About Digital Libraries: UX Approaches to Labeling Online Special Collections Dylan Burns, Alex Sundt, Darcy Pumphrey, and Becky Thoms UTAH STATE UNIVERSITY Skip other details (including permanent urls, DOI, citation information) Volume 2, Issue 1, 2019 DOI: http://dx.doi.org/10.3998/weave.12535642.0002.102 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Instead, the second section provided an open-ended question that asked: “What term(s) would you suggest for a link to the Library’s database of digitized photographs, newspapers, regional history, and folklore items?” We recruited survey participants from several user groups considered part of the target audience of USU’s Special Collections & Archives: undergraduate students enrolled in a history class; undergraduate students from our general student population; student employees in the library; and community members, primarily retirees enrolled in a continuing education program.
+
+quod-lib-umich-edu-853	Participants Jennifer Anderson, Senior User Experience Designer, New York Public Library Rebecca Blakiston, Associate Librarian, User Experience, University of Arizona Heidi Steiner Burkhardt, Head of Digital Services, Norwich University Georgina Cronin, User Experience Librarian, Cambridge University Stephen Francoeur, User Experience Librarian, Baruch College, City University of New York Amanda L. Rebecca Blakiston: Last summer, we formed a new User Experience Department, which includes our web development team, marketing and public relations, content strategy, instructional design, and IT support. I help them think about: How the patron is going to learn about their program How to manage the workflow of people moving through the space during the event How to get contact details if needed All the tiny details regarding patron interactions with the library My fellow UX-ers are in charge of hardware/keeping the building running, so I have the primary job of working directly with people.
+
+quod-lib-umich-edu-8615	Print Share+ Twitter Facebook Reddit Mendeley Abstract Instead of pursuing traditional testing methods, Discovery and Innovation at Wayne State University Libraries settled on an alternate path to user-centered design when redesigning our library website: running hour-long “guerrilla” usability tests each week for two semesters. Instead of using remote and large-scale testing options, we chose a lean, iterative approach, and committed to two semesters of brief, weekly “guerrilla” usability sessions with student users. At the beginning of this project, we didn’t know a whole lot about conducting user testing, having relied mostly on survey responses, search logs, and Piwik website usage data to inform our initial redesign. (A similar method is also explored in Steve Krug’s 2010 testing bible Rocket Surgery Made Easy, though he never users the term “guerrilla”.) Whatever you call it, this type of research aims to identify usability issues and fix them as quickly as possible.
+
+quod-lib-umich-edu-8992	Cennydd Bowles and James Box’s Undercover User Experience Design (2010) provides a stealthy, practical approach to “introducing UX from the ground up” with process, techniques, and insights on organizational culture. Leah Buley’s The User Experience Team of One: A Research and Design Survival Guide (2013) focuses on the unique challenges facing the sole practitioner, detailing both philosophical concerns and practical methods. The authors admit that they have presented the UXD process in “relative isolation” and, while this reader has found some “Working with...” information applicable to the library world, the result of separating the human angle from the methods feels disjointed. Sample proto persona from The User Experience Team of One, CC BY 2.0 license: https://flic.kr/p/f2iSaL The choice to focus on the under-resourced UX designer is significant: this novice read the opening pages of both books and felt included in the sphere of UXD despite my limited experience and resources.
+
+quod-lib-umich-edu-9091	Quick search: Current Issue: Vol. 2, Issue 1 Archive Download EPUBs Submit to Weave Collecting Space Use Data to Improve the UX of Library Space Shelley Gullikson Carleton University Library Kristin Meyer Grand Valley State University Libraries Skip other details (including permanent urls, DOI, citation information) Volume 1, Issue 5, 2016 DOI: http://dx.doi.org/10.3998/weave.12535642.0001.502 Creative Commons 3.0 Attribution License Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. This article examines projects at two academic libraries where space use data was collected multiple times per day for several months. These projects represent only one aspect of user research that we’ve conducted in our libraries, but we consider this data collection to be a useful starting point for librarians interested in improving UX within their physical spaces. This group was excellently positioned to help us collect space use data—they were already roaming the library each hour and the very nature of their work is meant to help us better understand student needs.
+
+quod-lib-umich-edu-9797	Our participants: Michelle Boisvenue-Fox, Director of Innovation and User Experience, Kent District Library Galadriel Chilton, Director of Collections Initiatives, Ivy Plus Libraries Daniel Dollar, Associate University Librarian for Collections, Preservation, and Digital Scholarship, Yale University Library Mihoko Hosoi, Assistant Director for Systemwide Licensing, California Digital Library Alison Kuchta, Collection Development Librarian, Kent District Library Daniel Matsumoto, eResources Librarian, San Francisco Public Library Moderated by: Cody Hanson, University of Minnesota Libraries (Weave Board) Matthew Reidsma, Web Services Librarian, Grand Valley State University Libraries (Weave Editor) Matthew Reidsma: What are the biggest challenges your users face in using electronic resources? Galadriel Chilton, Ivy Plus Libraries: The biggest challenges that I see users in academic communities facing when it comes to electronic resources are: Impediments to Use: Clunky Interfaces and a Maze of Steps to Access Online content available through libraries does not offer users the same sleek functionality or brand recognition of online content marketed directly to end users, especially for ebooks.
+
+quod-lib-umich-edu-9812	Print Share+ Twitter Facebook Reddit Mendeley In mid-January 2015, Weave reached out to a number of librarians who are doing user experience work with the hope of instigating and documenting the conversation they might have with one another. But, it also points to one of my biggest worries, which is the increasing gap between the "UX-haves" and the "UX-have-nots." I''ve spoken to librarians who work with or lead fully staffed UX departments and do amazing things for their users, but I''ve also talked to librarians who are one of a handful of staff members and can only do "UX work" when time permits, or don''t have a strong relationship with their web development team and need to fight to get their voice heard, or are just making up "UX" as they go along because they haven''t received formal training in the tools/methods/etc., but they know it''s important so they do whatever they can.
+
+quod-lib-umich-edu-9845	If anything, it should be called NowLib (!), as it is concerned with researching current user experience and designing services and products as a result. But as someone coming to user experience from a career in libraries, I have chiefly advocated that librarians should place ‘user experience’ front and center in our terminology, even if this potentially de-emphasizes ethnography or service design despite the obvious and independent value they both offer. Because I believe our effort is most fundamentally to uncover the real experience and behavior of our users and improve, or develop new, services in response to what we learn. If ethnography and service design can be understood as poles on a spectrum, with methods on one side and outcomes on the other, then user experience would be my term for the spectrum itself.
+

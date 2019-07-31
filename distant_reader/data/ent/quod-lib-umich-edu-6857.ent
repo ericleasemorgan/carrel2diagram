@@ -1,0 +1,459 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-6857	1	1	Skip	PERSON
+quod-lib-umich-edu-6857	1	2	Skip	PERSON
+quod-lib-umich-edu-6857	1	3	Journal of Library User Experience	ORG
+quod-lib-umich-edu-6857	1	4	Library User	PERSON
+quod-lib-umich-edu-6857	1	5	Michigan Publishing	ORG
+quod-lib-umich-edu-6857	2	1	Quick	ORG
+quod-lib-umich-edu-6857	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-6857	3	1	2	CARDINAL
+quod-lib-umich-edu-6857	3	2	Submit to Weave	ORG
+quod-lib-umich-edu-6857	3	3	Rebecca Kuglitsch	PERSON
+quod-lib-umich-edu-6857	3	4	Juliann Couture UNIVERSITY OF COLORADO	ORG
+quod-lib-umich-edu-6857	3	5	BOULDER	CARDINAL
+quod-lib-umich-edu-6857	3	6	Skip	PERSON
+quod-lib-umich-edu-6857	3	7	DOI	ORG
+quod-lib-umich-edu-6857	3	8	1	CARDINAL
+quod-lib-umich-edu-6857	3	9	2018	DATE
+quod-lib-umich-edu-6857	3	10	DOI	ORG
+quod-lib-umich-edu-6857	3	11	http://dx.doi.org/10.3998/weave.12535642.0001.801	CARDINAL
+quod-lib-umich-edu-6857	3	12	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-6857	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-6857	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-6857	6	1	Reddit Mendeley	PERSON
+quod-lib-umich-edu-6857	6	2	Weave	PERSON
+quod-lib-umich-edu-6857	7	1	UX	ORG
+quod-lib-umich-edu-6857	7	2	UX	ORG
+quod-lib-umich-edu-6857	9	1	UX	ORG
+quod-lib-umich-edu-6857	12	1	UX	ORG
+quod-lib-umich-edu-6857	12	2	UX	ORG
+quod-lib-umich-edu-6857	16	1	UX	ORG
+quod-lib-umich-edu-6857	23	1	UX	ORG
+quod-lib-umich-edu-6857	24	1	UX	ORG
+quod-lib-umich-edu-6857	25	1	Literature Review	ORG
+quod-lib-umich-edu-6857	25	2	the past two decades	DATE
+quod-lib-umich-edu-6857	25	3	Lanclos & Asher	ORG
+quod-lib-umich-edu-6857	25	4	2016	DATE
+quod-lib-umich-edu-6857	26	1	Kim Wu & Lanclos	PERSON
+quod-lib-umich-edu-6857	26	2	2011	DATE
+quod-lib-umich-edu-6857	26	3	Foster & Gibbons	ORG
+quod-lib-umich-edu-6857	26	4	2007	DATE
+quod-lib-umich-edu-6857	27	1	One	CARDINAL
+quod-lib-umich-edu-6857	27	2	Undergraduate Research Project	ORG
+quod-lib-umich-edu-6857	27	3	the University of Rochester	ORG
+quod-lib-umich-edu-6857	28	1	Foster & Gibbons	ORG
+quod-lib-umich-edu-6857	28	2	2007	DATE
+quod-lib-umich-edu-6857	29	1	Ten years later	DATE
+quod-lib-umich-edu-6857	29	2	Foster	PERSON
+quod-lib-umich-edu-6857	29	3	2013	DATE
+quod-lib-umich-edu-6857	30	1	MacDonald	PERSON
+quod-lib-umich-edu-6857	30	2	2017	DATE
+quod-lib-umich-edu-6857	30	3	UX	ORG
+quod-lib-umich-edu-6857	30	4	UX	ORG
+quod-lib-umich-edu-6857	34	1	Collaborative	NORP
+quod-lib-umich-edu-6857	34	2	Somerville & Collins	ORG
+quod-lib-umich-edu-6857	34	3	2008	DATE
+quod-lib-umich-edu-6857	35	1	Somerville	ORG
+quod-lib-umich-edu-6857	35	2	Collins	PERSON
+quod-lib-umich-edu-6857	35	3	UX	ORG
+quod-lib-umich-edu-6857	36	1	Brown-Sica	ORG
+quod-lib-umich-edu-6857	36	2	Sobel	GPE
+quod-lib-umich-edu-6857	36	3	2010	DATE
+quod-lib-umich-edu-6857	36	4	Somerville & Brown-Sica	ORG
+quod-lib-umich-edu-6857	36	5	2011	DATE
+quod-lib-umich-edu-6857	37	1	UX	ORG
+quod-lib-umich-edu-6857	39	1	one	CARDINAL
+quod-lib-umich-edu-6857	39	2	UX	ORG
+quod-lib-umich-edu-6857	40	1	only 31 percent	PERCENT
+quod-lib-umich-edu-6857	40	2	UX	ORG
+quod-lib-umich-edu-6857	40	3	2016	DATE
+quod-lib-umich-edu-6857	41	1	one	CARDINAL
+quod-lib-umich-edu-6857	41	2	UX	ORG
+quod-lib-umich-edu-6857	41	3	2016	DATE
+quod-lib-umich-edu-6857	42	1	UX	ORG
+quod-lib-umich-edu-6857	43	1	MacDonald	PERSON
+quod-lib-umich-edu-6857	43	2	2017	DATE
+quod-lib-umich-edu-6857	43	3	UX	ORG
+quod-lib-umich-edu-6857	44	1	UX	ORG
+quod-lib-umich-edu-6857	45	1	UX	ORG
+quod-lib-umich-edu-6857	45	2	2016	DATE
+quod-lib-umich-edu-6857	45	3	MacDonald	PERSON
+quod-lib-umich-edu-6857	45	4	2017	DATE
+quod-lib-umich-edu-6857	46	1	Godfrey, 2015	DATE
+quod-lib-umich-edu-6857	46	2	Kavanagh Webb	PERSON
+quod-lib-umich-edu-6857	46	3	Rhodes	PERSON
+quod-lib-umich-edu-6857	46	4	Cook	PERSON
+quod-lib-umich-edu-6857	46	5	Andresen	GPE
+quod-lib-umich-edu-6857	46	6	2016	DATE
+quod-lib-umich-edu-6857	46	7	Nichols	PERSON
+quod-lib-umich-edu-6857	46	8	Bobal	GPE
+quod-lib-umich-edu-6857	46	9	& McEvoy	PERSON
+quod-lib-umich-edu-6857	46	10	2009	DATE
+quod-lib-umich-edu-6857	47	1	Godfrey	PERSON
+quod-lib-umich-edu-6857	47	2	UX	ORG
+quod-lib-umich-edu-6857	48	1	Khoo	PERSON
+quod-lib-umich-edu-6857	48	2	Rozaklis	GPE
+quod-lib-umich-edu-6857	48	3	Hall, & Kusunoki	ORG
+quod-lib-umich-edu-6857	48	4	2016	DATE
+quod-lib-umich-edu-6857	48	5	Kim Wu & Lanclos	PERSON
+quod-lib-umich-edu-6857	48	6	2011	DATE
+quod-lib-umich-edu-6857	50	1	UX	ORG
+quod-lib-umich-edu-6857	51	1	UX	ORG
+quod-lib-umich-edu-6857	51	2	Godfrey, 2015	DATE
+quod-lib-umich-edu-6857	51	3	Kavanagh Webb et al	PERSON
+quod-lib-umich-edu-6857	51	4	2016	DATE
+quod-lib-umich-edu-6857	51	5	Kim Wu & Lanclos	PERSON
+quod-lib-umich-edu-6857	51	6	2011	DATE
+quod-lib-umich-edu-6857	51	7	Nichols	PERSON
+quod-lib-umich-edu-6857	51	8	2009	DATE
+quod-lib-umich-edu-6857	52	1	UX	ORG
+quod-lib-umich-edu-6857	53	1	Godfrey	PERSON
+quod-lib-umich-edu-6857	53	2	UX	ORG
+quod-lib-umich-edu-6857	53	3	2015	DATE
+quod-lib-umich-edu-6857	54	1	Westbury	ORG
+quod-lib-umich-edu-6857	54	2	2016	DATE
+quod-lib-umich-edu-6857	54	3	UX	ORG
+quod-lib-umich-edu-6857	57	1	UX	ORG
+quod-lib-umich-edu-6857	57	2	MacDonald	PERSON
+quod-lib-umich-edu-6857	57	3	UX	ORG
+quod-lib-umich-edu-6857	58	1	UX	ORG
+quod-lib-umich-edu-6857	58	2	UX	ORG
+quod-lib-umich-edu-6857	58	3	2017	DATE
+quod-lib-umich-edu-6857	58	4	209	CARDINAL
+quod-lib-umich-edu-6857	59	1	MacDonald	ORG
+quod-lib-umich-edu-6857	60	1	Gullikson & Meyer	ORG
+quod-lib-umich-edu-6857	60	2	2016	DATE
+quod-lib-umich-edu-6857	60	3	UX	ORG
+quod-lib-umich-edu-6857	61	1	UX	ORG
+quod-lib-umich-edu-6857	61	2	UX	ORG
+quod-lib-umich-edu-6857	61	3	2016	DATE
+quod-lib-umich-edu-6857	61	4	22	CARDINAL
+quod-lib-umich-edu-6857	62	1	Institutional Description & Overview	ORG
+quod-lib-umich-edu-6857	62	2	UXWG	ORG
+quod-lib-umich-edu-6857	62	3	the University of Colorado Boulder	ORG
+quod-lib-umich-edu-6857	62	4	five	CARDINAL
+quod-lib-umich-edu-6857	63	1	Norlin	ORG
+quod-lib-umich-edu-6857	64	1	four	CARDINAL
+quod-lib-umich-edu-6857	64	2	Earth Sciences	NORP
+quod-lib-umich-edu-6857	64	3	Music	GPE
+quod-lib-umich-edu-6857	64	4	Physics	ORG
+quod-lib-umich-edu-6857	65	1	UX—	ORG
+quod-lib-umich-edu-6857	66	1	3–5	CARDINAL
+quod-lib-umich-edu-6857	67	1	UX	ORG
+quod-lib-umich-edu-6857	69	1	University Libraries	ORG
+quod-lib-umich-edu-6857	69	2	UX	ORG
+quod-lib-umich-edu-6857	70	1	2012	DATE
+quod-lib-umich-edu-6857	71	1	MacDonald	PERSON
+quod-lib-umich-edu-6857	71	2	2017	DATE
+quod-lib-umich-edu-6857	73	1	Librarian	ORG
+quod-lib-umich-edu-6857	73	2	UX	ORG
+quod-lib-umich-edu-6857	73	3	the User Experience Working Group	ORG
+quod-lib-umich-edu-6857	73	4	UX	ORG
+quod-lib-umich-edu-6857	73	5	2015	DATE
+quod-lib-umich-edu-6857	73	6	Kavanagh Webb et al	PERSON
+quod-lib-umich-edu-6857	73	7	2016	DATE
+quod-lib-umich-edu-6857	73	8	Nichols	PERSON
+quod-lib-umich-edu-6857	73	9	2009	DATE
+quod-lib-umich-edu-6857	75	1	UX	ORG
+quod-lib-umich-edu-6857	76	1	Two	CARDINAL
+quod-lib-umich-edu-6857	77	1	UX	ORG
+quod-lib-umich-edu-6857	78	1	Godfrey, 2015	DATE
+quod-lib-umich-edu-6857	78	2	Kavanagh Webb et al	PERSON
+quod-lib-umich-edu-6857	78	3	2016	DATE
+quod-lib-umich-edu-6857	78	4	UX	ORG
+quod-lib-umich-edu-6857	80	1	One	CARDINAL
+quod-lib-umich-edu-6857	80	2	UX	ORG
+quod-lib-umich-edu-6857	80	3	MacDonald	PERSON
+quod-lib-umich-edu-6857	80	4	2017	DATE
+quod-lib-umich-edu-6857	80	5	UX	ORG
+quod-lib-umich-edu-6857	80	6	UX	ORG
+quod-lib-umich-edu-6857	80	7	UX	ORG
+quod-lib-umich-edu-6857	82	1	UX	ORG
+quod-lib-umich-edu-6857	82	2	UX	ORG
+quod-lib-umich-edu-6857	84	1	Amanda Etches	PERSON
+quod-lib-umich-edu-6857	84	2	Aaron Schmidt	PERSON
+quod-lib-umich-edu-6857	84	3	Desirable	PERSON
+quod-lib-umich-edu-6857	86	1	UX	ORG
+quod-lib-umich-edu-6857	86	2	UX	ORG
+quod-lib-umich-edu-6857	87	1	UX	ORG
+quod-lib-umich-edu-6857	88	1	Norlin	ORG
+quod-lib-umich-edu-6857	88	2	UX	ORG
+quod-lib-umich-edu-6857	88	3	two years	DATE
+quod-lib-umich-edu-6857	88	4	UX	ORG
+quod-lib-umich-edu-6857	90	1	two	CARDINAL
+quod-lib-umich-edu-6857	90	2	UX	ORG
+quod-lib-umich-edu-6857	91	1	UX	ORG
+quod-lib-umich-edu-6857	92	1	UX	ORG
+quod-lib-umich-edu-6857	93	1	Build	ORG
+quod-lib-umich-edu-6857	93	2	Understanding of Users	ORG
+quod-lib-umich-edu-6857	93	3	UX	ORG
+quod-lib-umich-edu-6857	95	1	1	CARDINAL
+quod-lib-umich-edu-6857	96	1	UX	ORG
+quod-lib-umich-edu-6857	97	1	UX	ORG
+quod-lib-umich-edu-6857	98	1	UX	ORG
+quod-lib-umich-edu-6857	98	2	UX	ORG
+quod-lib-umich-edu-6857	99	1	1	CARDINAL
+quod-lib-umich-edu-6857	100	1	Approach Advantages	PERSON
+quod-lib-umich-edu-6857	100	2	Limitations Easel	PERSON
+quod-lib-umich-edu-6857	100	3	Brief	PERSON
+quod-lib-umich-edu-6857	100	4	Quick	ORG
+quod-lib-umich-edu-6857	100	5	second	ORDINAL
+quod-lib-umich-edu-6857	100	6	Feedback	ORG
+quod-lib-umich-edu-6857	100	7	Comment Box Informal	ORG
+quod-lib-umich-edu-6857	100	8	Maintains	ORG
+quod-lib-umich-edu-6857	100	9	first	ORDINAL
+quod-lib-umich-edu-6857	100	10	second	ORDINAL
+quod-lib-umich-edu-6857	100	11	Feedback	ORG
+quod-lib-umich-edu-6857	100	12	Little	ORG
+quod-lib-umich-edu-6857	100	13	Reply Cards	ORG
+quod-lib-umich-edu-6857	100	14	Provides	NORP
+quod-lib-umich-edu-6857	100	15	Time	ORG
+quod-lib-umich-edu-6857	100	16	Intensive	PRODUCT
+quod-lib-umich-edu-6857	100	17	Time	ORG
+quod-lib-umich-edu-6857	101	1	daily	DATE
+quod-lib-umich-edu-6857	103	1	Norlin Library	PERSON
+quod-lib-umich-edu-6857	103	2	two	CARDINAL
+quod-lib-umich-edu-6857	112	1	the Engineering, Mathematics	ORG
+quod-lib-umich-edu-6857	112	2	Physics Library	PERSON
+quod-lib-umich-edu-6857	114	1	two	CARDINAL
+quod-lib-umich-edu-6857	116	1	three weeks	DATE
+quod-lib-umich-edu-6857	118	1	two	CARDINAL
+quod-lib-umich-edu-6857	118	2	UX	ORG
+quod-lib-umich-edu-6857	119	1	two	CARDINAL
+quod-lib-umich-edu-6857	121	1	UX	ORG
+quod-lib-umich-edu-6857	123	1	Quick	ORG
+quod-lib-umich-edu-6857	124	1	the Engineering, Mathematics	ORG
+quod-lib-umich-edu-6857	124	2	Physics Library	PERSON
+quod-lib-umich-edu-6857	124	3	a dozen	CARDINAL
+quod-lib-umich-edu-6857	125	1	Physics	ORG
+quod-lib-umich-edu-6857	126	1	Norlin	PERSON
+quod-lib-umich-edu-6857	127	1	UX	ORG
+quod-lib-umich-edu-6857	131	1	1	CARDINAL
+quod-lib-umich-edu-6857	133	1	the Engineering, Mathematics & Physics Library	ORG
+quod-lib-umich-edu-6857	134	1	a mid-semester week	DATE
+quod-lib-umich-edu-6857	134	2	the end of each day	DATE
+quod-lib-umich-edu-6857	134	3	the morning	TIME
+quod-lib-umich-edu-6857	135	1	Norlin	ORG
+quod-lib-umich-edu-6857	135	2	four	CARDINAL
+quod-lib-umich-edu-6857	137	1	two days	DATE
+quod-lib-umich-edu-6857	137	2	Norlin	GPE
+quod-lib-umich-edu-6857	137	3	two-hour	TIME
+quod-lib-umich-edu-6857	137	4	both days	DATE
+quod-lib-umich-edu-6857	140	1	today	DATE
+quod-lib-umich-edu-6857	142	1	today	DATE
+quod-lib-umich-edu-6857	145	1	1	CARDINAL
+quod-lib-umich-edu-6857	151	1	Norlin	ORG
+quod-lib-umich-edu-6857	152	1	Norlin	ORG
+quod-lib-umich-edu-6857	154	1	Asher & Miller	ORG
+quod-lib-umich-edu-6857	154	2	2011	DATE
+quod-lib-umich-edu-6857	154	3	Marquez	ORG
+quod-lib-umich-edu-6857	154	4	Downey, & Clement	ORG
+quod-lib-umich-edu-6857	154	5	2015	DATE
+quod-lib-umich-edu-6857	154	6	Somerville & Brown-Sica	ORG
+quod-lib-umich-edu-6857	154	7	2011	DATE
+quod-lib-umich-edu-6857	155	1	fewer than five	CARDINAL
+quod-lib-umich-edu-6857	158	1	users’	CARDINAL
+quod-lib-umich-edu-6857	159	1	the Engineering, Mathematics & Physics Library	ORG
+quod-lib-umich-edu-6857	171	1	UX	ORG
+quod-lib-umich-edu-6857	183	1	the Earth Sciences & Map Library	ORG
+quod-lib-umich-edu-6857	186	1	One	CARDINAL
+quod-lib-umich-edu-6857	190	1	2016	DATE
+quod-lib-umich-edu-6857	190	2	UX	ORG
+quod-lib-umich-edu-6857	191	1	Gullikson	ORG
+quod-lib-umich-edu-6857	191	2	Meyer	ORG
+quod-lib-umich-edu-6857	191	3	2016	DATE
+quod-lib-umich-edu-6857	195	1	Norlin	GPE
+quod-lib-umich-edu-6857	196	1	UXWG	ORG
+quod-lib-umich-edu-6857	196	2	LibQual	ORG
+quod-lib-umich-edu-6857	198	1	Building Buy-in	PERSON
+quod-lib-umich-edu-6857	199	1	UX	ORG
+quod-lib-umich-edu-6857	203	1	Norlin	ORG
+quod-lib-umich-edu-6857	206	1	First	ORDINAL
+quod-lib-umich-edu-6857	209	1	UX	ORG
+quod-lib-umich-edu-6857	210	1	three	CARDINAL
+quod-lib-umich-edu-6857	210	2	UX	ORG
+quod-lib-umich-edu-6857	211	1	Table 2	PRODUCT
+quod-lib-umich-edu-6857	212	1	UXWG	ORG
+quod-lib-umich-edu-6857	213	1	hours	TIME
+quod-lib-umich-edu-6857	217	1	UX	ORG
+quod-lib-umich-edu-6857	218	1	2	CARDINAL
+quod-lib-umich-edu-6857	222	1	first	ORDINAL
+quod-lib-umich-edu-6857	228	1	first	ORDINAL
+quod-lib-umich-edu-6857	237	1	first	ORDINAL
+quod-lib-umich-edu-6857	238	1	hours	TIME
+quod-lib-umich-edu-6857	243	1	one	CARDINAL
+quod-lib-umich-edu-6857	244	1	catch’	GPE
+quod-lib-umich-edu-6857	245	1	UX	ORG
+quod-lib-umich-edu-6857	245	2	UX	ORG
+quod-lib-umich-edu-6857	247	1	First	ORDINAL
+quod-lib-umich-edu-6857	249	1	UXWG	ORG
+quod-lib-umich-edu-6857	250	1	UXWG	ORG
+quod-lib-umich-edu-6857	253	1	one	CARDINAL
+quod-lib-umich-edu-6857	254	1	UX	ORG
+quod-lib-umich-edu-6857	254	2	UX	ORG
+quod-lib-umich-edu-6857	255	1	UXWG	ORG
+quod-lib-umich-edu-6857	258	1	Physics	ORG
+quod-lib-umich-edu-6857	259	1	one	CARDINAL
+quod-lib-umich-edu-6857	266	1	UX	ORG
+quod-lib-umich-edu-6857	275	1	UX	ORG
+quod-lib-umich-edu-6857	276	1	UX	ORG
+quod-lib-umich-edu-6857	278	1	UX	ORG
+quod-lib-umich-edu-6857	279	1	Gullikson	ORG
+quod-lib-umich-edu-6857	279	2	Meyer	ORG
+quod-lib-umich-edu-6857	279	3	UX	ORG
+quod-lib-umich-edu-6857	279	4	2016	DATE
+quod-lib-umich-edu-6857	279	5	the end of a fiscal year or	DATE
+quod-lib-umich-edu-6857	280	1	UX	ORG
+quod-lib-umich-edu-6857	282	1	One	CARDINAL
+quod-lib-umich-edu-6857	286	1	One	CARDINAL
+quod-lib-umich-edu-6857	295	1	UX	ORG
+quod-lib-umich-edu-6857	296	1	UX	ORG
+quod-lib-umich-edu-6857	296	2	Gullikson & Meyer	ORG
+quod-lib-umich-edu-6857	296	3	2016	DATE
+quod-lib-umich-edu-6857	297	1	UX	ORG
+quod-lib-umich-edu-6857	299	1	one	CARDINAL
+quod-lib-umich-edu-6857	302	1	Users	ORG
+quod-lib-umich-edu-6857	306	1	hours	TIME
+quod-lib-umich-edu-6857	306	2	the last few weeks	DATE
+quod-lib-umich-edu-6857	308	1	UX	ORG
+quod-lib-umich-edu-6857	309	1	UX	ORG
+quod-lib-umich-edu-6857	310	1	UX	ORG
+quod-lib-umich-edu-6857	311	1	The past few years	DATE
+quod-lib-umich-edu-6857	313	1	a Web Governance Group	ORG
+quod-lib-umich-edu-6857	314	1	five	CARDINAL
+quod-lib-umich-edu-6857	315	1	UXWG	ORG
+quod-lib-umich-edu-6857	316	1	only one	CARDINAL
+quod-lib-umich-edu-6857	316	2	one	CARDINAL
+quod-lib-umich-edu-6857	317	1	UX	ORG
+quod-lib-umich-edu-6857	318	1	UX	ORG
+quod-lib-umich-edu-6857	318	2	UX	ORG
+quod-lib-umich-edu-6857	319	1	References Asher	PERSON
+quod-lib-umich-edu-6857	319	2	& Miller	ORG
+quod-lib-umich-edu-6857	319	3	S.	PERSON
+quod-lib-umich-edu-6857	319	4	2011	DATE
+quod-lib-umich-edu-6857	322	1	November 21, 2017	DATE
+quod-lib-umich-edu-6857	322	2	http://www.erialproject.org/publications/toolkit/ Brown-Sica	PERSON
+quod-lib-umich-edu-6857	322	3	M., Sobel	GPE
+quod-lib-umich-edu-6857	322	4	K., & Rogers	ORG
+quod-lib-umich-edu-6857	322	5	E.	PERSON
+quod-lib-umich-edu-6857	322	6	2010	DATE
+quod-lib-umich-edu-6857	324	1	New Library World	ORG
+quod-lib-umich-edu-6857	324	2	111(7/8	DATE
+quod-lib-umich-edu-6857	325	1	Foster	PERSON
+quod-lib-umich-edu-6857	325	2	N. F.	PERSON
+quod-lib-umich-edu-6857	326	1	Ed	PERSON
+quod-lib-umich-edu-6857	327	1	2013	DATE
+quod-lib-umich-edu-6857	328	1	second	ORDINAL
+quod-lib-umich-edu-6857	329	1	Chicago	GPE
+quod-lib-umich-edu-6857	329	2	Association of College and Research Libraries	ORG
+quod-lib-umich-edu-6857	329	3	the American Library Association	ORG
+quod-lib-umich-edu-6857	330	1	Foster	PERSON
+quod-lib-umich-edu-6857	330	2	N. F., & Gibbons	PERSON
+quod-lib-umich-edu-6857	331	1	Eds	PERSON
+quod-lib-umich-edu-6857	332	1	2007	DATE
+quod-lib-umich-edu-6857	333	1	the Undergraduate Research Project	ORG
+quod-lib-umich-edu-6857	333	2	the University of Rochester	ORG
+quod-lib-umich-edu-6857	334	1	Chicago	GPE
+quod-lib-umich-edu-6857	334	2	Association of College and Research Libraries	ORG
+quod-lib-umich-edu-6857	335	1	Godfrey	PERSON
+quod-lib-umich-edu-6857	335	2	K.	PERSON
+quod-lib-umich-edu-6857	335	3	2015	DATE
+quod-lib-umich-edu-6857	337	1	1(3	CARDINAL
+quod-lib-umich-edu-6857	338	1	Gullikson, S., & Meyer	ORG
+quod-lib-umich-edu-6857	338	2	K.	GPE
+quod-lib-umich-edu-6857	338	3	2016	DATE
+quod-lib-umich-edu-6857	339	1	UX	ORG
+quod-lib-umich-edu-6857	340	1	1(5	CARDINAL
+quod-lib-umich-edu-6857	341	1	A. J.	PERSON
+quod-lib-umich-edu-6857	342	1	2016	DATE
+quod-lib-umich-edu-6857	343	1	Expert	PERSON
+quod-lib-umich-edu-6857	344	1	Kavanagh Webb	PERSON
+quod-lib-umich-edu-6857	344	2	K., Rhodes	PERSON
+quod-lib-umich-edu-6857	344	3	T.	GPE
+quod-lib-umich-edu-6857	344	4	Cook	PERSON
+quod-lib-umich-edu-6857	344	5	E.	PERSON
+quod-lib-umich-edu-6857	344	6	Andresen	GPE
+quod-lib-umich-edu-6857	344	7	C., & Russell	ORG
+quod-lib-umich-edu-6857	344	8	R.	NORP
+quod-lib-umich-edu-6857	344	9	2016	DATE
+quod-lib-umich-edu-6857	345	1	UX	ORG
+quod-lib-umich-edu-6857	346	1	Journal of Library Administration	ORG
+quod-lib-umich-edu-6857	346	2	56(7	CARDINAL
+quod-lib-umich-edu-6857	347	1	Khoo	PERSON
+quod-lib-umich-edu-6857	347	2	M. J.	PERSON
+quod-lib-umich-edu-6857	347	3	Rozaklis	GPE
+quod-lib-umich-edu-6857	347	4	L.	NORP
+quod-lib-umich-edu-6857	347	5	Hall, C., & Kusunoki	ORG
+quod-lib-umich-edu-6857	347	6	D.	NORP
+quod-lib-umich-edu-6857	347	7	2016	DATE
+quod-lib-umich-edu-6857	349	1	College & Research Libraries	ORG
+quod-lib-umich-edu-6857	349	2	77(1	CARDINAL
+quod-lib-umich-edu-6857	349	3	51–70	CARDINAL
+quod-lib-umich-edu-6857	350	1	Kim Wu	PERSON
+quod-lib-umich-edu-6857	350	2	S., & Lanclos	ORG
+quod-lib-umich-edu-6857	350	3	D.	NORP
+quod-lib-umich-edu-6857	350	4	2011	DATE
+quod-lib-umich-edu-6857	351	1	users’	ORG
+quod-lib-umich-edu-6857	352	1	Reference Services Review	ORG
+quod-lib-umich-edu-6857	352	2	39(3	DATE
+quod-lib-umich-edu-6857	352	3	369–389	CARDINAL
+quod-lib-umich-edu-6857	353	1	https://doi.org/10.1108/00907321111161386 Lanclos	PERSON
+quod-lib-umich-edu-6857	353	2	D.	NORP
+quod-lib-umich-edu-6857	353	3	& Asher	PERSON
+quod-lib-umich-edu-6857	353	4	2016	DATE
+quod-lib-umich-edu-6857	354	1	Ethnographish	NORP
+quod-lib-umich-edu-6857	355	1	1(5	CARDINAL
+quod-lib-umich-edu-6857	356	1	https://doi.org/http://dx.doi.org/10.3998/weave.12535642.0001.503 MacDonald	PERSON
+quod-lib-umich-edu-6857	356	2	C. M. (	PERSON
+quod-lib-umich-edu-6857	356	3	2017	DATE
+quod-lib-umich-edu-6857	357	1	UX	ORG
+quod-lib-umich-edu-6857	357	2	UX	ORG
+quod-lib-umich-edu-6857	358	1	Journal of Library Administration	ORG
+quod-lib-umich-edu-6857	358	2	57(2	CARDINAL
+quod-lib-umich-edu-6857	358	3	1–21	DATE
+quod-lib-umich-edu-6857	359	1	https://doi.org/10.1080/01930826.2016.1232942 Marquez	PERSON
+quod-lib-umich-edu-6857	359	2	J. J.	PERSON
+quod-lib-umich-edu-6857	359	3	Downey	ORG
+quod-lib-umich-edu-6857	359	4	A., & Clement	ORG
+quod-lib-umich-edu-6857	359	5	R.	NORP
+quod-lib-umich-edu-6857	359	6	2015	DATE
+quod-lib-umich-edu-6857	361	1	Quarterly	DATE
+quod-lib-umich-edu-6857	361	2	20(3–4	DATE
+quod-lib-umich-edu-6857	361	3	135–150	CARDINAL
+quod-lib-umich-edu-6857	362	1	https://doi.org/10.1080/10875301.2015.1107000 Nichols	PERSON
+quod-lib-umich-edu-6857	362	2	J., Bobal	GPE
+quod-lib-umich-edu-6857	362	3	A.,	ORG
+quod-lib-umich-edu-6857	362	4	& McEvoy	PERSON
+quod-lib-umich-edu-6857	362	5	S.	PERSON
+quod-lib-umich-edu-6857	362	6	2009	DATE
+quod-lib-umich-edu-6857	364	1	The Electronic Journal of Academic and Special Librarianship	ORG
+quod-lib-umich-edu-6857	364	2	10(2	DATE
+quod-lib-umich-edu-6857	365	1	http://ir.library.oregonstate.edu/jspui/handle/1957/12686 Somerville	PERSON
+quod-lib-umich-edu-6857	365	2	M. M.	PERSON
+quod-lib-umich-edu-6857	365	3	& Brown-Sica	ORG
+quod-lib-umich-edu-6857	365	4	M. (	GPE
+quod-lib-umich-edu-6857	365	5	2011	DATE
+quod-lib-umich-edu-6857	367	1	The Electronic Library	ORG
+quod-lib-umich-edu-6857	367	2	29(5	CARDINAL
+quod-lib-umich-edu-6857	368	1	https://doi.org/10.1108/02640471111177099 Somerville	GPE
+quod-lib-umich-edu-6857	368	2	M. M.	PERSON
+quod-lib-umich-edu-6857	368	3	& Collins	ORG
+quod-lib-umich-edu-6857	368	4	L.	PERSON
+quod-lib-umich-edu-6857	368	5	2008	DATE
+quod-lib-umich-edu-6857	369	1	Collaborative	NORP
+quod-lib-umich-edu-6857	370	1	The Electronic Library	ORG
+quod-lib-umich-edu-6857	370	2	26(6	DATE
+quod-lib-umich-edu-6857	371	1	Westbury	GPE
+quod-lib-umich-edu-6857	371	2	2016	DATE
+quod-lib-umich-edu-6857	372	1	UX	ORG
+quod-lib-umich-edu-6857	373	1	A. Priestner & M. Borg	ORG
+quod-lib-umich-edu-6857	373	2	Eds	PERSON
+quod-lib-umich-edu-6857	374	1	Human-Centred Design	ORG
+quod-lib-umich-edu-6857	375	1	137–144	CARDINAL
+quod-lib-umich-edu-6857	376	1	New York	GPE
+quod-lib-umich-edu-6857	376	2	Routledge	ORG
+quod-lib-umich-edu-6857	377	1	Hosted	ORG
+quod-lib-umich-edu-6857	377	2	Michigan Publishing	ORG
+quod-lib-umich-edu-6857	377	3	the University of Michigan Library	ORG
+quod-lib-umich-edu-6857	378	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-6857	378	2	Twitter Email RSS	ORG

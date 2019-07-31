@@ -1,0 +1,318 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 Lessons Library Websites Can Learn from Buzzfeed
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+5 Lessons Library Websites Can Learn from Buzzfeed
+
+
+
+
+Christina Manzo
+
+Boston Public Library
+
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 3, 2015
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.302
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Since its 2006 launch, Buzzfeed has become an Internet institution by recognizing and capitalizing on the insatiable life-cycle of viral media. The idea behind the website is relatively simple: bring together trending content (e.g., news, celebrity gossip, entertainment, quizzes) from around the web and organize it into a format that is short and eye-catching.
+
+The venture capitalist firm Andreessen Horowitz estimates the net worth of Buzzfeed Inc. at around $850 million. And according to analytics website QuantCast, the site saw 146 million visits in May 2015 alone (accounting for both unique online and mobile visits). For contrast, the Library of Congress—the oldest federal cultural institution in the United States—drew in about 1.1 million visits in the same period.
+
+Buzzfeed’s business model relies on shareability, something it has in common with today’s library, which is why library website designers have the opportunity to learn from Buzzfeed’s overwhelming success. Here are the top lessons library website designers can learn from Buzzfeed.
+
+1. Formatting
+
+
+What They Do:
+
+Statistically speaking, if you clicked on this article you are perhaps subconsciously aware of one of Buzzfeed’s most usable features: its formatting. For example, the title for this article is exactly eight words long. This is not accidental. Studies report that eight-word headlines have a CTR (or click-through rate) that is 21% higher than those that do not. Additionally, the use of an odd-number in the headline is also statistically favorable, as it increases CTR by 20%.
+
+Once their statistically favorable headline is written, Buzzfeed employs the Bite-Snack-Meal method of information gathering to make sure that the user is not overwhelmed by content on their homepage (see fig. 1). Buzzfeed provides a headline (the bite), a thumbnail (which increases CTR by 27 percent) and a short, colloquial description of the article (the snack), which is what a reader needs to make a decision about whether or not to read the article (the meal).
+
+
+Figure 1. An example of Bite-Snack-Meal.
+
+
+
+
+
+
+How Libraries Can Use It:
+
+A library events calendar is the ideal litmus test for this method. There is a large amount of information that needs to be conveyed in a very small amount of space; however, many times patrons experience information overload. Ideally, patrons will be able to skim through a large quantity of events to see what is interesting or applicable to them. A good example of a library that does this well is the Salt Lake City Public Library (see fig. 2).
+
+
+Figure 2. This listing includes the “bites” of the (short) title, time, date, and place and the “snack” of the short event description.
+
+
+
+
+
+2. Personas
+
+
+What They Do: 
+
+Buzzfeed has something for everyone because their articles are based on different personas. In web design, a persona is “an individual with... specific demographics and other characteristics... Each persona is a composite of characteristics of real people in the group the persona represents.” (Redish, 2012).
+
+
+Figure 3. Examples of how the same website can appeal to opposite persona groups.
+
+
+
+Buzzfeed creates a large amount of persona-driven content, which is often contradictory (as seen above); however, it gives the reader a more personalized experience with the website. Even if the reader doesn’t agree with every item on the list, the personas are often general enough to ensure at least some measure of success.
+
+
+
+
+How Libraries Can Use It:
+
+Apart from their general utility in library web design, personas are ideal for reader’s advisory, because it groups patrons based on the books, genres, and authors they already like. Traditionally, this task has fallen to a single librarian during a reference interview, but what is unique about Buzzfeed’s method is that it allows for self-categorization (i.e. if I identify as a nerd, I am likely to read an article titled “27 Books Nerds Will Love”).
+
+Using personas for reader’s advisory is something that Buzzfeed itself is already doing. For example, between mid-May and June of 2015, Buzzfeed has published the following reader’s advisory-themed “listicles”: 23 Books All Soccer Fans Should Read, 47 Books Every College Grad Should Read, 9 Avengers Comics to Read Based on Your Favorite Characters, 16 Perfect Books to Fill The Void Left By Mad Men, 29 Books You Should Definitely Bring to the Beach This Summer and 26 Books to Inspire Your Next Epic Summer Road Trip.
+
+
+
+3. User Engagement
+
+
+What They Do:
+
+Buzzfeed allows users to catalog their collection using folksonomic or "freely chosen keywords" by voting on their reaction to a story or list. Although these keywords (see fig. 4) would be judged by any professional cataloger as “junk tags,” they help involve the reader in the information gathering process and allow users to find the content they want quickly and easily. 
+
+
+Figure 4. These categories are colloquial enough to attract attention while maintaining some measure of effectiveness.
+
+
+
+Additionally, Buzzfeed encourages users to vote on content that they later turn into articles. For example, today’s poll on what books to read at the beach becomes tomorrow’s list of the 23 best summer beach reads. This ensures that the key demographic sees relevant content that they might have had a hand in creating.
+
+
+
+
+How Libraries Can Use It:
+
+Folksonomies are surprisingly accurate. In a 2015 study, Manzo et al. found that surveyed participants—both librarian and layman—were able to match professionally created metadata (either exactly or extremely closely) about 88 percent of the time. However, allowing for complete user control is not a realistic goal for many libraries. Instead, folksonomies should be used to supplement the professionally-created metadata that already exists. A great example of this juxtaposition occurs in the Bibliocommons catalog interface, which allows user-created lists and professional taxonomies to coexist in one easily-searchable interface.
+
+The next step for libraries that employ this type of mixed taxonomic model is to find new and innovative ways to turn this information into content, exhibits, and other engaging media. Where Buzzfeed simply turns this user-created data into content, libraries have the potential to explore new and creative ways for users to interact with that data. Great examples of this include the Chinese American Museum’s Origins Exhibit and the App Library at the Digital Public Library of America.
+
+
+
+4. Timeliness
+
+
+What They Do:
+
+Another simple design choice that keeps Buzzfeed relevant is their chronological layout. Their home page is specifically designed to show users what is “buzzing” at that particular moment. This keeps content relevant and allows for more traffic, as the website visitors see at 9 a.m. will be different than the website at noon.
+
+
+Figure 5. Not only does Buzzfeed’s front page rely on chronology, but it also has an entire sub-page devoted to what’s hot now.
+
+
+
+
+
+
+How Libraries Can Use It:
+
+Timeliness can be a tricky subject with library websites. Much of the information on a library home page must remain static for good reason (e.g., the library location, hours), but by keeping the whole website static, we are missing the chance to engage in a discussion with our patrons about the issues they care about.
+
+The good news is that many library catalogs are already using this feature by highlighting the books, movies, and other media in their collection that have been recently borrowed or reviewed. The better news is that libraries have the opportunity to expand their use of this strategy to include other online content.
+
+Reference librarians are often some of the first people asked when patrons are researching a new issue or subject. Many libraries already keep track of the number and types of questions asked, but many libraries only evaluate said data every fiscal year or so. If libraries allow for real-time data analysis, librarians on the front lines can get a clearer picture of the issues that the public cares about in the moment, better equipping them to answer the public’s questions and to promote timely web content to preempt some of those questions.
+
+
+
+5. Shareability
+
+
+What They Do:
+
+Seventy-five percent of all of Buzzfeed’s traffic comes from people sharing their content on social media platforms like Facebook and Twitter. Part of this is easy to account for: they make it easy by incorporating direct social media plug-ins on every page, making sharing a one-step process. The more complex answer is that they have the content people inherently want to share. This concept ties in to all four of the previous points. Their content is shareable because it is usable, interactive, personalized, and timely. All four of these concepts are the proverbial table legs that keep Buzzfeed shareable. Without the virality of the brand, the whole operation would crumble.
+
+
+Figure 6. Buzzfeed accounts for any and all sharing options in one, visually readable bar.
+
+
+
+
+
+
+How Libraries Can Use It:
+
+Shareability is another concept that can be difficult in terms of library content due to the fact that most of the library’s online life revolves around its physical one. Because of this viewpoint, many opportunities for online engagement tend to fall by the wayside. There are two different solutions that can help a library engage more as an online entity: one traditional and one slightly more contemporary. The traditional method is to incentivize patrons to interact with the library digitally (i.e. have them check in on Facebook for an event).
+
+The more contemporary solution is to have users interact solely with the library as a digital entity. Great examples of this have been library hackathons, where the public comes together over the course of a few days to design and build something like an app or fix a coding problem. If you are interested in learning more about hackathons, please refer to the DPLA how-to guide.
+
+
+
+TL;DR
+
+Buzzfeed’s business model relies on people wanting to share the site’s content. Libraries also rely on that model to promote the use of the media in their collections, yet many times that concept is only applied to the library in a physical sense. In order to make the library shareable on a digital level, the content must first be usable, interactive, personalized, and timely. Currently, library content often falls under the colloquial categorization of “TL;DR” (or “too long, didn’t read,” common Internet shorthand for something boring). To change this, we need to rethink our online strategy from simply being an extension of the physical building to a separate, yet related entity that allows patrons to interact with the library in innovative ways. By acknowledging that there is something to be learned from the Buzzfeed business model, libraries have the ability to tap in to what makes media “viral” and use it to their advantage.
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

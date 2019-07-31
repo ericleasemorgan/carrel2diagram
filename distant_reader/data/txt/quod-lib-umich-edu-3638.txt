@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Dialog Box Interview with Courtney Greene McDonald
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+The Dialog Box Interview with Courtney Greene McDonald
+
+
+
+Amy Barlow
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 1, 2014
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.105
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Putting the User First by Courtney Greene McDonald is an accessible, action-focused handbook full of ideas for improving user experience right away and in any library. It will be published by ACRL in late August 2014 as part of its new Strategies series.  
+
+
+McDonald, head of Discovery and Research Services at Indiana University Bloomington, is also co-author of The Anywhere Library: A Primer for the Mobile Web. McDonald’s scholarly writing currently focuses on discovery tools and mobile services in academic libraries. Her most significant recent projects include overseeing the migration of the IUB Libraries’ 8000+ page site from a legacy, homegrown content management system to Drupal, and the implementation of an open source discovery layer (Blacklight) as the public interface for IUCAT, the Indiana University Libraries’ shared statewide online catalog. She is also the chair of the editorial board that publishes WeaveUX.
+
+
+Check out a WeaveUX exclusive outtake from Putting the User First, Dare.
+
+
+Amy Barlow, humanities liaison at Wheaton College (MA)  interviewed McDonald about her new book over email in July of 2014. Their exchange is included below and in-full.
+
+
+
+
+
+In Putting the User First, you highlight the importance of the elevator speech. If you had a few moments in an elevator with the readers of Weave UX, how would you describe your book? 
+
+As readers of Weave UX probably already know, working in libraries is user experience work, period—all of our work comes together to become how people experience the library. This book is intended to give a reader at any level of familiarity with UX something tangible to think about or apply right away—a new perspective, a tool or technique, an article to follow up on—to positively impact the user experience at his or her library. As a secondary goal, I hope it finds use as a sort of action-oriented primer on UX thinking for a broad library audience. 
+
+Tell us a little bit about your mantra: You are not your user. What practical advice can you offer to professionals who wish to understand the behavior of their users? For librarians that have achieved this understanding, what can they do to make the case to colleagues in their organizations? 
+
+We have first to believe that our users’ experience with our systems should not have to be informed, nor should it need to be informed by our intervention. Once you’ve jumped that sticky wicket, it’s really quite easy and fun.
+
+Spend as much time as possible with people who might possibly be your users, and with people who have a quite different view of things than you do. The first group will provide you with data, insights or questions to explore. The second will remind you that there are lots and lots of people who, upon the completion of a shared experience, will draw vastly different conclusions about it than you did; the surprise you will feel when this happens underscores our basic tendency to slump back into our own points of view.
+
+Returning to the idea of understanding user behavior, I like a nice mix of formal and informal observation—user studies, contextual inquiry, surveys, focus groups, a chat with the student employees at the desk, noting questions and complaints submitted through any venue, reviewing search logs, reading case studies, and even eavesdropping in the coffee line. As there is no replacement for first-hand observation of someone else’s experiences, carry your colleagues along to the degree possible: share the comments, invite them to observe or participate in user testing, forward around articles and studies you find insightful and relevant, create meaningful graphs and charts out of that log data that help tell the story, ask lots of questions. 
+
+I like that you use a variety of data-gathering techniques. What happens when you discover that your user groups have very different experiences? For example, a community college library serves multiple, dissimilar groups: its academic population, non-credit students, charter high school, general public, local businesses, etc. Who is the user and how do we prioritize experiences?
+
+This is a great question, and one that I address in the book, so I’ll try and keep it brief here. There are things you can do to tease out the various groups that together make up your constituency (always knowing that membership overlaps), and once you have a sense of that, you can better work through the impact of decisions or changes on those groups. As you note, this has to be combined with identifying which you are going to view as your primary user group—not easy, but much easier and ultimately more productive than the alternative (primary user group: everybody!). 
+
+I’m also a firm believer in identifying a few really basic tasks or needs that resonate across your entire population and making those as straightforward, easy and pleasant as possible. Examples of a couple of things that might fall into that category: What are the library’s hours today? or, I want to renew my book. 
+
+What initiated the writing of Putting the User First? 
+
+A couple of years ago, I got a note from Kathryn Deiss mentioning that ACRL was starting a new book series to be called the Strategies series. The idea was that each book would center on a topic or discipline, and each page would have a concrete, pragmatic strategy that could be applied right away.
+
+The format sounded ideal to me, so then it was a matter of thinking what content I might be able to offer. Putting the User First is my attempt to present user experience thinking as something that’s accessible to library staff across the board, at all levels of the organization and at all levels of familiarity with UX practice. Because it’s published by ACRL, and my experience is in academic libraries, the examples do tend in that vein, but I’m hopeful that there might be value in it for others as well.
+
+Like who?
+
+Librarians in other contexts than academic—public, special, school—would be the immediate other potential audience that had come to mind. Who knows, perhaps some of our more frequent collaborators throughout higher ed (instructional designers or student affairs professionals, for example) might find something useful in it?  
+
+It seems to me that you put the reader first when developing the structure, tone, and contents of your book. How did UX influence your process as a writer? 
+
+Thanks! That is a wonderful compliment. To be honest, I had an abstract, a title, and a terrible case of writer’s block for six months until I hit on the structure I ultimately used. 
+
+User experiences are individualized, personal, specific and authentic. This book came from a very personal place—it’s a sort of bildungsroman-slash-workbook of my UX journey thus far. I found that I could only begin from my experience, thinking directly of the experience of the reader, building out the concepts and ideas as if I was discussing with a friend or colleague. Occasionally, I think I was writing pep talks for future me, thinking to myself, What kind of book do I wish I’d have handy for when I can grab a few minutes to pull away from the immediate action to refocus and recharge my enthusiasm for putting the user first? (Given that, I now wonder if it is fair to say that in this one case I might actually be my user?!)
+
+Given the breadth of your research and expertise, what concerns do you have about the future of UX in libraries? What have you learned that gives you hope?
+
+In my opinion, the conversation around user experience is the latest means for libraries to discuss and interpret our foundational, shared values around service; I think this is overwhelmingly positive. 
+
+It’s an opportunity to ask ourselves a crucial question: What is at the root of what we are doing—is it about us or the user? Our organizational structures, our budgets, our comfort zones, our peer institutions, our preferred methods—these are, perhaps more often than we’d like, our motivators for action but all of those things emanate from a self-orientation, from fear or uncertainty about our own environment, our own perceptions of ourselves or how we are perceived by others. These aren’t worthy drivers if we truly want to orient ourselves to prioritize the user experience. 
+
+I think that there are a lot of opportunities to move to extremes, none of which would be helpful to libraries. Let’s consider vended systems—to some degree you outsource a good deal of the user experience decision-making to the company that has built the system. Do we consistently hold our vendors accountable for what and how much they invest into UX research, and to demonstrating how that’s impacting the product over time?  There is also the added complication that we inevitably layer many separate vended system interfaces across each other. What does that do to our ability to offer a holistic end-to-end experience for the user? (To be fair, I should ask how internal politics or institutional branding interfere with our ability to offer a holistic experience as well. It’s not just the vended systems that complicate things.) 
+
+Let’s say, then, that a library opts to reject all external interfaces or systems, and tries to roll their own every time. Certainly this can be done to varying degrees, but I’m not confident that every library has the technological expertise—or the budget to hire that expertise—that’s needed to stay on top of this as an extreme position, because golly it’s a lot of moving pieces to manage! Most concerning to me, though, would be the temptation for libraries to turn away from the conventions of the free web, where most non-librarian “civilians” spend their lives. The free web is the space that forms the baseline expectations of our user populations. Let’s be honest, we in libraries sometimes have a tendency to build for the way we believe users should behave, rather than the way they do.
+
+Changing how you do something should not endanger why you are doing it. UX isn’t a spectator sport, it’s a practice of being open to observing patterns and behaviors, and changing how we operate to prioritize the needs of our constituencies. If we can be open to possibility, and willing to consciously proceed in this way, then we have some place to go, and I believe that we can and will.
+
+
+
+
+Dare
+
+
+A WeaveUX exclusive outtake from Putting the User First.
+
+
+"Make no little plans. They have no power to stir men’s blood."
+
+Daniel Burnham, as quoted in Devil in the White City
+
+
+
+
+Recently I was sitting on an airplane without anything to read. (For a librarian, I’m notoriously bad at forgetting my reading.) I wasn’t too upset: it was a short flight, and—true confession—I love airline magazines.
+
+On this particular day, in this particular Southwest plane, there was this particular article titled “Chasing Beautiful Questions,” by Warren Berger. It begins with a story about Van Phillips, the man who engineered the Flex-Foot prosthetic limb after he himself lost a leg in a boating accident.
+
+
+... he asked a question that would change the world of prosthetics: If they can put a man on the moon, why can’t they make a better foot?
+
+It was a good question. But it did not become a beautiful question—one that leads to invention and profound change—until Phillips changed a pronoun. Gradually, he found himself taking ownership of the question. Instead of asking, Why can’t they make a better foot?, he asked, Why can’t I? (Berger 2014, 70)
+
+
+
+Berger identifies a cycle of three questions asked by innovators he calls “master questioners”: Why (curiosity), What If (speculation), and How (action-oriented). He opines that it is in the How phase beautiful questions appear, leading to answers that change lives in ways large and small: mobile phones, microwave ovens, windshield wipers, bar codes, Polaroid cameras, Gatorade—or a prosthetic limb.
+
+User experience work is all about questions: those our patrons answer using our resources (we hope), those asked of us by patrons, or the questions we ourselves ask about our patrons or our services. I oversee a couple of web applications and work at the reference desk, so I field plenty of questions: How can I renew? Why doesn’t this (or does this) do ...? A portion of the questions really boil down to this: Why did you do this to us? Given a diverse enough user base, one person’s enhancement is not unlikely to become another’s complaint.
+
+With so many variables to consider, it’s hard to be certain you are asking the right question, much less a beautiful one, which can lead even the most earnest user experience professional toward a cynicism spiral. Henry Ford supposedly said: “If I had asked people what they wanted, they would have said faster horses.”[1] Snappy quotation, certainly, and who hasn’t (in a brief fit of self pity) fancied herself a misunderstood innovator ahead of her time? Patience, grasshopper: great user experiences do not emerge from regularly making assumptions about what people need and want. Instead, that tendency can easily re-route you from would-be visionary into the express lane to “horse’s patootie.”
+
+Sometimes questions inspire me, and some days they just make me want to engineer a conveniently timed power outage, take the grid down and switch to my Plan B.[2] A pretty attractive answer can occur at any level (substitute any words that add up to “yes” or “I fixed it” or “better today than yesterday”). A beautiful question generally winds up being big, messy, and fraught with contradictions. 
+
+I’m not much of a philosopher, so let me lay it out for you straight: these beautiful questions are really just a dare. Many of us probably associate dares with our younger selves and “feats of prowess” – jumping off a swing at the highest point, ill-advised pool dives of all sorts, grabbing that really gross bug. We can have grown-up dares, though ... even library dares. (Let’s face it, some days just fixing that one link totally qualifies as a feat of prowess.)
+
+Beautiful questions are about daring to question what is, to believe that things could be different, and then to dream a big dream that difference will be better. This sounds suspiciously like user experience work to me. The last and most difficult step is, as Berger noted, taking ownership of the question and believing that, however unlikely, however long and drawn out the process, however difficult, that you yourself (yes, you) can make a change. Noble, yes, but be advised: it can take a long time, often results in being misunderstood, and requires a lot of work few other people will notice. Inspirational, aren’t I?
+
+You might need to start small: We will go from two request buttons to just one. We will stop asking people to provide contact information we already have. Once you can believe six impossible things before breakfast—an excellent skill if you plan to continue your work in library user experience—why sweat to scry a soapbox racer when you can picture the grand prix winner? Our users will find and use our stuff no matter where they are or where they begin looking. Easy, sustainable, scalable data management for everybody.
+
+How do you go about sharing a beautiful question with a lot of other people? Can a library ask a beautiful question?
+
+I dare us to make it easier—even fun—to interact with the library. I dare us to find a better way. I dare us to ask, to listen, and to answer in search of a better user experience.
+
+
+
+
+Contemplate – Questions to ask yourself
+
+Bernadette Jiwa outlines a “difference map” intended to help companies and individuals identify their unique niche, articulate it in terms of the users’ needs, and then position themselves accordingly. This reminded me of Drucker’s Five Questions. 
+
+	Drucker	Jiwa
+	What is our mission?	
+Principles [Trust about me/us; Truth about the market/industry; Truth about the people I/we want to serve]
+&
+Purpose [Why do we exist?]
+	Who is our customer?	
+People [Who is this for? What do they care about?]
+	What does the customer value?	
+Personal [How can we change how people feel?]
+&
+Perception [What do they believe?]
+	What are our results?	
+Product [What do people really want or need? How do we create value for our customers?]
+	What is our plan?	
+Personal [How can we help them live better lives?]
+&
+Perception [What would we like them to believe about us?]
+
+
+Try really engaging with Drucker’s and Jiwa's questions and see if they don’t challenge your thinking and your practices, as they did mine.
+
+
+
+
+References
+
+	Berger, Warren. 2014a. A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas. New York, NY: Bloomsbury USA.
+	———. 2014b. “Chasing Beautiful Questions.” Spirit Magazine, April.
+	Drucker, Peter F., and Frances Hesselbein Leadership Institute. 2008. The Five Most Important Questions You Will Ever Ask About Your Organization. New York : San Francisco: Jossey-Bass.
+	Jiwa, Bernadette. 2014. Difference: The One-Page Method for Reimagining Your Business and Reinventing Your Marketing. Australia: CreateSpace Independent Publishing Platform.
+	———. 2014. “The Difference Map.” Difference. Accessed May 21. http://difference.is/difference-map/.
+	Larson, Erik. 2003. The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America. New York: Crown Publishers.
+	Vlaskovits, Patrick. 2011. “Henry Ford, Innovation, and That ‘Faster Horse’ Quote.” HBR Blog Network. http://blogs.hbr.org/2011/08/henry-ford-never-said-the-fast/.
+
+
+
+
+
+Notes
+
+1. Vlaskovits, Patrick. 2011. “Henry Ford, Innovation, and That ‘Faster Horse’ Quote.” HBR Blog Network. http://blogs.hbr.org/2011/08/henry-ford-never-said-the-fast/.
+
+2.  Speaking of which, you heard it here first: the post-apocalyptic future is going to revolve around cheese and ruminants, according to Matthew Reidsma, Margaret Heller, and myself.
+
+
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

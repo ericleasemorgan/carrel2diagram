@@ -1,0 +1,631 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-844	1	1	Digital Libraries	ORG
+quod-lib-umich-edu-844	1	2	Labeling Online Special Collections Skip	PERSON
+quod-lib-umich-edu-844	1	3	Skip	PERSON
+quod-lib-umich-edu-844	1	4	Skip	PERSON
+quod-lib-umich-edu-844	1	5	Journal of Library User Experience	ORG
+quod-lib-umich-edu-844	1	6	Library User	PERSON
+quod-lib-umich-edu-844	1	7	Michigan Publishing	ORG
+quod-lib-umich-edu-844	2	1	Quick	ORG
+quod-lib-umich-edu-844	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-844	3	1	2	CARDINAL
+quod-lib-umich-edu-844	3	2	Digital Libraries	ORG
+quod-lib-umich-edu-844	3	3	Labeling Online Special Collections Dylan Burns	PERSON
+quod-lib-umich-edu-844	3	4	Alex Sundt	PERSON
+quod-lib-umich-edu-844	3	5	Darcy Pumphrey	FAC
+quod-lib-umich-edu-844	3	6	Becky Thoms UTAH STATE UNIVERSITY	ORG
+quod-lib-umich-edu-844	3	7	DOI	ORG
+quod-lib-umich-edu-844	3	8	2	CARDINAL
+quod-lib-umich-edu-844	3	9	DOI	ORG
+quod-lib-umich-edu-844	3	10	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-844	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-844	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-844	6	1	Digital	ORG
+quod-lib-umich-edu-844	7	1	first	ORDINAL
+quod-lib-umich-edu-844	9	1	2016	DATE
+quod-lib-umich-edu-844	9	2	Utah State University	ORG
+quod-lib-umich-edu-844	11	1	Weave	ORG
+quod-lib-umich-edu-844	13	1	One	CARDINAL
+quod-lib-umich-edu-844	17	1	Association of Research Libraries	ORG
+quod-lib-umich-edu-844	17	2	1	CARDINAL
+quod-lib-umich-edu-844	22	1	1	CARDINAL
+quod-lib-umich-edu-844	23	1	ARL	ORG
+quod-lib-umich-edu-844	23	2	n=25)	ORG
+quod-lib-umich-edu-844	23	3	Term Number of Occurrences Digital Collections	ORG
+quod-lib-umich-edu-844	23	4	17	CARDINAL
+quod-lib-umich-edu-844	23	5	Digital	ORG
+quod-lib-umich-edu-844	23	6	6	CARDINAL
+quod-lib-umich-edu-844	23	7	Digital Repository 1 Digital Archives	ORG
+quod-lib-umich-edu-844	23	8	1	CARDINAL
+quod-lib-umich-edu-844	23	9	1	CARDINAL
+quod-lib-umich-edu-844	23	10	2	CARDINAL
+quod-lib-umich-edu-844	23	11	1	CARDINAL
+quod-lib-umich-edu-844	25	1	Kahn & Cerf	ORG
+quod-lib-umich-edu-844	25	2	1988	DATE
+quod-lib-umich-edu-844	25	3	3	CARDINAL
+quod-lib-umich-edu-844	26	1	war United States	GPE
+quod-lib-umich-edu-844	27	1	2014	DATE
+quod-lib-umich-edu-844	28	1	Bush	PERSON
+quod-lib-umich-edu-844	28	2	(1945	DATE
+quod-lib-umich-edu-844	28	3	As We May Think	WORK_OF_ART
+quod-lib-umich-edu-844	28	4	Calhoun	PERSON
+quod-lib-umich-edu-844	28	5	2014	DATE
+quod-lib-umich-edu-844	28	6	Fox	PERSON
+quod-lib-umich-edu-844	28	7	Marchionini	PERSON
+quod-lib-umich-edu-844	28	8	1998	DATE
+quod-lib-umich-edu-844	28	9	Harter	ORG
+quod-lib-umich-edu-844	28	10	1997	DATE
+quod-lib-umich-edu-844	28	11	1965	DATE
+quod-lib-umich-edu-844	28	12	Future	ORG
+quod-lib-umich-edu-844	28	13	today	DATE
+quod-lib-umich-edu-844	28	14	2	CARDINAL
+quod-lib-umich-edu-844	28	15	36	CARDINAL
+quod-lib-umich-edu-844	29	1	1993	DATE
+quod-lib-umich-edu-844	29	2	Research	ORG
+quod-lib-umich-edu-844	29	3	Digital	ORG
+quod-lib-umich-edu-844	29	4	the Defense Advanced Research Projects Agency	ORG
+quod-lib-umich-edu-844	29	5	the National Science Foundation	ORG
+quod-lib-umich-edu-844	29	6	the National Aeronautics and Space Administration	ORG
+quod-lib-umich-edu-844	31	1	the National Endowment for the Humanities	ORG
+quod-lib-umich-edu-844	31	2	the Library of Congress	PERSON
+quod-lib-umich-edu-844	31	3	the National Library of Medicine	ORG
+quod-lib-umich-edu-844	32	1	Borgman	NORP
+quod-lib-umich-edu-844	32	2	1999	DATE
+quod-lib-umich-edu-844	32	3	228	CARDINAL
+quod-lib-umich-edu-844	33	1	Pomerantz	GPE
+quod-lib-umich-edu-844	33	2	Choemprayong	GPE
+quod-lib-umich-edu-844	33	3	& Eakin	ORG
+quod-lib-umich-edu-844	33	4	2008	DATE
+quod-lib-umich-edu-844	34	1	Kahn	PERSON
+quod-lib-umich-edu-844	34	2	Wilensky (1995	ORG
+quod-lib-umich-edu-844	34	3	Cleveland	GPE
+quod-lib-umich-edu-844	34	4	1988	DATE
+quod-lib-umich-edu-844	34	5	3	CARDINAL
+quod-lib-umich-edu-844	36	1	Borgman	NORP
+quod-lib-umich-edu-844	36	2	1999	DATE
+quod-lib-umich-edu-844	37	1	230–231	CARDINAL
+quod-lib-umich-edu-844	38	1	Battin	PERSON
+quod-lib-umich-edu-844	38	2	1998	DATE
+quod-lib-umich-edu-844	40	1	1997	DATE
+quod-lib-umich-edu-844	40	2	today	DATE
+quod-lib-umich-edu-844	41	1	Schwartz	PERSON
+quod-lib-umich-edu-844	41	2	2000	DATE
+quod-lib-umich-edu-844	42	1	two	CARDINAL
+quod-lib-umich-edu-844	44	1	Lynch	ORG
+quod-lib-umich-edu-844	44	2	1997	DATE
+quod-lib-umich-edu-844	45	1	the Digital Library Federation	ORG
+quod-lib-umich-edu-844	45	2	Digital	ORG
+quod-lib-umich-edu-844	45	3	Waters	ORG
+quod-lib-umich-edu-844	45	4	1998	DATE
+quod-lib-umich-edu-844	47	1	Lynch	ORG
+quod-lib-umich-edu-844	47	2	2002	DATE
+quod-lib-umich-edu-844	47	3	Digital	ORG
+quod-lib-umich-edu-844	47	4	Fox	ORG
+quod-lib-umich-edu-844	47	5	Akscyn	ORG
+quod-lib-umich-edu-844	47	6	Furuta, & Leggett, 1995	ORG
+quod-lib-umich-edu-844	47	7	24	CARDINAL
+quod-lib-umich-edu-844	48	1	the last half century	DATE
+quod-lib-umich-edu-844	49	1	the years	DATE
+quod-lib-umich-edu-844	51	1	The Usability of Contemporary Digital Libraries	ORG
+quod-lib-umich-edu-844	53	1	1999	DATE
+quod-lib-umich-edu-844	53	2	237	CARDINAL
+quod-lib-umich-edu-844	55	1	Lynch	ORG
+quod-lib-umich-edu-844	55	2	2002	DATE
+quod-lib-umich-edu-844	57	1	Kelly	PERSON
+quod-lib-umich-edu-844	57	2	2014	DATE
+quod-lib-umich-edu-844	58	1	Dickson	ORG
+quod-lib-umich-edu-844	58	2	2008	DATE
+quod-lib-umich-edu-844	58	3	Xie	PERSON
+quod-lib-umich-edu-844	58	4	2007	DATE
+quod-lib-umich-edu-844	58	5	Smith	PERSON
+quod-lib-umich-edu-844	58	6	2006	DATE
+quod-lib-umich-edu-844	58	7	Southwell & Slater	ORG
+quod-lib-umich-edu-844	58	8	2012	DATE
+quod-lib-umich-edu-844	58	9	Xie	PERSON
+quod-lib-umich-edu-844	58	10	Babu	PERSON
+quod-lib-umich-edu-844	58	11	Joo, & Fuller	ORG
+quod-lib-umich-edu-844	58	12	2015	DATE
+quod-lib-umich-edu-844	59	1	users’	CARDINAL
+quod-lib-umich-edu-844	60	1	Thong	PERSON
+quod-lib-umich-edu-844	60	2	Weiyin	PERSON
+quod-lib-umich-edu-844	60	3	Kar Yan	PERSON
+quod-lib-umich-edu-844	60	4	2004	DATE
+quod-lib-umich-edu-844	62	1	Xie	PERSON
+quod-lib-umich-edu-844	62	2	2008	DATE
+quod-lib-umich-edu-844	64	1	Fox et al	PERSON
+quod-lib-umich-edu-844	65	1	1995	DATE
+quod-lib-umich-edu-844	65	2	24	CARDINAL
+quod-lib-umich-edu-844	70	1	Nielsen	GPE
+quod-lib-umich-edu-844	70	2	1997	DATE
+quod-lib-umich-edu-844	70	3	Nielsen Norman Group	ORG
+quod-lib-umich-edu-844	70	4	2014	DATE
+quod-lib-umich-edu-844	71	1	Nielsen	GPE
+quod-lib-umich-edu-844	71	2	2003	DATE
+quod-lib-umich-edu-844	84	1	Kupersmith	ORG
+quod-lib-umich-edu-844	84	2	2012	DATE
+quod-lib-umich-edu-844	87	1	the past three years	DATE
+quod-lib-umich-edu-844	87	2	Utah State University Libraries	ORG
+quod-lib-umich-edu-844	88	1	Special Collections & Archives	ORG
+quod-lib-umich-edu-844	93	1	the spring and summer of 2016	DATE
+quod-lib-umich-edu-844	93	2	Qualtrics	ORG
+quod-lib-umich-edu-844	93	3	two	CARDINAL
+quod-lib-umich-edu-844	94	1	first	ORDINAL
+quod-lib-umich-edu-844	94	2	Hennig	ORG
+quod-lib-umich-edu-844	94	3	2001	DATE
+quod-lib-umich-edu-844	94	4	Whang	PERSON
+quod-lib-umich-edu-844	94	5	2008	DATE
+quod-lib-umich-edu-844	95	1	five	CARDINAL
+quod-lib-umich-edu-844	96	1	sixth	ORDINAL
+quod-lib-umich-edu-844	97	1	ARL	ORG
+quod-lib-umich-edu-844	98	1	participants’	GPE
+quod-lib-umich-edu-844	99	1	users’	CARDINAL
+quod-lib-umich-edu-844	100	1	Digital Collections	ORG
+quod-lib-umich-edu-844	100	2	Digital History Collections	ORG
+quod-lib-umich-edu-844	100	3	participants’	GPE
+quod-lib-umich-edu-844	101	1	Digital Library	ORG
+quod-lib-umich-edu-844	104	1	Library	GPE
+quod-lib-umich-edu-844	110	1	USU	ORG
+quod-lib-umich-edu-844	110	2	the 1930s	DATE
+quod-lib-umich-edu-844	112	1	Mormon	NORP
+quod-lib-umich-edu-844	113	1	the 1950s	DATE
+quod-lib-umich-edu-844	114	1	USU	ORG
+quod-lib-umich-edu-844	115	1	Cache Valley	LOC
+quod-lib-umich-edu-844	115	2	Utah	GPE
+quod-lib-umich-edu-844	116	1	Digital History Collections Digital Library Digital Archives Digital Collections Participants	ORG
+quod-lib-umich-edu-844	117	1	second	ORDINAL
+quod-lib-umich-edu-844	117	2	Library	GPE
+quod-lib-umich-edu-844	117	3	USU	ORG
+quod-lib-umich-edu-844	117	4	Special Collections & Archives	ORG
+quod-lib-umich-edu-844	119	1	Archives	ORG
+quod-lib-umich-edu-844	124	1	fifty	CARDINAL
+quod-lib-umich-edu-844	124	2	thirty-one	CARDINAL
+quod-lib-umich-edu-844	124	3	2	CARDINAL
+quod-lib-umich-edu-844	126	1	USU	ORG
+quod-lib-umich-edu-844	128	1	University	ORG
+quod-lib-umich-edu-844	128	2	“Digital Collections”	ORG
+quod-lib-umich-edu-844	128	3	“Digital Archives	ORG
+quod-lib-umich-edu-844	129	1	Digital History Collections	ORG
+quod-lib-umich-edu-844	130	1	Mormon	NORP
+quod-lib-umich-edu-844	130	2	61 percent	PERCENT
+quod-lib-umich-edu-844	130	3	“Digital History Collections”	ORG
+quod-lib-umich-edu-844	130	4	17 percent	PERCENT
+quod-lib-umich-edu-844	130	5	“Digital Collection	ORG
+quod-lib-umich-edu-844	130	6	the 1930s	DATE
+quod-lib-umich-edu-844	130	7	43 percent	PERCENT
+quod-lib-umich-edu-844	130	8	“Digital History Collections	ORG
+quod-lib-umich-edu-844	130	9	over 16 percent	PERCENT
+quod-lib-umich-edu-844	130	10	“Digital Collections	ORG
+quod-lib-umich-edu-844	130	11	Cache Valley	LOC
+quod-lib-umich-edu-844	130	12	only 15 percent	PERCENT
+quod-lib-umich-edu-844	130	13	“Digital History Collections”	ORG
+quod-lib-umich-edu-844	130	14	53 percent	PERCENT
+quod-lib-umich-edu-844	130	15	“Digital Collections	ORG
+quod-lib-umich-edu-844	130	16	2	CARDINAL
+quod-lib-umich-edu-844	131	1	Group	ORG
+quod-lib-umich-edu-844	132	1	6	CARDINAL
+quod-lib-umich-edu-844	132	2	16	CARDINAL
+quod-lib-umich-edu-844	132	3	Undergraduate Students	ORG
+quod-lib-umich-edu-844	132	4	9	CARDINAL
+quod-lib-umich-edu-844	132	5	19	CARDINAL
+quod-lib-umich-edu-844	132	6	USU Library Staff	ORG
+quod-lib-umich-edu-844	132	7	20	CARDINAL
+quod-lib-umich-edu-844	132	8	11	CARDINAL
+quod-lib-umich-edu-844	132	9	the past decade	DATE
+quod-lib-umich-edu-844	133	1	Carr	PERSON
+quod-lib-umich-edu-844	133	2	1961	DATE
+quod-lib-umich-edu-844	133	3	Hobsbawm & Ranger	LAW
+quod-lib-umich-edu-844	133	4	1983	DATE
+quod-lib-umich-edu-844	134	1	two	CARDINAL
+quod-lib-umich-edu-844	134	2	one	CARDINAL
+quod-lib-umich-edu-844	134	3	one	CARDINAL
+quod-lib-umich-edu-844	137	1	Digital Archives	ORG
+quod-lib-umich-edu-844	137	2	University	ORG
+quod-lib-umich-edu-844	138	1	3	CARDINAL
+quod-lib-umich-edu-844	139	1	USU	ORG
+quod-lib-umich-edu-844	139	2	the 1930s	DATE
+quod-lib-umich-edu-844	140	1	Digital Library Digital Collections Digital Archives Digital History Collections Library Undergraduate Student Workers	ORG
+quod-lib-umich-edu-844	140	2	0	CARDINAL
+quod-lib-umich-edu-844	140	3	General Undergraduate Students	ORG
+quod-lib-umich-edu-844	140	4	n=9	NORP
+quod-lib-umich-edu-844	140	5	1	CARDINAL
+quod-lib-umich-edu-844	140	6	n=19	PERSON
+quod-lib-umich-edu-844	140	7	1	CARDINAL
+quod-lib-umich-edu-844	140	8	10	CARDINAL
+quod-lib-umich-edu-844	140	9	USU Library Staff	ORG
+quod-lib-umich-edu-844	140	10	1	CARDINAL
+quod-lib-umich-edu-844	140	11	1	CARDINAL
+quod-lib-umich-edu-844	140	12	3	CARDINAL
+quod-lib-umich-edu-844	140	13	n=81	ORG
+quod-lib-umich-edu-844	140	14	5	CARDINAL
+quod-lib-umich-edu-844	140	15	13	CARDINAL
+quod-lib-umich-edu-844	140	16	28 35	DATE
+quod-lib-umich-edu-844	140	17	43%	PERCENT
+quod-lib-umich-edu-844	140	18	4	CARDINAL
+quod-lib-umich-edu-844	142	1	Digital Library Digital Collections Digital Archives Digital History Collections Library Undergraduate Student Workers	ORG
+quod-lib-umich-edu-844	142	2	6	CARDINAL
+quod-lib-umich-edu-844	142	3	12	CARDINAL
+quod-lib-umich-edu-844	142	4	4	CARDINAL
+quod-lib-umich-edu-844	142	5	n=9	ORG
+quod-lib-umich-edu-844	142	6	9	CARDINAL
+quod-lib-umich-edu-844	142	7	n=19	PERSON
+quod-lib-umich-edu-844	142	8	14	CARDINAL
+quod-lib-umich-edu-844	142	9	USU Library Staff	ORG
+quod-lib-umich-edu-844	142	10	16	DATE
+quod-lib-umich-edu-844	142	11	4	CARDINAL
+quod-lib-umich-edu-844	142	12	11	CARDINAL
+quod-lib-umich-edu-844	142	13	n=81)	ORG
+quod-lib-umich-edu-844	142	14	68	CARDINAL
+quod-lib-umich-edu-844	142	15	84%	PERCENT
+quod-lib-umich-edu-844	142	16	5	CARDINAL
+quod-lib-umich-edu-844	143	1	Mormon	NORP
+quod-lib-umich-edu-844	144	1	Digital Library Digital Collections Digital Archives Digital History Collections Library Undergraduate Student Workers	ORG
+quod-lib-umich-edu-844	144	2	n=6	CARDINAL
+quod-lib-umich-edu-844	144	3	1	CARDINAL
+quod-lib-umich-edu-844	144	4	1	CARDINAL
+quod-lib-umich-edu-844	144	5	11	CARDINAL
+quod-lib-umich-edu-844	144	6	Undergraduate Students	ORG
+quod-lib-umich-edu-844	144	7	n=9	NORP
+quod-lib-umich-edu-844	144	8	0	CARDINAL
+quod-lib-umich-edu-844	144	9	n=19	PERSON
+quod-lib-umich-edu-844	144	10	1	CARDINAL
+quod-lib-umich-edu-844	144	11	USU Library Staff	ORG
+quod-lib-umich-edu-844	144	12	1	CARDINAL
+quod-lib-umich-edu-844	144	13	1 2	CARDINAL
+quod-lib-umich-edu-844	144	14	5	CARDINAL
+quod-lib-umich-edu-844	144	15	n=81	ORG
+quod-lib-umich-edu-844	144	16	5	CARDINAL
+quod-lib-umich-edu-844	144	17	14 13 49	DATE
+quod-lib-umich-edu-844	144	18	61%	PERCENT
+quod-lib-umich-edu-844	144	19	6	CARDINAL
+quod-lib-umich-edu-844	145	1	the 1950s	DATE
+quod-lib-umich-edu-844	146	1	Digital Library Digital Collections Digital Archives Digital History Collections Library Undergraduate Student Workers	ORG
+quod-lib-umich-edu-844	146	2	0	CARDINAL
+quod-lib-umich-edu-844	146	3	General Undergraduate Students	ORG
+quod-lib-umich-edu-844	146	4	1 1 10 4	DATE
+quod-lib-umich-edu-844	146	5	Undergraduate Students	ORG
+quod-lib-umich-edu-844	146	6	n=9	ORG
+quod-lib-umich-edu-844	146	7	0	CARDINAL
+quod-lib-umich-edu-844	146	8	2 2 8	DATE
+quod-lib-umich-edu-844	146	9	USU Library Staff	ORG
+quod-lib-umich-edu-844	146	10	n=19	PERSON
+quod-lib-umich-edu-844	146	11	2	CARDINAL
+quod-lib-umich-edu-844	146	12	5	CARDINAL
+quod-lib-umich-edu-844	146	13	1	CARDINAL
+quod-lib-umich-edu-844	146	14	3	CARDINAL
+quod-lib-umich-edu-844	146	15	6 11 36	DATE
+quod-lib-umich-edu-844	146	16	44%	PERCENT
+quod-lib-umich-edu-844	146	17	27	CARDINAL
+quod-lib-umich-edu-844	147	1	7	CARDINAL
+quod-lib-umich-edu-844	148	1	USU	ORG
+quod-lib-umich-edu-844	149	1	Digital Library Digital Collections Digital Archives Digital History Collections Library Undergraduate Student Workers	ORG
+quod-lib-umich-edu-844	149	2	0	CARDINAL
+quod-lib-umich-edu-844	149	3	General Undergraduate Students	ORG
+quod-lib-umich-edu-844	149	4	n=9	NORP
+quod-lib-umich-edu-844	149	5	2 1 4 2 Community	DATE
+quod-lib-umich-edu-844	149	6	n=19	CARDINAL
+quod-lib-umich-edu-844	149	7	1	CARDINAL
+quod-lib-umich-edu-844	149	8	6	CARDINAL
+quod-lib-umich-edu-844	149	9	USU Library Staff	ORG
+quod-lib-umich-edu-844	149	10	3	CARDINAL
+quod-lib-umich-edu-844	149	11	2 2 4 3	DATE
+quod-lib-umich-edu-844	149	12	n=81	ORG
+quod-lib-umich-edu-844	149	13	8 18 30	DATE
+quod-lib-umich-edu-844	149	14	37%	PERCENT
+quod-lib-umich-edu-844	149	15	25	CARDINAL
+quod-lib-umich-edu-844	149	16	8	CARDINAL
+quod-lib-umich-edu-844	150	1	Cache	ORG
+quod-lib-umich-edu-844	150	2	2012	DATE
+quod-lib-umich-edu-844	151	1	Digital Library Digital Collections Digital Archives Digital History Collections Library Undergraduate Student Workers	ORG
+quod-lib-umich-edu-844	151	2	1	CARDINAL
+quod-lib-umich-edu-844	151	3	1	CARDINAL
+quod-lib-umich-edu-844	151	4	10	CARDINAL
+quod-lib-umich-edu-844	151	5	n=9	ORG
+quod-lib-umich-edu-844	151	6	1	CARDINAL
+quod-lib-umich-edu-844	151	7	n=18	CARDINAL
+quod-lib-umich-edu-844	151	8	4	CARDINAL
+quod-lib-umich-edu-844	151	9	USU Library Staff	ORG
+quod-lib-umich-edu-844	151	10	5	CARDINAL
+quod-lib-umich-edu-844	151	11	12	CARDINAL
+quod-lib-umich-edu-844	151	12	2 1	CARDINAL
+quod-lib-umich-edu-844	151	13	2	CARDINAL
+quod-lib-umich-edu-844	151	14	3	CARDINAL
+quod-lib-umich-edu-844	151	15	14 42	DATE
+quod-lib-umich-edu-844	151	16	53%	PERCENT
+quod-lib-umich-edu-844	151	17	11 12	CARDINAL
+quod-lib-umich-edu-844	152	1	one	CARDINAL
+quod-lib-umich-edu-844	152	2	9	CARDINAL
+quod-lib-umich-edu-844	156	1	9	CARDINAL
+quod-lib-umich-edu-844	157	1	Library	PERSON
+quod-lib-umich-edu-844	158	1	Digital Special Collections General Undergraduate Students	ORG
+quod-lib-umich-edu-844	158	2	n=7	CARDINAL
+quod-lib-umich-edu-844	158	3	Historical Database Digital	ORG
+quod-lib-umich-edu-844	158	4	Digital	ORG
+quod-lib-umich-edu-844	158	5	Digital	ORG
+quod-lib-umich-edu-844	158	6	Digital Library Historical	ORG
+quod-lib-umich-edu-844	158	7	Undergraduate Students	ORG
+quod-lib-umich-edu-844	158	8	Community	ORG
+quod-lib-umich-edu-844	158	9	Microfish	NORP
+quod-lib-umich-edu-844	158	10	Digital History Database Archives	ORG
+quod-lib-umich-edu-844	158	11	USU Library Staff	ORG
+quod-lib-umich-edu-844	158	12	Digital Library	ORG
+quod-lib-umich-edu-844	158	13	Digital Archives Digital Archives	ORG
+quod-lib-umich-edu-844	158	14	Digital History Collections Digital Historical Media USU	ORG
+quod-lib-umich-edu-844	158	15	USU	ORG
+quod-lib-umich-edu-844	158	16	Digital Collections -	ORG
+quod-lib-umich-edu-844	158	17	USU	ORG
+quod-lib-umich-edu-844	158	18	the Digital Collections	ORG
+quod-lib-umich-edu-844	159	1	Digital Collections	ORG
+quod-lib-umich-edu-844	160	1	Digital Archives	ORG
+quod-lib-umich-edu-844	161	1	Digital Archives	ORG
+quod-lib-umich-edu-844	161	2	one	CARDINAL
+quod-lib-umich-edu-844	162	1	second	ORDINAL
+quod-lib-umich-edu-844	163	1	ARL	ORG
+quod-lib-umich-edu-844	163	2	Comeaux	ORG
+quod-lib-umich-edu-844	163	3	2008	DATE
+quod-lib-umich-edu-844	163	4	461	CARDINAL
+quod-lib-umich-edu-844	165	1	Kupersmith	PERSON
+quod-lib-umich-edu-844	165	2	2012	DATE
+quod-lib-umich-edu-844	168	1	USU	ORG
+quod-lib-umich-edu-844	177	1	one	CARDINAL
+quod-lib-umich-edu-844	178	1	USU	ORG
+quod-lib-umich-edu-844	178	2	Special Collections & Archives	ORG
+quod-lib-umich-edu-844	180	1	Overholt	PERSON
+quod-lib-umich-edu-844	180	2	2013	DATE
+quod-lib-umich-edu-844	181	1	15	CARDINAL
+quod-lib-umich-edu-844	187	1	USU	ORG
+quod-lib-umich-edu-844	187	2	Special Collections & Archives	ORG
+quod-lib-umich-edu-844	187	3	“Digital History Collections	ORG
+quod-lib-umich-edu-844	187	4	Digital Asset Management System	ORG
+quod-lib-umich-edu-844	189	1	Hutcherson	PERSON
+quod-lib-umich-edu-844	189	2	2004	DATE
+quod-lib-umich-edu-844	189	3	nearly 60 percent	PERCENT
+quod-lib-umich-edu-844	189	4	or “Boolean”	WORK_OF_ART
+quod-lib-umich-edu-844	189	5	352	CARDINAL
+quod-lib-umich-edu-844	197	1	Hassenzahl	PERSON
+quod-lib-umich-edu-844	197	2	2004	DATE
+quod-lib-umich-edu-844	197	3	34	CARDINAL
+quod-lib-umich-edu-844	201	1	Flickr	PERSON
+quod-lib-umich-edu-844	202	1	users’	ORG
+quod-lib-umich-edu-844	206	1	Battin	PERSON
+quod-lib-umich-edu-844	206	2	1998	DATE
+quod-lib-umich-edu-844	206	3	273	CARDINAL
+quod-lib-umich-edu-844	207	1	USU	ORG
+quod-lib-umich-edu-844	207	2	Special Collections & Archives	ORG
+quod-lib-umich-edu-844	209	1	Prochaska	GPE
+quod-lib-umich-edu-844	209	2	2009	DATE
+quod-lib-umich-edu-844	215	1	users’	ORG
+quod-lib-umich-edu-844	225	1	first	ORDINAL
+quod-lib-umich-edu-844	226	1	References Battin	PERSON
+quod-lib-umich-edu-844	226	2	P.	ORG
+quod-lib-umich-edu-844	226	3	1998	DATE
+quod-lib-umich-edu-844	228	1	B. L. Hawkins	PERSON
+quod-lib-umich-edu-844	228	2	& P. Battin	PERSON
+quod-lib-umich-edu-844	228	3	Eds	PERSON
+quod-lib-umich-edu-844	229	1	the 21st century	DATE
+quod-lib-umich-edu-844	230	1	260–270	CARDINAL
+quod-lib-umich-edu-844	231	1	Washington	GPE
+quod-lib-umich-edu-844	231	2	DC: Council on Library and Information Resources	ORG
+quod-lib-umich-edu-844	231	3	the Association of American Universities	ORG
+quod-lib-umich-edu-844	232	1	Borgman	ORG
+quod-lib-umich-edu-844	232	2	C. L.	PERSON
+quod-lib-umich-edu-844	232	3	1999	DATE
+quod-lib-umich-edu-844	235	1	Information Processing & Management	ORG
+quod-lib-umich-edu-844	235	2	35(3	CARDINAL
+quod-lib-umich-edu-844	236	1	Bush	PERSON
+quod-lib-umich-edu-844	236	2	V.	PERSON
+quod-lib-umich-edu-844	238	1	Atlantic Magazine	ORG
+quod-lib-umich-edu-844	239	1	https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ Calhoun	PERSON
+quod-lib-umich-edu-844	239	2	K. (	PERSON
+quod-lib-umich-edu-844	239	3	2014	DATE
+quod-lib-umich-edu-844	241	1	Exploring	GPE
+quod-lib-umich-edu-844	243	1	London	GPE
+quod-lib-umich-edu-844	243	2	Facet Publishing	PERSON
+quod-lib-umich-edu-844	243	3	Chicago	GPE
+quod-lib-umich-edu-844	243	4	ALA Neal-Schuman	PERSON
+quod-lib-umich-edu-844	244	1	Carr	PERSON
+quod-lib-umich-edu-844	244	2	1961	DATE
+quod-lib-umich-edu-844	246	1	Cambridge	GPE
+quod-lib-umich-edu-844	246	2	University of Cambridge Press	ORG
+quod-lib-umich-edu-844	247	1	Cleveland	GPE
+quod-lib-umich-edu-844	247	2	G.	PERSON
+quod-lib-umich-edu-844	247	3	1998	DATE
+quod-lib-umich-edu-844	248	1	Digital	ORG
+quod-lib-umich-edu-844	249	1	UDT	ORG
+quod-lib-umich-edu-844	249	2	8	MONEY
+quod-lib-umich-edu-844	250	1	Comeaux	ORG
+quod-lib-umich-edu-844	250	2	D.	NORP
+quod-lib-umich-edu-844	250	3	2008	DATE
+quod-lib-umich-edu-844	252	1	Journal of Web Librarianship	ORG
+quod-lib-umich-edu-844	253	1	Dickson	PERSON
+quod-lib-umich-edu-844	253	2	M. (2008	DATE
+quod-lib-umich-edu-844	255	1	Journal of Web Librarianship	ORG
+quod-lib-umich-edu-844	255	2	2(2/3	CARDINAL
+quod-lib-umich-edu-844	255	3	339-379	CARDINAL
+quod-lib-umich-edu-844	255	4	Fox	ORG
+quod-lib-umich-edu-844	255	5	E. A.	PERSON
+quod-lib-umich-edu-844	255	6	Akscyn	ORG
+quod-lib-umich-edu-844	255	7	R. M.	PERSON
+quod-lib-umich-edu-844	255	8	Furuta	PERSON
+quod-lib-umich-edu-844	255	9	R. K.	PERSON
+quod-lib-umich-edu-844	255	10	& Leggett	PERSON
+quod-lib-umich-edu-844	255	11	J. J.	PERSON
+quod-lib-umich-edu-844	256	1	1995	DATE
+quod-lib-umich-edu-844	257	1	Digital	ORG
+quod-lib-umich-edu-844	258	1	ACM	ORG
+quod-lib-umich-edu-844	258	2	38(4	CARDINAL
+quod-lib-umich-edu-844	258	3	22–28	CARDINAL
+quod-lib-umich-edu-844	259	1	https://doi.org/10.1145/205323.205325 Fox	PERSON
+quod-lib-umich-edu-844	259	2	E. A.	PERSON
+quod-lib-umich-edu-844	259	3	& Marchionini	ORG
+quod-lib-umich-edu-844	259	4	G.	PERSON
+quod-lib-umich-edu-844	259	5	1998	DATE
+quod-lib-umich-edu-844	261	1	ACM	ORG
+quod-lib-umich-edu-844	261	2	41(4	CARDINAL
+quod-lib-umich-edu-844	261	3	29	CARDINAL
+quod-lib-umich-edu-844	261	4	Harter	ORG
+quod-lib-umich-edu-844	261	5	S. P.	PERSON
+quod-lib-umich-edu-844	261	6	1997	DATE
+quod-lib-umich-edu-844	263	1	Texas	GPE
+quod-lib-umich-edu-844	263	2	1(1	CARDINAL
+quod-lib-umich-edu-844	264	1	Hassenzahl	PERSON
+quod-lib-umich-edu-844	264	2	2004	DATE
+quod-lib-umich-edu-844	266	1	M.A.	GPE
+quod-lib-umich-edu-844	267	1	K. Overbeeke	PERSON
+quod-lib-umich-edu-844	267	2	A. F. Monk	PERSON
+quod-lib-umich-edu-844	267	3	P. C. Wright	PERSON
+quod-lib-umich-edu-844	267	4	Eds	PERSON
+quod-lib-umich-edu-844	269	1	31–42	CARDINAL
+quod-lib-umich-edu-844	270	1	Hennig	ORG
+quod-lib-umich-edu-844	270	2	N.	PERSON
+quod-lib-umich-edu-844	270	3	2001	DATE
+quod-lib-umich-edu-844	271	1	MIT	ORG
+quod-lib-umich-edu-844	273	1	Ed	PERSON
+quod-lib-umich-edu-844	276	1	Chicago	GPE
+quod-lib-umich-edu-844	276	2	American Library Association	ORG
+quod-lib-umich-edu-844	277	1	Hobsbawm	WORK_OF_ART
+quod-lib-umich-edu-844	277	2	E., & Ranger	ORG
+quod-lib-umich-edu-844	278	1	Eds	PERSON
+quod-lib-umich-edu-844	279	1	1983	DATE
+quod-lib-umich-edu-844	281	1	Cambridge	GPE
+quod-lib-umich-edu-844	281	2	Cambridge University Press	ORG
+quod-lib-umich-edu-844	282	1	Hutcherson	ORG
+quod-lib-umich-edu-844	282	2	N. B.	PERSON
+quod-lib-umich-edu-844	283	1	2004	DATE
+quod-lib-umich-edu-844	285	1	College & Research Libraries	ORG
+quod-lib-umich-edu-844	285	2	65(4	GPE
+quod-lib-umich-edu-844	286	1	https://doi.org/10.5860/crl.65.4.349 Kahn	PERSON
+quod-lib-umich-edu-844	286	2	R. E.	PERSON
+quod-lib-umich-edu-844	286	3	& Cerf	PERSON
+quod-lib-umich-edu-844	286	4	V. G.	PERSON
+quod-lib-umich-edu-844	286	5	1988	DATE
+quod-lib-umich-edu-844	287	1	The Digital Library Project (Vol	ORG
+quod-lib-umich-edu-844	288	1	1	CARDINAL
+quod-lib-umich-edu-844	288	2	DRAFT	ORG
+quod-lib-umich-edu-844	289	1	National Research Initiatives	ORG
+quod-lib-umich-edu-844	290	1	http://hdl.handle.net/4263537/2091 Kahn	PERSON
+quod-lib-umich-edu-844	290	2	R., & Wilensky	ORG
+quod-lib-umich-edu-844	290	3	R. (	PERSON
+quod-lib-umich-edu-844	290	4	1995	DATE
+quod-lib-umich-edu-844	292	1	D-Lib Magazine	ORG
+quod-lib-umich-edu-844	293	1	Kelly	PERSON
+quod-lib-umich-edu-844	293	2	E. J.	PERSON
+quod-lib-umich-edu-844	294	1	2014	DATE
+quod-lib-umich-edu-844	296	1	Journal of Web Librarianship	ORG
+quod-lib-umich-edu-844	296	2	8(4	DATE
+quod-lib-umich-edu-844	296	3	384–403	CARDINAL
+quod-lib-umich-edu-844	297	1	Kupersmith	PERSON
+quod-lib-umich-edu-844	297	2	J.	PERSON
+quod-lib-umich-edu-844	298	1	2012	DATE
+quod-lib-umich-edu-844	300	1	Berkeley	GPE
+quod-lib-umich-edu-844	300	2	CA	ORG
+quod-lib-umich-edu-844	300	3	UC Berkeley Library	ORG
+quod-lib-umich-edu-844	301	1	J. C. R.	PERSON
+quod-lib-umich-edu-844	301	2	1965	DATE
+quod-lib-umich-edu-844	303	1	Cambridge	GPE
+quod-lib-umich-edu-844	303	2	MIT Press	ORG
+quod-lib-umich-edu-844	304	1	Lynch	ORG
+quod-lib-umich-edu-844	304	2	C.	GPE
+quod-lib-umich-edu-844	304	3	1997	DATE
+quod-lib-umich-edu-844	306	1	American	NORP
+quod-lib-umich-edu-844	306	2	276(3	CARDINAL
+quod-lib-umich-edu-844	306	3	52–56	CARDINAL
+quod-lib-umich-edu-844	307	1	Lynch	ORG
+quod-lib-umich-edu-844	307	2	C. (	GPE
+quod-lib-umich-edu-844	307	3	2002	DATE
+quod-lib-umich-edu-844	308	1	Digital	ORG
+quod-lib-umich-edu-844	309	1	First	ORDINAL
+quod-lib-umich-edu-844	309	2	Monday	DATE
+quod-lib-umich-edu-844	309	3	7(5	PRODUCT
+quod-lib-umich-edu-844	310	1	http://doi.org/10.5210/fm.v7i5.949 Nielsen	PERSON
+quod-lib-umich-edu-844	311	1	1997	DATE
+quod-lib-umich-edu-844	313	1	Nielsen	PERSON
+quod-lib-umich-edu-844	313	2	J.	PERSON
+quod-lib-umich-edu-844	314	1	2003	DATE
+quod-lib-umich-edu-844	315	1	Google	ORG
+quod-lib-umich-edu-844	316	1	https://www.nngroup.com/articles/information-scent/ Nielsen	PERSON
+quod-lib-umich-edu-844	316	2	Norman Group	ORG
+quod-lib-umich-edu-844	317	1	2014	DATE
+quod-lib-umich-edu-844	319	1	Overholt	GPE
+quod-lib-umich-edu-844	319	2	J. H.	PERSON
+quod-lib-umich-edu-844	319	3	2013	DATE
+quod-lib-umich-edu-844	320	1	Five	CARDINAL
+quod-lib-umich-edu-844	321	1	A Journal of Rare Books	ORG
+quod-lib-umich-edu-844	321	2	Manuscripts	PERSON
+quod-lib-umich-edu-844	321	3	Cultural Heritage	ORG
+quod-lib-umich-edu-844	321	4	14(1	CARDINAL
+quod-lib-umich-edu-844	321	5	15–20	CARDINAL
+quod-lib-umich-edu-844	322	1	Pomerantz	GPE
+quod-lib-umich-edu-844	322	2	J.	PERSON
+quod-lib-umich-edu-844	322	3	Choemprayong	GPE
+quod-lib-umich-edu-844	322	4	S., & Eakin	ORG
+quod-lib-umich-edu-844	322	5	L. (2008	DATE
+quod-lib-umich-edu-844	323	1	the United States	GPE
+quod-lib-umich-edu-844	324	1	D. A. Nitecki & E. G. Abels	ORG
+quod-lib-umich-edu-844	324	2	Eds	PERSON
+quod-lib-umich-edu-844	325	1	Influence	ORG
+quod-lib-umich-edu-844	325	2	Vol	ORG
+quod-lib-umich-edu-844	326	1	31	CARDINAL
+quod-lib-umich-edu-844	327	1	37–92	CARDINAL
+quod-lib-umich-edu-844	328	1	http://www.emeraldinsight.com/doi/pdfplus/10.1016/S0065-2830%2808%2931002-2 Prochaska	PERSON
+quod-lib-umich-edu-844	328	2	A.	PERSON
+quod-lib-umich-edu-844	329	1	2009	DATE
+quod-lib-umich-edu-844	330	1	Digital	ORG
+quod-lib-umich-edu-844	331	1	A Journal of Rare Books	ORG
+quod-lib-umich-edu-844	331	2	Manuscripts	PERSON
+quod-lib-umich-edu-844	331	3	Cultural Heritage	ORG
+quod-lib-umich-edu-844	332	1	Schwartz	PERSON
+quod-lib-umich-edu-844	332	2	C. (2000	DATE
+quod-lib-umich-edu-844	333	1	Digital	ORG
+quod-lib-umich-edu-844	334	1	The Journal of Academic Librarianship	ORG
+quod-lib-umich-edu-844	334	2	385–393	CARDINAL
+quod-lib-umich-edu-844	335	1	Smith, C. (2006	ORG
+quod-lib-umich-edu-844	336	1	Multiple	ORG
+quod-lib-umich-edu-844	337	1	International Journal of Libraries and Information Studies	ORG
+quod-lib-umich-edu-844	337	2	56(4	CARDINAL
+quod-lib-umich-edu-844	337	3	227–238	CARDINAL
+quod-lib-umich-edu-844	338	1	Southwell	ORG
+quod-lib-umich-edu-844	338	2	K. L.	PERSON
+quod-lib-umich-edu-844	338	3	& Slater	ORG
+quod-lib-umich-edu-844	339	1	2012	DATE
+quod-lib-umich-edu-844	341	1	30(3	CARDINAL
+quod-lib-umich-edu-844	341	2	457–471	DATE
+quod-lib-umich-edu-844	342	1	https://doi.org/10.1108/07378831211266609 Thong	PERSON
+quod-lib-umich-edu-844	342	2	J. Y.	PERSON
+quod-lib-umich-edu-844	342	3	Weiyin, H., & Kar Yan	ORG
+quod-lib-umich-edu-844	342	4	T.	PERSON
+quod-lib-umich-edu-844	342	5	2004	DATE
+quod-lib-umich-edu-844	344	1	ACM	ORG
+quod-lib-umich-edu-844	344	2	79–83	CARDINAL
+quod-lib-umich-edu-844	345	1	Waters	ORG
+quod-lib-umich-edu-844	345	2	D.J.	PERSON
+quod-lib-umich-edu-844	346	1	1998	DATE
+quod-lib-umich-edu-844	348	1	4	CARDINAL
+quod-lib-umich-edu-844	349	1	2008	DATE
+quod-lib-umich-edu-844	350	1	WMU	ORG
+quod-lib-umich-edu-844	350	2	Libraries’	PERSON
+quod-lib-umich-edu-844	351	1	Journal of Web Librarianship	ORG
+quod-lib-umich-edu-844	352	1	Xie	PERSON
+quod-lib-umich-edu-844	352	2	H. I.	PERSON
+quod-lib-umich-edu-844	353	1	2007	DATE
+quod-lib-umich-edu-844	355	1	Online Information Review	ORG
+quod-lib-umich-edu-844	355	2	31(6	DATE
+quod-lib-umich-edu-844	356	1	https://doi.org/10.1108/14684520710841810 Xie	PERSON
+quod-lib-umich-edu-844	356	2	H. I.	PERSON
+quod-lib-umich-edu-844	357	1	2008	DATE
+quod-lib-umich-edu-844	359	1	Information Processing & Management	ORG
+quod-lib-umich-edu-844	359	2	44(3	DATE
+quod-lib-umich-edu-844	359	3	1346–1373	CARDINAL
+quod-lib-umich-edu-844	360	1	Xie	PERSON
+quod-lib-umich-edu-844	360	2	I., Babu	PERSON
+quod-lib-umich-edu-844	360	3	R.	NORP
+quod-lib-umich-edu-844	360	4	Joo	GPE
+quod-lib-umich-edu-844	360	5	S., & Fuller	ORG
+quod-lib-umich-edu-844	360	6	2015	DATE
+quod-lib-umich-edu-844	362	1	Information Research	ORG
+quod-lib-umich-edu-844	362	2	20(2	DATE
+quod-lib-umich-edu-844	362	3	1–23	CARDINAL
+quod-lib-umich-edu-844	363	1	Hosted	ORG
+quod-lib-umich-edu-844	363	2	Michigan Publishing	ORG
+quod-lib-umich-edu-844	363	3	the University of Michigan Library	ORG
+quod-lib-umich-edu-844	364	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-844	364	2	Twitter Email RSS	ORG

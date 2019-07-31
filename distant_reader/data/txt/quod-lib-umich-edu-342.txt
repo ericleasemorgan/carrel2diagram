@@ -1,0 +1,273 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Toolkit to Effectively Manage your Website: Practical Advice for Content Strategy
+
+
+	Skip to main content
+	Skip to quick search
+	Skip to global navigation
+
+
+
+
+
+
+Journal of Library User Experience
+
+Weave is an open-access, peer-reviewed journal for Library User Experience professionals published by Michigan Publishing.
+
+
+
+
+Quick search:
+
+
+
+
+
+
+	Current Issue: Vol. 2, Issue 1
+	Archive
+	Download EPUBs
+	Submit to Weave
+
+
+
+
+
+
+
+
+
+
+A Toolkit to Effectively Manage your Website: Practical Advice for Content Strategy
+
+
+
+
+Sherry Buchanan
+
+PORTLAND STATE UNIVERSITY
+
+
+
+Skip other details (including permanent urls, DOI, citation information)
+Volume 1, Issue 6, 2017
+
+
+
+DOI: http://dx.doi.org/10.3998/weave.12535642.0001.604
+
+
+
+  Creative Commons 3.0 Attribution License
+
+
+
+
+Permissions: This work is licensed under a Creative Commons Attribution 3.0 License. Please contact mpub-help@umich.edu to use this work in a way not covered by the license.
+
+For more information, read Michigan Publishing's access and usage policy.
+
+
+
+
+
+
+	Print
+	
+Share+	Twitter
+            	
+	Facebook
+            	
+	Reddit
+            	
+	Mendeley
+            	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Managing an effective website is cyclical and task-oriented, but straightforward once you have a set of tools in place. This article provides the tools to manage your website, to bring stakeholders into the process, and ease the cognitive load of users by offering them the best possible user experience. 
+
+I am the content strategist for the Portland State University Library website. The PSU Library website receives more than 1.8 million visits per year, almost double the library’s annual walk-in traffic. The primary audience is twenty-nine thousand students and seven thousand faculty and staff. The secondary audience is community, alumni, and donors. 
+
+In 2014, PSU Library launched its new website, after a card sort and numerous usability tests to reinforce the utility of our information architecture and content strategy. The new website was a welcome change, and its redesign was a great accomplishment, but launching the site was just the beginning of a more rigorous ongoing maintenance and evaluation process. The site is now meticulously maintained, but this was not always the case. In 2012, the PSU Library website contained close to 400 pages. From 2013 to 2016, we removed more than 250 pages, reducing the footprint by 67 percent and substantially boiling down remaining content. We are able to declutter and upkeep the website because we use a calendar-based toolkit, shared below.
+
+Our Toolkit Starts From Core Goals (and Yours Will Too)
+
+Setting out to design our toolkit for ongoing content governance, we started from some goals for keeping our website fresh and usable over time. These are broad and likely applicable to your website and library too, but worth thinking through before you borrow these tools.
+
+First, most people do not actually read web pages; users skim for content, and web pages need to reflect this principle. The importance of brevity and styling for readability cannot be overemphasized: frontload links at the beginning of sentences, use bullets, avoid walls of text. Having a style guide and encouraging compliance is critical because writing for usability isn’t always intuitive, even to good writers, and sometimes it is important to err on the side of consistency even when there are content decisions that could reasonably be made in other ways. In addition to an editing and style guide, we provide monthly reports to library staff to keep our processes transparent and to invite input within a structured system, and we have methods to handle new content and ensure we don’t have stale content. We have one primary editor (me) and two blog editors. We take the time to understand our audience. We cyclically identify the most salient content, and remove everything else. We have clearly established workflows for introducing new pages, deleting pages, and updating content. We have well-defined goals, priorities, and design principles. Our annual calendar focuses our activities. We do regular usability testing, and we make data-driven decisions. 
+
+A big part of our approach to managing our website content—the writing/layout—is posited in the notion of “psychological safety.” Creativity and success happen when editors are comfortable expressing their ideas, are free to take risks and explore solutions, and find their own ways to keep our user-centered, data-driven approach to content at the heart of their efforts. Great solutions can only be found when there is room to explore. It is critical that the people making websites are given a certain amount of creative license to investigate other websites, to seek better models, to find comparator sites and specific pages to emulate, to explore solutions, immerse in brainstorming, and engage with ideas to identify new approaches to content. Investigating and testing multiple layouts and information architecture strategies to see which layout meshes with user needs and provides the best readability is key.
+
+
+A great way to find comparable academic library web pages is to perform a Google search with site:edu and use keywords that represent your content. It is important to have your own test environment, multiple test environments ideally, to draft options and try out new ideas. In addition to this free space, a set of rules to keep content within guidelines is critical. I can’t emphasize enough the value of creative license, freedom to explore multiple models, and be in a playful mode to stay open to the best solutions. Google itself invests in this theory (see this related New York Times article). It’s worth pondering this idea and sharing it with administrators. I did. 
+
+
+
+At the core of making and managing a good website is understanding who uses the website. Also, we need to be aware that reducing the cognitive load for all users is paramount. Cut two of every ten words. Get into the personas of the users and think like them; imagine their needs and desires, and build a user experience that exceeds expectations. Be in the user perspective.
+
+Here is a before and after snapshot of our content mindset shift:
+
+	Before	After
+	Distributed editors	Centralized editing
+	Anything goes	Vetted for quality control
+	You’re on your own	How can we help?
+	Intuitive content creation	Data-driven content
+	Slow revision process	24-hour turnaround
+	Inconsistent voice	Consistent voice 
+	Stale content	Current content
+	Sprawling	Pared down
+
+
+Our Toolkit
+
+Website Goals, Priorities & Design Principles Template
+
+All websites should have clear goals. This is like your website’s mission statement, and these goals need to be in writing to ensure adherence. Along with clear goals, it is helpful to have agreed upon priorities and design principles. We designed with these ideas in mind: responsiveness, mobile-first, universal access. Even though only ten percent of our users access the PSU Library website via mobile devices, we still went forward with mobile first design principle to provide the best functionality possible to all our users because we have about thirteen thousand visits per month from mobile devices, and we anticipate increased mobile usage. Start with the most simple structure and pages. 
+
+Universal access refers to accessibility, and we have made efforts to ensure that all users can access our website content. Users who do not use a mouse need headings for screen readers, so they can jump to the content they seek. Screenshots are only used as supplements, and instructions should be written well, so that screenshots are not needed to do tasks. We have had blind users perform tasks on our site, and we have made changes to help them. A number of users have reading disabilities, and if we design for them—clear and concise content—we are helping all readers. 
+
+Editing & Style Guide
+
+The Editing & Style Guide is critical to our effectiveness. It includes information on web page creation, deletion and editing workflow, WordPress How-to, style elements, writing guidelines, common terms and usage and supporting references, such as the University style guidelines and identity standards, and other inspiring sources.
+
+Annual Website Calendar
+
+Website management is cyclical. We have a user-centered annual calendar. In the fall, we keep it light. Every term except summer, we do one week of focused analytics in the fourth week of the term to capture what users are doing from our home page. In the winter, we do usability testing. We start preparing in January, devising the particular things we want to learn and how to test the site (or search interface or study room booking system—whatever it is we are testing) based on our goals. In spring, we make decisions and implement changes on the development server, get feedback from stakeholders, and fine tune changes using an iterative process. In summer, we update our public website. Each month, a website report is written and shared with the entire library, highlighting industry trends, notable websites and our website traffic, analytics and search data, in comparison. We have an editing hiatus for a few days during the second week of each month to perform WordPress core and plug-in updates and launch or remove plugins. 
+
+Google Analytics Template
+
+Website managers use Google Analytics to make informed content decisions. Creating an Analytics Dashboard is simple and allows you to focus on the data that matters to you and that you want to track over time. Once you have an account for your properties, you can use our shared monthly report template. It includes the aforementioned charts and graphs that comprise our monthly report.
+
+Monthly Website Reports (Full Archive)
+
+
+Part of the lure of writing a monthly report about our website is the process of looking at other websites, searching for new design ideas, reconsidering our layouts, hierarchy, and content, examining what trends are on the horizon and thinking critically to ensure we are exceeding user expectations whenever possible. I’ve talked to several website content editors at other institutions, and most of them were somehow elected to their position or fell into the role of writing web content. Even if you have no experience at all, and you find yourself in a position to make or maintain your website, you just need to come up with a system and focus on effective collaboration. Be thorough, accurate, professional and courteous, and always lend a consistent voice to content. 
+
+
+
+The monthly website report starts out each month with a “Looking to the Horizon” section intended to frame our work in a larger context by showcasing articles on usability and emerging technology, as well as notable library websites. The reports highlight statistics from Google Analytics and include a “Special Focus” section to share unique information with colleagues. We include a percentage of change chart to demonstrate usage increases or decreases to our websites (our WordPress site is one of several Google Analytics properties). When sharing traffic data, we include graphs and compare the current month with the same month of the prior year. Additionally, we highlight our top ten web pages and provide the following charts: traffic types, browsers, desktop/mobile, unique pageviews, new & returning visitors, bounce rate and session duration graphs, with definitions as the end of the report. Valuable information is gained from this report and the information feeds data-driven decisions. We share this report with library staff, and we ask for feedback. 
+
+Usability/Technology Articles & Notable Websites Archive
+
+This is a bulleted list of excellent usability articles, emerging technology reports and notable library websites, excerpted from PSU Library monthly website reports. 
+
+Collected Usability Testing Questions
+
+This is a collection of PSU and other library usability testing questions, resulting from a literature review and environmental scan. Each tab offers questions used for specific usability tests we have done, and also tests performed by other universities. The first tab contains a draft of our usability testing questions for the new catalog interface we plan to roll out in 2017. The annual calendar lays out our plan: February testing, April soft launch, June cutover. This is the first time we are solely focusing annual usability testing on our search interface. Our most recent change was to introduce the primary website navigation, aka mega menu, into the search interface. Over the years, we have thoroughly tested the main website’s information architecture and worked diligently to meet our goals, and now we are focusing our energy on the new ExLibris Primo catalog interface.
+
+Quick Usability Testing “How-to”	Recruit three to five users from different disciplines and varying skill levels.
+	Use the “think out loud” protocol, (see Steve Krug) and free WebEx software.
+	Identify your top problems, and implement changes; an executive summary helps.
+
+
+
+
+Quarterly Homepage Analytics
+
+Homepage analytics are performed the fourth week of each quarter except summer. We have heat maps over our homepage and mega menu showing in-page analytics of every time links are clicked from the homepage, and a pie chart with the most visited links. The reports are evolving. We plan to have a better pie chart in place to reflect the content labels rather than the URLs.
+
+Pages by Last Modified Date
+
+This is essentially a sitemap that we call our “Stale Pages Report.” If a page hasn’t been modified in a long time, that’s one indicator that it might need updating or be a candidate for deletion. We added the primary contact person for each page into a custom field in WordPress, and created a report to export all the pages, the person responsible for content, the URL and the last modified date. We commit to making sure every page is reviewed annually.
+
+Acknowledgments
+
+Special thanks to everyone who makes PSU’s library website great: administrators supporting our work, the Website Advisory Committee, the Library Technologies team, staff who give input, and all our users whose goals we hope to meet.
+
+After writing this, the author converted the monthly website report to the new Google Data Studio format. Check out the March 2017 PSU Monthly Website Report.
+
+
+
+
+Top of page
+
+
+
+
+
+
+
+
+
+
+Hosted by Michigan Publishing, a division of the University of Michigan Library.
+
+ISSN 2333-3316
+
+	About
+	Editorial Board
+	Editorial Philosophy
+	Contact
+	Log in
+
+
+	Follow us:
+	Twitter
+	Email
+	RSS
+
+
+
+
+
+
+
+
+

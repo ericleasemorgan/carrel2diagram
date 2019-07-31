@@ -1,0 +1,156 @@
+id	sid	eid	entity	type
+quod-lib-umich-edu-3131	1	1	Academic Libraries Skip	ORG
+quod-lib-umich-edu-3131	1	2	Skip	PERSON
+quod-lib-umich-edu-3131	1	3	Skip	PERSON
+quod-lib-umich-edu-3131	1	4	Journal of Library User Experience	ORG
+quod-lib-umich-edu-3131	1	5	Library User	PERSON
+quod-lib-umich-edu-3131	1	6	Michigan Publishing	ORG
+quod-lib-umich-edu-3131	2	1	Quick	ORG
+quod-lib-umich-edu-3131	2	2	Current Issue: Vol	ORG
+quod-lib-umich-edu-3131	3	1	2	CARDINAL
+quod-lib-umich-edu-3131	3	2	Submit to Weave Launching	ORG
+quod-lib-umich-edu-3131	3	3	Native	NORP
+quod-lib-umich-edu-3131	3	4	Academic Libraries April Siqueiros Samantha Raddatz Skip	ORG
+quod-lib-umich-edu-3131	3	5	DOI	ORG
+quod-lib-umich-edu-3131	3	6	1	CARDINAL
+quod-lib-umich-edu-3131	3	7	DOI	ORG
+quod-lib-umich-edu-3131	3	8	Creative Commons Attribution 3.0 License	ORG
+quod-lib-umich-edu-3131	4	1	mpub-help@umich.edu	PERSON
+quod-lib-umich-edu-3131	5	1	Michigan Publishing's	ORG
+quod-lib-umich-edu-3131	6	1	Reddit Mendeley	PERSON
+quod-lib-umich-edu-3131	8	1	two	CARDINAL
+quod-lib-umich-edu-3131	15	1	Weave	ORG
+quod-lib-umich-edu-3131	19	1	five	CARDINAL
+quod-lib-umich-edu-3131	19	2	April Siqueiros	DATE
+quod-lib-umich-edu-3131	19	3	Samantha Raddatz	ORG
+quod-lib-umich-edu-3131	21	1	San Diego State University	ORG
+quod-lib-umich-edu-3131	21	2	The San Diego State University	ORG
+quod-lib-umich-edu-3131	21	3	SDSU	PERSON
+quod-lib-umich-edu-3131	21	4	Library Services Specialist Tyler Rogers	ORG
+quod-lib-umich-edu-3131	22	1	2008	DATE
+quod-lib-umich-edu-3131	23	1	the “SDSU Library”	PRODUCT
+quod-lib-umich-edu-3131	23	2	the Apple App Store	ORG
+quod-lib-umich-edu-3131	23	3	South Dakota State University	ORG
+quod-lib-umich-edu-3131	23	4	2011	DATE
+quod-lib-umich-edu-3131	24	1	July 2012	DATE
+quod-lib-umich-edu-3131	24	2	three	CARDINAL
+quod-lib-umich-edu-3131	25	1	iPad	ORG
+quod-lib-umich-edu-3131	25	2	7	CARDINAL
+quod-lib-umich-edu-3131	26	1	Rogers	ORG
+quod-lib-umich-edu-3131	26	2	first	ORDINAL
+quod-lib-umich-edu-3131	28	1	iPhone	ORG
+quod-lib-umich-edu-3131	28	2	DC Public Libraries	ORG
+quod-lib-umich-edu-3131	29	1	UCLA	ORG
+quod-lib-umich-edu-3131	29	2	Cornell	ORG
+quod-lib-umich-edu-3131	29	3	hours	TIME
+quod-lib-umich-edu-3131	30	1	XML	ORG
+quod-lib-umich-edu-3131	31	1	Rogers	ORG
+quod-lib-umich-edu-3131	32	1	1,000	CARDINAL
+quod-lib-umich-edu-3131	32	2	the last two years	DATE
+quod-lib-umich-edu-3131	32	3	Rogers	ORG
+quod-lib-umich-edu-3131	35	1	Summon	ORG
+quod-lib-umich-edu-3131	37	1	Rogers	ORG
+quod-lib-umich-edu-3131	40	1	Rogers	ORG
+quod-lib-umich-edu-3131	41	1	Dialog Box Takeaways	WORK_OF_ART
+quod-lib-umich-edu-3131	41	2	SDSU	PERSON
+quod-lib-umich-edu-3131	41	3	One	CARDINAL
+quod-lib-umich-edu-3131	42	1	John M. Pfau Library	PERSON
+quod-lib-umich-edu-3131	42	2	Cal State San Bernardino	ORG
+quod-lib-umich-edu-3131	42	3	iPhone	ORG
+quod-lib-umich-edu-3131	42	4	the John M. Pfau Library	ORG
+quod-lib-umich-edu-3131	42	5	Cal State San Bernardino	FAC
+quod-lib-umich-edu-3131	43	1	Jonathan Smith	PERSON
+quod-lib-umich-edu-3131	43	2	Library Information Technology	ORG
+quod-lib-umich-edu-3131	43	3	Dr. Arturo I. Concepcion	ORG
+quod-lib-umich-edu-3131	43	4	Smith	ORG
+quod-lib-umich-edu-3131	43	5	Android	ORG
+quod-lib-umich-edu-3131	45	1	Jan 8, 2013	DATE
+quod-lib-umich-edu-3131	47	1	one	CARDINAL
+quod-lib-umich-edu-3131	47	2	the Washington Research Libraries Consortium	ORG
+quod-lib-umich-edu-3131	48	1	three	CARDINAL
+quod-lib-umich-edu-3131	48	2	Smith	ORG
+quod-lib-umich-edu-3131	49	1	Jonathan	ORG
+quod-lib-umich-edu-3131	50	1	Smith	ORG
+quod-lib-umich-edu-3131	52	1	Cal State San Bernardino	FAC
+quod-lib-umich-edu-3131	54	1	Cheng Library	PERSON
+quod-lib-umich-edu-3131	54	2	William Paterson University	PERSON
+quod-lib-umich-edu-3131	54	3	WPU	ORG
+quod-lib-umich-edu-3131	54	4	Kurt Wagner	PERSON
+quod-lib-umich-edu-3131	54	5	Cheng Library’s	PERSON
+quod-lib-umich-edu-3131	54	6	Library Information Systems	ORG
+quod-lib-umich-edu-3131	55	1	Boopsie	PERSON
+quod-lib-umich-edu-3131	55	2	one	CARDINAL
+quod-lib-umich-edu-3131	55	3	LibraryLinkNJ	PERSON
+quod-lib-umich-edu-3131	55	4	ALA	GPE
+quod-lib-umich-edu-3131	55	5	2011	DATE
+quod-lib-umich-edu-3131	56	1	Boopsie	ORG
+quod-lib-umich-edu-3131	56	2	Wagner	ORG
+quod-lib-umich-edu-3131	57	1	Cheng	PERSON
+quod-lib-umich-edu-3131	59	1	BookLook	PRODUCT
+quod-lib-umich-edu-3131	61	1	Wagner	ORG
+quod-lib-umich-edu-3131	61	2	the Seattle Public Library	ORG
+quod-lib-umich-edu-3131	61	3	Boopsie	PERSON
+quod-lib-umich-edu-3131	63	1	Cheng Library	PERSON
+quod-lib-umich-edu-3131	63	2	Boopsie	PERSON
+quod-lib-umich-edu-3131	64	1	this past spring	DATE
+quod-lib-umich-edu-3131	65	1	William Paterson University	PERSON
+quod-lib-umich-edu-3131	68	1	William A. Blakley Library	PERSON
+quod-lib-umich-edu-3131	68	2	University of Dallas	ORG
+quod-lib-umich-edu-3131	68	3	The University of Dallas	ORG
+quod-lib-umich-edu-3131	68	4	UD	GPE
+quod-lib-umich-edu-3131	68	5	2013	DATE
+quod-lib-umich-edu-3131	68	6	Mobile Solutions	WORK_OF_ART
+quod-lib-umich-edu-3131	68	7	the Texas State Library and Archives Commission	ORG
+quod-lib-umich-edu-3131	68	8	TSLAC	ORG
+quod-lib-umich-edu-3131	69	1	Cherie Hohertz	PERSON
+quod-lib-umich-edu-3131	69	2	Libraries	GPE
+quod-lib-umich-edu-3131	69	3	UD	GPE
+quod-lib-umich-edu-3131	69	4	Access Services and Systems Librarian	ORG
+quod-lib-umich-edu-3131	70	1	UD	GPE
+quod-lib-umich-edu-3131	71	1	UD	GPE
+quod-lib-umich-edu-3131	72	1	UD	GPE
+quod-lib-umich-edu-3131	73	1	Pieceable	ORG
+quod-lib-umich-edu-3131	74	1	UD	GPE
+quod-lib-umich-edu-3131	74	2	OPAC	ORG
+quod-lib-umich-edu-3131	74	3	hours	TIME
+quod-lib-umich-edu-3131	76	1	SirsiDynex	ORG
+quod-lib-umich-edu-3131	76	2	the Apple Store	ORG
+quod-lib-umich-edu-3131	76	3	UD	GPE
+quod-lib-umich-edu-3131	77	1	the UD Library	ORG
+quod-lib-umich-edu-3131	78	1	about 2,000	CARDINAL
+quod-lib-umich-edu-3131	79	1	UD	GPE
+quod-lib-umich-edu-3131	81	1	University of California, Los Angeles Libraries Simul8	ORG
+quod-lib-umich-edu-3131	81	2	the University of California, Los Angeles	ORG
+quod-lib-umich-edu-3131	81	3	UCLA	ORG
+quod-lib-umich-edu-3131	81	4	Android	ORG
+quod-lib-umich-edu-3131	82	1	Kevin Rundblad	PERSON
+quod-lib-umich-edu-3131	82	2	UX & Social Technology Strategist	ORG
+quod-lib-umich-edu-3131	82	3	UCLA	ORG
+quod-lib-umich-edu-3131	82	4	2009	DATE
+quod-lib-umich-edu-3131	83	1	Stimul8	ORG
+quod-lib-umich-edu-3131	85	1	September 2011	DATE
+quod-lib-umich-edu-3131	89	1	Simul8 Group	ORG
+quod-lib-umich-edu-3131	89	2	Rundblad	GPE
+quod-lib-umich-edu-3131	89	3	Simul8	PERSON
+quod-lib-umich-edu-3131	90	1	Simul8 Group	ORG
+quod-lib-umich-edu-3131	91	1	UCLA	ORG
+quod-lib-umich-edu-3131	91	2	Simul8 Group’s	ORG
+quod-lib-umich-edu-3131	91	3	Facebook	ORG
+quod-lib-umich-edu-3131	91	4	Yahoo	ORG
+quod-lib-umich-edu-3131	91	5	Amazon	ORG
+quod-lib-umich-edu-3131	91	6	Box	ORG
+quod-lib-umich-edu-3131	92	1	9,000	CARDINAL
+quod-lib-umich-edu-3131	92	2	2011	DATE
+quod-lib-umich-edu-3131	93	1	iOS	PERSON
+quod-lib-umich-edu-3131	93	2	October 2014	DATE
+quod-lib-umich-edu-3131	94	1	Box Takeaways	PERSON
+quod-lib-umich-edu-3131	94	2	UCLA Student	ORG
+quod-lib-umich-edu-3131	95	1	Stimul8	PERSON
+quod-lib-umich-edu-3131	96	1	GPS	ORG
+quod-lib-umich-edu-3131	105	1	Responsive	NORP
+quod-lib-umich-edu-3131	112	1	the Apple App Store	ORG
+quod-lib-umich-edu-3131	115	1	Hosted	ORG
+quod-lib-umich-edu-3131	115	2	Michigan Publishing	ORG
+quod-lib-umich-edu-3131	115	3	the University of Michigan Library	ORG
+quod-lib-umich-edu-3131	116	1	ISSN 2333-3316	ORG
+quod-lib-umich-edu-3131	116	2	Twitter Email RSS	ORG
