@@ -2,6 +2,6 @@
 
 ## Welcome
 
-###Team JAMS - Distant explorer
+### Team JAMS - Distant explorer
 
 <hr>
