@@ -13,6 +13,12 @@
 5. Execute - python pip install -r requirements.txt
 6. Execute the flask app using python app.py
 
+### Add new data to the knowledge graph
+1. Call function get_graph(corpus, pos) in graph.py
+  - corpus: corpus name from distant reader
+  - pos: part-of-speech tag
+2. Plot the graph upon the generated .json data with d3 in the web app
+
 <hr>
 
 ### Thank you
