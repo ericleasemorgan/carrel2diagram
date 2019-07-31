@@ -54,7 +54,7 @@
           <ul class="nav navbar-nav">
             <li {% if request.endpoint == 'home' %} class="active" {% endif %}><a href="{{ url_for('home') }}">Home</a></li>
             <li {% if request.endpoint == 'about' %} class="active" {% endif %}><a href="{{ url_for('about') }}">About</a></li>
-            
+
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -82,7 +82,8 @@
 
   <div id="footer">
     <div class="container">
-      <p>Your Company &copy; All Rights Reserved.</p>
+      <p><b>Team JAMS</b></p>
+      <p><b>Mentor:</b> Eric Morgan, <b>Members:</b> Aarushi B., Jiali C., Kaitlin G.(UX), Mel M., Shivam R., </p>
       {% block footer %}{% endblock %}
     </div>
   </div>
