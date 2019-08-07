@@ -17,7 +17,7 @@ Assuming your computer has Bash, Python, and a number of their friends already i
 4. run [`./bin/build.sh`](./bin/build.sh) with the name of the study carrel
 5. use your Web browser to open the newly created file in the `./html` directory
 
-Below are two examples of the visualized output, one from the *Iliad &amp; the Odyssey*, and the other from an scholarly journal called *Ariadne*:
+Below are two examples of the visualized output, one from the *Iliad &amp; the Odyssey*, and the other from a scholarly journal called *Ariadne*:
 
 ![Iliad &amp; Odyssey](./etc/homer.png)
 
@@ -45,11 +45,11 @@ Under the hood, `./bin/build.sh` calls two other scripts: 1) [`./bin/carrel2json
 
 This hack can be (easily) customized in a few ways:
 
-1. First off all, you can change the value of POS found at the top of [`./bin/carrel2json.py`](./bin/carrel2json.py). The value of POS denotes the part-of-speech to extract from each sentence. Sensical values include: NN (nouns), NNP (proper pronouns), and ADJ (adjective). Thus, you can visualized what people are mentioned in the same sentences or what adjectives are used together.
+1. First off all, you can change the value of POS found at the top of [`./bin/carrel2json.py`](./bin/carrel2json.py). The value of POS denotes the part-of-speech to extract from each sentence. Sensical values include: NN (nouns), NNP (proper nouns), and ADJ (adjectives). Thus, you can visualize who or what are mentioned in the same sentences or what adjectives are used together.
 
 2. Second, you can edit the [HTML template](./etc/template.htm). For example, you might make the resulting HTML "responsive."
 
-3. Third, you could make the resulting visualization more usable by editing [`./html/js/knowledge_graph.js`](./html/js/knowledge_graph.js). More specifically, the network diagram (JSON file) is read &amp; rendered by a Javascript library called [D3](https://d3js.org), and `./html/js/knowledge_graph.js` is used to specify characteristics of the visualization. For example, you change the sizes &amp; colors of the diagram's nodes &amp; edges. You could denote the "gravity" between nodes. You could add buttons enabling somebody to navigate in &amp; around the graph.
+3. Third, you could make the resulting visualization more usable by editing [`./html/js/knowledge_graph.js`](./html/js/knowledge_graph.js). More specifically, the network diagram (JSON file) is read &amp; rendered by a Javascript library called [D3](https://d3js.org), and `./html/js/knowledge_graph.js` is used to specify characteristics of the visualization. For example, you could change the sizes &amp; colors of the diagram's nodes &amp; edges. You could denote the "gravity" between nodes. You could add buttons enabling somebody to navigate in &amp; around the graph.
 
 
 ## Future work
@@ -60,9 +60,9 @@ There are at least two things to do:
 
 2. Next, I need/want to integrate this hack into the Distant Reader itself. More specifically, this hack can become one of automatically generated reports.
 
+## Final note
+
 Again, *"Thank you Team JAMS. This has been a lot of fun!"*
-
-
 
 
 --- 
