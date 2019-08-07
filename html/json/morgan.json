@@ -1,0 +1,481 @@
+{
+  "nodes": [
+    {
+      "id": "consistent",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "long",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "such",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "annual",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "secure",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "subject",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "licensed",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "concrete",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "redundant",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "large",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "important",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "expensive",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "available",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wide",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "overall",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "responsible",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "good",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "other",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "open",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "last",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "authoritative",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "same",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "sound",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "top",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "much",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "able",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "interesting",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "local",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "relational",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "difficult",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "digital",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "new",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "second",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "similar",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "technical",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "respected",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "own",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "browsable",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "main",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "resturant",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "electronic",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "username",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sure",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "many",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "robust",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "beneficial",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "next",
+      "group": 1,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "consistent",
+      "target": "wide",
+      "value": 1.0
+    },
+    {
+      "source": "consistent",
+      "target": "difficult",
+      "value": 1.0
+    },
+    {
+      "source": "long",
+      "target": "browsable",
+      "value": 1.0
+    },
+    {
+      "source": "annual",
+      "target": "responsible",
+      "value": 1.0
+    },
+    {
+      "source": "annual",
+      "target": "last",
+      "value": 1.0
+    },
+    {
+      "source": "annual",
+      "target": "second",
+      "value": 1.0
+    },
+    {
+      "source": "secure",
+      "target": "other",
+      "value": 1.0
+    },
+    {
+      "source": "secure",
+      "target": "sound",
+      "value": 1.0
+    },
+    {
+      "source": "secure",
+      "target": "local",
+      "value": 1.0
+    },
+    {
+      "source": "secure",
+      "target": "username",
+      "value": 1.0
+    },
+    {
+      "source": "licensed",
+      "target": "open",
+      "value": 1.0
+    },
+    {
+      "source": "concrete",
+      "target": "same",
+      "value": 1.0
+    },
+    {
+      "source": "concrete",
+      "target": "many",
+      "value": 1.0
+    },
+    {
+      "source": "redundant",
+      "target": "open",
+      "value": 1.0
+    },
+    {
+      "source": "redundant",
+      "target": "technical",
+      "value": 1.0
+    },
+    {
+      "source": "large",
+      "target": "similar",
+      "value": 1.0
+    },
+    {
+      "source": "expensive",
+      "target": "open",
+      "value": 1.0
+    },
+    {
+      "source": "available",
+      "target": "electronic",
+      "value": 1.0
+    },
+    {
+      "source": "wide",
+      "target": "difficult",
+      "value": 1.0
+    },
+    {
+      "source": "responsible",
+      "target": "last",
+      "value": 1.0
+    },
+    {
+      "source": "responsible",
+      "target": "digital",
+      "value": 1.0
+    },
+    {
+      "source": "responsible",
+      "target": "second",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "sound",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "much",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "local",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "digital",
+      "value": 3.0
+    },
+    {
+      "source": "other",
+      "target": "own",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "main",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "resturant",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "username",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "robust",
+      "value": 1.0
+    },
+    {
+      "source": "open",
+      "target": "technical",
+      "value": 1.0
+    },
+    {
+      "source": "last",
+      "target": "second",
+      "value": 1.0
+    },
+    {
+      "source": "authoritative",
+      "target": "respected",
+      "value": 1.0
+    },
+    {
+      "source": "same",
+      "target": "many",
+      "value": 1.0
+    },
+    {
+      "source": "sound",
+      "target": "local",
+      "value": 1.0
+    },
+    {
+      "source": "sound",
+      "target": "username",
+      "value": 1.0
+    },
+    {
+      "source": "much",
+      "target": "digital",
+      "value": 1.0
+    },
+    {
+      "source": "much",
+      "target": "own",
+      "value": 1.0
+    },
+    {
+      "source": "interesting",
+      "target": "own",
+      "value": 1.0
+    },
+    {
+      "source": "local",
+      "target": "username",
+      "value": 1.0
+    },
+    {
+      "source": "relational",
+      "target": "technical",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "own",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "main",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "resturant",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "robust",
+      "value": 1.0
+    },
+    {
+      "source": "main",
+      "target": "resturant",
+      "value": 1.0
+    },
+    {
+      "source": "sure",
+      "target": "beneficial",
+      "value": 1.0
+    }
+  ]
+}

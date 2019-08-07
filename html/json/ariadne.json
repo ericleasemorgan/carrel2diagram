@@ -1,0 +1,741 @@
+{
+  "nodes": [
+    {
+      "id": "daily",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "good",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "social",
+      "group": 1,
+      "size": 13
+    },
+    {
+      "id": "voluntary",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "next",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "national",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "recent",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "digital",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "yearly",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "practical",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "continuous",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "false",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "other",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "initial",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "joint",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "excellent",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "electronic",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "provisional",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "full",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "academic",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "abstract",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "mutual",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "own",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "international",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "institutional",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "main",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "interested",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "economic",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "appropriate",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "first",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "serious",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "common",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "successful",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "regional",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "consolidated",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "bibliographic",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "lis",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "complex",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "online",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "new",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "large",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "general",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "similar",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "key",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "macro",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "last",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "short",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "available",
+      "group": 1,
+      "size": 6
+    },
+    {
+      "id": "further",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "commercial",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "annual",
+      "group": 1,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "good",
+      "target": "social",
+      "value": 1.0
+    },
+    {
+      "source": "good",
+      "target": "initial",
+      "value": 1.0
+    },
+    {
+      "source": "good",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "voluntary",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "practical",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "other",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "initial",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "full",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "academic",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "mutual",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "international",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "main",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "interested",
+      "value": 2.0
+    },
+    {
+      "source": "social",
+      "target": "first",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "available",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "further",
+      "value": 1.0
+    },
+    {
+      "source": "social",
+      "target": "commercial",
+      "value": 1.0
+    },
+    {
+      "source": "voluntary",
+      "target": "academic",
+      "value": 1.0
+    },
+    {
+      "source": "voluntary",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "voluntary",
+      "target": "commercial",
+      "value": 1.0
+    },
+    {
+      "source": "next",
+      "target": "serious",
+      "value": 1.0
+    },
+    {
+      "source": "next",
+      "target": "regional",
+      "value": 1.0
+    },
+    {
+      "source": "next",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "digital",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "continuous",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "other",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "electronic",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "economic",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "successful",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "consolidated",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "online",
+      "value": 2.0
+    },
+    {
+      "source": "national",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "macro",
+      "value": 1.0
+    },
+    {
+      "source": "national",
+      "target": "short",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "continuous",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "other",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "economic",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "online",
+      "value": 1.0
+    },
+    {
+      "source": "digital",
+      "target": "macro",
+      "value": 1.0
+    },
+    {
+      "source": "yearly",
+      "target": "institutional",
+      "value": 1.0
+    },
+    {
+      "source": "yearly",
+      "target": "annual",
+      "value": 1.0
+    },
+    {
+      "source": "practical",
+      "target": "full",
+      "value": 1.0
+    },
+    {
+      "source": "practical",
+      "target": "main",
+      "value": 1.0
+    },
+    {
+      "source": "continuous",
+      "target": "other",
+      "value": 1.0
+    },
+    {
+      "source": "continuous",
+      "target": "economic",
+      "value": 1.0
+    },
+    {
+      "source": "continuous",
+      "target": "online",
+      "value": 1.0
+    },
+    {
+      "source": "continuous",
+      "target": "macro",
+      "value": 1.0
+    },
+    {
+      "source": "false",
+      "target": "excellent",
+      "value": 1.0
+    },
+    {
+      "source": "false",
+      "target": "appropriate",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "economic",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "online",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "similar",
+      "value": 1.0
+    },
+    {
+      "source": "other",
+      "target": "macro",
+      "value": 1.0
+    },
+    {
+      "source": "initial",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "joint",
+      "target": "common",
+      "value": 1.0
+    },
+    {
+      "source": "joint",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "excellent",
+      "target": "appropriate",
+      "value": 1.0
+    },
+    {
+      "source": "electronic",
+      "target": "successful",
+      "value": 1.0
+    },
+    {
+      "source": "electronic",
+      "target": "consolidated",
+      "value": 1.0
+    },
+    {
+      "source": "electronic",
+      "target": "online",
+      "value": 1.0
+    },
+    {
+      "source": "electronic",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "electronic",
+      "target": "short",
+      "value": 1.0
+    },
+    {
+      "source": "provisional",
+      "target": "general",
+      "value": 1.0
+    },
+    {
+      "source": "provisional",
+      "target": "available",
+      "value": 1.0
+    },
+    {
+      "source": "full",
+      "target": "main",
+      "value": 1.0
+    },
+    {
+      "source": "academic",
+      "target": "complex",
+      "value": 1.0
+    },
+    {
+      "source": "academic",
+      "target": "large",
+      "value": 1.0
+    },
+    {
+      "source": "academic",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "academic",
+      "target": "commercial",
+      "value": 1.0
+    },
+    {
+      "source": "mutual",
+      "target": "further",
+      "value": 1.0
+    },
+    {
+      "source": "own",
+      "target": "lis",
+      "value": 1.0
+    },
+    {
+      "source": "international",
+      "target": "first",
+      "value": 1.0
+    },
+    {
+      "source": "institutional",
+      "target": "annual",
+      "value": 1.0
+    },
+    {
+      "source": "economic",
+      "target": "online",
+      "value": 1.0
+    },
+    {
+      "source": "economic",
+      "target": "macro",
+      "value": 1.0
+    },
+    {
+      "source": "serious",
+      "target": "regional",
+      "value": 1.0
+    },
+    {
+      "source": "serious",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "common",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "successful",
+      "target": "consolidated",
+      "value": 1.0
+    },
+    {
+      "source": "successful",
+      "target": "online",
+      "value": 1.0
+    },
+    {
+      "source": "successful",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "successful",
+      "target": "short",
+      "value": 1.0
+    },
+    {
+      "source": "regional",
+      "target": "new",
+      "value": 1.0
+    },
+    {
+      "source": "consolidated",
+      "target": "online",
+      "value": 1.0
+    },
+    {
+      "source": "consolidated",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "consolidated",
+      "target": "short",
+      "value": 1.0
+    },
+    {
+      "source": "bibliographic",
+      "target": "available",
+      "value": 1.0
+    },
+    {
+      "source": "complex",
+      "target": "large",
+      "value": 1.0
+    },
+    {
+      "source": "online",
+      "target": "key",
+      "value": 1.0
+    },
+    {
+      "source": "online",
+      "target": "macro",
+      "value": 1.0
+    },
+    {
+      "source": "online",
+      "target": "short",
+      "value": 1.0
+    },
+    {
+      "source": "general",
+      "target": "available",
+      "value": 1.0
+    },
+    {
+      "source": "key",
+      "target": "short",
+      "value": 1.0
+    },
+    {
+      "source": "key",
+      "target": "commercial",
+      "value": 1.0
+    }
+  ]
+}

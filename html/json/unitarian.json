@@ -1,0 +1,1596 @@
+{
+  "nodes": [
+    {
+      "id": "view",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "survey",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "entreat",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "attend",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "say",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "return",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "justify",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "compare",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "be",
+      "group": 1,
+      "size": 34
+    },
+    {
+      "id": "appear",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "understand",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "use",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sway",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "hear",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "endeavor",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "afford",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "try",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "place",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "review",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "tain",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "receive",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "take",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "promote",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "comprehend",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "cease",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "exceed",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "enlighten",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "repose",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "consent",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "triumph",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "see",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "answer",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "inherit",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "will",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "preach",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "develope",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "pardon",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "attain",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "let",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "produce",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "judge",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "perceive",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "encourage",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "practise",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "excuse",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "make",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "pray",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "enable",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "punish",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "write",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "escape",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "dwell",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "reside",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "continue",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "do",
+      "group": 1,
+      "size": 7
+    },
+    {
+      "id": "grant",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "reclaim",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "guide",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wish",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "teach",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "extend",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "render",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "find",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "stay",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "agree",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "converse",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "doubt",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "patronise",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "mention",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "read",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "keep",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "suppose",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "travel",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "ask",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "know",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "admit",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "perform",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "approve",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "state",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "preserve",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "differ",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "adopt",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "speak",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "equal",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "aid",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "work",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "contribute",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "overlook",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shrink",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "notice",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "bear",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "affect",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "think",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "believe",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "enumerate",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "induce",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "publish",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "support",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "permit",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "seek",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "give",
+      "group": 1,
+      "size": 6
+    },
+    {
+      "id": "consider",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "associate",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "have",
+      "group": 1,
+      "size": 6
+    },
+    {
+      "id": "wear",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "persuade",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "present",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "advise",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "acquire",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "occur",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "obtain",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "look",
+      "group": 1,
+      "size": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "view",
+      "target": "doubt",
+      "value": 1.0
+    },
+    {
+      "source": "survey",
+      "target": "place",
+      "value": 1.0
+    },
+    {
+      "source": "survey",
+      "target": "let",
+      "value": 1.0
+    },
+    {
+      "source": "survey",
+      "target": "ask",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "be",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "review",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "enlighten",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "attain",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "guide",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "contribute",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "permit",
+      "value": 1.0
+    },
+    {
+      "source": "entreat",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "attend",
+      "target": "converse",
+      "value": 1.0
+    },
+    {
+      "source": "say",
+      "target": "take",
+      "value": 1.0
+    },
+    {
+      "source": "say",
+      "target": "state",
+      "value": 1.0
+    },
+    {
+      "source": "say",
+      "target": "bear",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "pardon",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "render",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "preserve",
+      "value": 1.0
+    },
+    {
+      "source": "justify",
+      "target": "afford",
+      "value": 1.0
+    },
+    {
+      "source": "justify",
+      "target": "perform",
+      "value": 1.0
+    },
+    {
+      "source": "compare",
+      "target": "see",
+      "value": 2.0
+    },
+    {
+      "source": "be",
+      "target": "appear",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "endeavor",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "afford",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "review",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "tain",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "take",
+      "value": 4.0
+    },
+    {
+      "source": "be",
+      "target": "promote",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "cease",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "enlighten",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "repose",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "attain",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "let",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "produce",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "pray",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "punish",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "do",
+      "value": 2.0
+    },
+    {
+      "source": "be",
+      "target": "grant",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "guide",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "teach",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "read",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "travel",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "know",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "adopt",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "equal",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "contribute",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "notice",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "think",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "permit",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "seek",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "give",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "consider",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "associate",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "wear",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "advise",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "occur",
+      "value": 1.0
+    },
+    {
+      "source": "be",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "appear",
+      "target": "understand",
+      "value": 1.0
+    },
+    {
+      "source": "appear",
+      "target": "repose",
+      "value": 1.0
+    },
+    {
+      "source": "appear",
+      "target": "practise",
+      "value": 1.0
+    },
+    {
+      "source": "appear",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "appear",
+      "target": "mention",
+      "value": 1.0
+    },
+    {
+      "source": "understand",
+      "target": "practise",
+      "value": 1.0
+    },
+    {
+      "source": "understand",
+      "target": "mention",
+      "value": 1.0
+    },
+    {
+      "source": "use",
+      "target": "perceive",
+      "value": 1.0
+    },
+    {
+      "source": "use",
+      "target": "wish",
+      "value": 1.0
+    },
+    {
+      "source": "sway",
+      "target": "shrink",
+      "value": 1.0
+    },
+    {
+      "source": "sway",
+      "target": "have",
+      "value": 1.0
+    },
+    {
+      "source": "hear",
+      "target": "see",
+      "value": 1.0
+    },
+    {
+      "source": "hear",
+      "target": "judge",
+      "value": 1.0
+    },
+    {
+      "source": "hear",
+      "target": "read",
+      "value": 1.0
+    },
+    {
+      "source": "endeavor",
+      "target": "promote",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "take",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "produce",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "perform",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "adopt",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "think",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "wear",
+      "value": 1.0
+    },
+    {
+      "source": "afford",
+      "target": "occur",
+      "value": 1.0
+    },
+    {
+      "source": "try",
+      "target": "let",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "let",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "ask",
+      "value": 1.0
+    },
+    {
+      "source": "review",
+      "target": "enlighten",
+      "value": 1.0
+    },
+    {
+      "source": "review",
+      "target": "attain",
+      "value": 1.0
+    },
+    {
+      "source": "review",
+      "target": "guide",
+      "value": 1.0
+    },
+    {
+      "source": "review",
+      "target": "contribute",
+      "value": 1.0
+    },
+    {
+      "source": "review",
+      "target": "permit",
+      "value": 1.0
+    },
+    {
+      "source": "review",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "tain",
+      "target": "take",
+      "value": 1.0
+    },
+    {
+      "source": "tain",
+      "target": "pray",
+      "value": 1.0
+    },
+    {
+      "source": "tain",
+      "target": "equal",
+      "value": 1.0
+    },
+    {
+      "source": "receive",
+      "target": "admit",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "produce",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "pray",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "adopt",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "equal",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "think",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "wear",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "occur",
+      "value": 1.0
+    },
+    {
+      "source": "cease",
+      "target": "see",
+      "value": 1.0
+    },
+    {
+      "source": "cease",
+      "target": "let",
+      "value": 2.0
+    },
+    {
+      "source": "cease",
+      "target": "write",
+      "value": 1.0
+    },
+    {
+      "source": "cease",
+      "target": "speak",
+      "value": 1.0
+    },
+    {
+      "source": "enlighten",
+      "target": "attain",
+      "value": 1.0
+    },
+    {
+      "source": "enlighten",
+      "target": "guide",
+      "value": 1.0
+    },
+    {
+      "source": "enlighten",
+      "target": "contribute",
+      "value": 1.0
+    },
+    {
+      "source": "enlighten",
+      "target": "permit",
+      "value": 1.0
+    },
+    {
+      "source": "enlighten",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "repose",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "see",
+      "target": "let",
+      "value": 1.0
+    },
+    {
+      "source": "see",
+      "target": "judge",
+      "value": 1.0
+    },
+    {
+      "source": "see",
+      "target": "write",
+      "value": 1.0
+    },
+    {
+      "source": "see",
+      "target": "read",
+      "value": 1.0
+    },
+    {
+      "source": "see",
+      "target": "speak",
+      "value": 1.0
+    },
+    {
+      "source": "answer",
+      "target": "pardon",
+      "value": 1.0
+    },
+    {
+      "source": "answer",
+      "target": "enable",
+      "value": 1.0
+    },
+    {
+      "source": "answer",
+      "target": "render",
+      "value": 1.0
+    },
+    {
+      "source": "answer",
+      "target": "preserve",
+      "value": 1.0
+    },
+    {
+      "source": "answer",
+      "target": "acquire",
+      "value": 1.0
+    },
+    {
+      "source": "inherit",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "inherit",
+      "target": "speak",
+      "value": 1.0
+    },
+    {
+      "source": "will",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "will",
+      "target": "work",
+      "value": 1.0
+    },
+    {
+      "source": "preach",
+      "target": "make",
+      "value": 1.0
+    },
+    {
+      "source": "develope",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "pardon",
+      "target": "render",
+      "value": 1.0
+    },
+    {
+      "source": "pardon",
+      "target": "preserve",
+      "value": 1.0
+    },
+    {
+      "source": "attain",
+      "target": "guide",
+      "value": 1.0
+    },
+    {
+      "source": "attain",
+      "target": "contribute",
+      "value": 1.0
+    },
+    {
+      "source": "attain",
+      "target": "permit",
+      "value": 1.0
+    },
+    {
+      "source": "attain",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "let",
+      "target": "write",
+      "value": 2.0
+    },
+    {
+      "source": "let",
+      "target": "read",
+      "value": 1.0
+    },
+    {
+      "source": "let",
+      "target": "ask",
+      "value": 1.0
+    },
+    {
+      "source": "let",
+      "target": "speak",
+      "value": 2.0
+    },
+    {
+      "source": "let",
+      "target": "associate",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "make",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "do",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "adopt",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "affect",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "think",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "wear",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "persuade",
+      "value": 1.0
+    },
+    {
+      "source": "produce",
+      "target": "occur",
+      "value": 1.0
+    },
+    {
+      "source": "judge",
+      "target": "read",
+      "value": 1.0
+    },
+    {
+      "source": "perceive",
+      "target": "wish",
+      "value": 1.0
+    },
+    {
+      "source": "practise",
+      "target": "mention",
+      "value": 1.0
+    },
+    {
+      "source": "excuse",
+      "target": "escape",
+      "value": 1.0
+    },
+    {
+      "source": "excuse",
+      "target": "present",
+      "value": 1.0
+    },
+    {
+      "source": "make",
+      "target": "affect",
+      "value": 1.0
+    },
+    {
+      "source": "make",
+      "target": "persuade",
+      "value": 1.0
+    },
+    {
+      "source": "pray",
+      "target": "equal",
+      "value": 1.0
+    },
+    {
+      "source": "enable",
+      "target": "acquire",
+      "value": 1.0
+    },
+    {
+      "source": "write",
+      "target": "speak",
+      "value": 1.0
+    },
+    {
+      "source": "escape",
+      "target": "present",
+      "value": 1.0
+    },
+    {
+      "source": "dwell",
+      "target": "read",
+      "value": 1.0
+    },
+    {
+      "source": "dwell",
+      "target": "know",
+      "value": 1.0
+    },
+    {
+      "source": "reside",
+      "target": "consider",
+      "value": 1.0
+    },
+    {
+      "source": "reside",
+      "target": "have",
+      "value": 1.0
+    },
+    {
+      "source": "continue",
+      "target": "have",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "adopt",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "speak",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "work",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "think",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "give",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "wear",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "occur",
+      "value": 1.0
+    },
+    {
+      "source": "do",
+      "target": "obtain",
+      "value": 1.0
+    },
+    {
+      "source": "grant",
+      "target": "seek",
+      "value": 1.0
+    },
+    {
+      "source": "guide",
+      "target": "contribute",
+      "value": 1.0
+    },
+    {
+      "source": "guide",
+      "target": "permit",
+      "value": 1.0
+    },
+    {
+      "source": "guide",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "teach",
+      "target": "find",
+      "value": 1.0
+    },
+    {
+      "source": "teach",
+      "target": "stay",
+      "value": 1.0
+    },
+    {
+      "source": "extend",
+      "target": "doubt",
+      "value": 1.0
+    },
+    {
+      "source": "extend",
+      "target": "have",
+      "value": 1.0
+    },
+    {
+      "source": "render",
+      "target": "preserve",
+      "value": 1.0
+    },
+    {
+      "source": "find",
+      "target": "stay",
+      "value": 1.0
+    },
+    {
+      "source": "find",
+      "target": "differ",
+      "value": 1.0
+    },
+    {
+      "source": "agree",
+      "target": "notice",
+      "value": 1.0
+    },
+    {
+      "source": "doubt",
+      "target": "have",
+      "value": 1.0
+    },
+    {
+      "source": "read",
+      "target": "know",
+      "value": 1.0
+    },
+    {
+      "source": "read",
+      "target": "associate",
+      "value": 1.0
+    },
+    {
+      "source": "state",
+      "target": "bear",
+      "value": 1.0
+    },
+    {
+      "source": "adopt",
+      "target": "think",
+      "value": 1.0
+    },
+    {
+      "source": "adopt",
+      "target": "wear",
+      "value": 1.0
+    },
+    {
+      "source": "adopt",
+      "target": "occur",
+      "value": 1.0
+    },
+    {
+      "source": "aid",
+      "target": "contribute",
+      "value": 1.0
+    },
+    {
+      "source": "aid",
+      "target": "support",
+      "value": 1.0
+    },
+    {
+      "source": "contribute",
+      "target": "support",
+      "value": 1.0
+    },
+    {
+      "source": "contribute",
+      "target": "permit",
+      "value": 1.0
+    },
+    {
+      "source": "contribute",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "shrink",
+      "target": "have",
+      "value": 1.0
+    },
+    {
+      "source": "affect",
+      "target": "persuade",
+      "value": 1.0
+    },
+    {
+      "source": "think",
+      "target": "wear",
+      "value": 1.0
+    },
+    {
+      "source": "think",
+      "target": "occur",
+      "value": 1.0
+    },
+    {
+      "source": "induce",
+      "target": "give",
+      "value": 1.0
+    },
+    {
+      "source": "publish",
+      "target": "give",
+      "value": 1.0
+    },
+    {
+      "source": "permit",
+      "target": "look",
+      "value": 1.0
+    },
+    {
+      "source": "give",
+      "target": "obtain",
+      "value": 1.0
+    },
+    {
+      "source": "consider",
+      "target": "have",
+      "value": 1.0
+    },
+    {
+      "source": "wear",
+      "target": "occur",
+      "value": 1.0
+    }
+  ]
+}

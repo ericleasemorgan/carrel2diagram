@@ -1,0 +1,8366 @@
+{
+  "nodes": [
+    {
+      "id": "horn",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shield",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "mischief",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "success",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "crowd",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "hillside",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "back",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "point",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "fighting",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "iron",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sweat",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "mother",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "ereuthalion",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "reach",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "panting",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "crest",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "driver",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "bow",
+      "group": 1,
+      "size": 7
+    },
+    {
+      "id": "attack",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sthenelus",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "rear",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "tomb",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "guile",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "hero",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "discord",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "poplar",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "envoy",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "worker",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "age",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "warrior",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "stead",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "day",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "land",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "spiritless",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "valour",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "boar",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wait",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "earth",
+      "group": 1,
+      "size": 7
+    },
+    {
+      "id": "nothing",
+      "group": 1,
+      "size": 6
+    },
+    {
+      "id": "boot",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "quiver",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "chariot",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "ground",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "leg",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "readiness",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "host",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "truth",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "workmanship",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "language",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "mail",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "triumph",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "helper",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "place",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "axe",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "thereon",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "face",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shepherd",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "oath",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "arrow",
+      "group": 1,
+      "size": 16
+    },
+    {
+      "id": "lord",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "hair",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "army",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "chest",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "toil",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "pitch",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "stone",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "way",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "champion",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "table",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "breast",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "throne",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "case",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "aim",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "man",
+      "group": 1,
+      "size": 11
+    },
+    {
+      "id": "haste",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "din",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "rock",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "trust",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "speech",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "combat",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "foam",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "funeral",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "fool",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "flock",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "need",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "middle",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "trusty",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "bleating",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "quarrel",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "corslet",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "side",
+      "group": 1,
+      "size": 9
+    },
+    {
+      "id": "dart",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "post",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "might",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "floor",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "whereon",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "tuft",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "temple",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "ornament",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "talthybius",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "cup",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "roast",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "battle",
+      "group": 1,
+      "size": 11
+    },
+    {
+      "id": "house",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "daughter",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "slain",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "woman",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "charge",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "harm",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "roaring",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "salt",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "offing",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "surgeon",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "hand",
+      "group": 1,
+      "size": 7
+    },
+    {
+      "id": "train",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "peace",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "gold",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "god",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "feast",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "flockmaster",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wind",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "rage",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "covenant",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "cunning",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "fear",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wheelwright",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "felloe",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shirking",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "bastard",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "mankind",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "lot",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "journey",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sword",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "onset",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "return",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "part",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "sky",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "comrade",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "son",
+      "group": 1,
+      "size": 30
+    },
+    {
+      "id": "wound",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "fat",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "hold",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "fray",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sun",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "savour",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "neighbour",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "pain",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wake",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "foot",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "danger",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "throng",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "nipple",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "destruction",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "knight",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "cry",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "shoulder",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "helmet",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "bowstring",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "bossed",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "lid",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wave",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "contention",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sign",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "groin",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "concert",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "head",
+      "group": 1,
+      "size": 6
+    },
+    {
+      "id": "saying",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "string",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "nectar",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "horse",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "number",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "friend",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "forehead",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "king",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "home",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "fate",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "metal",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "blood",
+      "group": 1,
+      "size": 6
+    },
+    {
+      "id": "piercing",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "vow",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shame",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "clamour",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "counsel",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "rest",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "dear",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "race",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "pyre",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "take",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "punishment",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "dismay",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "ring",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "bronze",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "whirlwind",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "ill",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "brink",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "darkness",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "ancle",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "armour",
+      "group": 1,
+      "size": 7
+    },
+    {
+      "id": "banquet",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "darts",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "vengeance",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "everything",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "purpose",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "oxhide",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wielding",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "hecatomb",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "fault",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "father",
+      "group": 1,
+      "size": 6
+    },
+    {
+      "id": "front",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "rank",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "trouble",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "thread",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "scatheless",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "circle",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "passion",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "brother",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "herd",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "horsemanship",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "rearing",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "obedience",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "prince",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "belt",
+      "group": 1,
+      "size": 8
+    },
+    {
+      "id": "fight",
+      "group": 1,
+      "size": 7
+    },
+    {
+      "id": "moan",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "light",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "spoil",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "foe",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "captain",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "tongue",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "matter",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "press",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wheel",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "answer",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "shaft",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "honour",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "beach",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "fellowship",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "horrid",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "war",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "meteor",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "waxing",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "tower",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "speaker",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shout",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "vain",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "dye",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "town",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "victory",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "cuirass",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "bleat",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "treasure",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "course",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "fly",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "top",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "company",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "lead",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "body",
+      "group": 1,
+      "size": 8
+    },
+    {
+      "id": "skin",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "confusion",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "invitation",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "glory",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "aegis",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "mind",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shod",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sister",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sire",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "waterside",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "physician",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "treachery",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "force",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "time",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "west",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "mass",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "folly",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "notch",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "city",
+      "group": 1,
+      "size": 10
+    },
+    {
+      "id": "form",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sorrow",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "anger",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "ibex",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "sigh",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "gorge",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "guest",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "strength",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "stature",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "storm",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "council",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "deer",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "word",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "wall",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "uproar",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "awe",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "tramp",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "foremost",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "brow",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "help",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "march",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wine",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "meadow",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "will",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "archer",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "child",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "shore",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "fury",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "wife",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "ivory",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "meaning",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "enemy",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "spear",
+      "group": 1,
+      "size": 12
+    },
+    {
+      "id": "rain",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "youth",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "simoeisius",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "judgment",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "right",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "belly",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "death",
+      "group": 1,
+      "size": 5
+    },
+    {
+      "id": "none",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "whit",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "bone",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "urge",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "heart",
+      "group": 1,
+      "size": 8
+    },
+    {
+      "id": "fill",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "allowance",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "rebuke",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "distinction",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "discontent",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "altar",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "slaughter",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "work",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "piece",
+      "group": 1,
+      "size": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "horn",
+      "target": "bow",
+      "value": 1.0
+    },
+    {
+      "source": "horn",
+      "target": "worker",
+      "value": 1.0
+    },
+    {
+      "source": "horn",
+      "target": "gold",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "place",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "pitch",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "flock",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "post",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "battle",
+      "value": 2.0
+    },
+    {
+      "source": "shield",
+      "target": "offing",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "rage",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "whirlwind",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "herd",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "shield",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "mischief",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "mischief",
+      "target": "discontent",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "hero",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "wait",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "man",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "journey",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "return",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "success",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "rear",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "boar",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "corslet",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "comrade",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "hold",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "groin",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "crowd",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "shepherd",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "toil",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "roaring",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "course",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "gorge",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "uproar",
+      "value": 1.0
+    },
+    {
+      "source": "hillside",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "back",
+      "target": "ground",
+      "value": 1.0
+    },
+    {
+      "source": "back",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "reach",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "chest",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "haste",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "temple",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "part",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "comrade",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "nipple",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "helmet",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "forehead",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "bronze",
+      "value": 2.0
+    },
+    {
+      "source": "point",
+      "target": "darkness",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "point",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "point",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "man",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "hand",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "feast",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "cry",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "scatheless",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "invitation",
+      "value": 1.0
+    },
+    {
+      "source": "fighting",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "iron",
+      "target": "stone",
+      "value": 1.0
+    },
+    {
+      "source": "iron",
+      "target": "harm",
+      "value": 1.0
+    },
+    {
+      "source": "sweat",
+      "target": "nothing",
+      "value": 2.0
+    },
+    {
+      "source": "sweat",
+      "target": "trouble",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "arrow",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "part",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "belt",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "cuirass",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "fly",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "skin",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "child",
+      "value": 1.0
+    },
+    {
+      "source": "mother",
+      "target": "youth",
+      "value": 1.0
+    },
+    {
+      "source": "ereuthalion",
+      "target": "man",
+      "value": 1.0
+    },
+    {
+      "source": "ereuthalion",
+      "target": "knight",
+      "value": 1.0
+    },
+    {
+      "source": "ereuthalion",
+      "target": "everything",
+      "value": 1.0
+    },
+    {
+      "source": "ereuthalion",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "haste",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "part",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "helmet",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "darkness",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "reach",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "panting",
+      "target": "chariot",
+      "value": 1.0
+    },
+    {
+      "source": "panting",
+      "target": "readiness",
+      "value": 1.0
+    },
+    {
+      "source": "panting",
+      "target": "charge",
+      "value": 1.0
+    },
+    {
+      "source": "panting",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "panting",
+      "target": "foot",
+      "value": 1.0
+    },
+    {
+      "source": "panting",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "panting",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "foam",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "salt",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "wind",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "wave",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "beach",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "crest",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "arrow",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "ornament",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "daughter",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "woman",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "knight",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "horse",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "king",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "piercing",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "spoil",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "dye",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "treasure",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "driver",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "worker",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "ground",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "arrow",
+      "value": 3.0
+    },
+    {
+      "source": "bow",
+      "target": "breast",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "case",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "rock",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "fool",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "gold",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "throng",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "bowstring",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "string",
+      "value": 2.0
+    },
+    {
+      "source": "bow",
+      "target": "oxhide",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "circle",
+      "value": 2.0
+    },
+    {
+      "source": "bow",
+      "target": "notch",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "ibex",
+      "value": 1.0
+    },
+    {
+      "source": "bow",
+      "target": "heart",
+      "value": 2.0
+    },
+    {
+      "source": "attack",
+      "target": "chariot",
+      "value": 1.0
+    },
+    {
+      "source": "attack",
+      "target": "man",
+      "value": 1.0
+    },
+    {
+      "source": "attack",
+      "target": "horsemanship",
+      "value": 1.0
+    },
+    {
+      "source": "attack",
+      "target": "strength",
+      "value": 1.0
+    },
+    {
+      "source": "attack",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "attack",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "sthenelus",
+      "target": "chariot",
+      "value": 1.0
+    },
+    {
+      "source": "sthenelus",
+      "target": "whereon",
+      "value": 1.0
+    },
+    {
+      "source": "sthenelus",
+      "target": "son",
+      "value": 2.0
+    },
+    {
+      "source": "rear",
+      "target": "boar",
+      "value": 1.0
+    },
+    {
+      "source": "rear",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "rear",
+      "target": "rank",
+      "value": 1.0
+    },
+    {
+      "source": "tomb",
+      "target": "land",
+      "value": 1.0
+    },
+    {
+      "source": "tomb",
+      "target": "army",
+      "value": 1.0
+    },
+    {
+      "source": "tomb",
+      "target": "vengeance",
+      "value": 1.0
+    },
+    {
+      "source": "tomb",
+      "target": "vain",
+      "value": 1.0
+    },
+    {
+      "source": "guile",
+      "target": "cunning",
+      "value": 1.0
+    },
+    {
+      "source": "guile",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "wait",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "man",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "journey",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "return",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "hero",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "discord",
+      "target": "hand",
+      "value": 1.0
+    },
+    {
+      "source": "discord",
+      "target": "waxing",
+      "value": 1.0
+    },
+    {
+      "source": "discord",
+      "target": "sorrow",
+      "value": 1.0
+    },
+    {
+      "source": "poplar",
+      "target": "breast",
+      "value": 1.0
+    },
+    {
+      "source": "poplar",
+      "target": "nipple",
+      "value": 1.0
+    },
+    {
+      "source": "poplar",
+      "target": "shoulder",
+      "value": 1.0
+    },
+    {
+      "source": "poplar",
+      "target": "rearing",
+      "value": 1.0
+    },
+    {
+      "source": "poplar",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "poplar",
+      "target": "meadow",
+      "value": 1.0
+    },
+    {
+      "source": "poplar",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "envoy",
+      "target": "house",
+      "value": 1.0
+    },
+    {
+      "source": "envoy",
+      "target": "banquet",
+      "value": 1.0
+    },
+    {
+      "source": "worker",
+      "target": "gold",
+      "value": 1.0
+    },
+    {
+      "source": "age",
+      "target": "hand",
+      "value": 1.0
+    },
+    {
+      "source": "age",
+      "target": "mankind",
+      "value": 1.0
+    },
+    {
+      "source": "age",
+      "target": "strength",
+      "value": 1.0
+    },
+    {
+      "source": "age",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "age",
+      "target": "judgment",
+      "value": 1.0
+    },
+    {
+      "source": "warrior",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "workmanship",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "arrow",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "wound",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "belt",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "cuirass",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "stead",
+      "target": "skin",
+      "value": 2.0
+    },
+    {
+      "source": "day",
+      "target": "earth",
+      "value": 1.0
+    },
+    {
+      "source": "day",
+      "target": "face",
+      "value": 1.0
+    },
+    {
+      "source": "day",
+      "target": "throne",
+      "value": 1.0
+    },
+    {
+      "source": "day",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "day",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "day",
+      "target": "punishment",
+      "value": 1.0
+    },
+    {
+      "source": "day",
+      "target": "aegis",
+      "value": 1.0
+    },
+    {
+      "source": "day",
+      "target": "treachery",
+      "value": 1.0
+    },
+    {
+      "source": "land",
+      "target": "army",
+      "value": 1.0
+    },
+    {
+      "source": "land",
+      "target": "vengeance",
+      "value": 1.0
+    },
+    {
+      "source": "land",
+      "target": "vain",
+      "value": 1.0
+    },
+    {
+      "source": "spiritless",
+      "target": "deer",
+      "value": 1.0
+    },
+    {
+      "source": "boar",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "wait",
+      "target": "man",
+      "value": 1.0
+    },
+    {
+      "source": "wait",
+      "target": "journey",
+      "value": 1.0
+    },
+    {
+      "source": "wait",
+      "target": "return",
+      "value": 1.0
+    },
+    {
+      "source": "wait",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "wait",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "wait",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "wait",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "triumph",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "face",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "slain",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "cry",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "bossed",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "friend",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "purpose",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "shout",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "glory",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "sister",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "tramp",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "fury",
+      "value": 1.0
+    },
+    {
+      "source": "earth",
+      "target": "simoeisius",
+      "value": 1.0
+    },
+    {
+      "source": "nothing",
+      "target": "boot",
+      "value": 1.0
+    },
+    {
+      "source": "nothing",
+      "target": "ill",
+      "value": 1.0
+    },
+    {
+      "source": "nothing",
+      "target": "father",
+      "value": 1.0
+    },
+    {
+      "source": "nothing",
+      "target": "trouble",
+      "value": 1.0
+    },
+    {
+      "source": "nothing",
+      "target": "passion",
+      "value": 1.0
+    },
+    {
+      "source": "nothing",
+      "target": "work",
+      "value": 1.0
+    },
+    {
+      "source": "quiver",
+      "target": "arrow",
+      "value": 1.0
+    },
+    {
+      "source": "quiver",
+      "target": "lid",
+      "value": 1.0
+    },
+    {
+      "source": "quiver",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "readiness",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "axe",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "man",
+      "value": 2.0
+    },
+    {
+      "source": "chariot",
+      "target": "whereon",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "charge",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "wheelwright",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "felloe",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "son",
+      "value": 3.0
+    },
+    {
+      "source": "chariot",
+      "target": "foot",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "horsemanship",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "wheel",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "waterside",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "strength",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "chariot",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "ground",
+      "target": "daughter",
+      "value": 1.0
+    },
+    {
+      "source": "ground",
+      "target": "king",
+      "value": 1.0
+    },
+    {
+      "source": "ground",
+      "target": "darkness",
+      "value": 2.0
+    },
+    {
+      "source": "ground",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "ground",
+      "target": "wife",
+      "value": 1.0
+    },
+    {
+      "source": "ground",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "ground",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "ground",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "leg",
+      "target": "stone",
+      "value": 1.0
+    },
+    {
+      "source": "leg",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "leg",
+      "target": "fate",
+      "value": 1.0
+    },
+    {
+      "source": "leg",
+      "target": "ancle",
+      "value": 1.0
+    },
+    {
+      "source": "readiness",
+      "target": "charge",
+      "value": 1.0
+    },
+    {
+      "source": "readiness",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "readiness",
+      "target": "foot",
+      "value": 1.0
+    },
+    {
+      "source": "readiness",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "readiness",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "place",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "man",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "talthybius",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "daughter",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "god",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "sun",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "circle",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "word",
+      "value": 1.0
+    },
+    {
+      "source": "host",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "truth",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "truth",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "truth",
+      "target": "rebuke",
+      "value": 1.0
+    },
+    {
+      "source": "workmanship",
+      "target": "arrow",
+      "value": 1.0
+    },
+    {
+      "source": "workmanship",
+      "target": "wound",
+      "value": 1.0
+    },
+    {
+      "source": "workmanship",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "workmanship",
+      "target": "belt",
+      "value": 1.0
+    },
+    {
+      "source": "workmanship",
+      "target": "cuirass",
+      "value": 1.0
+    },
+    {
+      "source": "workmanship",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "workmanship",
+      "target": "skin",
+      "value": 1.0
+    },
+    {
+      "source": "language",
+      "target": "speech",
+      "value": 1.0
+    },
+    {
+      "source": "language",
+      "target": "bleating",
+      "value": 1.0
+    },
+    {
+      "source": "language",
+      "target": "flockmaster",
+      "value": 1.0
+    },
+    {
+      "source": "language",
+      "target": "clamour",
+      "value": 1.0
+    },
+    {
+      "source": "language",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "language",
+      "target": "bleat",
+      "value": 1.0
+    },
+    {
+      "source": "mail",
+      "target": "arrow",
+      "value": 1.0
+    },
+    {
+      "source": "mail",
+      "target": "part",
+      "value": 1.0
+    },
+    {
+      "source": "mail",
+      "target": "wound",
+      "value": 1.0
+    },
+    {
+      "source": "mail",
+      "target": "metal",
+      "value": 1.0
+    },
+    {
+      "source": "mail",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "mail",
+      "target": "belt",
+      "value": 2.0
+    },
+    {
+      "source": "mail",
+      "target": "cuirass",
+      "value": 2.0
+    },
+    {
+      "source": "mail",
+      "target": "will",
+      "value": 1.0
+    },
+    {
+      "source": "mail",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "triumph",
+      "target": "slain",
+      "value": 1.0
+    },
+    {
+      "source": "triumph",
+      "target": "cry",
+      "value": 1.0
+    },
+    {
+      "source": "triumph",
+      "target": "bossed",
+      "value": 1.0
+    },
+    {
+      "source": "triumph",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "triumph",
+      "target": "shout",
+      "value": 1.0
+    },
+    {
+      "source": "triumph",
+      "target": "tramp",
+      "value": 1.0
+    },
+    {
+      "source": "helper",
+      "target": "onset",
+      "value": 1.0
+    },
+    {
+      "source": "helper",
+      "target": "father",
+      "value": 1.0
+    },
+    {
+      "source": "helper",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "helper",
+      "target": "whit",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "way",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "battle",
+      "value": 2.0
+    },
+    {
+      "source": "place",
+      "target": "rage",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "circle",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "place",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "axe",
+      "target": "wheelwright",
+      "value": 1.0
+    },
+    {
+      "source": "axe",
+      "target": "felloe",
+      "value": 1.0
+    },
+    {
+      "source": "axe",
+      "target": "wheel",
+      "value": 1.0
+    },
+    {
+      "source": "axe",
+      "target": "waterside",
+      "value": 1.0
+    },
+    {
+      "source": "face",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "toil",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "roaring",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "speaker",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "course",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "company",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "gorge",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "uproar",
+      "value": 1.0
+    },
+    {
+      "source": "shepherd",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "oath",
+      "target": "trust",
+      "value": 1.0
+    },
+    {
+      "source": "oath",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "oath",
+      "target": "fellowship",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "breast",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "rock",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "speech",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "funeral",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "middle",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "quarrel",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "daughter",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "hand",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "part",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "wound",
+      "value": 3.0
+    },
+    {
+      "source": "arrow",
+      "target": "throng",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "bowstring",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "lid",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "head",
+      "value": 3.0
+    },
+    {
+      "source": "arrow",
+      "target": "string",
+      "value": 3.0
+    },
+    {
+      "source": "arrow",
+      "target": "metal",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "blood",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "piercing",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "pyre",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "dismay",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "ring",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "oxhide",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "hecatomb",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "thread",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "circle",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "prince",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "belt",
+      "value": 5.0
+    },
+    {
+      "source": "arrow",
+      "target": "spoil",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "shaft",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "honour",
+      "value": 3.0
+    },
+    {
+      "source": "arrow",
+      "target": "cuirass",
+      "value": 3.0
+    },
+    {
+      "source": "arrow",
+      "target": "fly",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "skin",
+      "value": 3.0
+    },
+    {
+      "source": "arrow",
+      "target": "glory",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "notch",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "ibex",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "archer",
+      "value": 3.0
+    },
+    {
+      "source": "arrow",
+      "target": "child",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "arrow",
+      "target": "heart",
+      "value": 2.0
+    },
+    {
+      "source": "arrow",
+      "target": "slaughter",
+      "value": 1.0
+    },
+    {
+      "source": "lord",
+      "target": "din",
+      "value": 1.0
+    },
+    {
+      "source": "lord",
+      "target": "combat",
+      "value": 1.0
+    },
+    {
+      "source": "lord",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "lord",
+      "target": "peace",
+      "value": 1.0
+    },
+    {
+      "source": "lord",
+      "target": "neighbour",
+      "value": 1.0
+    },
+    {
+      "source": "lord",
+      "target": "war",
+      "value": 1.0
+    },
+    {
+      "source": "lord",
+      "target": "awe",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "chest",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "middle",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "tuft",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "sword",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "hair",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "train",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "sky",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "wake",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "sign",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "vengeance",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "meteor",
+      "value": 1.0
+    },
+    {
+      "source": "army",
+      "target": "vain",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "middle",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "tuft",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "sword",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "nipple",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "body",
+      "value": 2.0
+    },
+    {
+      "source": "chest",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "chest",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "toil",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "toil",
+      "target": "roaring",
+      "value": 1.0
+    },
+    {
+      "source": "toil",
+      "target": "course",
+      "value": 1.0
+    },
+    {
+      "source": "toil",
+      "target": "gorge",
+      "value": 1.0
+    },
+    {
+      "source": "toil",
+      "target": "uproar",
+      "value": 1.0
+    },
+    {
+      "source": "toil",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "flock",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "post",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "offing",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "whirlwind",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "herd",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "pitch",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "stone",
+      "target": "harm",
+      "value": 1.0
+    },
+    {
+      "source": "stone",
+      "target": "son",
+      "value": 2.0
+    },
+    {
+      "source": "stone",
+      "target": "fate",
+      "value": 1.0
+    },
+    {
+      "source": "stone",
+      "target": "ancle",
+      "value": 1.0
+    },
+    {
+      "source": "stone",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "way",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "way",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "way",
+      "target": "contention",
+      "value": 1.0
+    },
+    {
+      "source": "way",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "way",
+      "target": "matter",
+      "value": 1.0
+    },
+    {
+      "source": "way",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "champion",
+      "target": "covenant",
+      "value": 1.0
+    },
+    {
+      "source": "champion",
+      "target": "brother",
+      "value": 1.0
+    },
+    {
+      "source": "champion",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "table",
+      "target": "war",
+      "value": 1.0
+    },
+    {
+      "source": "table",
+      "target": "distinction",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "throng",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "nipple",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "shoulder",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "bowstring",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "string",
+      "value": 2.0
+    },
+    {
+      "source": "breast",
+      "target": "oxhide",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "circle",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "rearing",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "notch",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "meadow",
+      "value": 1.0
+    },
+    {
+      "source": "breast",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "throne",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "throne",
+      "target": "punishment",
+      "value": 1.0
+    },
+    {
+      "source": "throne",
+      "target": "aegis",
+      "value": 1.0
+    },
+    {
+      "source": "throne",
+      "target": "treachery",
+      "value": 1.0
+    },
+    {
+      "source": "case",
+      "target": "fool",
+      "value": 1.0
+    },
+    {
+      "source": "case",
+      "target": "rest",
+      "value": 1.0
+    },
+    {
+      "source": "case",
+      "target": "take",
+      "value": 1.0
+    },
+    {
+      "source": "case",
+      "target": "lead",
+      "value": 1.0
+    },
+    {
+      "source": "case",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "aim",
+      "target": "home",
+      "value": 1.0
+    },
+    {
+      "source": "aim",
+      "target": "vow",
+      "value": 1.0
+    },
+    {
+      "source": "aim",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "aim",
+      "target": "hecatomb",
+      "value": 1.0
+    },
+    {
+      "source": "aim",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "aim",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "aim",
+      "target": "archer",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "hand",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "journey",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "return",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "sun",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "knight",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "armour",
+      "value": 2.0
+    },
+    {
+      "source": "man",
+      "target": "everything",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "scatheless",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "horsemanship",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "obedience",
+      "value": 2.0
+    },
+    {
+      "source": "man",
+      "target": "fight",
+      "value": 2.0
+    },
+    {
+      "source": "man",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "body",
+      "value": 2.0
+    },
+    {
+      "source": "man",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "strength",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "word",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "man",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "part",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "helmet",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "darkness",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "haste",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "din",
+      "target": "combat",
+      "value": 1.0
+    },
+    {
+      "source": "din",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "din",
+      "target": "peace",
+      "value": 1.0
+    },
+    {
+      "source": "din",
+      "target": "neighbour",
+      "value": 1.0
+    },
+    {
+      "source": "din",
+      "target": "war",
+      "value": 1.0
+    },
+    {
+      "source": "din",
+      "target": "awe",
+      "value": 1.0
+    },
+    {
+      "source": "rock",
+      "target": "ibex",
+      "value": 1.0
+    },
+    {
+      "source": "rock",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "trust",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "trust",
+      "target": "fellowship",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "bleating",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "quarrel",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "flockmaster",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "clamour",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "bleat",
+      "value": 1.0
+    },
+    {
+      "source": "speech",
+      "target": "slaughter",
+      "value": 1.0
+    },
+    {
+      "source": "combat",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "combat",
+      "target": "peace",
+      "value": 1.0
+    },
+    {
+      "source": "combat",
+      "target": "neighbour",
+      "value": 1.0
+    },
+    {
+      "source": "combat",
+      "target": "war",
+      "value": 1.0
+    },
+    {
+      "source": "combat",
+      "target": "awe",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "salt",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "wind",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "wave",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "beach",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "foam",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "funeral",
+      "target": "hand",
+      "value": 1.0
+    },
+    {
+      "source": "funeral",
+      "target": "pyre",
+      "value": 1.0
+    },
+    {
+      "source": "funeral",
+      "target": "prince",
+      "value": 1.0
+    },
+    {
+      "source": "funeral",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "fool",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "post",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "offing",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "whirlwind",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "herd",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "flock",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "need",
+      "target": "might",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "tuft",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "sword",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "ring",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "belt",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "middle",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "trusty",
+      "target": "comrade",
+      "value": 1.0
+    },
+    {
+      "source": "bleating",
+      "target": "flockmaster",
+      "value": 1.0
+    },
+    {
+      "source": "bleating",
+      "target": "clamour",
+      "value": 1.0
+    },
+    {
+      "source": "bleating",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "bleating",
+      "target": "bleat",
+      "value": 1.0
+    },
+    {
+      "source": "quarrel",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "quarrel",
+      "target": "slaughter",
+      "value": 1.0
+    },
+    {
+      "source": "corslet",
+      "target": "side",
+      "value": 1.0
+    },
+    {
+      "source": "corslet",
+      "target": "comrade",
+      "value": 1.0
+    },
+    {
+      "source": "corslet",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "corslet",
+      "target": "hold",
+      "value": 1.0
+    },
+    {
+      "source": "corslet",
+      "target": "groin",
+      "value": 1.0
+    },
+    {
+      "source": "corslet",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "corslet",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "temple",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "comrade",
+      "value": 2.0
+    },
+    {
+      "source": "side",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "hold",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "danger",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "groin",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "forehead",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "purpose",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "victory",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "body",
+      "value": 3.0
+    },
+    {
+      "source": "side",
+      "target": "shod",
+      "value": 2.0
+    },
+    {
+      "source": "side",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "side",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "discontent",
+      "value": 1.0
+    },
+    {
+      "source": "side",
+      "target": "slaughter",
+      "value": 1.0
+    },
+    {
+      "source": "dart",
+      "target": "charge",
+      "value": 1.0
+    },
+    {
+      "source": "dart",
+      "target": "bastard",
+      "value": 1.0
+    },
+    {
+      "source": "dart",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "dart",
+      "target": "father",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "battle",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "offing",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "whirlwind",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "herd",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "post",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "floor",
+      "target": "gold",
+      "value": 1.0
+    },
+    {
+      "source": "floor",
+      "target": "nectar",
+      "value": 1.0
+    },
+    {
+      "source": "floor",
+      "target": "town",
+      "value": 1.0
+    },
+    {
+      "source": "floor",
+      "target": "council",
+      "value": 1.0
+    },
+    {
+      "source": "whereon",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "tuft",
+      "target": "sword",
+      "value": 1.0
+    },
+    {
+      "source": "tuft",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "tuft",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "tuft",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "tuft",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "tuft",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "tuft",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "temple",
+      "target": "comrade",
+      "value": 1.0
+    },
+    {
+      "source": "temple",
+      "target": "forehead",
+      "value": 1.0
+    },
+    {
+      "source": "temple",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "temple",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "temple",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "woman",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "knight",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "horse",
+      "value": 2.0
+    },
+    {
+      "source": "ornament",
+      "target": "king",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "dye",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "treasure",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "ornament",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "talthybius",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "talthybius",
+      "target": "physician",
+      "value": 1.0
+    },
+    {
+      "source": "cup",
+      "target": "allowance",
+      "value": 1.0
+    },
+    {
+      "source": "roast",
+      "target": "front",
+      "value": 1.0
+    },
+    {
+      "source": "roast",
+      "target": "wine",
+      "value": 1.0
+    },
+    {
+      "source": "roast",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "roast",
+      "target": "fill",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "roaring",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "salt",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "offing",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "peace",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "wind",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "rage",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "neighbour",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "wave",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "whirlwind",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "brink",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "father",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "herd",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "beach",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "war",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "course",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "gorge",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "uproar",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "awe",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "foremost",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "battle",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "battle",
+      "target": "urge",
+      "value": 1.0
+    },
+    {
+      "source": "house",
+      "target": "banquet",
+      "value": 1.0
+    },
+    {
+      "source": "daughter",
+      "target": "god",
+      "value": 1.0
+    },
+    {
+      "source": "daughter",
+      "target": "king",
+      "value": 1.0
+    },
+    {
+      "source": "daughter",
+      "target": "piercing",
+      "value": 1.0
+    },
+    {
+      "source": "daughter",
+      "target": "spoil",
+      "value": 1.0
+    },
+    {
+      "source": "daughter",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "daughter",
+      "target": "wife",
+      "value": 1.0
+    },
+    {
+      "source": "slain",
+      "target": "cry",
+      "value": 1.0
+    },
+    {
+      "source": "slain",
+      "target": "bossed",
+      "value": 1.0
+    },
+    {
+      "source": "slain",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "slain",
+      "target": "shout",
+      "value": 1.0
+    },
+    {
+      "source": "slain",
+      "target": "tramp",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "knight",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "horse",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "king",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "dye",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "treasure",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "woman",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "charge",
+      "target": "bastard",
+      "value": 1.0
+    },
+    {
+      "source": "charge",
+      "target": "son",
+      "value": 2.0
+    },
+    {
+      "source": "charge",
+      "target": "foot",
+      "value": 1.0
+    },
+    {
+      "source": "charge",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "charge",
+      "target": "father",
+      "value": 1.0
+    },
+    {
+      "source": "charge",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "harm",
+      "target": "dear",
+      "value": 1.0
+    },
+    {
+      "source": "harm",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "roaring",
+      "target": "course",
+      "value": 1.0
+    },
+    {
+      "source": "roaring",
+      "target": "gorge",
+      "value": 1.0
+    },
+    {
+      "source": "roaring",
+      "target": "uproar",
+      "value": 1.0
+    },
+    {
+      "source": "roaring",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "salt",
+      "target": "wind",
+      "value": 1.0
+    },
+    {
+      "source": "salt",
+      "target": "wave",
+      "value": 1.0
+    },
+    {
+      "source": "salt",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "salt",
+      "target": "beach",
+      "value": 1.0
+    },
+    {
+      "source": "salt",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "salt",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "offing",
+      "target": "whirlwind",
+      "value": 1.0
+    },
+    {
+      "source": "offing",
+      "target": "herd",
+      "value": 1.0
+    },
+    {
+      "source": "offing",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "offing",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "offing",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "offing",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "offing",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "surgeon",
+      "target": "wound",
+      "value": 1.0
+    },
+    {
+      "source": "surgeon",
+      "target": "pain",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "mankind",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "concert",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "pyre",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "scatheless",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "prince",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "moan",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "waxing",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "confusion",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "sorrow",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "sigh",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "strength",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "judgment",
+      "value": 1.0
+    },
+    {
+      "source": "hand",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "train",
+      "target": "sky",
+      "value": 1.0
+    },
+    {
+      "source": "train",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "train",
+      "target": "wake",
+      "value": 1.0
+    },
+    {
+      "source": "train",
+      "target": "sign",
+      "value": 1.0
+    },
+    {
+      "source": "train",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "train",
+      "target": "meteor",
+      "value": 1.0
+    },
+    {
+      "source": "peace",
+      "target": "neighbour",
+      "value": 1.0
+    },
+    {
+      "source": "peace",
+      "target": "friend",
+      "value": 1.0
+    },
+    {
+      "source": "peace",
+      "target": "war",
+      "value": 1.0
+    },
+    {
+      "source": "peace",
+      "target": "awe",
+      "value": 1.0
+    },
+    {
+      "source": "gold",
+      "target": "nectar",
+      "value": 1.0
+    },
+    {
+      "source": "gold",
+      "target": "town",
+      "value": 1.0
+    },
+    {
+      "source": "gold",
+      "target": "council",
+      "value": 1.0
+    },
+    {
+      "source": "god",
+      "target": "race",
+      "value": 1.0
+    },
+    {
+      "source": "god",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "feast",
+      "target": "invitation",
+      "value": 1.0
+    },
+    {
+      "source": "flockmaster",
+      "target": "clamour",
+      "value": 1.0
+    },
+    {
+      "source": "flockmaster",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "flockmaster",
+      "target": "bleat",
+      "value": 1.0
+    },
+    {
+      "source": "wind",
+      "target": "wave",
+      "value": 1.0
+    },
+    {
+      "source": "wind",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "wind",
+      "target": "beach",
+      "value": 1.0
+    },
+    {
+      "source": "wind",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "wind",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "rage",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "covenant",
+      "target": "brother",
+      "value": 1.0
+    },
+    {
+      "source": "covenant",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "cunning",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "wheelwright",
+      "target": "felloe",
+      "value": 1.0
+    },
+    {
+      "source": "wheelwright",
+      "target": "wheel",
+      "value": 1.0
+    },
+    {
+      "source": "wheelwright",
+      "target": "waterside",
+      "value": 1.0
+    },
+    {
+      "source": "felloe",
+      "target": "wheel",
+      "value": 1.0
+    },
+    {
+      "source": "felloe",
+      "target": "waterside",
+      "value": 1.0
+    },
+    {
+      "source": "bastard",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "bastard",
+      "target": "father",
+      "value": 1.0
+    },
+    {
+      "source": "mankind",
+      "target": "strength",
+      "value": 1.0
+    },
+    {
+      "source": "mankind",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "mankind",
+      "target": "judgment",
+      "value": 1.0
+    },
+    {
+      "source": "journey",
+      "target": "return",
+      "value": 1.0
+    },
+    {
+      "source": "journey",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "journey",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "journey",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "journey",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "sword",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "sword",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "sword",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "sword",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "sword",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "sword",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "onset",
+      "target": "father",
+      "value": 1.0
+    },
+    {
+      "source": "onset",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "onset",
+      "target": "whit",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "return",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "helmet",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "metal",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "darkness",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "belt",
+      "value": 2.0
+    },
+    {
+      "source": "part",
+      "target": "fight",
+      "value": 2.0
+    },
+    {
+      "source": "part",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "cuirass",
+      "value": 2.0
+    },
+    {
+      "source": "part",
+      "target": "fly",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "skin",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "child",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "part",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "sky",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "sky",
+      "target": "wake",
+      "value": 1.0
+    },
+    {
+      "source": "sky",
+      "target": "sign",
+      "value": 1.0
+    },
+    {
+      "source": "sky",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "sky",
+      "target": "meteor",
+      "value": 1.0
+    },
+    {
+      "source": "comrade",
+      "target": "son",
+      "value": 1.0
+    },
+    {
+      "source": "comrade",
+      "target": "hold",
+      "value": 1.0
+    },
+    {
+      "source": "comrade",
+      "target": "groin",
+      "value": 1.0
+    },
+    {
+      "source": "comrade",
+      "target": "forehead",
+      "value": 1.0
+    },
+    {
+      "source": "comrade",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "comrade",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "comrade",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "comrade",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "hold",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "wake",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "foot",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "helmet",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "sign",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "groin",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "fate",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "counsel",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "punishment",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "bronze",
+      "value": 2.0
+    },
+    {
+      "source": "son",
+      "target": "darkness",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "ancle",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "fault",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "father",
+      "value": 2.0
+    },
+    {
+      "source": "son",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "captain",
+      "value": 2.0
+    },
+    {
+      "source": "son",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "meteor",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "aegis",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "mind",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "physician",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "treachery",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "form",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "anger",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "meaning",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "son",
+      "target": "youth",
+      "value": 2.0
+    },
+    {
+      "source": "son",
+      "target": "simoeisius",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "son",
+      "target": "heart",
+      "value": 2.0
+    },
+    {
+      "source": "son",
+      "target": "rebuke",
+      "value": 1.0
+    },
+    {
+      "source": "wound",
+      "target": "pain",
+      "value": 1.0
+    },
+    {
+      "source": "wound",
+      "target": "head",
+      "value": 2.0
+    },
+    {
+      "source": "wound",
+      "target": "blood",
+      "value": 3.0
+    },
+    {
+      "source": "wound",
+      "target": "thread",
+      "value": 2.0
+    },
+    {
+      "source": "wound",
+      "target": "belt",
+      "value": 2.0
+    },
+    {
+      "source": "wound",
+      "target": "shaft",
+      "value": 2.0
+    },
+    {
+      "source": "wound",
+      "target": "cuirass",
+      "value": 2.0
+    },
+    {
+      "source": "wound",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "wound",
+      "target": "skin",
+      "value": 1.0
+    },
+    {
+      "source": "wound",
+      "target": "will",
+      "value": 1.0
+    },
+    {
+      "source": "fat",
+      "target": "savour",
+      "value": 1.0
+    },
+    {
+      "source": "fat",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "fat",
+      "target": "altar",
+      "value": 1.0
+    },
+    {
+      "source": "hold",
+      "target": "groin",
+      "value": 1.0
+    },
+    {
+      "source": "hold",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "hold",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "sun",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "sun",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "sun",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "sun",
+      "target": "word",
+      "value": 1.0
+    },
+    {
+      "source": "sun",
+      "target": "none",
+      "value": 1.0
+    },
+    {
+      "source": "savour",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "savour",
+      "target": "altar",
+      "value": 1.0
+    },
+    {
+      "source": "neighbour",
+      "target": "war",
+      "value": 1.0
+    },
+    {
+      "source": "neighbour",
+      "target": "awe",
+      "value": 1.0
+    },
+    {
+      "source": "wake",
+      "target": "sign",
+      "value": 1.0
+    },
+    {
+      "source": "wake",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "wake",
+      "target": "meteor",
+      "value": 1.0
+    },
+    {
+      "source": "foot",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "foot",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "danger",
+      "target": "victory",
+      "value": 1.0
+    },
+    {
+      "source": "throng",
+      "target": "bowstring",
+      "value": 1.0
+    },
+    {
+      "source": "throng",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "throng",
+      "target": "string",
+      "value": 1.0
+    },
+    {
+      "source": "throng",
+      "target": "oxhide",
+      "value": 1.0
+    },
+    {
+      "source": "throng",
+      "target": "circle",
+      "value": 1.0
+    },
+    {
+      "source": "throng",
+      "target": "notch",
+      "value": 1.0
+    },
+    {
+      "source": "nipple",
+      "target": "shoulder",
+      "value": 1.0
+    },
+    {
+      "source": "nipple",
+      "target": "rearing",
+      "value": 1.0
+    },
+    {
+      "source": "nipple",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "nipple",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "nipple",
+      "target": "meadow",
+      "value": 1.0
+    },
+    {
+      "source": "nipple",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "destruction",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "horse",
+      "value": 2.0
+    },
+    {
+      "source": "knight",
+      "target": "king",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "everything",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "dye",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "treasure",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "knight",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "cry",
+      "target": "bossed",
+      "value": 1.0
+    },
+    {
+      "source": "cry",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "cry",
+      "target": "shout",
+      "value": 1.0
+    },
+    {
+      "source": "cry",
+      "target": "tramp",
+      "value": 1.0
+    },
+    {
+      "source": "shoulder",
+      "target": "rearing",
+      "value": 1.0
+    },
+    {
+      "source": "shoulder",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "shoulder",
+      "target": "meadow",
+      "value": 1.0
+    },
+    {
+      "source": "shoulder",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "darkness",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "helmet",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "bowstring",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "bowstring",
+      "target": "string",
+      "value": 1.0
+    },
+    {
+      "source": "bowstring",
+      "target": "oxhide",
+      "value": 1.0
+    },
+    {
+      "source": "bowstring",
+      "target": "circle",
+      "value": 1.0
+    },
+    {
+      "source": "bowstring",
+      "target": "notch",
+      "value": 2.0
+    },
+    {
+      "source": "bossed",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "bossed",
+      "target": "shout",
+      "value": 1.0
+    },
+    {
+      "source": "bossed",
+      "target": "tramp",
+      "value": 1.0
+    },
+    {
+      "source": "lid",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "wave",
+      "target": "head",
+      "value": 1.0
+    },
+    {
+      "source": "wave",
+      "target": "beach",
+      "value": 1.0
+    },
+    {
+      "source": "wave",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "wave",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "contention",
+      "target": "matter",
+      "value": 1.0
+    },
+    {
+      "source": "contention",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "sign",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "sign",
+      "target": "meteor",
+      "value": 1.0
+    },
+    {
+      "source": "groin",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "groin",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "concert",
+      "target": "moan",
+      "value": 1.0
+    },
+    {
+      "source": "concert",
+      "target": "sigh",
+      "value": 1.0
+    },
+    {
+      "source": "concert",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "string",
+      "value": 2.0
+    },
+    {
+      "source": "head",
+      "target": "friend",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "oxhide",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "thread",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "circle",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "shaft",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "beach",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "sister",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "notch",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "head",
+      "target": "fury",
+      "value": 1.0
+    },
+    {
+      "source": "saying",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "saying",
+      "target": "will",
+      "value": 1.0
+    },
+    {
+      "source": "saying",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "string",
+      "target": "oxhide",
+      "value": 1.0
+    },
+    {
+      "source": "string",
+      "target": "hecatomb",
+      "value": 1.0
+    },
+    {
+      "source": "string",
+      "target": "circle",
+      "value": 2.0
+    },
+    {
+      "source": "string",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "string",
+      "target": "notch",
+      "value": 1.0
+    },
+    {
+      "source": "string",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "string",
+      "target": "archer",
+      "value": 1.0
+    },
+    {
+      "source": "nectar",
+      "target": "town",
+      "value": 1.0
+    },
+    {
+      "source": "nectar",
+      "target": "council",
+      "value": 1.0
+    },
+    {
+      "source": "horse",
+      "target": "king",
+      "value": 2.0
+    },
+    {
+      "source": "horse",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "horse",
+      "target": "dye",
+      "value": 1.0
+    },
+    {
+      "source": "horse",
+      "target": "treasure",
+      "value": 2.0
+    },
+    {
+      "source": "horse",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "horse",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "number",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "number",
+      "target": "folly",
+      "value": 1.0
+    },
+    {
+      "source": "number",
+      "target": "wall",
+      "value": 1.0
+    },
+    {
+      "source": "number",
+      "target": "help",
+      "value": 1.0
+    },
+    {
+      "source": "friend",
+      "target": "sister",
+      "value": 1.0
+    },
+    {
+      "source": "friend",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "friend",
+      "target": "fury",
+      "value": 1.0
+    },
+    {
+      "source": "forehead",
+      "target": "bronze",
+      "value": 1.0
+    },
+    {
+      "source": "forehead",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "forehead",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "king",
+      "target": "blood",
+      "value": 1.0
+    },
+    {
+      "source": "king",
+      "target": "dye",
+      "value": 1.0
+    },
+    {
+      "source": "king",
+      "target": "treasure",
+      "value": 1.0
+    },
+    {
+      "source": "king",
+      "target": "wife",
+      "value": 1.0
+    },
+    {
+      "source": "king",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "king",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "home",
+      "target": "vow",
+      "value": 1.0
+    },
+    {
+      "source": "home",
+      "target": "hecatomb",
+      "value": 1.0
+    },
+    {
+      "source": "home",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "home",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "home",
+      "target": "archer",
+      "value": 1.0
+    },
+    {
+      "source": "fate",
+      "target": "ancle",
+      "value": 1.0
+    },
+    {
+      "source": "metal",
+      "target": "belt",
+      "value": 2.0
+    },
+    {
+      "source": "metal",
+      "target": "cuirass",
+      "value": 1.0
+    },
+    {
+      "source": "metal",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "thread",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "belt",
+      "value": 2.0
+    },
+    {
+      "source": "blood",
+      "target": "shaft",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "fellowship",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "shout",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "dye",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "cuirass",
+      "value": 2.0
+    },
+    {
+      "source": "blood",
+      "target": "treasure",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "skin",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "tramp",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "will",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "blood",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "piercing",
+      "target": "spoil",
+      "value": 1.0
+    },
+    {
+      "source": "vow",
+      "target": "hecatomb",
+      "value": 1.0
+    },
+    {
+      "source": "vow",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "vow",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "vow",
+      "target": "archer",
+      "value": 1.0
+    },
+    {
+      "source": "shame",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "shame",
+      "target": "glory",
+      "value": 1.0
+    },
+    {
+      "source": "shame",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "clamour",
+      "target": "answer",
+      "value": 1.0
+    },
+    {
+      "source": "clamour",
+      "target": "bleat",
+      "value": 1.0
+    },
+    {
+      "source": "counsel",
+      "target": "fault",
+      "value": 1.0
+    },
+    {
+      "source": "counsel",
+      "target": "mind",
+      "value": 1.0
+    },
+    {
+      "source": "counsel",
+      "target": "right",
+      "value": 1.0
+    },
+    {
+      "source": "counsel",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "rest",
+      "target": "take",
+      "value": 1.0
+    },
+    {
+      "source": "rest",
+      "target": "lead",
+      "value": 1.0
+    },
+    {
+      "source": "dear",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "pyre",
+      "target": "prince",
+      "value": 1.0
+    },
+    {
+      "source": "pyre",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "take",
+      "target": "lead",
+      "value": 1.0
+    },
+    {
+      "source": "punishment",
+      "target": "aegis",
+      "value": 1.0
+    },
+    {
+      "source": "punishment",
+      "target": "treachery",
+      "value": 1.0
+    },
+    {
+      "source": "dismay",
+      "target": "glory",
+      "value": 2.0
+    },
+    {
+      "source": "dismay",
+      "target": "archer",
+      "value": 2.0
+    },
+    {
+      "source": "ring",
+      "target": "belt",
+      "value": 1.0
+    },
+    {
+      "source": "ring",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "darkness",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "armour",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "bronze",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "bronze",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "whirlwind",
+      "target": "herd",
+      "value": 1.0
+    },
+    {
+      "source": "whirlwind",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "whirlwind",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "whirlwind",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "whirlwind",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "whirlwind",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "armour",
+      "value": 2.0
+    },
+    {
+      "source": "darkness",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "darkness",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "darkness",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "darts",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "obedience",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "fight",
+      "value": 2.0
+    },
+    {
+      "source": "armour",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "body",
+      "value": 2.0
+    },
+    {
+      "source": "armour",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "word",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "armour",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "armour",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "darts",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "darts",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "darts",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "darts",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "darts",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "darts",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "darts",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "vengeance",
+      "target": "vain",
+      "value": 1.0
+    },
+    {
+      "source": "everything",
+      "target": "time",
+      "value": 1.0
+    },
+    {
+      "source": "purpose",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "purpose",
+      "target": "glory",
+      "value": 1.0
+    },
+    {
+      "source": "purpose",
+      "target": "shod",
+      "value": 1.0
+    },
+    {
+      "source": "oxhide",
+      "target": "circle",
+      "value": 1.0
+    },
+    {
+      "source": "oxhide",
+      "target": "notch",
+      "value": 2.0
+    },
+    {
+      "source": "wielding",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "hecatomb",
+      "target": "honour",
+      "value": 2.0
+    },
+    {
+      "source": "hecatomb",
+      "target": "city",
+      "value": 2.0
+    },
+    {
+      "source": "hecatomb",
+      "target": "archer",
+      "value": 2.0
+    },
+    {
+      "source": "fault",
+      "target": "mind",
+      "value": 1.0
+    },
+    {
+      "source": "fault",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "father",
+      "target": "passion",
+      "value": 1.0
+    },
+    {
+      "source": "father",
+      "target": "fight",
+      "value": 1.0
+    },
+    {
+      "source": "father",
+      "target": "city",
+      "value": 2.0
+    },
+    {
+      "source": "father",
+      "target": "foremost",
+      "value": 1.0
+    },
+    {
+      "source": "father",
+      "target": "whit",
+      "value": 1.0
+    },
+    {
+      "source": "front",
+      "target": "shout",
+      "value": 1.0
+    },
+    {
+      "source": "front",
+      "target": "wine",
+      "value": 1.0
+    },
+    {
+      "source": "front",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "front",
+      "target": "fill",
+      "value": 1.0
+    },
+    {
+      "source": "thread",
+      "target": "shaft",
+      "value": 1.0
+    },
+    {
+      "source": "scatheless",
+      "target": "light",
+      "value": 1.0
+    },
+    {
+      "source": "scatheless",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "circle",
+      "target": "notch",
+      "value": 1.0
+    },
+    {
+      "source": "brother",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "herd",
+      "target": "horrid",
+      "value": 1.0
+    },
+    {
+      "source": "herd",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "herd",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "herd",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "herd",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "horsemanship",
+      "target": "strength",
+      "value": 1.0
+    },
+    {
+      "source": "horsemanship",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "horsemanship",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "rearing",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "rearing",
+      "target": "meadow",
+      "value": 1.0
+    },
+    {
+      "source": "rearing",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "obedience",
+      "target": "tongue",
+      "value": 1.0
+    },
+    {
+      "source": "obedience",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "obedience",
+      "target": "word",
+      "value": 1.0
+    },
+    {
+      "source": "prince",
+      "target": "honour",
+      "value": 1.0
+    },
+    {
+      "source": "belt",
+      "target": "cuirass",
+      "value": 7.0
+    },
+    {
+      "source": "belt",
+      "target": "fly",
+      "value": 1.0
+    },
+    {
+      "source": "belt",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "belt",
+      "target": "skin",
+      "value": 2.0
+    },
+    {
+      "source": "belt",
+      "target": "force",
+      "value": 1.0
+    },
+    {
+      "source": "belt",
+      "target": "will",
+      "value": 1.0
+    },
+    {
+      "source": "belt",
+      "target": "child",
+      "value": 1.0
+    },
+    {
+      "source": "belt",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "captain",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "foremost",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "fight",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "moan",
+      "target": "sigh",
+      "value": 1.0
+    },
+    {
+      "source": "moan",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "light",
+      "target": "meteor",
+      "value": 1.0
+    },
+    {
+      "source": "light",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "captain",
+      "target": "press",
+      "value": 1.0
+    },
+    {
+      "source": "captain",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "captain",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "captain",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "captain",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "tongue",
+      "target": "word",
+      "value": 1.0
+    },
+    {
+      "source": "matter",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "press",
+      "target": "tower",
+      "value": 1.0
+    },
+    {
+      "source": "press",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "press",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "press",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "wheel",
+      "target": "waterside",
+      "value": 1.0
+    },
+    {
+      "source": "answer",
+      "target": "bleat",
+      "value": 1.0
+    },
+    {
+      "source": "answer",
+      "target": "rebuke",
+      "value": 1.0
+    },
+    {
+      "source": "honour",
+      "target": "folly",
+      "value": 1.0
+    },
+    {
+      "source": "honour",
+      "target": "city",
+      "value": 2.0
+    },
+    {
+      "source": "honour",
+      "target": "wall",
+      "value": 1.0
+    },
+    {
+      "source": "honour",
+      "target": "help",
+      "value": 1.0
+    },
+    {
+      "source": "honour",
+      "target": "archer",
+      "value": 2.0
+    },
+    {
+      "source": "honour",
+      "target": "altar",
+      "value": 1.0
+    },
+    {
+      "source": "beach",
+      "target": "march",
+      "value": 1.0
+    },
+    {
+      "source": "beach",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "horrid",
+      "target": "west",
+      "value": 1.0
+    },
+    {
+      "source": "horrid",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "horrid",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "horrid",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "war",
+      "target": "company",
+      "value": 1.0
+    },
+    {
+      "source": "war",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "war",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "war",
+      "target": "guest",
+      "value": 1.0
+    },
+    {
+      "source": "war",
+      "target": "awe",
+      "value": 1.0
+    },
+    {
+      "source": "war",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "war",
+      "target": "distinction",
+      "value": 1.0
+    },
+    {
+      "source": "waxing",
+      "target": "sorrow",
+      "value": 1.0
+    },
+    {
+      "source": "tower",
+      "target": "brow",
+      "value": 1.0
+    },
+    {
+      "source": "tower",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "tower",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "speaker",
+      "target": "company",
+      "value": 1.0
+    },
+    {
+      "source": "shout",
+      "target": "tramp",
+      "value": 1.0
+    },
+    {
+      "source": "dye",
+      "target": "treasure",
+      "value": 1.0
+    },
+    {
+      "source": "dye",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "dye",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "town",
+      "target": "council",
+      "value": 1.0
+    },
+    {
+      "source": "cuirass",
+      "target": "fly",
+      "value": 1.0
+    },
+    {
+      "source": "cuirass",
+      "target": "top",
+      "value": 1.0
+    },
+    {
+      "source": "cuirass",
+      "target": "skin",
+      "value": 2.0
+    },
+    {
+      "source": "cuirass",
+      "target": "will",
+      "value": 1.0
+    },
+    {
+      "source": "cuirass",
+      "target": "child",
+      "value": 1.0
+    },
+    {
+      "source": "cuirass",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "treasure",
+      "target": "ivory",
+      "value": 1.0
+    },
+    {
+      "source": "treasure",
+      "target": "piece",
+      "value": 1.0
+    },
+    {
+      "source": "course",
+      "target": "gorge",
+      "value": 1.0
+    },
+    {
+      "source": "course",
+      "target": "uproar",
+      "value": 1.0
+    },
+    {
+      "source": "course",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "fly",
+      "target": "skin",
+      "value": 1.0
+    },
+    {
+      "source": "fly",
+      "target": "child",
+      "value": 1.0
+    },
+    {
+      "source": "top",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "top",
+      "target": "skin",
+      "value": 2.0
+    },
+    {
+      "source": "top",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "top",
+      "target": "meadow",
+      "value": 1.0
+    },
+    {
+      "source": "top",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "top",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "company",
+      "target": "body",
+      "value": 1.0
+    },
+    {
+      "source": "company",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "company",
+      "target": "guest",
+      "value": 1.0
+    },
+    {
+      "source": "company",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "body",
+      "target": "shod",
+      "value": 1.0
+    },
+    {
+      "source": "body",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "body",
+      "target": "guest",
+      "value": 1.0
+    },
+    {
+      "source": "body",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "body",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "body",
+      "target": "spear",
+      "value": 2.0
+    },
+    {
+      "source": "body",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "skin",
+      "target": "child",
+      "value": 1.0
+    },
+    {
+      "source": "glory",
+      "target": "city",
+      "value": 1.0
+    },
+    {
+      "source": "glory",
+      "target": "archer",
+      "value": 2.0
+    },
+    {
+      "source": "aegis",
+      "target": "treachery",
+      "value": 1.0
+    },
+    {
+      "source": "mind",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "sister",
+      "target": "stature",
+      "value": 1.0
+    },
+    {
+      "source": "sister",
+      "target": "fury",
+      "value": 1.0
+    },
+    {
+      "source": "west",
+      "target": "mass",
+      "value": 1.0
+    },
+    {
+      "source": "west",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "west",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "mass",
+      "target": "storm",
+      "value": 1.0
+    },
+    {
+      "source": "mass",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "folly",
+      "target": "wall",
+      "value": 1.0
+    },
+    {
+      "source": "folly",
+      "target": "help",
+      "value": 1.0
+    },
+    {
+      "source": "city",
+      "target": "guest",
+      "value": 1.0
+    },
+    {
+      "source": "city",
+      "target": "will",
+      "value": 1.0
+    },
+    {
+      "source": "city",
+      "target": "archer",
+      "value": 2.0
+    },
+    {
+      "source": "city",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "city",
+      "target": "whit",
+      "value": 1.0
+    },
+    {
+      "source": "city",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "ibex",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "sigh",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "gorge",
+      "target": "uproar",
+      "value": 1.0
+    },
+    {
+      "source": "gorge",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "guest",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "strength",
+      "target": "enemy",
+      "value": 2.0
+    },
+    {
+      "source": "strength",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "strength",
+      "target": "judgment",
+      "value": 1.0
+    },
+    {
+      "source": "stature",
+      "target": "fury",
+      "value": 1.0
+    },
+    {
+      "source": "stature",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "stature",
+      "target": "belly",
+      "value": 1.0
+    },
+    {
+      "source": "storm",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "wall",
+      "target": "help",
+      "value": 1.0
+    },
+    {
+      "source": "uproar",
+      "target": "rain",
+      "value": 1.0
+    },
+    {
+      "source": "brow",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "brow",
+      "target": "bone",
+      "value": 1.0
+    },
+    {
+      "source": "march",
+      "target": "shore",
+      "value": 1.0
+    },
+    {
+      "source": "wine",
+      "target": "enemy",
+      "value": 1.0
+    },
+    {
+      "source": "wine",
+      "target": "fill",
+      "value": 1.0
+    },
+    {
+      "source": "meadow",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "will",
+      "target": "heart",
+      "value": 1.0
+    },
+    {
+      "source": "ivory",
+      "target": "piece",
+      "value": 2.0
+    },
+    {
+      "source": "enemy",
+      "target": "spear",
+      "value": 1.0
+    },
+    {
+      "source": "enemy",
+      "target": "judgment",
+      "value": 1.0
+    },
+    {
+      "source": "enemy",
+      "target": "fill",
+      "value": 1.0
+    },
+    {
+      "source": "spear",
+      "target": "belly",
+      "value": 2.0
+    },
+    {
+      "source": "spear",
+      "target": "death",
+      "value": 1.0
+    },
+    {
+      "source": "spear",
+      "target": "bone",
+      "value": 1.0
+    }
+  ]
+}

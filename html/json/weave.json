@@ -1,0 +1,351 @@
+{
+  "nodes": [
+    {
+      "id": "division",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "journal",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "access",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "attribution",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "information",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "page",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "citation",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "peer",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "work",
+      "group": 1,
+      "size": 2
+    },
+    {
+      "id": "file",
+      "group": 1,
+      "size": 3
+    },
+    {
+      "id": "content",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "search",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "usage",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "navigation",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "volume",
+      "group": 1,
+      "size": 4
+    },
+    {
+      "id": "license",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "way",
+      "group": 1,
+      "size": 1
+    },
+    {
+      "id": "policy",
+      "group": 1,
+      "size": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "division",
+      "target": "page",
+      "value": 1.0
+    },
+    {
+      "source": "journal",
+      "target": "access",
+      "value": 1.0
+    },
+    {
+      "source": "journal",
+      "target": "peer",
+      "value": 1.0
+    },
+    {
+      "source": "journal",
+      "target": "file",
+      "value": 1.0
+    },
+    {
+      "source": "journal",
+      "target": "content",
+      "value": 1.0
+    },
+    {
+      "source": "journal",
+      "target": "navigation",
+      "value": 1.0
+    },
+    {
+      "source": "journal",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "information",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "peer",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "file",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "content",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "usage",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "navigation",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "access",
+      "target": "policy",
+      "value": 1.0
+    },
+    {
+      "source": "attribution",
+      "target": "information",
+      "value": 1.0
+    },
+    {
+      "source": "attribution",
+      "target": "citation",
+      "value": 1.0
+    },
+    {
+      "source": "attribution",
+      "target": "work",
+      "value": 1.0
+    },
+    {
+      "source": "attribution",
+      "target": "file",
+      "value": 1.0
+    },
+    {
+      "source": "attribution",
+      "target": "search",
+      "value": 1.0
+    },
+    {
+      "source": "attribution",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "information",
+      "target": "citation",
+      "value": 1.0
+    },
+    {
+      "source": "information",
+      "target": "work",
+      "value": 1.0
+    },
+    {
+      "source": "information",
+      "target": "file",
+      "value": 1.0
+    },
+    {
+      "source": "information",
+      "target": "search",
+      "value": 1.0
+    },
+    {
+      "source": "information",
+      "target": "usage",
+      "value": 1.0
+    },
+    {
+      "source": "information",
+      "target": "volume",
+      "value": 2.0
+    },
+    {
+      "source": "information",
+      "target": "policy",
+      "value": 1.0
+    },
+    {
+      "source": "citation",
+      "target": "work",
+      "value": 1.0
+    },
+    {
+      "source": "citation",
+      "target": "file",
+      "value": 1.0
+    },
+    {
+      "source": "citation",
+      "target": "search",
+      "value": 1.0
+    },
+    {
+      "source": "citation",
+      "target": "volume",
+      "value": 2.0
+    },
+    {
+      "source": "peer",
+      "target": "file",
+      "value": 1.0
+    },
+    {
+      "source": "peer",
+      "target": "content",
+      "value": 1.0
+    },
+    {
+      "source": "peer",
+      "target": "navigation",
+      "value": 1.0
+    },
+    {
+      "source": "peer",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "work",
+      "target": "file",
+      "value": 1.0
+    },
+    {
+      "source": "work",
+      "target": "search",
+      "value": 1.0
+    },
+    {
+      "source": "work",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "work",
+      "target": "license",
+      "value": 1.0
+    },
+    {
+      "source": "work",
+      "target": "way",
+      "value": 1.0
+    },
+    {
+      "source": "file",
+      "target": "content",
+      "value": 1.0
+    },
+    {
+      "source": "file",
+      "target": "search",
+      "value": 1.0
+    },
+    {
+      "source": "file",
+      "target": "navigation",
+      "value": 1.0
+    },
+    {
+      "source": "file",
+      "target": "volume",
+      "value": 3.0
+    },
+    {
+      "source": "content",
+      "target": "navigation",
+      "value": 1.0
+    },
+    {
+      "source": "content",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "search",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "usage",
+      "target": "policy",
+      "value": 1.0
+    },
+    {
+      "source": "navigation",
+      "target": "volume",
+      "value": 1.0
+    },
+    {
+      "source": "license",
+      "target": "way",
+      "value": 1.0
+    }
+  ]
+}
