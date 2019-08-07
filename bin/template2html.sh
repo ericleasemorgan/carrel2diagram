@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+# template2html.sh - given the short name of a Distant Reader study carrel, output an HTML file containing a visualization
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# August 7, 2019 - first documentation, and based on the good work of Team JAMS (Aarushi Bisht, Cheng Jial, Mel Mashiku, and Shivam Rastogi)
+
+
 # configure
 TEMPLATE='./etc/template.htm'
 

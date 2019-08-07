@@ -1,4 +1,10 @@
-console.log("Executing flask here")
+// knowledge_graph.js - given a JSON file of a specific shape, output a forced-directed graph
+// written by Team JAMS (Aarushi Bisht, Cheng Jial, Mel Mashiku, and Shivam Rastogi as a part of the PEARC '19 Hack-a-thon
+
+// tweaked by Eric Lease Morgan <emorgan@nd.edu>
+// August 7, 2019 - first documentation
+
+
 var width = 1100,
     height = 550,
     radius = 10,

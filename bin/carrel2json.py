@@ -2,6 +2,12 @@
 
 # carrel2json.py - given the short name of a Distant Reader study carrel, output a JSON file denoting relationships between parts-of-speech
 
+# originally written by Team JAMS (Aarushi Bisht, Cheng Jial, Mel Mashiku, and Shivam Rastogi) as a function call for the PEARC '19 Hack-a-thon
+# re-written as a script by Eric Lease Morgan <emorgan@nd.edu>
+
+# August 7, 2019 - first documentation
+
+
 # configure
 PUNCTUATION = '!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~\t\n'
 POS         = 'NN'

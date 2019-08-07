@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+# build.sh - a front-end to ./bin/carrel2json.py and ./bin/template2html.sh
+
+# Eric Lease Morgan <emorgan@nd.edu>
+# August 7, 2019 - first documentation
+
+
 # configure
 CARREL2JSON='./bin/carrel2json.py'
 HTML='./html'
